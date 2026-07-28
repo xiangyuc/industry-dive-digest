@@ -1,0 +1,72 @@
+[
+  {
+    "category": "Finance & Executive",
+    "publications": [
+      { "name": "Banking Dive", "domain": "bankingdive.com", "url": "https://www.bankingdive.com", "feed": "https://www.bankingdive.com/feeds/news/" },
+      { "name": "CFO", "domain": "cfo.com", "url": "https://www.cfo.com", "feed": "https://www.cfo.com/feeds/news/" },
+      { "name": "CFO Dive", "domain": "cfodive.com", "url": "https://www.cfodive.com", "feed": "https://www.cfodive.com/feeds/news/" },
+      { "name": "Payments Dive", "domain": "paymentsdive.com", "url": "https://www.paymentsdive.com", "feed": "https://www.paymentsdive.com/feeds/news/" },
+      { "name": "HR Dive", "domain": "hrdive.com", "url": "https://www.hrdive.com", "feed": "https://www.hrdive.com/feeds/news/" }
+    ]
+  },
+  {
+    "category": "Technology & Cybersecurity",
+    "publications": [
+      { "name": "CIO Dive", "domain": "ciodive.com", "url": "https://www.ciodive.com", "feed": "https://www.ciodive.com/feeds/news/" },
+      { "name": "Cybersecurity Dive", "domain": "cybersecuritydive.com", "url": "https://www.cybersecuritydive.com", "feed": "https://www.cybersecuritydive.com/feeds/news/" },
+      { "name": "Channel Dive", "domain": "channeldive.com", "url": "https://www.channeldive.com", "feed": "https://www.channeldive.com/feeds/news/" }
+    ]
+  },
+  {
+    "category": "Healthcare & Life Sciences",
+    "publications": [
+      { "name": "Healthcare Dive", "domain": "healthcaredive.com", "url": "https://www.healthcaredive.com", "feed": "https://www.healthcaredive.com/feeds/news/" },
+      { "name": "BioPharma Dive", "domain": "biopharmadive.com", "url": "https://www.biopharmadive.com", "feed": "https://www.biopharmadive.com/feeds/news/" },
+      { "name": "MedTech Dive", "domain": "medtechdive.com", "url": "https://www.medtechdive.com", "feed": "https://www.medtechdive.com/feeds/news/" },
+      { "name": "PharmaVoice", "domain": "pharmavoice.com", "url": "https://www.pharmavoice.com", "feed": "https://www.pharmavoice.com/feeds/news/" }
+    ]
+  },
+  {
+    "category": "Retail, Food & Consumer",
+    "publications": [
+      { "name": "Retail Dive", "domain": "retaildive.com", "url": "https://www.retaildive.com", "feed": "https://www.retaildive.com/feeds/news/" },
+      { "name": "Food Dive", "domain": "fooddive.com", "url": "https://www.fooddive.com", "feed": "https://www.fooddive.com/feeds/news/" },
+      { "name": "Grocery Dive", "domain": "grocerydive.com", "url": "https://www.grocerydive.com", "feed": "https://www.grocerydive.com/feeds/news/" },
+      { "name": "C-Store Dive", "domain": "cstoredive.com", "url": "https://www.cstoredive.com", "feed": "https://www.cstoredive.com/feeds/news/" },
+      { "name": "Restaurant Dive", "domain": "restaurantdive.com", "url": "https://www.restaurantdive.com", "feed": "https://www.restaurantdive.com/feeds/news/" },
+      { "name": "Packaging Dive", "domain": "packagingdive.com", "url": "https://www.packagingdive.com", "feed": "https://www.packagingdive.com/feeds/news/" }
+    ]
+  },
+  {
+    "category": "Industrial, Supply Chain & Transport",
+    "publications": [
+      { "name": "Supply Chain Dive", "domain": "supplychaindive.com", "url": "https://www.supplychaindive.com", "feed": "https://www.supplychaindive.com/feeds/news/" },
+      { "name": "Manufacturing Dive", "domain": "manufacturingdive.com", "url": "https://www.manufacturingdive.com", "feed": "https://www.manufacturingdive.com/feeds/news/" },
+      { "name": "Trucking Dive", "domain": "truckingdive.com", "url": "https://www.truckingdive.com", "feed": "https://www.truckingdive.com/feeds/news/" },
+      { "name": "WardsAuto", "domain": "wardsauto.com", "url": "https://www.wardsauto.com", "feed": "https://www.wardsauto.com/feeds/news/" }
+    ]
+  },
+  {
+    "category": "Real Estate & Built Environment",
+    "publications": [
+      { "name": "Construction Dive", "domain": "constructiondive.com", "url": "https://www.constructiondive.com", "feed": "https://www.constructiondive.com/feeds/news/" },
+      { "name": "Facilities Dive", "domain": "facilitiesdive.com", "url": "https://www.facilitiesdive.com", "feed": "https://www.facilitiesdive.com/feeds/news/" },
+      { "name": "Hotel Dive", "domain": "hoteldive.com", "url": "https://www.hoteldive.com", "feed": "https://www.hoteldive.com/feeds/news/" },
+      { "name": "Multifamily Dive", "domain": "multifamilydive.com", "url": "https://www.multifamilydive.com", "feed": "https://www.multifamilydive.com/feeds/news/" },
+      { "name": "Smart Cities Dive", "domain": "smartcitiesdive.com", "url": "https://www.smartcitiesdive.com", "feed": "https://www.smartcitiesdive.com/feeds/news/" }
+    ]
+  },
+  {
+    "category": "Energy, ESG & Education",
+    "publications": [
+      { "name": "Utility Dive", "domain": "utilitydive.com", "url": "https://www.utilitydive.com", "feed": "https://www.utilitydive.com/feeds/news/" },
+      { "name": "ESG Dive", "domain": "esgdive.com", "url": "https://www.esgdive.com", "feed": "https://www.esgdive.com/feeds/news/" },
+      { "name": "Waste Dive", "domain": "wastedive.com", "url": "https://www.wastedive.com", "feed": "https://www.wastedive.com/feeds/news/" },
+      { "name": "Higher Ed Dive", "domain": "highereddive.com", "url": "https://www.highereddive.com", "feed": "https://www.highereddive.com/feeds/news/" },
+      { "name": "K-12 Dive", "domain": "k12dive.com", "url": "https://www.k12dive.com", "feed": "https://www.k12dive.com/feeds/news/" },
+      { "name": "Marketing Dive", "domain": "marketingdive.com", "url": "https://www.marketingdive.com", "feed": "https://www.marketingdive.com/feeds/news/" },
+      { "name": "Social Media Today", "domain": "socialmediatoday.com", "url": "https://www.socialmediatoday.com", "feed": "https://www.socialmediatoday.com/feeds/news/" },
+      { "name": "Customer Experience Dive", "domain": "customerexperiencedive.com", "url": "https://www.customerexperiencedive.com", "feed": "https://www.customerexperiencedive.com/feeds/news/" }
+    ]
+  }
+]

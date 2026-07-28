@@ -1,0 +1,37 @@
+name: Industry Dive Daily Web App Build & Deploy
+
+on:
+  schedule:
+    # Runs every morning at 11:00 UTC (7:00 AM EDT / 4:00 AM PDT)
+    - cron: '0 11 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch Stories & Build Web App
+        run: |
+          python build_site.py
+
+      - name: Commit & Push Updated Data & Site
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html docs/ data.json
+          git commit -m "Auto-update Industry Dive Daily Stories [$(date -u +'%Y-%m-%d')]" || exit 0
+          git push
