@@ -72,7 +72,7 @@ Open `index.html` or `docs/index.html` in any web browser to view the interactiv
 .
 ├── .github/
 │   └── workflows/
-│       └── daily_digest.yml   # Daily cloud build & auto-update workflow
+│       └── daily_digest.yml   # Daily cloud build workflow (7:00 AM Tokyo Time / JST)
 ├── docs/
 │   └── index.html             # Generated web app (served by GitHub Pages)
 ├── publications.json          # Publication registry & category mapping

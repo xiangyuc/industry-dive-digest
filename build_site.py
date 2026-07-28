@@ -126,7 +126,7 @@ def build_data():
     }
 
 def render_webapp(data):
-    """Render a mobile PWA HTML app without search bar and with auto-hiding header on scroll."""
+    """Render a mobile PWA HTML app with enlarged typography and comfortable tap targets."""
     data_json_str = json.dumps(data)
     
     html_content = f'''<!DOCTYPE html>
@@ -152,7 +152,7 @@ def render_webapp(data):
         :root {{
             /* Light Theme Defaults */
             --bg-main: #f8fafc;
-            --bg-header: rgba(255, 255, 255, 0.94);
+            --bg-header: rgba(255, 255, 255, 0.95);
             --bg-card: #ffffff;
             --bg-lead: #f1f5f9;
             --accent-blue: #0284c7;
@@ -161,10 +161,10 @@ def render_webapp(data):
             --text-muted: #64748b;
             --text-title: #0f172a;
             --text-link: #0f172a;
-            --text-story: #334155;
+            --text-story: #1e293b;
             --border-color: #e2e8f0;
             --chip-bg: #f1f5f9;
-            --chip-text: #475569;
+            --chip-text: #334155;
             --chip-active-bg: #0284c7;
             --chip-active-text: #ffffff;
             --shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
@@ -174,7 +174,7 @@ def render_webapp(data):
             :root {{
                 /* Dark Theme Overrides */
                 --bg-main: #0f172a;
-                --bg-header: rgba(15, 23, 42, 0.94);
+                --bg-header: rgba(15, 23, 42, 0.95);
                 --bg-card: #1e293b;
                 --bg-lead: linear-gradient(180deg, rgba(30, 41, 59, 0.8), rgba(15, 23, 42, 0.9));
                 --accent-blue: #38bdf8;
@@ -183,10 +183,10 @@ def render_webapp(data):
                 --text-muted: #94a3b8;
                 --text-title: #ffffff;
                 --text-link: #f8fafc;
-                --text-story: #cbd5e1;
+                --text-story: #e2e8f0;
                 --border-color: #334155;
                 --chip-bg: #1e293b;
-                --chip-text: #94a3b8;
+                --chip-text: #cbd5e1;
                 --chip-active-bg: #38bdf8;
                 --chip-active-text: #0f172a;
                 --shadow: 0 4px 12px rgba(0,0,0,0.2);
@@ -204,8 +204,8 @@ def render_webapp(data):
             font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
             background-color: var(--bg-main);
             color: var(--text-main);
-            padding-bottom: 40px;
-            line-height: 1.5;
+            padding-bottom: 50px;
+            line-height: 1.55;
             transition: background-color 0.3s ease, color 0.3s ease;
         }}
         
@@ -218,7 +218,7 @@ def render_webapp(data):
             backdrop-filter: blur(12px);
             -webkit-backdrop-filter: blur(12px);
             border-bottom: 1px solid var(--border-color);
-            padding: 10px 16px;
+            padding: 12px 16px;
             transition: transform 0.3s ease, opacity 0.3s ease;
             transform: translateY(0);
             opacity: 1;
@@ -234,43 +234,43 @@ def render_webapp(data):
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 8px;
+            margin-bottom: 10px;
         }}
         
         .brand {{
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 10px;
         }}
         
         .brand-badge {{
             background: linear-gradient(135deg, #0284c7, #38bdf8);
             color: #ffffff;
-            font-size: 10px;
+            font-size: 11px;
             font-weight: 800;
-            padding: 3px 7px;
-            border-radius: 5px;
+            padding: 4px 8px;
+            border-radius: 6px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }}
         
         .brand-title {{
-            font-size: 17px;
+            font-size: 19px;
             font-weight: 800;
             letter-spacing: -0.3px;
             color: var(--text-title);
         }}
         
         .date-badge {{
-            font-size: 11.5px;
+            font-size: 13px;
             color: var(--text-muted);
-            font-weight: 500;
+            font-weight: 600;
         }}
         
-        /* Category Chips Slider */
+        /* Category Chips Slider with Touch-Friendly Sizing */
         .chips-scroll {{
             display: flex;
-            gap: 6px;
+            gap: 8px;
             overflow-x: auto;
             scrollbar-width: none;
             -ms-overflow-style: none;
@@ -286,10 +286,10 @@ def render_webapp(data):
             background-color: var(--chip-bg);
             border: 1px solid var(--border-color);
             color: var(--chip-text);
-            padding: 5px 12px;
-            border-radius: 16px;
-            font-size: 12.5px;
-            font-weight: 600;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 700;
             cursor: pointer;
             transition: all 0.2s ease;
         }}
@@ -304,43 +304,43 @@ def render_webapp(data):
         .container {{
             max-width: 1000px;
             margin: 0 auto;
-            padding: 14px 16px;
+            padding: 18px 16px;
         }}
         
         .category-section {{
-            margin-bottom: 28px;
+            margin-bottom: 32px;
         }}
         
         .category-header {{
             display: flex;
             align-items: center;
             gap: 10px;
-            margin-bottom: 14px;
-            padding-bottom: 6px;
+            margin-bottom: 16px;
+            padding-bottom: 8px;
             border-bottom: 2px solid var(--border-color);
         }}
         
         .category-title {{
-            font-size: 18px;
+            font-size: 20px;
             font-weight: 800;
             color: var(--text-title);
         }}
         
         .pubs-grid {{
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-            gap: 14px;
+            grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+            gap: 16px;
         }}
         
         /* Publication Card */
         .pub-card {{
             background-color: var(--bg-card);
             border: 1px solid var(--border-color);
-            border-radius: 14px;
-            padding: 14px;
+            border-radius: 16px;
+            padding: 16px;
             display: flex;
             flex-direction: column;
-            gap: 10px;
+            gap: 12px;
             box-shadow: var(--shadow);
             transition: transform 0.2s ease, border-color 0.2s ease;
         }}
@@ -356,10 +356,11 @@ def render_webapp(data):
         }}
         
         .pub-name {{
-            font-size: 16.5px;
+            font-size: 18.5px;
             font-weight: 800;
             color: var(--text-title);
             text-decoration: none;
+            padding: 2px 0;
             transition: color 0.2s;
         }}
         
@@ -368,10 +369,11 @@ def render_webapp(data):
         }}
         
         .pub-domain {{
-            font-size: 11px;
+            font-size: 11.5px;
+            font-weight: 600;
             color: var(--text-muted);
             background-color: var(--chip-bg);
-            padding: 2px 7px;
+            padding: 3px 8px;
             border-radius: 10px;
         }}
         
@@ -379,40 +381,41 @@ def render_webapp(data):
         .lead-card {{
             background: var(--bg-lead);
             border: 1px solid var(--border-color);
-            border-radius: 10px;
+            border-radius: 12px;
             overflow: hidden;
-            padding: 10px;
+            padding: 12px;
         }}
         
         .lead-badge {{
             display: inline-block;
             background-color: var(--accent-rose);
             color: #ffffff;
-            font-size: 9.5px;
+            font-size: 10.5px;
             font-weight: 800;
             text-transform: uppercase;
-            padding: 2px 6px;
+            padding: 3px 8px;
             border-radius: 4px;
-            margin-bottom: 6px;
+            margin-bottom: 8px;
             letter-spacing: 0.5px;
         }}
         
         .lead-img {{
             width: 100%;
-            max-height: 180px;
+            max-height: 200px;
             object-fit: cover;
-            border-radius: 6px;
-            margin-bottom: 8px;
+            border-radius: 8px;
+            margin-bottom: 10px;
         }}
         
         .lead-title {{
-            font-size: 14.5px;
+            font-size: 16.5px;
             font-weight: 700;
             color: var(--text-link);
             text-decoration: none;
-            line-height: 1.35;
+            line-height: 1.4;
             display: block;
-            margin-bottom: 5px;
+            margin-bottom: 6px;
+            padding: 2px 0;
         }}
         
         .lead-title:hover {{
@@ -420,47 +423,49 @@ def render_webapp(data):
         }}
         
         .lead-summary {{
-            font-size: 12px;
+            font-size: 13.5px;
             color: var(--text-muted);
-            line-height: 1.45;
+            line-height: 1.5;
         }}
         
-        /* Top Stories List */
+        /* Top Stories List - Enlarged Touch Targets */
         .top-stories-title {{
-            font-size: 11.5px;
-            font-weight: 700;
+            font-size: 13px;
+            font-weight: 800;
             color: var(--text-muted);
             text-transform: uppercase;
             letter-spacing: 0.5px;
-            margin-top: 2px;
+            margin-top: 4px;
         }}
         
         .story-list {{
             list-style: none;
             display: flex;
             flex-direction: column;
-            gap: 7px;
+            gap: 8px;
         }}
         
         .story-item {{
             display: flex;
             align-items: flex-start;
-            gap: 7px;
+            gap: 8px;
         }}
         
         .story-bullet {{
             color: var(--accent-blue);
             font-weight: 800;
-            font-size: 13px;
-            line-height: 1.35;
+            font-size: 16px;
+            line-height: 1.4;
         }}
         
         .story-link {{
-            font-size: 13px;
+            font-size: 15px;
             font-weight: 600;
             color: var(--text-story);
             text-decoration: none;
-            line-height: 1.35;
+            line-height: 1.45;
+            padding: 3px 0;
+            display: block;
             transition: color 0.2s ease;
         }}
         
@@ -581,7 +586,7 @@ def render_webapp(data):
                         topStoriesHtml = `
                             <div>
                                 <div class="top-stories-title">Top 5 Stories</div>
-                                <ul class="story-list" style="margin-top: 6px;">
+                                <ul class="story-list" style="margin-top: 8px;">
                                     ${{items}}
                                 </ul>
                             </div>
