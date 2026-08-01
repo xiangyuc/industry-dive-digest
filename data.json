@@ -1,6 +1,6 @@
 {
-  "date": "July 31, 2026",
-  "updated_at": "2026-07-31 22:54:35 UTC",
+  "date": "August 01, 2026",
+  "updated_at": "2026-08-01 22:47:50 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -58,13 +58,20 @@
           "name": "CFO",
           "url": "https://www.cfo.com",
           "lead_story": {
-            "title": "Are you taking time off this summer? CFO Peer Audit",
-            "link": "https://www.cfo.com/news/are-you-taking-time-off-this-summer-pto-vacation-cfo-peer-audit-protos-cleanspark-g2-intellivo-/826669/",
-            "summary": "As finance chiefs take on wider tasks, we asked a few how they\u2019re approaching summer vacations these days.",
-            "image": "https://imgproxy.divecdn.com/IaKd6_pMYQMhie02szg1DFYlJIqV4gQpENsxnl_njgk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA3NzIzMzkyLmpwZw==.webp",
+            "title": "CFOs On the Move: Week ending July 31",
+            "link": "https://www.cfo.com/news/cfos-on-the-move-july-31-Birgit-Kretschmer-Adidas-Abhishek-Dalmia-VF-Corp-Kiran-Thadimarri-IndiGo/826645/",
+            "summary": "NBCUniversal hires a new CFO ahead of its spinoff from Comcast, Adidas names a new finance chief and VF Corp.\u2019s chief financial officer resigns.",
+            "image": "https://imgproxy.divecdn.com/cKSwONHJQkcikLaL1I5WBBpmP9Q4cmf4f9B5aKwkxU4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODU5OTc1MzAuanBn.webp",
             "date": "Fri, 31 Jul 2026 10:00:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Are you taking time off this summer? CFO Peer Audit",
+              "link": "https://www.cfo.com/news/are-you-taking-time-off-this-summer-pto-vacation-cfo-peer-audit-protos-cleanspark-g2-intellivo-/826669/",
+              "summary": "As finance chiefs take on wider tasks, we asked a few how they\u2019re approaching summer vacations these days.",
+              "image": "https://imgproxy.divecdn.com/IaKd6_pMYQMhie02szg1DFYlJIqV4gQpENsxnl_njgk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA3NzIzMzkyLmpwZw==.webp",
+              "date": "Fri, 31 Jul 2026 10:00:00 -0400"
+            },
             {
               "title": "How The Glo Companies outgrew founder-led finance",
               "link": "https://www.cfo.com/news/how-the-glo-companies-hagan-walker-jon-ver-steeg-built-profit-before-outgrowing-founder-led-finance/826500/",
@@ -92,13 +99,6 @@
               "summary": "A new exclusive Intuit survey provided to CFO.com found most finance leaders lack a single source of truth, even as the concept remains debated among experts.",
               "image": null,
               "date": "Wed, 29 Jul 2026 11:00:00 -0400"
-            },
-            {
-              "title": "Grant Thornton will buy CBIZ for $5B",
-              "link": "https://www.cfo.com/news/grant-thornton-will-buy-cbiz-for-5b-Marcum/826478/",
-              "summary": "In a sign of private equity\u2019s continued influence on the accounting sector, the two midmarket firms will merge after an infusion from New Mountain Capital.",
-              "image": "https://imgproxy.divecdn.com/j6HEtIQhPPPdut66jftCxttcCI3B_Uu2orxG9S09ax4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTk4MDcxODk3LmpwZw==.webp",
-              "date": "Wed, 29 Jul 2026 10:50:00 -0400"
             }
           ]
         },
@@ -707,8 +707,15 @@
             {
               "title": "Ahold Delhaize USA details latest omnichannel shopping capability",
               "link": "https://www.grocerydive.com/news/ahold-delhaizes-omnichannel-shopping-capability-pear-commerce-adusa/826702/",
-              "summary": "Through a tie-up with Pear Commerce, the grocery company is introducing another way for shoppers to add items to their digital carts from non-ADUSA websites.",
+              "summary": "Through a tie-up with Pear Commerce, the grocery company is giving shoppers another way to add items to their digital carts from non-ADUSA websites.",
               "image": "https://imgproxy.divecdn.com/FvRxLMeq2ojJtvZSvg25pHbeq2GbPRuyBHqT26B4htY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wZWFyLWNvbW1lcmNlLmpwZw==.webp",
+              "date": "Fri, 31 Jul 2026 11:00:00 -0400"
+            },
+            {
+              "title": "The Friday Checkout: Amazon finally moves the needle in grocery",
+              "link": "https://www.grocerydive.com/news/the-friday-checkout-amazon-grocery-delivery-expansion-market-share/826642/",
+              "summary": "The company\u2019s online grocery expansion is having an impact, but will it continue to steal share or is its recent market share gain just a short-term rush?",
+              "image": "https://imgproxy.divecdn.com/vR45qX3sGdJ3VdwQOXySYjlBA_AxIR1YY-cyJVUKi1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWF6b25fcmVjeWNsYWJsZV9jb2xkX2dyb2NlcnlfcGFja2FnaW5nLmpwZw==.webp",
               "date": "Fri, 31 Jul 2026 11:00:00 -0400"
             },
             {
@@ -731,13 +738,6 @@
               "summary": "The facility, expected to open in early 2027, will automate back-end operations to ease pharmacists\u2019 workload.",
               "image": "https://imgproxy.divecdn.com/ES-1lYXCZKXcjsTy_FcRQiqWBq07Dr4gAOHYzuKj9l4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp",
               "date": "Thu, 30 Jul 2026 10:32:00 -0400"
-            },
-            {
-              "title": "Meijer starts accepting WIC benefits for online purchases in Michigan",
-              "link": "https://www.grocerydive.com/news/meijer-michigan-wic-delivery-pickup-grocery/826424/",
-              "summary": "The grocer is the first retailer in the state to let participants in the federal nutrition program use their benefits for delivery or pickup orders.",
-              "image": "https://imgproxy.divecdn.com/pe2hIy0Bh8K0g10jaoIL8Piztq6x83ciU3a6WthZHRs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI0MDUxNF9NZWlqZXJfTm9ydGhfQ2FudG9uMDA4OS5qcGc=.webp",
-              "date": "Wed, 29 Jul 2026 10:15:00 -0400"
             }
           ]
         },
@@ -824,7 +824,7 @@
             {
               "title": "Why Taco Bell predicts a swift recovery from Cyclospora",
               "link": "https://www.restaurantdive.com/news/taco-bell-cyclospora-quick-sales-recovery/826569/",
-              "summary": "Loyalty, value offers and swift removal of lettuce have mitigated the sales impact of the ongoing outbreak of the foodborne parasitic illness.",
+              "summary": "Loyalty, value offers, and swift removal of lettuce have mitigated the sales impact of the ongoing outbreak of the foodborne parasitic illness.",
               "image": "https://imgproxy.divecdn.com/a3LN880gxYR4vcW37gt45CTaBoflosnevEAlBy5NXOY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYWNvX0JlbGxfX0NhbnRpbmFfTWV4aWNhbl9QaXp6YS5qcGc=.webp",
               "date": "Thu, 30 Jul 2026 13:18:00 -0400"
             },
@@ -843,7 +843,7 @@
           "lead_story": {
             "title": "NAW files lawsuit challenging Colorado EPR law",
             "link": "https://www.packagingdive.com/news/naw-files-lawsuit-challenging-colorado-epr-law/826722/",
-            "summary": "The National Association of Wholesaler-Distributors says the law violates the First Amendment, and PRO CAA is \u201can unaccountable private party.\" NAW seeks to block the law\u2019s enforcement, similar to its approach in Oregon.",
+            "summary": "The National Association of Wholesaler-Distributors says the law lacks oversight over the Circular Action Alliance. NAW seeks to block the law\u2019s enforcement, similar to its approach in its EPR lawsuit in Oregon.",
             "image": "https://imgproxy.divecdn.com/8Oqaf7cZF9ztxsvFb3WzOOohXDHlT49-oXjIr6Sqjus/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODMyNzI0NTAuanBn.webp",
             "date": "Fri, 31 Jul 2026 11:45:00 -0400"
           },
@@ -959,7 +959,7 @@
             {
               "title": "Qnity, University of Delaware team up for semiconductor R&D, workforce",
               "link": "https://www.manufacturingdive.com/news/qnity-university-delaware-semiconductor-manufacturing-engineering-workforce/826625/",
-              "summary": "UD\u2019s Engineering has a capstone program that allows companies to recruit students. Qnity\u2019s corporate partnership will focus on semiconductor materials research.",
+              "summary": "UD Engineering has a capstone program that allows companies to recruit students. Qnity\u2019s corporate partnership will focus on semiconductor materials research.",
               "image": "https://imgproxy.divecdn.com/S3zZ5qfpmw9is5sYDc6RBHNEUkmm_L0KTCUGt2vKH5U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc0NTE1OTY1LmpwZw==.webp",
               "date": "Fri, 31 Jul 2026 10:27:00 -0400"
             },
@@ -1091,9 +1091,9 @@
           "name": "Construction Dive",
           "url": "https://www.constructiondive.com",
           "lead_story": {
-            "title": "FlatironDragados-Sukut JV lands $1.8B California dam project",
+            "title": "FlatironDragados-Sukut JV lands $1.8B dam project",
             "link": "https://www.constructiondive.com/news/flatiron-dragados-sukut-jv-anderson-dam-project/826724/",
-            "summary": "The construction team will upgrade the Anderson Dam near San Jose, which is operating at limited capacity due to the threat of earthquakes.",
+            "summary": "The construction team will upgrade the Anderson Dam in California, which is operating at limited capacity due to the threat of earthquakes.",
             "image": "https://imgproxy.divecdn.com/SlcN8HuXgrBmLC8PPfqLNONJwZGdnqrnUq55gwevCl4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV9BbmRlcnNvbl9kYW1fYW5kX3R1bm5lbF9hZXJpYWxfQ09QWS5qcGVn.webp",
             "date": "Fri, 31 Jul 2026 12:19:00 -0400"
           },
@@ -1336,13 +1336,27 @@
           "name": "Utility Dive",
           "url": "https://www.utilitydive.com",
           "lead_story": {
-            "title": "California utilities face credit downgrades without wildfire reforms, Edison CEO warns",
+            "title": "Edison CEO: California utilities face credit downgrades without wildfire reforms",
             "link": "https://www.utilitydive.com/news/california-utilities-credit-downgrades-wildfire-liability-edison/826678/",
             "summary": "With four weeks left in the legislative session, CEO Pedro Pizarro acknowledged the possibility California lawmakers will not pass wildfire liability reforms this year.",
             "image": "https://imgproxy.divecdn.com/GpidSbyNqBIQq26J4KMKFI1KASRSLv2OVwHfVRYmNgc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MDE0MTEyX0FXWVVNZVMuanBn.webp",
             "date": "Fri, 31 Jul 2026 11:00:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Xcel Energy on track for 3% retail sales growth this year, executives say",
+              "link": "https://www.utilitydive.com/news/xcel-energy-on-track-retail-sales-growth-this-year-executives-say/826705/",
+              "summary": "The company has a 2026-2030 base capital investment plan of $60 billion and line of sight to an additional $10 billion that includes transmission and generation for data center load.",
+              "image": "https://imgproxy.divecdn.com/jdEQG5pYAzFg0KgRgQdu8iYOyKTSKERN4vqK5t5chWg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tb250aWNlbGxvLmpwZw==.webp",
+              "date": "Fri, 31 Jul 2026 08:30:38 -0400"
+            },
+            {
+              "title": "Exelon \u2018high probability\u2019 data center load falls 40%",
+              "link": "https://www.utilitydive.com/news/exelon-data-center-load-new-jersey-battery-earnings/826686/",
+              "summary": "The drop to 11 GW reflects Exelon\u2019s ability to weed out speculative projects through \u201ctransmission service agreements,\u201d said CFO Jeanne Jones.",
+              "image": "https://imgproxy.divecdn.com/bLDRpFTLS7kveLk87eltsk6CwscVamsfyRB_16ER-uU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80ODgyMjMwMTZfMTI4Mjk2MjE5MzMwMTUwOF81OTg3MzA0MTIzMzI4ODc2MTc1X24uanBn.webp",
+              "date": "Fri, 31 Jul 2026 07:57:09 -0400"
+            },
             {
               "title": "Texas approves AI data center co-location next to wind farm, with curtailment caveats",
               "link": "https://www.utilitydive.com/news/texas-approves-ai-data-center-co-location-next-to-wind-farm-with-curtailme/826617/",
@@ -1363,20 +1377,6 @@
               "summary": "The Cap-and-Invest program deployed $15.5 billion for projects focused on clean air, energy efficiency and emissions reductions. Covered entities, including power plants, are required to surrender a tradeable permit for ...",
               "image": "https://imgproxy.divecdn.com/_vQDNndFUEAEvScS7SWfd0DPJ9VGiJ6Z9jG1FP6wFsY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY2F0dGVyZ29vZF8uanBn.webp",
               "date": "Thu, 30 Jul 2026 11:37:41 -0400"
-            },
-            {
-              "title": "Under pressure, Entergy looks to mitigate cost of $1.8B Texas gas plant purchase",
-              "link": "https://www.utilitydive.com/news/entergy-cottonwood-texas-gas-plant-meta/826565/",
-              "summary": "\u201cWe know that Cottonwood isn't the shiniest new plant out there,\u201d Entergy CEO Drew Marsh told analysts. The deal is \u201cincreasingly in doubt,\u201d one says.",
-              "image": null,
-              "date": "Thu, 30 Jul 2026 08:53:57 -0400"
-            },
-            {
-              "title": "FirstEnergy data center contracts surge 50% in Q2",
-              "link": "https://www.utilitydive.com/news/firstenergy-data-center-west-virginia-maidsville-earnings/826558/",
-              "summary": "Mon Power, a FirstEnergy subsidiary, plans to assess a surcharge on its customers to help finance $2.7 billion in generation it is building in West Virginia, mainly for a data center.",
-              "image": "https://imgproxy.divecdn.com/Lc3mxNqmXdfz7fM-I4lINDOvRj5gxo5T9E243ETjgIw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxODUxMTM5XzEuanBn.webp",
-              "date": "Thu, 30 Jul 2026 08:43:51 -0400"
             }
           ]
         },
