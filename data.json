@@ -1,6 +1,6 @@
 {
-  "date": "August 01, 2026",
-  "updated_at": "2026-08-01 22:47:50 UTC",
+  "date": "August 02, 2026",
+  "updated_at": "2026-08-02 22:49:49 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -263,13 +263,6 @@
           },
           "top_stories": [
             {
-              "title": "Anthropic says human error let Claude AI models escape test environment and hack third parties",
-              "link": "https://www.ciodive.com/news/anthropic-claude-ai-hacking-test/826720/",
-              "summary": "The company said the discovery, which followed OpenAI\u2019s similar admission, proved the need for better testing guardrails.",
-              "image": "https://imgproxy.divecdn.com/b56r_eBroAFODQosqPrSA5K22cdIRQrX3dPvdM5d0qc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczODg4XzIycGV4V0IuanBn.webp",
-              "date": "Fri, 31 Jul 2026 11:29:00 -0400"
-            },
-            {
               "title": "Microsoft holds the line on infrastructure spending",
               "link": "https://www.ciodive.com/news/Microsoft-infrastructure-cloud-growth/826658/",
               "summary": "The company is well-positioned with its current data center investments as cloud revenue soars, executives said Wednesday.",
@@ -296,6 +289,13 @@
               "summary": "The oversight could blind companies to the threats they should be focusing on, Arctic Wolf said in a Tuesday report.",
               "image": "https://imgproxy.divecdn.com/uUgyhFbWMkfmwVUYCYUghryNWcLsa95yQjgiEnDPEeI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTU5NDY0NjIuanBn.webp",
               "date": "Wed, 29 Jul 2026 14:35:00 -0400"
+            },
+            {
+              "title": "1 in 4 dollars spent on AI goes to waste, report finds",
+              "link": "https://www.ciodive.com/news/control-AI-costs-spending-harness/826492/",
+              "summary": "More than half of businesses lack a dedicated owner for AI costs, which can lead to overspend, according to a Harness report.",
+              "image": "https://imgproxy.divecdn.com/Us4Hd6sH0Ye55Ak9EpXo8eKzcPJs5-cklojHwaMN6-g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTkyMzQ1MDgwLmpwZw==.webp",
+              "date": "Wed, 29 Jul 2026 14:00:00 -0400"
             }
           ]
         },
@@ -454,7 +454,7 @@
           "lead_story": {
             "title": "Novo setback casts doubt on a new way to treat heart disease",
             "link": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
-            "summary": "Ziltivekimab's failure in a key trial hurt spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation.",
+            "summary": "Ziltivekimab's failure in a key trial spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation.",
             "image": "https://imgproxy.divecdn.com/BEaA7RlZhiBVZ8rfvBq1gV4dfZ4BC5WOow-17uS8d2o/g:nowe:0:100/c:8192:4628/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY2Nzk1NzQ2LmpwZw==.webp",
             "date": "Fri, 31 Jul 2026 12:11:00 -0400"
           },
@@ -707,15 +707,8 @@
             {
               "title": "Ahold Delhaize USA details latest omnichannel shopping capability",
               "link": "https://www.grocerydive.com/news/ahold-delhaizes-omnichannel-shopping-capability-pear-commerce-adusa/826702/",
-              "summary": "Through a tie-up with Pear Commerce, the grocery company is giving shoppers another way to add items to their digital carts from non-ADUSA websites.",
+              "summary": "Through a tie-up with Pear Commerce, the grocery company is introducing another way for shoppers to add items to their digital carts from non-ADUSA websites.",
               "image": "https://imgproxy.divecdn.com/FvRxLMeq2ojJtvZSvg25pHbeq2GbPRuyBHqT26B4htY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wZWFyLWNvbW1lcmNlLmpwZw==.webp",
-              "date": "Fri, 31 Jul 2026 11:00:00 -0400"
-            },
-            {
-              "title": "The Friday Checkout: Amazon finally moves the needle in grocery",
-              "link": "https://www.grocerydive.com/news/the-friday-checkout-amazon-grocery-delivery-expansion-market-share/826642/",
-              "summary": "The company\u2019s online grocery expansion is having an impact, but will it continue to steal share or is its recent market share gain just a short-term rush?",
-              "image": "https://imgproxy.divecdn.com/vR45qX3sGdJ3VdwQOXySYjlBA_AxIR1YY-cyJVUKi1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWF6b25fcmVjeWNsYWJsZV9jb2xkX2dyb2NlcnlfcGFja2FnaW5nLmpwZw==.webp",
               "date": "Fri, 31 Jul 2026 11:00:00 -0400"
             },
             {
@@ -738,6 +731,13 @@
               "summary": "The facility, expected to open in early 2027, will automate back-end operations to ease pharmacists\u2019 workload.",
               "image": "https://imgproxy.divecdn.com/ES-1lYXCZKXcjsTy_FcRQiqWBq07Dr4gAOHYzuKj9l4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp",
               "date": "Thu, 30 Jul 2026 10:32:00 -0400"
+            },
+            {
+              "title": "Meijer starts accepting WIC benefits for online purchases in Michigan",
+              "link": "https://www.grocerydive.com/news/meijer-michigan-wic-delivery-pickup-grocery/826424/",
+              "summary": "The grocer is the first retailer in the state to let participants in the federal nutrition program use their benefits for delivery or pickup orders.",
+              "image": "https://imgproxy.divecdn.com/pe2hIy0Bh8K0g10jaoIL8Piztq6x83ciU3a6WthZHRs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI0MDUxNF9NZWlqZXJfTm9ydGhfQ2FudG9uMDA4OS5qcGc=.webp",
+              "date": "Wed, 29 Jul 2026 10:15:00 -0400"
             }
           ]
         },
@@ -752,13 +752,6 @@
             "date": "Fri, 31 Jul 2026 10:00:00 -0400"
           },
           "top_stories": [
-            {
-              "title": "BP to cut 700 office roles after unveiling new structure",
-              "link": "https://www.cstoredive.com/news/bp-to-cut-700-office-roles-after-unveiling-new-structure/826627/",
-              "summary": "The reductions affect BP\u2019s legacy production and operations business. The company said convenience retail positions are not impacted.",
-              "image": null,
-              "date": "Fri, 31 Jul 2026 10:00:00 -0400"
-            },
             {
               "title": "Alimentation Couche-Tard plans to acquire Polish c-store chain \u017babka for $8.6B",
               "link": "https://www.cstoredive.com/news/alimentation-couche-tard-acquire-polish-c-store-chain-zabka/826691/",
@@ -786,6 +779,13 @@
               "summary": "Troy Hulehan, who has been with the South Carolina-based retailer for 20 years, was promoted from executive vice president of real estate development.",
               "image": null,
               "date": "Thu, 30 Jul 2026 08:43:15 -0400"
+            },
+            {
+              "title": "How 3 c-store retailers are growing their EV charging footprints",
+              "link": "https://www.cstoredive.com/news/kwik-trip-pilot-onvo-ev-charging-growth/825330/",
+              "summary": "While electric vehicle sales in the U.S. are expected to slow this year, some retailers have continued building out their infrastructure as the need for chargers steadily increases.",
+              "image": null,
+              "date": "Wed, 29 Jul 2026 10:00:00 -0400"
             }
           ]
         },
@@ -824,7 +824,7 @@
             {
               "title": "Why Taco Bell predicts a swift recovery from Cyclospora",
               "link": "https://www.restaurantdive.com/news/taco-bell-cyclospora-quick-sales-recovery/826569/",
-              "summary": "Loyalty, value offers, and swift removal of lettuce have mitigated the sales impact of the ongoing outbreak of the foodborne parasitic illness.",
+              "summary": "Loyalty, value offers and swift removal of lettuce have mitigated the sales impact of the ongoing outbreak of the foodborne parasitic illness.",
               "image": "https://imgproxy.divecdn.com/a3LN880gxYR4vcW37gt45CTaBoflosnevEAlBy5NXOY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYWNvX0JlbGxfX0NhbnRpbmFfTWV4aWNhbl9QaXp6YS5qcGc=.webp",
               "date": "Thu, 30 Jul 2026 13:18:00 -0400"
             },
@@ -843,7 +843,7 @@
           "lead_story": {
             "title": "NAW files lawsuit challenging Colorado EPR law",
             "link": "https://www.packagingdive.com/news/naw-files-lawsuit-challenging-colorado-epr-law/826722/",
-            "summary": "The National Association of Wholesaler-Distributors says the law lacks oversight over the Circular Action Alliance. NAW seeks to block the law\u2019s enforcement, similar to its approach in its EPR lawsuit in Oregon.",
+            "summary": "The National Association of Wholesaler-Distributors says the law violates the First Amendment, and PRO CAA is \u201can unaccountable private party.\" NAW seeks to block the law\u2019s enforcement, similar to its approach in Oregon.",
             "image": "https://imgproxy.divecdn.com/8Oqaf7cZF9ztxsvFb3WzOOohXDHlT49-oXjIr6Sqjus/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODMyNzI0NTAuanBn.webp",
             "date": "Fri, 31 Jul 2026 11:45:00 -0400"
           },
@@ -1336,27 +1336,13 @@
           "name": "Utility Dive",
           "url": "https://www.utilitydive.com",
           "lead_story": {
-            "title": "Edison CEO: California utilities face credit downgrades without wildfire reforms",
+            "title": "California utilities face credit downgrades without wildfire reforms, Edison CEO warns",
             "link": "https://www.utilitydive.com/news/california-utilities-credit-downgrades-wildfire-liability-edison/826678/",
             "summary": "With four weeks left in the legislative session, CEO Pedro Pizarro acknowledged the possibility California lawmakers will not pass wildfire liability reforms this year.",
             "image": "https://imgproxy.divecdn.com/GpidSbyNqBIQq26J4KMKFI1KASRSLv2OVwHfVRYmNgc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MDE0MTEyX0FXWVVNZVMuanBn.webp",
             "date": "Fri, 31 Jul 2026 11:00:00 -0400"
           },
           "top_stories": [
-            {
-              "title": "Xcel Energy on track for 3% retail sales growth this year, executives say",
-              "link": "https://www.utilitydive.com/news/xcel-energy-on-track-retail-sales-growth-this-year-executives-say/826705/",
-              "summary": "The company has a 2026-2030 base capital investment plan of $60 billion and line of sight to an additional $10 billion that includes transmission and generation for data center load.",
-              "image": "https://imgproxy.divecdn.com/jdEQG5pYAzFg0KgRgQdu8iYOyKTSKERN4vqK5t5chWg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tb250aWNlbGxvLmpwZw==.webp",
-              "date": "Fri, 31 Jul 2026 08:30:38 -0400"
-            },
-            {
-              "title": "Exelon \u2018high probability\u2019 data center load falls 40%",
-              "link": "https://www.utilitydive.com/news/exelon-data-center-load-new-jersey-battery-earnings/826686/",
-              "summary": "The drop to 11 GW reflects Exelon\u2019s ability to weed out speculative projects through \u201ctransmission service agreements,\u201d said CFO Jeanne Jones.",
-              "image": "https://imgproxy.divecdn.com/bLDRpFTLS7kveLk87eltsk6CwscVamsfyRB_16ER-uU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80ODgyMjMwMTZfMTI4Mjk2MjE5MzMwMTUwOF81OTg3MzA0MTIzMzI4ODc2MTc1X24uanBn.webp",
-              "date": "Fri, 31 Jul 2026 07:57:09 -0400"
-            },
             {
               "title": "Texas approves AI data center co-location next to wind farm, with curtailment caveats",
               "link": "https://www.utilitydive.com/news/texas-approves-ai-data-center-co-location-next-to-wind-farm-with-curtailme/826617/",
@@ -1377,6 +1363,20 @@
               "summary": "The Cap-and-Invest program deployed $15.5 billion for projects focused on clean air, energy efficiency and emissions reductions. Covered entities, including power plants, are required to surrender a tradeable permit for ...",
               "image": "https://imgproxy.divecdn.com/_vQDNndFUEAEvScS7SWfd0DPJ9VGiJ6Z9jG1FP6wFsY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY2F0dGVyZ29vZF8uanBn.webp",
               "date": "Thu, 30 Jul 2026 11:37:41 -0400"
+            },
+            {
+              "title": "Under pressure, Entergy looks to mitigate cost of $1.8B Texas gas plant purchase",
+              "link": "https://www.utilitydive.com/news/entergy-cottonwood-texas-gas-plant-meta/826565/",
+              "summary": "\u201cWe know that Cottonwood isn't the shiniest new plant out there,\u201d Entergy CEO Drew Marsh told analysts. The deal is \u201cincreasingly in doubt,\u201d one says.",
+              "image": null,
+              "date": "Thu, 30 Jul 2026 08:53:57 -0400"
+            },
+            {
+              "title": "FirstEnergy data center contracts surge 50% in Q2",
+              "link": "https://www.utilitydive.com/news/firstenergy-data-center-west-virginia-maidsville-earnings/826558/",
+              "summary": "Mon Power, a FirstEnergy subsidiary, plans to assess a surcharge on its customers to help finance $2.7 billion in generation it is building in West Virginia, mainly for a data center.",
+              "image": "https://imgproxy.divecdn.com/Lc3mxNqmXdfz7fM-I4lINDOvRj5gxo5T9E243ETjgIw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxODUxMTM5XzEuanBn.webp",
+              "date": "Thu, 30 Jul 2026 08:43:51 -0400"
             }
           ]
         },
@@ -1626,7 +1626,7 @@
           "lead_story": {
             "title": "Snapchat shores up lead gen ads with new HubSpot integration",
             "link": "https://www.socialmediatoday.com/news/snapchat-shores-up-lead-gen-ads-with-new-hubspot-integration/826620/",
-            "summary": "The app is focusing more on partnerships to \u201cmeet our clients where they are,\u201d according to Vice President of Global Agency and Strategic Accounts Adrian Mulryan.",
+            "summary": "The app is focusing on partnerships to \u201cmeet our clients where they are,\u201d according to Vice President of Global Agency and Strategic Accounts Adrian Mulryan.",
             "image": "https://imgproxy.divecdn.com/mtAMkZ9p6alNwpnt4UD1dpbEyvsAdUu0AJjKGu2A0N4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY4NDgzMTMxX2hvalJ5YzMuanBn.webp",
             "date": "Thu, 30 Jul 2026 12:00:00 -0400"
           },
@@ -1646,6 +1646,13 @@
               "date": "Thu, 30 Jul 2026 08:00:00 -0400"
             },
             {
+              "title": "The new fundamentals of brand strategy for modern social media",
+              "link": "https://www.socialmediatoday.com/news/the-new-fundamentals-of-brand-strategy-for-modern-social-media/825368/",
+              "summary": "User behaviors have changed and marketers need to update their mindsets to align with the shifts.",
+              "image": null,
+              "date": "Thu, 30 Jul 2026 08:00:00 -0400"
+            },
+            {
               "title": "Kia takes a Reddit staple for a spin during WNBA All-Star Weekend",
               "link": "https://www.socialmediatoday.com/news/kia-takes-a-reddit-staple-for-a-spin-during-wnba-all-star-weekend/826455/",
               "summary": "The brand\u2019s AMA featured a claw machine of preselected questions answered live on video and generated 61,000 views in 72 hours.",
@@ -1657,13 +1664,6 @@
               "link": "https://www.socialmediatoday.com/news/how-to-build-a-brand-on-facebook/824790/",
               "summary": "Meta\u2019s flagship app has more than 3 billion users and has seen a resurgence due to the popularity of Reels.",
               "image": "https://imgproxy.divecdn.com/YzWoFLGpJAT-3RbhO65wn-7O11BKcSTc-98_sB0sx5U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl9tYXJrZXRwbGFjZV91cGRhdGUzLnBuZw==.webp",
-              "date": "Wed, 29 Jul 2026 08:00:00 -0400"
-            },
-            {
-              "title": "4 tips to build a Snapchat marketing strategy",
-              "link": "https://www.socialmediatoday.com/news/4-tips-to-build-a-snapchat-marketing-strategy/824792/",
-              "summary": "The platform offers significant engagement opportunities, but its privacy-focused approach can make it harder for brands to develop the right messaging and promotions.",
-              "image": null,
               "date": "Wed, 29 Jul 2026 08:00:00 -0400"
             }
           ]
