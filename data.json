@@ -1,6 +1,6 @@
 {
-  "date": "August 08, 2026",
-  "updated_at": "2026-08-08 22:21:25 UTC",
+  "date": "August 09, 2026",
+  "updated_at": "2026-08-09 22:22:52 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -121,6 +121,13 @@
               "date": "Fri, 07 Aug 2026 14:31:38 -0400"
             },
             {
+              "title": "Former acting IRS head warns of tax compliance \u2018race to the bottom\u2019",
+              "link": "https://www.cfodive.com/news/former-acting-irs-head-warns-tax-compliance-race-bottom/827230/",
+              "summary": "The tax agency has faced steep budget cuts since Douglas O\u2019Donnell stepped down from serving as acting commissioner in early 2025.",
+              "image": "https://imgproxy.divecdn.com/bSBIByAS-bUulrx4hM8fdeDcfPfXxM7i78qpKMP9Ms0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MTU0NzU0LmpwZw==.webp",
+              "date": "Fri, 07 Aug 2026 12:01:08 -0400"
+            },
+            {
               "title": "Fractional CFOs see demand surge in AI age",
               "link": "https://www.cfodive.com/news/fractional-cfos-see-demand-surge-ai-age-leadership/827264/",
               "summary": "The integration of AI has massively impacted the day-to-day work of fractional CFO Jason Hope and boosted the overall demand for part-time finance work.",
@@ -140,13 +147,6 @@
               "summary": "The fintech\u2019s president, Mark Troughton, will serve as interim finance chief while the company conducts an executive search. Chime also reported a 27% year-over-year increase in second-quarter revenue.",
               "image": "https://imgproxy.divecdn.com/AH20vDoWZjlUZzYxeTUYs-IbUFelwwRkWz10VOs2kIg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5MTUyMTIwLmpwZw==.webp",
               "date": "Thu, 06 Aug 2026 11:52:23 -0400"
-            },
-            {
-              "title": "McDonald picks insider finance veteran as new US boss",
-              "link": "https://www.cfodive.com/news/mcdonalds-finance-insider-takes-us-president-reins-skye-anderson/827156/",
-              "summary": "Since joining the Chicago-based hamburger chain in 2000, Skye Anderson has held multiple roles including CFO of McDonald\u2019s Australia.",
-              "image": "https://imgproxy.divecdn.com/7QDxy3aKcbLbD8ymT9RykGFESpDlaXR4sRWlVxj74o4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0OTE0Njg4LmpwZw==.webp",
-              "date": "Wed, 05 Aug 2026 16:01:26 -0400"
             }
           ]
         },
@@ -1040,11 +1040,18 @@
           "lead_story": {
             "title": "Heated seats tops list of most-wanted vehicle features, AutoPacific survey finds",
             "link": "https://www.wardsauto.com/news/heated-seats-tops-list-of-most-wanted-vehicle-features-autopacific-survey/827244/",
-            "summary": "AutoPacific surveyed over 19,000 licensed drivers who intend to purchase a new vehicle within the next three years about the features and technologies they want most.",
+            "summary": "The firm surveyed over 19,000 licensed drivers who intend to purchase a new vehicle within the next three years about their most coveted features and technologies",
             "image": "https://imgproxy.divecdn.com/EzG-YemIGoAuRWlwA3503TWgC0dJ2cOhzcmyc899QSQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jcWRhbV81UUdFSHhGLndlYi4yNDAwXzUud2VicA==.webp",
             "date": "Fri, 07 Aug 2026 10:28:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Group 1 Automotive overhauls its branding strategy",
+              "link": "https://www.wardsauto.com/news/group-1-automotive-overhauls-its-branding-strategy/827144/",
+              "summary": "The company is pivoting away from legacy dealership names while acquiring a large footprint in markets it occupies.",
+              "image": "https://imgproxy.divecdn.com/84S0u-9TXB4IVpFJ5fi9xe38Okz4Xv4KWAN2DvNa7Uk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA3OTEzMDMwLmpwZw==.webp",
+              "date": "Fri, 07 Aug 2026 10:00:00 -0400"
+            },
             {
               "title": "UK automaker discounts on EV purchases not sustainable, trade group warns",
               "link": "https://www.wardsauto.com/news/uk-automaker-discounts-on-ev-purchases-not-sustainable-trade-group-warns/827042/",
@@ -1072,13 +1079,6 @@
               "summary": "The later market arrival of the midsize model and deliberate dialing-back of production of other models are part of an \u201coperational reset\u201d as Lucid looks to improve its customer experience.",
               "image": "https://imgproxy.divecdn.com/dkjFf7s62yrNJb58k9vDSofs5mArg01Q22lxKRULam0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MdWNpZF9HcmF2aXR5XzEuanBn.webp",
               "date": "Wed, 05 Aug 2026 14:47:56 -0400"
-            },
-            {
-              "title": "Unifor is playing \u2018the long game\u2019 in contract talks \u2014 and wants automakers to do the same",
-              "link": "https://www.wardsauto.com/news/unifor-is-playing-the-long-game-in-contract-talks-and-wants-automakers/826674/",
-              "summary": "In an exclusive interview with WardsAuto, Unifor National President Lana Payne shares her takeaways from recent negotiations with Ford \u2014 and what\u2019s ahead.",
-              "image": null,
-              "date": "Wed, 05 Aug 2026 12:43:00 -0400"
             }
           ]
         }
@@ -1139,13 +1139,20 @@
           "name": "Facilities Dive",
           "url": "https://www.facilitiesdive.com",
           "lead_story": {
-            "title": "Corroded sprinkler heads triggered catastrophic 2024 Georgia chemical plant fire",
+            "title": "Corroded sprinkler heads triggered catastrophic 2024 Georgia chemical plant fire: report",
             "link": "https://www.facilitiesdive.com/news/corroded-sprinkler-heads-triggered-catastrophic-2024-georgia-chemical-plant/827152/",
             "summary": "More than 1,100 sprinkler heads were corroded when water leaked onto reactive chemicals, causing a toxic reaction that forced 90,000 people to shelter in place, the U.S. Chemical Safety Board says.",
             "image": "https://imgproxy.divecdn.com/v-pQ57mC0XFStzOWLMy_55sfh6g1epmgIfl0b-VhGIU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DU0JfMi5qcGc=.webp",
             "date": "Fri, 07 Aug 2026 10:46:31 -0400"
           },
           "top_stories": [
+            {
+              "title": "KODE OS achieves FedRAMP High authorization",
+              "link": "https://www.facilitiesdive.com/news/kode-labs-achieves-fedramp-high-authorization-palantir-fedstart/827330/",
+              "summary": "Achieved through Palantir\u2019s FedStart program, the designation means KODE Labs can offer its building operating system to federal agencies operating in sensitive, mission-critical environments.",
+              "image": "https://imgproxy.divecdn.com/TheR1NB7DGmATAZ2aIH6_atUcHTCS948cTAdT0UDLUk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzM5MDU2NDUuanBn.webp",
+              "date": "Fri, 07 Aug 2026 10:40:33 -0400"
+            },
             {
               "title": "Denver Broncos\u2019 new training facility aims to be \u2018player-oriented.\u2019 It could be a difference-maker, players say.",
               "link": "https://www.facilitiesdive.com/news/denver-broncos-new-training-facility-aims-to-be-player-oriented-it-coul/827017/",
@@ -1173,13 +1180,6 @@
               "summary": "Because of the complicated needs of convenience stores, retailers who want to remain open during renovations need to plan carefully, writes Justin Elder of Elder-Jones.",
               "image": "https://imgproxy.divecdn.com/d_RyLBtK9ULviUeNEl7_uc1DcHiPi6BwZmhl3MpCAn0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTI3MDcyMzcxLmpwZw==.webp",
               "date": "Thu, 06 Aug 2026 09:58:44 -0400"
-            },
-            {
-              "title": "Schneider Electric, Budderfly to upgrade 7 municipal facilities in Cadillac, Michigan",
-              "link": "https://www.facilitiesdive.com/news/schneider-electric-budderfly-to-upgrade-7-municipal-facilities-in-cadillac/827090/",
-              "summary": "The energy efficiency, distributed energy and building automation project aims to help the city stabilize operating costs and maintain services during outages, a city official said.",
-              "image": null,
-              "date": "Wed, 05 Aug 2026 11:26:39 -0400"
             }
           ]
         },
@@ -1187,7 +1187,7 @@
           "name": "Hotel Dive",
           "url": "https://www.hoteldive.com",
           "lead_story": {
-            "title": "Lodging Lowdown: Accor debuts in Las Vegas with Treasure Island hotel, Potomac Hotel joins Marriott\u2019s Autograph Collection",
+            "title": "Lodging Lowdown: Accor debuts in Las Vegas with Treasure Island, Potomac Hotel joins Marriott\u2019s Autograph Collection",
             "link": "https://www.hoteldive.com/news/accor-debuts-las-vegas-treasure-island-potomac-hotel/827316/",
             "summary": "Plus, Crestline Hotels & Resorts has been selected to manage a dual-branded Marriott property near Vail, Colorado, with access to skiing.",
             "image": "https://imgproxy.divecdn.com/mRSGRuPURDlw9XeVPJxGeR4FIsItDXCUahhFt4ut5-Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IYW5kd3JpdHRlbi1Db2xsZWN0aW9uLVRSRUFTVVJFLUlTTEFORC1USS1MQVMtVkVHQVMtSE9URUwtT0ZGSUNJLmpwZw==.webp",
@@ -1195,9 +1195,9 @@
           },
           "top_stories": [
             {
-              "title": "CoStar, Tourism Economics significantly boost US hotel performance outlook",
+              "title": "CoStar, Tourism Economics \u2018significantly\u2019 boost US hotel outlook",
               "link": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
-              "summary": "After hotels outperformed expectations in the first half of 2026, due in part to the World Cup, the duo now projects higher RevPAR growth for the full year as well as 2027.",
+              "summary": "After hotels outperformed expectations in H1, due in part to the World Cup, the pair now projects higher RevPAR growth for full-year 2026 as well as 2027.",
               "image": "https://imgproxy.divecdn.com/5lRGejrgcib9ZK1VIt7J97N_e2mAk2mJvCSfrAhP58Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgwNzYyNjUxLmpwZw==.webp",
               "date": "Fri, 07 Aug 2026 09:22:44 -0400"
             },
@@ -1285,11 +1285,25 @@
           "lead_story": {
             "title": "How ride-hailing services Uber, Lyft boosted local economies: Carnegie Mellon study",
             "link": "https://www.smartcitiesdive.com/news/uber-lyft-cmu-study-gdp-employment-carnegie-mellon/827310/",
-            "summary": "A Carnegie Mellon University researcher studied the years following the start of ride-hailing services in U.S. cities in the 2010s.",
+            "summary": "Per capita GDP and gig employment \u2014 but not total employment \u2014 grew in the regions where these services launched in the 2010s, the study found.",
             "image": "https://imgproxy.divecdn.com/WbTd0skBiGKRtggfHdRguePA2aJPbeWpjlCvzcEF37c/g:nowe:0:254/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTMxNTcwMDIzLmpwZw==.webp",
             "date": "Fri, 07 Aug 2026 11:11:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "For local governments, full benefits of ROAD to Housing Act could take years, analysis shows",
+              "link": "https://www.smartcitiesdive.com/news/housing-local-governments-hud-road-to-housing-legislation/827335/",
+              "summary": "The 21st Century ROAD to Housing Act adds to the U.S. Department of Housing and Development's workload \u2014 with a significantly reduced staff.",
+              "image": "https://imgproxy.divecdn.com/uXgaqsKixGrKfyuV-Wzcxw2MR_cXp7GqoAxspMRrtgo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgzMTQzNTk3LmpwZw==.webp",
+              "date": "Fri, 07 Aug 2026 10:54:31 -0400"
+            },
+            {
+              "title": "Cities need a new workforce strategy. Universities should be part of it.",
+              "link": "https://www.smartcitiesdive.com/news/cities-need-a-new-workforce-strategy-universities-should-be-part-of-it/827328/",
+              "summary": "Local governments facing labor shortages can build stronger talent pipelines and improve public services through deeper partnerships with higher education, a criminal justice professor says.",
+              "image": null,
+              "date": "Fri, 07 Aug 2026 10:14:41 -0400"
+            },
             {
               "title": "These 8 \u2018intelligent\u2019 US cities are tops for technology services",
               "link": "https://www.smartcitiesdive.com/news/intelligent-us-cities-technology-ai-boston-consulting-group/827222/",
@@ -1310,20 +1324,6 @@
               "summary": "Economic mobility depends on far more than income. Cities must also invest in health, jobs and community connection to help residents thrive, the McKinsey Institute for Economic Mobility and the W.K. Kellogg Foundation f...",
               "image": "https://imgproxy.divecdn.com/Tdv5tERBf_jRMF0cJfRMy6PWO97f1IuDaGSF-UdL57o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3MzU4NDI3LmpwZw==.webp",
               "date": "Thu, 06 Aug 2026 09:35:19 -0400"
-            },
-            {
-              "title": "Stopgap transportation funding fails to advance in Senate",
-              "link": "https://www.smartcitiesdive.com/news/senate-fails-stopgap-transportation-funding-bill/827043/",
-              "summary": "A Senate reconciliation bill would cut public transit funding by 20% and passenger rail funding by 83%. Without a bill, another government shutdown looms.",
-              "image": "https://imgproxy.divecdn.com/rMQybin9skqdT7hQcNqJLX2B14AsMsL4KwSyrXfurO8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDgtMDVfYXRfMTAuNTQuMzBBTS5wbmc=.webp",
-              "date": "Wed, 05 Aug 2026 11:38:00 -0400"
-            },
-            {
-              "title": "Single-staircase reforms aim to boost middle-scale housing in Michigan",
-              "link": "https://www.smartcitiesdive.com/news/single-staircase-reform-michigan-whitmer/827085/",
-              "summary": "The reforms will make smaller-scale apartment buildings cheaper and easier to build, officials say.",
-              "image": "https://imgproxy.divecdn.com/btPcSe---ei3xo25XuebAMtPxwY21Xo7fkollrgd_-4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWctMTQ4OV9vcmlnaW5hbC5qcGVn.webp",
-              "date": "Wed, 05 Aug 2026 11:21:45 -0400"
             }
           ]
         }
@@ -1338,11 +1338,32 @@
           "lead_story": {
             "title": "The utility billing system is preventing rate and program innovation",
             "link": "https://www.utilitydive.com/news/utility-billing-system-preventing-rate-program-innovation/826053/",
-            "summary": "Utilities are spending billions to modernize the grid but the system responsible for billing customers is not keeping up, writes GridX CCO Scott Engstrom.",
+            "summary": "Utilities are spending billions to modernize the grid, but the system responsible for billing customers is not keeping up, writes GridX Chief Commercial Officer Scott Engstrom.",
             "image": "https://imgproxy.divecdn.com/enlSJ0wMs7xqW_pzOwaFV31_7JMNINm14cO9jKuLU5U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db25uZWN0REVSX0VWX01ldGVyX1NvY2tldF9BZGFwdGVyLmpwZw==.webp",
             "date": "Fri, 07 Aug 2026 11:00:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Existing power plants are \u2018bedrock\u2019 in supplying data centers: Constellation CEO",
+              "link": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
+              "summary": "Constellation Energy expects Texas\u2019 Batch Zero large load interconnection process will resume without \u201cmeaningful delay.\u201d",
+              "image": null,
+              "date": "Fri, 07 Aug 2026 10:23:04 -0400"
+            },
+            {
+              "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+              "link": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+              "summary": "Executives at parent company Sempra said they support the governor's pause on new data center interconnection approvals, citing a need for durable long-term outcomes amid growing public opposition.",
+              "image": "https://imgproxy.divecdn.com/F8OMMCpTTOI-PdlsgxDiouLhC1SrsiYImDbB7ejkRUk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KZWZmX01hcnRpbi5qcGc=.webp",
+              "date": "Fri, 07 Aug 2026 08:00:00 -0400"
+            },
+            {
+              "title": "Data center power sales drive $220M increase in TVA\u2019s net income",
+              "link": "https://www.utilitydive.com/news/data-center-tva-income-earnings-cumberland/827282/",
+              "summary": "The federal utility\u2019s total operating revenue was $10 billion over the first nine months of the fiscal year, up 3% year over year, with a net income of $965 million.",
+              "image": null,
+              "date": "Thu, 06 Aug 2026 16:54:49 -0400"
+            },
             {
               "title": "Video gamers give 110-MW Texas solar project a financing boost",
               "link": "https://www.utilitydive.com/news/video-gamers-give-110-mw-texas-solar-project-a-financing-boost/827228/",
@@ -1356,27 +1377,6 @@
               "summary": "President and CEO Robert Gaudette said NRG\u2019s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.",
               "image": "https://imgproxy.divecdn.com/7EkdNb1KhZmA6eR5sqHhxysHOKnvjsfktBA3xkA6UtQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU0Mjc0OTA2LmpwZw==.webp",
               "date": "Thu, 06 Aug 2026 10:16:56 -0400"
-            },
-            {
-              "title": "Texas data center pause puts 20% of US pipeline at risk of delay: BNEF",
-              "link": "https://www.utilitydive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827185/",
-              "summary": "The longer the moratorium stays in place, the greater the risk to Texas\u2019 data center boom, analysts at Bloomberg NEF said.",
-              "image": null,
-              "date": "Thu, 06 Aug 2026 08:53:46 -0400"
-            },
-            {
-              "title": "Duke Energy to issue $10B in equity to capture gas generation growth opportunity",
-              "link": "https://www.utilitydive.com/news/duke-energy-to-issue-10b-in-equity-to-capture-once-in-a-generation-gro/827039/",
-              "summary": "President and CEO Harry Sideris said the company is deploying more than $1 billion per month to meet \u201crecord demand.\u201d Advocates in North Carolina say the utility has exaggerated growth projections to justify its spending...",
-              "image": "https://imgproxy.divecdn.com/vJ3J2RcUzORa7EORrqanp97Pg8tvl7f0PDsfa5wOjsI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Bc2hldmlsbGVfQ29tYmluZWRfQ3ljbGVfU3RhdGlvbl9FeHRlcmlvcl8xX2RxSk92V1ouanBn.webp",
-              "date": "Thu, 06 Aug 2026 08:00:00 -0400"
-            },
-            {
-              "title": "California DER wholesale market participation could grow 2+ GW from CAISO \u2018accounting change\u2019: advocate",
-              "link": "https://www.utilitydive.com/news/california-der-wholesale-market-participation-could-grow-2-gw-from-caiso/827122/",
-              "summary": "Behind-the-meter batteries and other aggregated DERs could get another lift from a related rulemaking at the California Public Utilities Commission, but a final ruling is unlikely before next year, a regulatory expert to...",
-              "image": "https://imgproxy.divecdn.com/LgCZV9F_KbIBG_SNBH2Q3HcUKv-B0IMdeY7NndFrcBQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODMyODcxOTYuanBn.webp",
-              "date": "Wed, 05 Aug 2026 13:43:20 -0400"
             }
           ]
         },
@@ -1480,18 +1480,18 @@
           "name": "Higher Ed Dive",
           "url": "https://www.highereddive.com",
           "lead_story": {
-            "title": "Minnesota State Mankato to undergo layoffs, hike tuition amid $22M shortfall",
-            "link": "https://www.highereddive.com/news/minnesota-state-mankato-to-undergo-layoffs-hike-tuition-amid-22m-shortfal/827286/",
-            "summary": "Despite strong enrollment, the public university said it\u2019s facing a large budget hole due to stagnant state funding.",
-            "image": null,
+            "title": "The Heritage Foundation releases sweeping model bill to overhaul higher ed",
+            "link": "https://www.highereddive.com/news/the-heritage-foundation-releases-sweeping-model-bill-to-overhaul-higher-ed/827280/",
+            "summary": "The conservative think tank framed the proposal as a way for state lawmakers to \u201ccodify the principles\u201d of the Trump administration\u2019s higher ed compact.",
+            "image": "https://imgproxy.divecdn.com/wdBSC-njr72HNbiEEvxQYCOlmPoaGUODV9etaZ7XO5Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NTgxMzk3NjcuanBn.webp",
             "date": "Fri, 07 Aug 2026 05:00:00 -0400"
           },
           "top_stories": [
             {
-              "title": "The Heritage Foundation releases sweeping model bill to overhaul higher ed",
-              "link": "https://www.highereddive.com/news/the-heritage-foundation-releases-sweeping-model-bill-to-overhaul-higher-ed/827280/",
-              "summary": "The conservative think tank framed the proposal as a way for state lawmakers to \u201ccodify the principles\u201d of the Trump administration\u2019s higher ed compact.",
-              "image": "https://imgproxy.divecdn.com/wdBSC-njr72HNbiEEvxQYCOlmPoaGUODV9etaZ7XO5Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NTgxMzk3NjcuanBn.webp",
+              "title": "Minnesota State Mankato to undergo layoffs, hike tuition amid $22M shortfall",
+              "link": "https://www.highereddive.com/news/minnesota-state-mankato-to-undergo-layoffs-hike-tuition-amid-22m-shortfal/827286/",
+              "summary": "Despite strong enrollment, the public university said it\u2019s facing a large budget hole due to stagnant state funding.",
+              "image": null,
               "date": "Fri, 07 Aug 2026 05:00:00 -0400"
             },
             {
@@ -1528,18 +1528,18 @@
           "name": "K-12 Dive",
           "url": "https://www.k12dive.com",
           "lead_story": {
-            "title": "Superintendents agree on goals, but not necessarily how to achieve them",
-            "link": "https://www.k12dive.com/news/superintendents-agree-on-goals-but-not-necessarily-how-to-achieve-them/827279/",
-            "summary": "A Center on Reinventing Public Education report outlines ways to successfully transform school systems for improvement.",
-            "image": "https://imgproxy.divecdn.com/tFg06n3orPDdFOTSwPFHNn4jmCNd-G_SM1dyjTWs6wA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MjQ1MjAyNzYuanBn.webp",
+            "title": "Test yourself on the past week\u2019s K-12 news",
+            "link": "https://www.k12dive.com/news/pop-quiz-test-k-12-news-august-3-2026/827272/",
+            "summary": "From one district ending universal school meals to concerns about prepping for potential disease outbreaks, what did you learn from our recent stories?",
+            "image": null,
             "date": "Fri, 07 Aug 2026 05:00:00 -0400"
           },
           "top_stories": [
             {
-              "title": "Test yourself on the past week\u2019s K-12 news",
-              "link": "https://www.k12dive.com/news/pop-quiz-test-k-12-news-august-3-2026/827272/",
-              "summary": "From one district ending universal school meals to concerns about prepping for potential disease outbreaks, what did you learn from our recent stories?",
-              "image": null,
+              "title": "Superintendents agree on goals, but not necessarily how to achieve them",
+              "link": "https://www.k12dive.com/news/superintendents-agree-on-goals-but-not-necessarily-how-to-achieve-them/827279/",
+              "summary": "A Center on Reinventing Public Education report outlines ways to successfully transform school systems for improvement.",
+              "image": "https://imgproxy.divecdn.com/tFg06n3orPDdFOTSwPFHNn4jmCNd-G_SM1dyjTWs6wA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MjQ1MjAyNzYuanBn.webp",
               "date": "Fri, 07 Aug 2026 05:00:00 -0400"
             },
             {
