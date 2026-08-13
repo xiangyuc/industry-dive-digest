@@ -2,8 +2,8 @@
 import json
 import re
 import os
+import subprocess
 import xml.etree.ElementTree as ET
-from urllib.request import Request, urlopen
 import concurrent.futures
 from datetime import datetime
 import html
@@ -26,49 +26,54 @@ def fetch_feed(pub_info):
     url = pub_info['url']
     feed_url = pub_info['feed']
     
-    req = Request(feed_url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'})
     try:
-        with urlopen(req, timeout=10) as response:
-            xml_data = response.read()
-            root = ET.fromstring(xml_data)
-            channel = root.find('channel')
-            if channel is None:
-                return {'name': name, 'url': url, 'lead_story': None, 'top_stories': []}
+        # Use curl to reliably bypass TLS/CDN blocks across platforms
+        cmd = ['curl', '-s', '-L', '--max-time', '10', '-A', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36', feed_url]
+        res = subprocess.run(cmd, capture_output=True, timeout=12)
+        if res.returncode != 0 or not res.stdout:
+            print(f"Error fetching {name}: curl exit code {res.returncode}")
+            return {'name': name, 'url': url, 'lead_story': None, 'top_stories': []}
             
-            items = channel.findall('item')
-            stories = []
-            for item in items[:6]:
-                title_elem = item.find('title')
-                link_elem = item.find('link')
-                desc_elem = item.find('description')
-                pub_date_elem = item.find('pubDate')
-                
-                title = title_elem.text.strip() if title_elem is not None and title_elem.text else ""
-                link = link_elem.text.strip() if link_elem is not None and link_elem.text else ""
-                desc_raw = desc_elem.text if desc_elem is not None and desc_elem.text else ""
-                
-                summary = clean_html(desc_raw)
-                image_url = extract_image(desc_raw)
-                pub_date = pub_date_elem.text.strip() if pub_date_elem is not None and pub_date_elem.text else ""
-                
-                if title and link:
-                    stories.append({
-                        'title': title,
-                        'link': link,
-                        'summary': summary[:220] + '...' if len(summary) > 220 else summary,
-                        'image': image_url,
-                        'date': pub_date
-                    })
+        xml_data = res.stdout
+        root = ET.fromstring(xml_data)
+        channel = root.find('channel')
+        if channel is None:
+            return {'name': name, 'url': url, 'lead_story': None, 'top_stories': []}
+        
+        items = channel.findall('item')
+        stories = []
+        for item in items[:6]:
+            title_elem = item.find('title')
+            link_elem = item.find('link')
+            desc_elem = item.find('description')
+            pub_date_elem = item.find('pubDate')
             
-            lead_story = stories[0] if len(stories) > 0 else None
-            top_stories = stories[1:6] if len(stories) > 1 else []
+            title = title_elem.text.strip() if title_elem is not None and title_elem.text else ""
+            link = link_elem.text.strip() if link_elem is not None and link_elem.text else ""
+            desc_raw = desc_elem.text if desc_elem is not None and desc_elem.text else ""
             
-            return {
-                'name': name,
-                'url': url,
-                'lead_story': lead_story,
-                'top_stories': top_stories
-            }
+            summary = clean_html(desc_raw)
+            image_url = extract_image(desc_raw)
+            pub_date = pub_date_elem.text.strip() if pub_date_elem is not None and pub_date_elem.text else ""
+            
+            if title and link:
+                stories.append({
+                    'title': title,
+                    'link': link,
+                    'summary': summary[:220] + '...' if len(summary) > 220 else summary,
+                    'image': image_url,
+                    'date': pub_date
+                })
+        
+        lead_story = stories[0] if len(stories) > 0 else None
+        top_stories = stories[1:6] if len(stories) > 1 else []
+        
+        return {
+            'name': name,
+            'url': url,
+            'lead_story': lead_story,
+            'top_stories': top_stories
+        }
     except Exception as e:
         print(f"Error fetching {name}: {e}")
         return {'name': name, 'url': url, 'lead_story': None, 'top_stories': []}
@@ -126,7 +131,7 @@ def build_data():
     }
 
 def render_webapp(data):
-    """Render a mobile PWA HTML app with enlarged typography and comfortable tap targets."""
+    """Render a mobile PWA HTML app with custom letter-based flat icon & favicon links."""
     data_json_str = json.dumps(data)
     
     html_content = f'''<!DOCTYPE html>
@@ -136,12 +141,19 @@ def render_webapp(data):
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Industry Dive Daily - Executive Briefing</title>
     
-    <!-- PWA & Mobile Icons -->
+    <!-- Custom Flat Letter Icon & PWA Manifest -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="manifest.json">
+    
+    <!-- Theme & Status Bar Sizing -->
     <meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)">
     <meta name="theme-color" content="#0f172a" media="(prefers-color-scheme: dark)">
+    <meta name="apple-mobile-web-app-title" content="Dive Daily">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <link rel="apple-touch-icon" href="https://www.industrydive.com/static/site/images/favicon.ico">
     
     <!-- Google Fonts & Icons -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -183,7 +195,7 @@ def render_webapp(data):
                 --text-muted: #94a3b8;
                 --text-title: #ffffff;
                 --text-link: #f8fafc;
-                --text-story: #e2e8f0;
+                --text-story: #cbd5e1;
                 --border-color: #334155;
                 --chip-bg: #1e293b;
                 --chip-text: #cbd5e1;
@@ -243,15 +255,10 @@ def render_webapp(data):
             gap: 10px;
         }}
         
-        .brand-badge {{
-            background: linear-gradient(135deg, #0284c7, #38bdf8);
-            color: #ffffff;
-            font-size: 11px;
-            font-weight: 800;
-            padding: 4px 8px;
+        .brand-icon {{
+            width: 28px;
+            height: 28px;
             border-radius: 6px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
         }}
         
         .brand-title {{
@@ -267,7 +274,7 @@ def render_webapp(data):
             font-weight: 600;
         }}
         
-        /* Category Chips Slider with Touch-Friendly Sizing */
+        /* Category Chips Slider */
         .chips-scroll {{
             display: flex;
             gap: 8px;
@@ -428,7 +435,7 @@ def render_webapp(data):
             line-height: 1.5;
         }}
         
-        /* Top Stories List - Enlarged Touch Targets */
+        /* Top Stories List */
         .top-stories-title {{
             font-size: 13px;
             font-weight: 800;
@@ -479,8 +486,8 @@ def render_webapp(data):
     <header id="appHeader">
         <div class="header-top">
             <div class="brand">
-                <span class="brand-badge">Daily Brief</span>
-                <span class="brand-title">Industry Dive</span>
+                <img src="favicon.svg" class="brand-icon" alt="Icon" />
+                <span class="brand-title">Dive Daily</span>
             </div>
             <div class="date-badge" id="dateBadge">{data['date']}</div>
         </div>
