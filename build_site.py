@@ -27,7 +27,6 @@ def fetch_feed(pub_info):
     feed_url = pub_info['feed']
     
     try:
-        # Use curl to reliably bypass TLS/CDN blocks across platforms
         cmd = ['curl', '-s', '-L', '--max-time', '10', '-A', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36', feed_url]
         res = subprocess.run(cmd, capture_output=True, timeout=12)
         if res.returncode != 0 or not res.stdout:
@@ -131,7 +130,7 @@ def build_data():
     }
 
 def render_webapp(data):
-    """Render a mobile PWA HTML app with custom letter-based flat icon & favicon links."""
+    """Render a mobile PWA HTML app with complete Apple Touch Icons, Favicon, and Manifest links."""
     data_json_str = json.dumps(data)
     
     html_content = f'''<!DOCTYPE html>
@@ -141,12 +140,20 @@ def render_webapp(data):
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Industry Dive Daily - Executive Briefing</title>
     
-    <!-- Custom Flat Letter Icon & PWA Manifest -->
-    <link rel="icon" type="image/svg+xml" href="favicon.svg">
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="manifest.json">
+    <!-- Favicon & Browser Icons -->
+    <link rel="shortcut icon" href="./favicon.ico">
+    <link rel="icon" type="image/x-icon" href="./favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+    
+    <!-- Apple Touch Icons for iOS Home Screen -->
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" href="./apple-touch-icon-precomposed.png">
+    
+    <!-- PWA Web App Manifest -->
+    <link rel="manifest" href="./manifest.json">
     
     <!-- Theme & Status Bar Sizing -->
     <meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)">

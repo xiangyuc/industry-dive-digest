@@ -2,10 +2,13 @@
 """
 Generate minimalist letter-based flat icon assets for Industry Dive Daily:
 - favicon.svg
+- favicon.ico (32x32 ICO format)
 - apple-touch-icon.png (180x180)
+- apple-touch-icon-precomposed.png (180x180)
 - icon-192.png (192x192)
 - icon-512.png (512x512)
 - favicon-32x32.png (32x32)
+- favicon-16x16.png (16x16)
 """
 
 import os
@@ -44,7 +47,6 @@ def make_svg_icon():
 
 def create_png(width, height, draw_func):
     """Create raw RGBA PNG image without external dependencies using zlib."""
-    # RGBA image buffer (width * height * 4)
     pixels = bytearray(width * height * 4)
     
     for y in range(height):
@@ -56,78 +58,70 @@ def create_png(width, height, draw_func):
             pixels[idx+2] = b
             pixels[idx+3] = a
 
-    # PNG chunks building
     def chunk(tag, data):
         return struct.pack('>I', len(data)) + tag + data + struct.pack('>I', zlib.crc32(tag + data) & 0xffffffff)
 
-    # Raw scanlines with filter byte 0 (None)
     raw_data = bytearray()
     for y in range(height):
         raw_data.append(0) # Filter byte
         start = y * width * 4
         raw_data.extend(pixels[start:start + width * 4])
 
-    ihdr = struct.pack('>IIBBBBB', width, height, 8, 6, 0, 0, 0) # 8-bit RGBA
+    ihdr = struct.pack('>IIBBBBB', width, height, 8, 6, 0, 0, 0)
     idat = zlib.compress(bytes(raw_data), level=9)
     
     png_data = b'\x89PNG\r\n\x1a\n' + chunk(b'IHDR', ihdr) + chunk(b'IDAT', idat) + chunk(b'IEND', b'')
     return png_data
 
+def create_ico(png_32x32_bytes):
+    """Create standard .ico file embedding a 32x32 PNG icon."""
+    header = struct.pack('<HHH', 0, 1, 1) # Reserved, Type=1 (ICO), Count=1
+    # Width, Height, Colors, Reserved, Planes, BPP, Size, Offset
+    directory = struct.pack('<BBBBHHII', 32, 32, 0, 0, 1, 32, len(png_32x32_bytes), 22)
+    return header + directory + png_32x32_bytes
+
 def render_icon_pixel(x, y, w, h):
     """Draw smooth flat icon pixel (Squircle background + white/cyan letter 'D' & 'I')."""
-    # Normalize coordinates to 0..1
     nx = (x / (w - 1)) * 2 - 1  # -1 to 1
     ny = (y / (h - 1)) * 2 - 1  # -1 to 1
     
-    # Squircle radius (rounded rectangle formula: (|x/r|^p + |y/r|^p) <= 1)
-    # Power 4.5 gives iOS style squircle
     corner_dist = (abs(nx) ** 3.5 + abs(ny) ** 3.5) ** (1 / 3.5)
     
     if corner_dist > 0.96:
-        # Anti-aliased outer background margin
         if corner_dist > 0.98:
-            return (0, 0, 0, 0) # Transparent
+            return (0, 0, 0, 0)
         else:
             alpha = int((0.98 - corner_dist) / 0.02 * 255)
             return (15, 23, 42, alpha)
 
-    # Background gradient: #0284c7 (top left) to #0f172a (bottom right)
-    t = (nx + ny + 2) / 4 # 0 to 1
+    t = (nx + ny + 2) / 4
     br = int(2 * (1 - t) + 15 * t)
     bg = int(132 * (1 - t) + 23 * t)
     bb = int(199 * (1 - t) + 42 * t)
     
-    # Letter geometry matching 'I' and 'D'
-    # Letter 'I' rect: nx in [-0.55, -0.38], ny in [-0.48, 0.48]
     is_i = (-0.55 <= nx <= -0.38) and (-0.48 <= ny <= 0.48)
-    
-    # Letter 'D' outer bounds
-    # D left bar: nx in [-0.25, -0.06], ny in [-0.48, 0.48]
     is_d_bar = (-0.25 <= nx <= -0.06) and (-0.48 <= ny <= 0.48)
     
-    # D curve
     dx = nx - (-0.06)
     dy = ny
     in_d_curve = False
     if dx >= 0 and abs(dy) <= 0.48:
-        # Oval outer radius
         outer_r = (dx / 0.55)**2 + (dy / 0.48)**2
         inner_r = ((dx) / 0.36)**2 + (dy / 0.28)**2
         if outer_r <= 1.0 and inner_r >= 1.0:
             in_d_curve = True
 
-    # Red dot at top right
     dot_dist = ((nx - 0.52)**2 + (ny - (-0.40))**2)**0.5
     is_dot = dot_dist <= 0.095
 
     if is_i:
-        return (56, 189, 248, 255) # Cyan #38bdf8 for 'I'
+        return (56, 189, 248, 255)
     elif is_d_bar or in_d_curve:
-        return (255, 255, 255, 255) # Pure White #ffffff for 'D'
+        return (255, 255, 255, 255)
     elif is_dot:
-        return (244, 63, 94, 255) # Coral Red #f43f5e
+        return (244, 63, 94, 255)
     else:
-        return (br, bg, bb, 255) # Background gradient
+        return (br, bg, bb, 255)
 
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -145,19 +139,32 @@ def main():
     # Render PNG icons
     sizes = [
         ('apple-touch-icon.png', 180),
+        ('apple-touch-icon-precomposed.png', 180),
         ('icon-192.png', 192),
         ('icon-512.png', 512),
         ('favicon-32x32.png', 32),
         ('favicon-16x16.png', 16)
     ]
     
+    png_32_bytes = None
     for filename, sz in sizes:
         print(f"Rendering {filename} ({sz}x{sz})...")
         png_bytes = create_png(sz, sz, render_icon_pixel)
+        if sz == 32 and png_32_bytes is None:
+            png_32_bytes = png_bytes
+            
         for d in [base_dir, docs_dir]:
             with open(os.path.join(d, filename), 'wb') as f:
                 f.write(png_bytes)
                 
+    # Save favicon.ico
+    if png_32_bytes:
+        ico_bytes = create_ico(png_32_bytes)
+        for d in [base_dir, docs_dir]:
+            with open(os.path.join(d, 'favicon.ico'), 'wb') as f:
+                f.write(ico_bytes)
+        print("Generated favicon.ico")
+
     print("All icon assets generated successfully!")
 
 if __name__ == '__main__':
