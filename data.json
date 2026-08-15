@@ -1,6 +1,6 @@
 {
-  "date": "August 14, 2026",
-  "updated_at": "2026-08-14 22:15:33 UTC",
+  "date": "August 15, 2026",
+  "updated_at": "2026-08-15 22:13:48 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -311,13 +311,6 @@
           },
           "top_stories": [
             {
-              "title": "Cisco security revenue jumps 14% as agentic AI sharpens cyberattacks",
-              "link": "https://www.cybersecuritydive.com/news/cisco-security-revenue-surges-agentic-ai-sharpens-cyberattacks/827896/",
-              "summary": "With companies confronting more sophisticated threats, AI agents are driving demand for cybersecurity tools, CEO Chuck Robbins said.",
-              "image": "https://imgproxy.divecdn.com/-fpOlxvgYUoe5Kdmlt20ipTwTCetiG3wveKLd9ZqUKo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01OTE1OTAwODYuanBn.webp",
-              "date": "Fri, 14 Aug 2026 10:42:00 -0400"
-            },
-            {
               "title": "Researchers find AI-powered hacking tools for sale in underground forums",
               "link": "https://www.cybersecuritydive.com/news/ai-hacking-tools-sale-underground-forums/827807/",
               "summary": "A report shows how criminal actors are lowering the barriers to entry with sophisticated services, without ethical constraints.",
@@ -330,6 +323,13 @@
               "summary": "The new program, meant to aggressively disrupt costly cybercrime schemes, carries numerous legal and security risks.",
               "image": "https://imgproxy.divecdn.com/L6jBsGZ5bPAM8zFGgSu6EnxkLL1E8x00mqBihCO8C9M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI3ODE4MjM2LmpwZw==.webp",
               "date": "Thu, 13 Aug 2026 11:05:32 -0400"
+            },
+            {
+              "title": "Cisco security revenue jumps 14% as agentic AI sharpens cyberattacks",
+              "link": "https://www.cybersecuritydive.com/news/cisco-security-revenue-surges-agentic-ai-sharpens-cyberattacks/827896/",
+              "summary": "AI agents are driving demand for cybersecurity tools as companies confront increasingly sophisticated threats, CEO Chuck Robbins said.",
+              "image": "https://imgproxy.divecdn.com/-fpOlxvgYUoe5Kdmlt20ipTwTCetiG3wveKLd9ZqUKo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01OTE1OTAwODYuanBn.webp",
+              "date": "Thu, 13 Aug 2026 10:42:00 -0400"
             },
             {
               "title": "Hackers abuse AI models to find new entry paths",
@@ -406,7 +406,7 @@
           "lead_story": {
             "title": "Health advocacy group sues AMA to make billing codes public",
             "link": "https://www.healthcaredive.com/news/patient-rights-advocate-sues-ama-cpt-billing-codes-copyright/827830/",
-            "summary": "PatientRightsAdvocate.org is challenging the physician association\u2019s copyright of the current procedural terminology, or CPT, system. Use of the codes is required by law, and that means they should be freely available, p...",
+            "summary": "PatientRightsAdvocate.org is challenging the doctor\u2019s association\u2019s copyright of the current procedural terminology, or CPT, system. Use of the codes is required by law, and that means they should be freely available, pe...",
             "image": "https://imgproxy.divecdn.com/8tDp3FYimw6iTRRiXKf-eSGSrRz7cw3R4sIG7Xb0iAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDA3OTAwMjY2LmpwZw==.webp",
             "date": "Fri, 14 Aug 2026 10:00:47 -0400"
           },
@@ -414,16 +414,9 @@
             {
               "title": "Premiums, out-of-pocket costs dominate Americans\u2019 healthcare concerns: survey",
               "link": "https://www.healthcaredive.com/news/premiums-out-pocket-costs-dominate-americans-healthcare-survey/827893/",
-              "summary": "Respondents were split on who should solve the issues, with Democrats more likely to say the federal government and Republicans more likely to name insurers, according to the Commonwealth Fund.",
+              "summary": "Respondents were split on who should solve the issues, with Democrats more likely to say the federal government and Republicans more likely to name insurers, according to a survey from the Commonwealth Fund.",
               "image": "https://imgproxy.divecdn.com/0-v_sG-Q-H71WEpxErnJncCzRZ3vI-aH5Ekhgseh2f0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NjkwNjU5ODAuanBn.webp",
               "date": "Fri, 14 Aug 2026 09:13:08 -0400"
-            },
-            {
-              "title": "Prior authorization denials vary widely among insurers, first-of-its-kind data shows",
-              "link": "https://www.healthcaredive.com/news/prior-authorization-denials-vary-widely-among-insurers/827891/",
-              "summary": "Denials ranged from 2% to 25% among insurers last year, according to a KFF analysis of new prior authorization data that the CMS forced insurers to release.",
-              "image": "https://imgproxy.divecdn.com/iwZgePWB3GETI6LvipaEZlw2urrd-tSEnKET472dJyI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAyODQyMzk0LmpwZw==.webp",
-              "date": "Fri, 14 Aug 2026 09:05:25 -0400"
             },
             {
               "title": "Rural communities bear the brunt of healthcare workforce shortage: report",
@@ -445,6 +438,13 @@
               "summary": "CHAI plans to create playbooks to help organizations defend against \u2014 and leverage \u2014 these powerful systems.",
               "image": "https://imgproxy.divecdn.com/eVQeuvSnd0Q9BwYDA9gJWAtI2NOjxOj8Zb4qNdQ5WBg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg0ODIxNjk4LmpwZw==.webp",
               "date": "Thu, 13 Aug 2026 08:10:07 -0400"
+            },
+            {
+              "title": "Nonprofit hospital recovery may have peaked, Fitch warns",
+              "link": "https://www.healthcaredive.com/news/nonprofit-hospital-recovery-may-have-peaked-fitch-ratings-warns/827743/",
+              "summary": "Though the sector\u2019s overall operating margin improved in 2025, some providers lost ground \u2014 a worry for underperforming organizations facing looming federal funding cuts.",
+              "image": "https://imgproxy.divecdn.com/JroMTiEO1J3X0W6sE138eLmgWx8i_zGjfigjLKYeNeU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTcwMTc2NjYxLmpwZw==.webp",
+              "date": "Wed, 12 Aug 2026 16:37:18 -0400"
             }
           ]
         },
@@ -1243,13 +1243,6 @@
           },
           "top_stories": [
             {
-              "title": "Hillpointe enters Kentucky with 2 new developments",
-              "link": "https://www.multifamilydive.com/news/hillpointe-enters-kentucky-apartment-developments/827943/",
-              "summary": "The firm broke ground on Pointe Grand Citation and Pointe Grand Rose in the Lexington area, which will have a combined 868 attainable residences.",
-              "image": "https://imgproxy.divecdn.com/qOhEVaPew2ScAjC-QvvpEr5zR0VqC09b_EooCJhX5xI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9fRFNDMTkyNi5qcGc=.webp",
-              "date": "Fri, 14 Aug 2026 13:05:20 -0400"
-            },
-            {
               "title": "Seattle bans rental \u2018junk fees\u2019",
               "link": "https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/",
               "summary": "The new transparency ordinance, effective July 2027, eliminates administrative service charges, pet rent and package fees and requires upfront pricing for tenants.",
@@ -1276,6 +1269,13 @@
               "summary": "The business group aims to build on 21st Century ROAD to Housing law momentum by advancing market-driven policies to increase supply, according to a senior Chamber official.",
               "image": "https://imgproxy.divecdn.com/BeAQltWo3ZySBwBsW0OmqP0GfxDlzAT9kyRI0gNMuBg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MzU5MjI0NDguanBn.webp",
               "date": "Wed, 12 Aug 2026 15:34:00 -0400"
+            },
+            {
+              "title": "Monday Properties appoints new VP of development",
+              "link": "https://www.multifamilydive.com/news/monday-properties-vice-president-development/827591/",
+              "summary": "Jason Spencer has managed significant commercial and multifamily development pipelines throughout his career.",
+              "image": "https://imgproxy.divecdn.com/Hct_4aCQvnH3qBuPz_gN0dJun5eB6Q4nd9_gghmHQts/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg5Mzg0Nzk0LmpwZw==.webp",
+              "date": "Tue, 11 Aug 2026 17:01:00 -0400"
             }
           ]
         },
@@ -1344,11 +1344,18 @@
           },
           "top_stories": [
             {
-              "title": "WSP capitalizes on surging US power work",
+              "title": "WSP capitalizes on surging US power infrastructure construction",
               "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
               "summary": "Power now accounts for as much as 40% of the company\u2019s revenue, CEO Alexandre L\u2019Heureux said during a second-quarter earnings call.",
               "image": "https://imgproxy.divecdn.com/Z6TjjQ2CCwgk7872Kv5y_isC-K6gtLkW1t7eowIgxNk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX2RhdGFfY2VudGVyLmpwZw==.webp",
               "date": "Fri, 14 Aug 2026 10:40:05 -0400"
+            },
+            {
+              "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
+              "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
+              "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for an \u201cenergy campus.\u201d TransAlta intends to buy two power plants in Colorado totaling about 319 MW.",
+              "image": null,
+              "date": "Fri, 14 Aug 2026 09:02:30 -0400"
             },
             {
               "title": "Record-setting geothermal bid signals rising interest in federal leases",
@@ -1370,13 +1377,6 @@
               "summary": "The company plans to double its manufacturing capacity as it continues to see a \u201cstrong supply-demand environment\u201d for gas turbines in the U.S., CFO Hiroshi Nishio said.",
               "image": "https://imgproxy.divecdn.com/rQobEgdCDd_ThCLHvznBVGb4JP0I3be3VndtE2M3hU8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9taXRzdWJpc2hpZ2FzdHVyYmluZS5qcGc=.webp",
               "date": "Thu, 13 Aug 2026 08:00:00 -0400"
-            },
-            {
-              "title": "Texas hits new peak demand record, but supply constraints will limit growth",
-              "link": "https://www.utilitydive.com/news/supply-constraints-will-limit-ercot-peak-demand-growth-report/827677/",
-              "summary": "Ascend Analytics says more than 80% of new large loads seeking interconnection will not have matching generation online by 2030, even as data centers and industrial demand continue to surge.",
-              "image": "https://imgproxy.divecdn.com/EiT8DZ9i_EId37qojPsYKbLfzWgCgp_frM1DAeRcq6o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BdXN0aW5fcG93ZXJfcGxhbnQuanBn.webp",
-              "date": "Wed, 12 Aug 2026 13:00:00 -0400"
             }
           ]
         },
@@ -1578,7 +1578,7 @@
           "lead_story": {
             "title": "Crocs hatches new mascot Niles to enrich brand storytelling",
             "link": "https://www.marketingdive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/827895/",
-            "summary": "The 6-foot tall reptile, who appears in a new social series where he interacts with real employees, is expected to be a long-term fixture of Crocs\u2019 marketing.",
+            "summary": "The 6-foot-tall reptile, who appears in a new social series where he interacts with real employees, is expected to be a long-term fixture of Crocs\u2019 marketing.",
             "image": "https://imgproxy.divecdn.com/mXHPzT0uAVA6pTz0BPj7KVdKPKHWeriW5e_zWmGgEGE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Dcm9jcy1OaWxlcy0zLmpwZw==.webp",
             "date": "Fri, 14 Aug 2026 10:40:00 -0400"
           },
@@ -1600,7 +1600,7 @@
             {
               "title": "Smartphone school ban could imperil billions in social media ad revenue",
               "link": "https://www.marketingdive.com/news/smartphone-school-ban-could-imperil-billions-in-social-media-ad-revenue/827739/",
-              "summary": "While a national ban is currently hypothetical, eMarketer\u2019s research on its potential impact reflects the rapidly changing regulatory landscape for mobile.",
+              "summary": "While a national ban is currently hypothetical, Emarketer\u2019s research on its potential impact reflects the rapidly changing regulatory landscape for mobile.",
               "image": "https://imgproxy.divecdn.com/OBFrAQAInJ9rAVPM1FgwNxiiRy_8d99ONYrnw65AP8s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwMjU1Mjk1XzEuanBn.webp",
               "date": "Thu, 13 Aug 2026 11:10:33 -0400"
             },
@@ -1674,7 +1674,7 @@
           "lead_story": {
             "title": "Customer complaints are at a record high",
             "link": "https://www.customerexperiencedive.com/news/customer-complaints-record-high-acsi-finds/827948/",
-            "summary": "Consumers see higher prices and reduced customer support in a time of record corporate profits, and it\u2019s weighing on their satisfaction, ACSI finds.",
+            "summary": "Consumers see higher prices and reduced customer support in a time of record corporate profits, and it\u2019s weighing on their satisfaction.",
             "image": "https://imgproxy.divecdn.com/tM-oyDW7OBI2MPoTFXhWQTXv99cz_DNjowQ68pNzOoA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDQwOTg5Nzg3LmpwZw==.webp",
             "date": "Fri, 14 Aug 2026 13:46:37 -0400"
           },
