@@ -1,6 +1,6 @@
 {
-  "date": "August 15, 2026",
-  "updated_at": "2026-08-15 22:13:48 UTC",
+  "date": "August 16, 2026",
+  "updated_at": "2026-08-16 22:13:52 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -12,7 +12,7 @@
           "lead_story": {
             "title": "Bank of America won\u2019t let employees work remotely 2 days in a row",
             "link": "https://www.bankingdive.com/news/bank-of-america-wont-let-employees-work-remotely-2-days-in-a-row/827938/",
-            "summary": "The ban on taking two consecutive remote days includes Friday to Monday and takes effect in mid-September, according to a policy update workers received this week.",
+            "summary": "The ban on taking two consecutive remote days includes Friday to Monday and takes effect in mid-September, according to a policy update workers received last week.",
             "image": "https://imgproxy.divecdn.com/8khlDLzWKNWAtnoZDdYETkekJMlEOdtDwrOlLeeltmU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYyMzI5NzYxLmpwZw==.webp",
             "date": "Fri, 14 Aug 2026 12:26:40 -0400"
           },
@@ -162,6 +162,13 @@
           },
           "top_stories": [
             {
+              "title": "Credit card strain rises: study",
+              "link": "https://www.paymentsdive.com/news/credit-cards-strain-rises-study-debt-consumer-spending/827880/",
+              "summary": "As consumers spend more monthly on their credit cards, some cardholders are carrying hefty balances, a J.D. Power analysis found.",
+              "image": "https://imgproxy.divecdn.com/zyMj8RSfCJRnULIkBu7h3SzpJa-228WOCwPmCt6l3zo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcxMzM5Mjc0LmpwZw==.webp",
+              "date": "Fri, 14 Aug 2026 07:53:31 -0400"
+            },
+            {
               "title": "Sezzle pivots to national bank charter",
               "link": "https://www.paymentsdive.com/news/sezzle-pivots-to-national-bank-charter/827791/",
               "summary": "With states imposing tighter rules on buy now, pay later companies, Sezzle CEO Charlie Youakim views a federal charter as \u201cthe most robust solution.\u201d",
@@ -188,13 +195,6 @@
               "summary": "States are taking a larger role to regulate emerging payments offerings, like earned wage access and buy now, pay later. How will that unfold? Here is the perspective of one lawyer who worked for California state governm...",
               "image": "https://imgproxy.divecdn.com/QgWntJBIi9wmk7OGDnQXGHnnNV7oD0cWSDPggs993zs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgzMDg4MTAwLmpwZw==.webp",
               "date": "Wed, 12 Aug 2026 09:00:00 -0400"
-            },
-            {
-              "title": "Shift4 racked by Iran turmoil",
-              "link": "https://www.paymentsdive.com/news/shift4-racked-by-iran-turmoil/827411/",
-              "summary": "The payments processor sees a large opportunity to expand merchant services sales within its Global Blue retail network, CEO Taylor Lauber said.",
-              "image": "https://imgproxy.divecdn.com/xOFj3lDnI_YYR28Ej_DhDZFi4JRt4CFVjK1niuGlH30/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc0NDY0NzEyLmpwZw==.webp",
-              "date": "Tue, 11 Aug 2026 09:34:02 -0400"
             }
           ]
         },
@@ -406,7 +406,7 @@
           "lead_story": {
             "title": "Health advocacy group sues AMA to make billing codes public",
             "link": "https://www.healthcaredive.com/news/patient-rights-advocate-sues-ama-cpt-billing-codes-copyright/827830/",
-            "summary": "PatientRightsAdvocate.org is challenging the doctor\u2019s association\u2019s copyright of the current procedural terminology, or CPT, system. Use of the codes is required by law, and that means they should be freely available, pe...",
+            "summary": "PatientRightsAdvocate.org is challenging the physician association\u2019s copyright of the current procedural terminology, or CPT, system. Use of the codes is required by law, and that means they should be freely available, p...",
             "image": "https://imgproxy.divecdn.com/8tDp3FYimw6iTRRiXKf-eSGSrRz7cw3R4sIG7Xb0iAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDA3OTAwMjY2LmpwZw==.webp",
             "date": "Fri, 14 Aug 2026 10:00:47 -0400"
           },
@@ -414,9 +414,16 @@
             {
               "title": "Premiums, out-of-pocket costs dominate Americans\u2019 healthcare concerns: survey",
               "link": "https://www.healthcaredive.com/news/premiums-out-pocket-costs-dominate-americans-healthcare-survey/827893/",
-              "summary": "Respondents were split on who should solve the issues, with Democrats more likely to say the federal government and Republicans more likely to name insurers, according to a survey from the Commonwealth Fund.",
+              "summary": "Respondents were split on who should solve the issues, with Democrats more likely to say the federal government and Republicans more likely to name insurers, according to the Commonwealth Fund.",
               "image": "https://imgproxy.divecdn.com/0-v_sG-Q-H71WEpxErnJncCzRZ3vI-aH5Ekhgseh2f0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NjkwNjU5ODAuanBn.webp",
               "date": "Fri, 14 Aug 2026 09:13:08 -0400"
+            },
+            {
+              "title": "Prior authorization denials vary widely among insurers, first-of-its-kind data shows",
+              "link": "https://www.healthcaredive.com/news/prior-authorization-denials-vary-widely-among-insurers/827891/",
+              "summary": "Denials ranged from 2% to 25% among insurers last year, according to a KFF analysis of new prior authorization data that the CMS forced insurers to release.",
+              "image": "https://imgproxy.divecdn.com/iwZgePWB3GETI6LvipaEZlw2urrd-tSEnKET472dJyI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAyODQyMzk0LmpwZw==.webp",
+              "date": "Fri, 14 Aug 2026 09:05:25 -0400"
             },
             {
               "title": "Rural communities bear the brunt of healthcare workforce shortage: report",
@@ -438,13 +445,6 @@
               "summary": "CHAI plans to create playbooks to help organizations defend against \u2014 and leverage \u2014 these powerful systems.",
               "image": "https://imgproxy.divecdn.com/eVQeuvSnd0Q9BwYDA9gJWAtI2NOjxOj8Zb4qNdQ5WBg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg0ODIxNjk4LmpwZw==.webp",
               "date": "Thu, 13 Aug 2026 08:10:07 -0400"
-            },
-            {
-              "title": "Nonprofit hospital recovery may have peaked, Fitch warns",
-              "link": "https://www.healthcaredive.com/news/nonprofit-hospital-recovery-may-have-peaked-fitch-ratings-warns/827743/",
-              "summary": "Though the sector\u2019s overall operating margin improved in 2025, some providers lost ground \u2014 a worry for underperforming organizations facing looming federal funding cuts.",
-              "image": "https://imgproxy.divecdn.com/JroMTiEO1J3X0W6sE138eLmgWx8i_zGjfigjLKYeNeU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTcwMTc2NjYxLmpwZw==.webp",
-              "date": "Wed, 12 Aug 2026 16:37:18 -0400"
             }
           ]
         },
@@ -817,7 +817,7 @@
             {
               "title": "FTC to disburse $23.8M from Grubhub settlement",
               "link": "https://www.restaurantdive.com/news/ftc-pays-out-grubhub-settlement-23-million/827817/",
-              "summary": "Grubhub originally settled with the Federal Trade Commission in 2024 regarding consumer bans and allegedly deceptive driver pay messaging.",
+              "summary": "Grubhub originally settled with the Federal Trade Commission in 2024 for allegedly unfairly blocking consumers and deceiving drivers in pay messaging.",
               "image": "https://imgproxy.divecdn.com/vTfbUpPFiYAhBSq3ve8cWokTMKRRRdimXQv_0g52aiY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg0NjIxMDU5LmpwZw==.webp",
               "date": "Thu, 13 Aug 2026 12:11:03 -0400"
             },
@@ -1243,6 +1243,13 @@
           },
           "top_stories": [
             {
+              "title": "Hillpointe enters Kentucky with 2 new developments",
+              "link": "https://www.multifamilydive.com/news/hillpointe-enters-kentucky-apartment-developments/827943/",
+              "summary": "The firm broke ground on Pointe Grand Citation and Pointe Grand Rose in the Lexington area, which will have a combined 868 attainable residences.",
+              "image": "https://imgproxy.divecdn.com/qOhEVaPew2ScAjC-QvvpEr5zR0VqC09b_EooCJhX5xI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9fRFNDMTkyNi5qcGc=.webp",
+              "date": "Fri, 14 Aug 2026 13:05:20 -0400"
+            },
+            {
               "title": "Seattle bans rental \u2018junk fees\u2019",
               "link": "https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/",
               "summary": "The new transparency ordinance, effective July 2027, eliminates administrative service charges, pet rent and package fees and requires upfront pricing for tenants.",
@@ -1269,13 +1276,6 @@
               "summary": "The business group aims to build on 21st Century ROAD to Housing law momentum by advancing market-driven policies to increase supply, according to a senior Chamber official.",
               "image": "https://imgproxy.divecdn.com/BeAQltWo3ZySBwBsW0OmqP0GfxDlzAT9kyRI0gNMuBg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MzU5MjI0NDguanBn.webp",
               "date": "Wed, 12 Aug 2026 15:34:00 -0400"
-            },
-            {
-              "title": "Monday Properties appoints new VP of development",
-              "link": "https://www.multifamilydive.com/news/monday-properties-vice-president-development/827591/",
-              "summary": "Jason Spencer has managed significant commercial and multifamily development pipelines throughout his career.",
-              "image": "https://imgproxy.divecdn.com/Hct_4aCQvnH3qBuPz_gN0dJun5eB6Q4nd9_gghmHQts/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg5Mzg0Nzk0LmpwZw==.webp",
-              "date": "Tue, 11 Aug 2026 17:01:00 -0400"
             }
           ]
         },
@@ -1344,18 +1344,11 @@
           },
           "top_stories": [
             {
-              "title": "WSP capitalizes on surging US power infrastructure construction",
+              "title": "WSP capitalizes on surging US power work",
               "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
               "summary": "Power now accounts for as much as 40% of the company\u2019s revenue, CEO Alexandre L\u2019Heureux said during a second-quarter earnings call.",
               "image": "https://imgproxy.divecdn.com/Z6TjjQ2CCwgk7872Kv5y_isC-K6gtLkW1t7eowIgxNk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX2RhdGFfY2VudGVyLmpwZw==.webp",
               "date": "Fri, 14 Aug 2026 10:40:05 -0400"
-            },
-            {
-              "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
-              "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
-              "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for an \u201cenergy campus.\u201d TransAlta intends to buy two power plants in Colorado totaling about 319 MW.",
-              "image": null,
-              "date": "Fri, 14 Aug 2026 09:02:30 -0400"
             },
             {
               "title": "Record-setting geothermal bid signals rising interest in federal leases",
@@ -1377,6 +1370,13 @@
               "summary": "The company plans to double its manufacturing capacity as it continues to see a \u201cstrong supply-demand environment\u201d for gas turbines in the U.S., CFO Hiroshi Nishio said.",
               "image": "https://imgproxy.divecdn.com/rQobEgdCDd_ThCLHvznBVGb4JP0I3be3VndtE2M3hU8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9taXRzdWJpc2hpZ2FzdHVyYmluZS5qcGc=.webp",
               "date": "Thu, 13 Aug 2026 08:00:00 -0400"
+            },
+            {
+              "title": "Texas hits new peak demand record, but supply constraints will limit growth",
+              "link": "https://www.utilitydive.com/news/supply-constraints-will-limit-ercot-peak-demand-growth-report/827677/",
+              "summary": "Ascend Analytics says more than 80% of new large loads seeking interconnection will not have matching generation online by 2030, even as data centers and industrial demand continue to surge.",
+              "image": "https://imgproxy.divecdn.com/EiT8DZ9i_EId37qojPsYKbLfzWgCgp_frM1DAeRcq6o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BdXN0aW5fcG93ZXJfcGxhbnQuanBn.webp",
+              "date": "Wed, 12 Aug 2026 13:00:00 -0400"
             }
           ]
         },
@@ -1586,7 +1586,7 @@
             {
               "title": "Campaign Trail: Shinola and \u2018Succession\u2019 star set the pace in anxious ad",
               "link": "https://www.marketingdive.com/news/campaign-trail-shinola-succession-star-set-the-pace-in-anxious-ad/827645/",
-              "summary": "Created with agency GentleForces, the Detroit-based design company\u2019s first brand campaign features and was directed by actor Nicholas Braun.",
+              "summary": "The Detroit-based design company\u2019s first brand campaign, created with agency GentleForces, features and was directed by actor Nicholas Braun.",
               "image": "https://imgproxy.divecdn.com/pYfI16WxrSOnUAZDz6hiZ8QNeD4mztki3oUk7pIZk7A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GSU5BTF9TaG90XzAxXzAwODVfVjMuanBn.webp",
               "date": "Fri, 14 Aug 2026 09:35:00 -0400"
             },
@@ -1634,7 +1634,7 @@
             {
               "title": "Instagram reveals its new logo",
               "link": "https://www.socialmediatoday.com/news/instagram-reveals-its-new-logo/827871/",
-              "summary": "It\u2019s the first updated branding for the app in more than a decade and users have received the refresh with mixed reactions.",
+              "summary": "It\u2019s the first updated branding for the app in more than a decade, and users have received the refresh with mixed reactions.",
               "image": null,
               "date": "Thu, 13 Aug 2026 16:27:57 -0400"
             },
