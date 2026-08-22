@@ -1,6 +1,6 @@
 {
-  "date": "August 21, 2026",
-  "updated_at": "2026-08-21 22:16:42 UTC",
+  "date": "August 22, 2026",
+  "updated_at": "2026-08-22 22:14:57 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -12,7 +12,7 @@
           "lead_story": {
             "title": "Virginia lender to acquire Forbright\u2019s DC-area branches",
             "link": "https://www.bankingdive.com/news/trustar-buy-dc-area-branches-forbright-750-million-deposits-digital-middle-market-maryland-virginia/828517/",
-            "summary": "The transaction, set to close in the fourth quarter, adds $750 million in deposits and three locations to Trustar\u2019s footprint. That frees Forbright to focus on national digital lending.",
+            "summary": "The transaction, set to close in the fourth quarter, adds three locations and $750 million in deposits to Trustar\u2019s footprint. That frees Forbright to focus on national digital lending.",
             "image": "https://imgproxy.divecdn.com/rlq2wftNUi6Y0bCaus6KxCBAmLfBF8etn4ImLv6MEYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01OTMzMzUzODYuanBn.webp",
             "date": "Fri, 21 Aug 2026 12:20:06 -0400"
           },
@@ -508,13 +508,6 @@
           },
           "top_stories": [
             {
-              "title": "Siemens Healthineers, Philips awarded ARPA-H funds for stroke robots",
-              "link": "https://www.medtechdive.com/news/siemens-healthineers-philips-awarded-arpa-h-funds-for-stroke-robots/828513/",
-              "summary": "The federal program aims to get stroke patients treated faster through autonomous mechanical thrombectomy. Several organizations will share up to $175.3 million in funding to develop robots.",
-              "image": "https://imgproxy.divecdn.com/pxC2yW1qZhMv8FFHGtViPA2KryY3_Pfu7kxPvvCensY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjk3MDM0MzI5LmpwZw==.webp",
-              "date": "Fri, 21 Aug 2026 11:55:54 -0400"
-            },
-            {
               "title": "Cyberattacks have plagued the medtech industry in 2026",
               "link": "https://www.medtechdive.com/news/cyberattacks-have-plagued-the-medtech-industry-in-2026/828489/",
               "summary": "Stryker, Medtronic and Abbott are among the collection of medical device firms that have disclosed cyberattacks this year. Check out MedTech Dive\u2019s roundup of coverage.",
@@ -541,6 +534,13 @@
               "summary": "Heidi Overton, a medical doctor and veteran of the America First think tank, currently serves as deputy director of the White House Domestic Policy Council.",
               "image": "https://imgproxy.divecdn.com/0Ji_8vuSFNkANC4aPmbqLev61iJBHf6Kl3sGJt3LgMY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X3pJUnRuUlcuanBn.webp",
               "date": "Wed, 19 Aug 2026 16:44:00 -0400"
+            },
+            {
+              "title": "FDA seeks feedback on generative AI regulations",
+              "link": "https://www.medtechdive.com/news/fda-seeks-feedback-on-generative-ai-regulations/828274/",
+              "summary": "The agency published a discussion paper this week as it considers the \u201cunique risks\u201d and potential promise of generative AI for patient care.",
+              "image": "https://imgproxy.divecdn.com/d2JyuXgmLsPVrlZlLVlPLECICsiII5W1r34tQBQf49c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTIwX0w2OGs1OEwuanBn.webp",
+              "date": "Wed, 19 Aug 2026 11:48:33 -0400"
             }
           ]
         },
@@ -651,7 +651,7 @@
           "lead_story": {
             "title": "US to temporarily relieve ground beef tariffs in bid to lower prices",
             "link": "https://www.fooddive.com/news/us-beef-prices-tariff-relief-trump/828509/",
-            "summary": "President Donald Trump said he will allow 300,000 metric tons of product to enter the country duty-free for the next 90 days.",
+            "summary": "President Donald Trump said he will allow 300,000 metric tons of product to enter the country duty-free for the next 90 days as domestic production is set to hit the lowest level since 1970.",
             "image": "https://imgproxy.divecdn.com/JAeGUu_wL4B7n5rws5oN9nl2XEOydf9NCZQlSp3TQ2o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3NzM3MjQzLmpwZw==.webp",
             "date": "Fri, 21 Aug 2026 11:43:00 -0400"
           },
@@ -664,7 +664,7 @@
               "date": "Fri, 21 Aug 2026 10:37:00 -0400"
             },
             {
-              "title": "Leftovers: Reese\u2019s Puffs spoons up PB&J cereal | Little Bites debuts mystery muffins",
+              "title": "Leftovers: Reese\u2019s Puffs leans into nostalgia with PB&J flavor | Little Bites debuts mystery muffins",
               "link": "https://www.fooddive.com/news/reeses-puffs-peanut-butter-jelly-little-bites-mystery-flavor-7-brew-canned-latte-energy-drinks/828487/",
               "summary": "The launch from General Mills follows the success of Reese\u2019s PB+J cups last year, while drive-thru coffee chain 7 Brew enters retail with a lineup of caffeinated drinks.",
               "image": "https://imgproxy.divecdn.com/rteJmZ-M3WkEtvszW8CEMLvQVzVnaF6ZeV_ct8OCq70/g:nowe:8:0/c:1911:1080/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SUF9QQkpfSGVyb19JbWFnZV8xLmpwZw==.webp",
@@ -714,7 +714,7 @@
             {
               "title": "The FTC is turning its sights on personalized pricing. What does it mean for customers?",
               "link": "https://www.grocerydive.com/news/ftc-personalized-surveillance-pricing-customers/828490/",
-              "summary": "The Federal Trade Commission is seeking comments on the practice, giving businesses yet another reason to be wary of implementing personalized or surveillance pricing.",
+              "summary": "Consumers are anathema to what they see as unfair pricing practices. Now, the Federal Trade Commission is giving businesses yet another reason to be wary of implementing personalized or surveillance pricing.",
               "image": "https://imgproxy.divecdn.com/aVfhWXuUu8H_W0QTTjwkwx8ZTOQP_ZpiEP-Vy2M1jdE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA4OTU1NTc2X1FSV2RSMEouanBn.webp",
               "date": "Fri, 21 Aug 2026 10:15:00 -0400"
             },
@@ -843,7 +843,7 @@
           "lead_story": {
             "title": "California EPR lawsuit escalates as forthcoming Oregon ruling looms",
             "link": "https://www.packagingdive.com/news/naw-california-sb54-amended-complaint-oregon-post-trial-briefings/828055/",
-            "summary": "The National Association of Wholesaler-Distributors and a group of AGs are seeking to block SB 54 enforcement. Their complaint also now accounts for tie-ins with recyclability law SB 343, for which enforcement is tempora...",
+            "summary": "The National Association of Wholesaler-Distributors and 17 AGs are seeking to block SB 54 enforcement. Their complaint also now accounts for tie-ins with recyclability law SB 343, for which enforcement is temporarily blo...",
             "image": "https://imgproxy.divecdn.com/04MJjmAugO9TdNddzUuCsEowpHppEqO1flxn4-u641g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3NDkyNTI1LmpwZw==.webp",
             "date": "Fri, 21 Aug 2026 10:58:08 -0400"
           },
@@ -894,13 +894,20 @@
           "name": "Supply Chain Dive",
           "url": "https://www.supplychaindive.com",
           "lead_story": {
-            "title": "Panama Canal to trim daily shipping slots due to El Ni\u00f1o",
-            "link": "https://www.supplychaindive.com/news/panama-canal-to-trim-daily-shipping-slots-due-to-el-nino/828505/",
-            "summary": "Concerns over drought from the weather event is pushing the canal to limit how many vessels traverse the waterway this fall.",
-            "image": null,
-            "date": "Fri, 21 Aug 2026 17:00:00 -0400"
+            "title": "Trump\u2019s 50% tariff on many Canada imports in effect as talks stall",
+            "link": "https://www.supplychaindive.com/news/trumps-50-tariff-on-many-canada-imports-in-effect-as-talks-stall/828549/",
+            "summary": "The two countries failed to reach an agreement before Saturday\u2019s deadline for the Section 338 levies, with Canada vowing to \u201cmatch those tariffs dollar for dollar.\u201d",
+            "image": "https://imgproxy.divecdn.com/X5_daOaPZR4zwPKJzAZ5Gj6z1Et9HjqP4KOwbcYWFa4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxMjYxNzYyLmpwZw==.webp",
+            "date": "Sat, 22 Aug 2026 10:23:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Panama Canal to trim daily shipping slots due to El Ni\u00f1o",
+              "link": "https://www.supplychaindive.com/news/panama-canal-to-trim-daily-shipping-slots-due-to-el-nino/828505/",
+              "summary": "Concerns over drought from the weather event is pushing the canal to limit how many vessels traverse the waterway this fall.",
+              "image": null,
+              "date": "Fri, 21 Aug 2026 17:00:00 -0400"
+            },
             {
               "title": "US to temporarily relieve ground beef tariffs in bid to lower prices",
               "link": "https://www.supplychaindive.com/news/us-beef-prices-tariff-relief-trump/828510/",
@@ -928,13 +935,6 @@
               "summary": "Despite added charges for faster fulfillment, customers are flocking to the retailer's roster of quick delivery options, executives said.",
               "image": "https://imgproxy.divecdn.com/ou7ed8BjQXPcocZEQJGAfHSIW2DOt1a0E9v-WyGUUsc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWxtYXJ0X0dlcm1hbnRvd25fTWFyeWxhbmRfMDYwOTI1LTEuSlBH.webp",
               "date": "Fri, 21 Aug 2026 09:44:56 -0400"
-            },
-            {
-              "title": "Birkenstock production network capacity expansion on track to meet 2027 target",
-              "link": "https://www.supplychaindive.com/news/birkenstock-production-network-capacity-expansion-on-track-to-meet-2027-tar/828290/",
-              "summary": "The footwear maker\u2019s plans include enlarging and refitting plants in Germany while also extending a factory in Portugal.",
-              "image": "https://imgproxy.divecdn.com/jnj6JomzV51BO9JIKwjq_I3kuvQiIX2XGcixzibR2pQ/g:nowe:0:44/c:2015:1138/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iaXJrZW5zdG9ja19zaG9lcy5qcGc=.webp",
-              "date": "Fri, 21 Aug 2026 07:26:00 -0400"
             }
           ]
         },
@@ -1040,7 +1040,7 @@
           "lead_story": {
             "title": "AI agents arrive in the cabin, bringing automakers opportunities and risks",
             "link": "https://www.wardsauto.com/news/ai-agents-arrive-in-the-cabin-bringing-automakers-opportunities-and-risks/827401/",
-            "summary": "Improved consumer UX is on the way while OEMs will lose some control of the cockpit environment, says Cubic3.",
+            "summary": "Improved consumer UX is on the way, while OEMs are set to lose some control of the cockpit environment.",
             "image": "https://imgproxy.divecdn.com/5DDZrWjphRlG60EjFd4QMwGd_qA6dAXsdBHjfGrjkNY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DdWJpYzNJbkNhckFJQWdlbnQuanBn.webp",
             "date": "Fri, 21 Aug 2026 11:55:00 -0400"
           },
@@ -1048,7 +1048,7 @@
             {
               "title": "LG Energy Solution starts production at new Michigan battery factory",
               "link": "https://www.wardsauto.com/news/lg-energy-solution-starts-production-at-new-michigan-battery-factory/828383/",
-              "summary": "The 35-GWh plant in Lansing will manufacture large-format batteries for the energy storage and for electric vehicles, including the Toyota Highlander EV.",
+              "summary": "The 35-GWh plant in Lansing will manufacture large-format batteries for energy storage and for electric vehicles, including the Toyota Highlander EV.",
               "image": "https://imgproxy.divecdn.com/0ceNEu3G2DhMUR51Wks0T43Qijp4muGqmnyYpvtTYoE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDgtMjBfYXRfOS4zNC41MkFNLnBuZw==.webp",
               "date": "Fri, 21 Aug 2026 10:50:00 -0400"
             },
