@@ -1,6 +1,6 @@
 {
-  "date": "August 22, 2026",
-  "updated_at": "2026-08-22 22:14:57 UTC",
+  "date": "August 23, 2026",
+  "updated_at": "2026-08-23 22:14:50 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -12,7 +12,7 @@
           "lead_story": {
             "title": "Virginia lender to acquire Forbright\u2019s DC-area branches",
             "link": "https://www.bankingdive.com/news/trustar-buy-dc-area-branches-forbright-750-million-deposits-digital-middle-market-maryland-virginia/828517/",
-            "summary": "The transaction, set to close in the fourth quarter, adds three locations and $750 million in deposits to Trustar\u2019s footprint. That frees Forbright to focus on national digital lending.",
+            "summary": "The transaction, set to close in the fourth quarter, adds $750 million in deposits and three locations to Trustar\u2019s footprint. That frees Forbright to focus on national digital lending.",
             "image": "https://imgproxy.divecdn.com/rlq2wftNUi6Y0bCaus6KxCBAmLfBF8etn4ImLv6MEYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01OTMzMzUzODYuanBn.webp",
             "date": "Fri, 21 Aug 2026 12:20:06 -0400"
           },
@@ -1040,7 +1040,7 @@
           "lead_story": {
             "title": "AI agents arrive in the cabin, bringing automakers opportunities and risks",
             "link": "https://www.wardsauto.com/news/ai-agents-arrive-in-the-cabin-bringing-automakers-opportunities-and-risks/827401/",
-            "summary": "Improved consumer UX is on the way, while OEMs are set to lose some control of the cockpit environment.",
+            "summary": "Improved consumer UX is on the way while OEMs will lose some control of the cockpit environment, says Cubic3.",
             "image": "https://imgproxy.divecdn.com/5DDZrWjphRlG60EjFd4QMwGd_qA6dAXsdBHjfGrjkNY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DdWJpYzNJbkNhckFJQWdlbnQuanBn.webp",
             "date": "Fri, 21 Aug 2026 11:55:00 -0400"
           },
@@ -1048,7 +1048,7 @@
             {
               "title": "LG Energy Solution starts production at new Michigan battery factory",
               "link": "https://www.wardsauto.com/news/lg-energy-solution-starts-production-at-new-michigan-battery-factory/828383/",
-              "summary": "The 35-GWh plant in Lansing will manufacture large-format batteries for energy storage and for electric vehicles, including the Toyota Highlander EV.",
+              "summary": "The 35-GWh plant in Lansing will manufacture large-format batteries for the energy storage and for electric vehicles, including the Toyota Highlander EV.",
               "image": "https://imgproxy.divecdn.com/0ceNEu3G2DhMUR51Wks0T43Qijp4muGqmnyYpvtTYoE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDgtMjBfYXRfOS4zNC41MkFNLnBuZw==.webp",
               "date": "Fri, 21 Aug 2026 10:50:00 -0400"
             },
@@ -1338,11 +1338,18 @@
           "lead_story": {
             "title": "PJM eyes option to jumpstart surplus interconnection pathway",
             "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
-            "summary": "In need of capacity, the PJM\u2019s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+            "summary": "PJM\u2019s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively \u2014 mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
             "image": "https://imgproxy.divecdn.com/U_j_MAdfblETee_c7wTPi4mhoqIpzMYaQims9vIhLJc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDM3NTkyNzQ3LmpwZw==.webp",
             "date": "Fri, 21 Aug 2026 08:34:58 -0400"
           },
           "top_stories": [
+            {
+              "title": "ERCOT aims to complete Texas governor\u2019s data center audit by December",
+              "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+              "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas\u2019 upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+              "image": "https://imgproxy.divecdn.com/63dN62FImZs15wYmT2L6TGtJ5tmrkmz_lcp9CFXg_Qs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QVUNULkVSQ09ULjguMjAuMjYucG5n.webp",
+              "date": "Fri, 21 Aug 2026 07:12:58 -0400"
+            },
             {
               "title": "Duke\u2019s Carolinas resource plan targets 18.5 GW new solar by 2041",
               "link": "https://www.utilitydive.com/news/dukes-carolinas-resource-plan-solar-gas-nuclear/828402/",
@@ -1370,13 +1377,6 @@
               "summary": "Robust compensation and metering, along with strong customer protections, are needed to drive participation in utility virtual power plants programs, according to experts.",
               "image": "https://imgproxy.divecdn.com/iufL00sIgeaxKNw8jnIGOFxagmAL1noTOrMGJ3_z0lk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yb29mdG9wX3NvbGFyX0NhbGlmb3JuaWEuanBn.webp",
               "date": "Wed, 19 Aug 2026 13:31:40 -0400"
-            },
-            {
-              "title": "Home buyers want more information on energy usage. Utilities can help.",
-              "link": "https://www.utilitydive.com/news/home-buyers-want-more-information-on-energy-usage-utilities-can-help/827014/",
-              "summary": "By positioning themselves as trusted experts for both buyers and real estate agents, utilities can speed the adoption of efficient grid technologies, say residential energy experts.",
-              "image": "https://imgproxy.divecdn.com/T0Dx-Dse_0slS4uKYoAvwButYuiNLFrS36AvjjcRuXs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TYW50YV9DbGFyaXRhX3Jvb2Z0b3Bfc29sYXIuanBn.webp",
-              "date": "Wed, 19 Aug 2026 11:00:00 -0400"
             }
           ]
         },
