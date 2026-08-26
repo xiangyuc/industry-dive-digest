@@ -130,7 +130,7 @@ def build_data():
     }
 
 def render_webapp(data):
-    """Render a mobile PWA HTML app with complete Apple Touch Icons, Favicon, and Manifest links."""
+    """Render a mobile PWA HTML app with reversed category order and no 'All Categories' tab."""
     data_json_str = json.dumps(data)
     
     html_content = f'''<!DOCTYPE html>
@@ -500,7 +500,7 @@ def render_webapp(data):
         </div>
         
         <div class="chips-scroll" id="categoryChips">
-            <div class="chip active" data-category="ALL">All Categories</div>
+            <!-- Rendered dynamically -->
         </div>
     </header>
 
@@ -510,7 +510,7 @@ def render_webapp(data):
 
     <script>
         const APP_DATA = {data_json_str};
-        let currentCategory = 'ALL';
+        let currentCategory = APP_DATA.categories.length > 0 ? APP_DATA.categories[0].category : '';
 
         function initApp() {{
             renderChips();
@@ -525,10 +525,8 @@ def render_webapp(data):
             window.addEventListener('scroll', () => {{
                 const currentScrollY = window.scrollY;
                 if (currentScrollY > lastScrollY && currentScrollY > 50) {{
-                    // Hide header when scrolling down
                     header.classList.add('header-hidden');
                 }} else if (currentScrollY < lastScrollY) {{
-                    // Show header when scrolling up
                     header.classList.remove('header-hidden');
                 }}
                 lastScrollY = currentScrollY;
@@ -537,10 +535,11 @@ def render_webapp(data):
 
         function renderChips() {{
             const container = document.getElementById('categoryChips');
-            const chips = ['<div class="chip active" data-category="ALL">All Categories</div>'];
+            const chips = [];
             
             APP_DATA.categories.forEach(cat => {{
-                chips.push(`<div class="chip" data-category="${{cat.category}}">${{cat.category}}</div>`);
+                const activeClass = (cat.category === currentCategory) ? ' active' : '';
+                chips.push(`<div class="chip${{activeClass}}" data-category="${{cat.category}}">${{cat.category}}</div>`);
             }});
             
             container.innerHTML = chips.join('');
@@ -561,7 +560,7 @@ def render_webapp(data):
             let html = [];
             
             let filteredCats = APP_DATA.categories.filter(cat => {{
-                if (currentCategory !== 'ALL' && cat.category !== currentCategory) return false;
+                if (currentCategory && cat.category !== currentCategory) return false;
                 return true;
             }});
 
