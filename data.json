@@ -1,6 +1,6 @@
 {
   "date": "August 29, 2026",
-  "updated_at": "2026-08-29 03:26:38 UTC",
+  "updated_at": "2026-08-29 23:49:19 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -17,6 +17,13 @@
             "date": "Fri, 28 Aug 2026 10:11:36 -0400"
           },
           "top_stories": [
+            {
+              "title": "Federal authorities disrupt China-backed hacking operation targeting US critical infrastructure",
+              "link": "https://www.utilitydive.com/news/federal-authorities-disrupt-china-hacking-US-critical-infrastructure/829094/",
+              "summary": "Compromised IoT devices were used in a yearslong campaign against key sectors and federal agencies, including the U.S. Department of Energy and power companies, according to court records.",
+              "image": "https://imgproxy.divecdn.com/cHzi9njVRIRmL9XVlLqv9gwE_Jder0BHYundO00wb8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfWVk0RHIwRS5qcGc=.webp",
+              "date": "Fri, 28 Aug 2026 08:33:36 -0400"
+            },
             {
               "title": "Long-term enhanced geothermal test begins in Utah",
               "link": "https://www.utilitydive.com/news/testing-of-long-term-enhanced-geothermal-production-begins-in-utah/828975/",
@@ -44,13 +51,6 @@
               "summary": "Grid equipment manufacturers say more clarity will be needed, particularly around rules for software and digital products where the country of origin may be difficult to determine.",
               "image": "https://imgproxy.divecdn.com/pHfFNL8K-AEVfoLd40zRbuQMd5-AathKOS5gsxZ10E4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY5Mjg4OTM3LmpwZw==.webp",
               "date": "Thu, 27 Aug 2026 09:58:29 -0400"
-            },
-            {
-              "title": "Data center load made up 9% of PJM wholesale costs so far in 2026: market monitor",
-              "link": "https://www.utilitydive.com/news/data-center-load-pjm-wholesale-market/828917/",
-              "summary": "Overall wholesale power costs in the PJM Interconnection jumped 46% to $56.7 billion so far this year, driven by rising energy and capacity costs, per the grid operator\u2019s market monitor.",
-              "image": "https://imgproxy.divecdn.com/fJhXTeY45aQj0peK3dIZjdHuemZY3fihcAPowm-z9MA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82STVBMzA1NGIuanBn.webp",
-              "date": "Thu, 27 Aug 2026 09:02:31 -0400"
             }
           ]
         },
@@ -993,13 +993,6 @@
           },
           "top_stories": [
             {
-              "title": "Massachusetts c-store debuts Pak Mail shipping service",
-              "link": "https://www.cstoredive.com/news/massachusetts-c-store-debuts-pak-mail-shipping-service/828993/",
-              "summary": "The Shamrock Market in Springfield offers shipping via UPS, FedEx and other carriers, along with copying and printing and packaging supplies.",
-              "image": "https://imgproxy.divecdn.com/6ckf9A0WaGosxbfdhFbksrW41H-pI1ZbKjG2yDy9Gao/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZV8xOTQucG5n.webp",
-              "date": "Fri, 28 Aug 2026 10:00:00 -0400"
-            },
-            {
               "title": "US alcohol consumption remains at all time low",
               "link": "https://www.cstoredive.com/news/gallup-poll-us-alcohol-drinking-rate-remains-all-time-low/828984/",
               "summary": "A new report from Gallup showed drinking rates are stabilizing after a multiyear decline, but still remain at the lowest level since 1939.",
@@ -1026,6 +1019,13 @@
               "summary": "The former Stinker Stores chief executive will lead the popular Texas retailer\u2019s daily operations while working closely with owner and CEO Kevin Smartt.",
               "image": null,
               "date": "Wed, 26 Aug 2026 11:25:47 -0400"
+            },
+            {
+              "title": "5 big questions facing c-stores for the rest of 2026",
+              "link": "https://www.cstoredive.com/news/5-big-questions-facing-c-stores-for-the-rest-of-2026/828777/",
+              "summary": "With retailers up against price-sensitive consumers and rising costs, many of the biggest trends in convenience retail have taken on greater significance.",
+              "image": "https://imgproxy.divecdn.com/ziBDGXP-BGt2mNFdA6WJSdrgStCzUN00F4MW8aQ07ZI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83ZV9uZXdfc3RhbmRhcmRfY2x1bmt5X2VudHJhbmNlLmpwZw==.webp",
+              "date": "Wed, 26 Aug 2026 10:00:00 -0400"
             }
           ]
         },
@@ -1035,7 +1035,7 @@
           "lead_story": {
             "title": "The future of restaurant growth is not a brand. It is a portfolio.",
             "link": "https://www.restaurantdive.com/news/somia-farid-siber-benefits-creating-restaurant-brand-portfolio/828990/",
-            "summary": "Creating a platform of chains provides more flexibility as competition for consumer dollars rises, writes Edible Brands\u2019 CEO Somia Farid Silber.",
+            "summary": "Creating a platform of chains provides more flexibility as competition for consumer dollars rises, writes Edible Brand\u2019s CEO Somia Farid Silber.",
             "image": "https://imgproxy.divecdn.com/y3kVp8uBk6Bgj2uSWNiYcf0DqwCk8e0F0EUUEG0CkuY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FZGlibGVfQnJhbmRzX1JvdGlfQllPQl9IYXJpc3NhX0NoaWNrZW5fYW5kX1NhbG1vbi5qcGc=.webp",
             "date": "Fri, 28 Aug 2026 10:38:00 -0400"
           },
@@ -1083,7 +1083,7 @@
           "lead_story": {
             "title": "Nippon Dynawave was aware of tank wall concerns, CSB finds",
             "link": "https://www.packagingdive.com/news/chemical-safety-board-update-nippon-dynawave-tank-implosion/829052/",
-            "summary": "The U.S. Chemical Safety and Hazard Investigation Board is \u201cgreatly concerned\u201d by interim findings regarding the deadly white liquor tank implosion in May, namely the company\u2019s lack of attention to an issue raised during...",
+            "summary": "The U.S. Chemical Safety and Hazard Investigation Board is \u201cgreatly concerned\u201d by interim findings regarding the deadly white liquor tank implosion in May, namely Nippon Dynawave Packaging\u2019s lack of attention to an issue...",
             "image": "https://imgproxy.divecdn.com/skPWR4t-AuVwYZnuZe94IZwsGK4u03qh-zCQ79yEudQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90YW5rX2xhdGVzdF9yZXNpemVkLmpwZw==.webp",
             "date": "Fri, 28 Aug 2026 12:30:00 -0400"
           },
@@ -1091,7 +1091,7 @@
             {
               "title": "Messy EPR process provides opportunities for brands, recyclers",
               "link": "https://www.packagingdive.com/news/epr-be-waste-wise-implementation-lawsuits-ecomodulation/828968/",
-              "summary": "Moving forward with packaging EPR implementation is a complex process but one that offers new ways to build better systems for long-term recycling improvements, speakers said during a Be Waste Wise panel on Wednesday.",
+              "summary": "Moving forward with packaging EPR implementation is a complex process, but one that offers new ways to build better systems for long-term recycling improvements, speakers said during a Be Waste Wise panel on Wednesday.",
               "image": "https://imgproxy.divecdn.com/5KN6bpINnh2kBwuBFGB8Or4UH1NZUpzVmk2zpSukz8k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EQjFZNVguanBn.webp",
               "date": "Thu, 27 Aug 2026 12:24:00 -0400"
             },
@@ -1142,13 +1142,6 @@
           },
           "top_stories": [
             {
-              "title": "Specialty providers refute hefty Georgetown estimates of No Surprises costs",
-              "link": "https://www.healthcaredive.com/news/providers-refute-22B-idr-no-surprises-costs-georgetown/829042/",
-              "summary": "Researchers estimate that independent dispute resolution has created $22 billion in unnecessary spending. But that estimate is flawed, argue associations representing anesthesiologists, radiologists and ER doctors.",
-              "image": "https://imgproxy.divecdn.com/b4tGJEzkA6zU5-LlPaw63eFJi__Gvv7S1Ph-hZjNI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp",
-              "date": "Fri, 28 Aug 2026 08:41:35 -0400"
-            },
-            {
               "title": "Humana-owned Villages Health agrees to $542M settlement for overbilling Medicare",
               "link": "https://www.healthcaredive.com/news/the-villages-health-medicare-overbilling-settlement-doj-humana/828915/",
               "summary": "The Central Florida provider manufactured fake diagnosis codes for its Medicare Advantage patients from 2020 to 2024, the DOJ said. Humana bought The Villages Health last year.",
@@ -1156,9 +1149,9 @@
               "date": "Thu, 27 Aug 2026 10:30:00 -0400"
             },
             {
-              "title": "Most Americans want providers to disclose AI use, report says",
+              "title": "Most Americans want providers to disclose AI use: survey",
               "link": "https://www.healthcaredive.com/news/most-americans-want-providers-disclose-ai-use-survey-pew/828921/",
-              "summary": "Nearly half of adults don\u2019t know whether AI has been used in their care, even as hospitals and doctors rapidly adopt the technology, according to a new survey from the Pew Research Center.",
+              "summary": "Nearly half of adults don\u2019t know whether AI has been used in their care, even as hospitals and doctors rapidly adopt the technology.",
               "image": "https://imgproxy.divecdn.com/WsOLrqG6rMG1-wqRZ8scCS3o398Z37MUYU9nP7-F7VQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxNjI2NDM3LmpwZw==.webp",
               "date": "Thu, 27 Aug 2026 09:10:39 -0400"
             },
@@ -1175,6 +1168,13 @@
               "summary": "Employers are expecting a median 9.2% increase in medical spending next year, according to a new survey. But they\u2019ve underestimated actual cost growth for the past three years, so even that figure may be too optimistic.",
               "image": "https://imgproxy.divecdn.com/0-v_sG-Q-H71WEpxErnJncCzRZ3vI-aH5Ekhgseh2f0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NjkwNjU5ODAuanBn.webp",
               "date": "Wed, 26 Aug 2026 11:54:00 -0400"
+            },
+            {
+              "title": "Suki launches AI dictation tool with EHR integration capabilities",
+              "link": "https://www.healthcaredive.com/news/suki-launches-ai-dictation-tool-with-ehr-integration-capabilities/828837/",
+              "summary": "Suki says its dictation tool, which can be integrated into Epic and Meditech, offers a highly accurate transcription that can be useful for clinicians working with complex medical jargon.",
+              "image": "https://imgproxy.divecdn.com/QYgoyPhOlgN6VZQ823QZFyJxuSCTKmnlxCSOYpMqV0Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTQ3NzA5MTQ5LmpwZw==.webp",
+              "date": "Wed, 26 Aug 2026 11:17:18 -0400"
             }
           ]
         },
