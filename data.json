@@ -1,6 +1,6 @@
 {
-  "date": "September 04, 2026",
-  "updated_at": "2026-09-04 23:37:14 UTC",
+  "date": "September 05, 2026",
+  "updated_at": "2026-09-05 23:28:52 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -17,6 +17,13 @@
             "date": "Fri, 04 Sep 2026 10:43:52 -0400"
           },
           "top_stories": [
+            {
+              "title": "Supporters hopeful as DOE, EPA finalize Energy Star transition plan",
+              "link": "https://www.utilitydive.com/news/supporters-hopeful-as-doe-and-epa-finalize-energy-star-transition-plan/829701/",
+              "summary": "The U.S. Department of Energy\u2019s success with its Better Buildings Initiative shows that the agency knows how to make a public-private partnership like Energy Star work, an efficiency stakeholder said.",
+              "image": "https://imgproxy.divecdn.com/-JiJd8J7VbrldcoTLH4T_AM--uyYi8X3N0Ocn_CLOaw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExMTk5NzQzXzEuanBn.webp",
+              "date": "Fri, 04 Sep 2026 08:46:21 -0400"
+            },
             {
               "title": "National Grid\u2019s different gas-electric forecasts are responsible\u00a0planning",
               "link": "https://www.utilitydive.com/news/different-forecasts-dont-mean-higher-bills-they-mean-responsible-planning/829035/",
@@ -44,13 +51,6 @@
               "summary": "The state-owned utility plans to use artificial intelligence tools for more precise weather, load and financial planning, CFO Tami Wilson told journalists.",
               "image": "https://imgproxy.divecdn.com/zcwPyWftuTB6T-i377nw1TNkRGyPARaYnfGUHQX34j8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUwMTAzMjU0LmpwZw==.webp",
               "date": "Thu, 03 Sep 2026 10:10:01 -0400"
-            },
-            {
-              "title": "PG&E sees rising interest in \u2018customer-driven\u2019 flexible interconnection pilot",
-              "link": "https://www.utilitydive.com/news/pge-sees-rising-interest-in-customer-driven-flexible-interconnection-pil/829447/",
-              "summary": "The Flex Connect program allows larger distribution-connected loads to energize in months instead of waiting \u201cseveral years\u201d for firm interconnection, the Northern California utility says.",
-              "image": "https://imgproxy.divecdn.com/pxaau0QJ7TCpTx1d45tKZfE80GZt56EcKByidPzrVV4/g:nowe:0:343/c:800:451/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNzc4Njk5MTE3MDgxLmpwZw==.webp",
-              "date": "Wed, 02 Sep 2026 11:40:23 -0400"
             }
           ]
         },
@@ -162,6 +162,13 @@
           },
           "top_stories": [
             {
+              "title": "Florida bans undocumented students from selective public universities",
+              "link": "https://www.highereddive.com/news/florida-bans-undocumented-students-from-selective-public-universities/829710/",
+              "summary": "By approving the policy Thursday, the State University System of Florida\u2019s board effectively shut undocumented students out of its 12 institutions.",
+              "image": null,
+              "date": "Fri, 04 Sep 2026 12:38:56 -0400"
+            },
+            {
               "title": "High schoolers say school counselors emphasize college pathways, not CTE",
               "link": "https://www.highereddive.com/news/students-report-heavy-college-emphasis-in-postsecondary-convos-less-so-fo/829599/",
               "summary": "Among survyed middle-income high school students, 66% said educators heavily emphasized four-year college when talking about future pathways.",
@@ -187,13 +194,6 @@
               "link": "https://www.highereddive.com/news/not-enough-students-know-about-work-based-learning-opportunities/829144/",
               "summary": "Proving the effectiveness of paths such as apprenticeships can help students know their options, writes an Urban Institute senior fellow.",
               "image": "https://imgproxy.divecdn.com/ae4NYguzC2mmD3G3aN8K9A9C_JJPVInZg_6mvIv_uBE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzU5NzI1Mzk4LmpwZw==.webp",
-              "date": "Thu, 03 Sep 2026 05:00:00 -0400"
-            },
-            {
-              "title": "Brown, UT-Arlington presidents announce departures",
-              "link": "https://www.highereddive.com/news/brown-ut-arlington-presidents-announce-departures/829485/",
-              "summary": "August saw a property proposal dispute culminate in an Arkansas college firing its leader. Plus, a long-serving president revised his exit timeline.",
-              "image": null,
               "date": "Thu, 03 Sep 2026 05:00:00 -0400"
             }
           ]
@@ -224,6 +224,13 @@
               "date": "Thu, 03 Sep 2026 17:00:00 -0400"
             },
             {
+              "title": "Education Department\u2019s latest civil rights data redacts hundreds of LGBTQ+ entries",
+              "link": "https://www.k12dive.com/news/education-departments-latest-civil-rights-data-redacts-hundreds-of-lgbtq/829608/",
+              "summary": "The agency quietly released results of the Civil Rights Data Collection for the 2023-24 school year, but redacted data on nonbinary students\u2019 experiences.",
+              "image": "https://imgproxy.divecdn.com/v2ZK7sVZWVdQbxKdvM85FnlGwMLTEqUyVSNmS3w5jjE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxODc0MTI5LmpwZw==.webp",
+              "date": "Thu, 03 Sep 2026 15:34:16 -0400"
+            },
+            {
               "title": "Portland Public Schools ponders up to 18 school closures",
               "link": "https://www.k12dive.com/news/portland-public-schools-ponders-up-to-18-school-closures/829476/",
               "summary": "Falling enrollment and the need for consistent and stable student resources have led the district to explore options to \"rightsize.\"",
@@ -236,13 +243,6 @@
               "summary": "The findings come as career and technical education has gained traction and are \u201cconcerning\u201d amid broader postsecondary shifts, a Rand report said.",
               "image": "https://imgproxy.divecdn.com/KOqaq5h4qKwGeV8_3fx7mtz_ScrTCME_TymOvzu92Sg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU1OTQ2NTY3LmpwZw==.webp",
               "date": "Thu, 03 Sep 2026 05:00:00 -0400"
-            },
-            {
-              "title": "New York City pauses AI use for elementary, middle school students",
-              "link": "https://www.k12dive.com/news/new-york-city-pauses-ai-use-for-elementary-middle-school-students/829496/",
-              "summary": "Ed tech leaders worry the one-year artificial intelligence ban in the nation's largest school system could have national implications.",
-              "image": "https://imgproxy.divecdn.com/Cdkm7jca546GSbFaOV3Mr33HQP36CrllYaDx7e-N5XU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg5MDUwMTg2LmpwZw==.webp",
-              "date": "Wed, 02 Sep 2026 17:00:00 -0400"
             }
           ]
         },
@@ -300,7 +300,7 @@
           "lead_story": {
             "title": "WhatsApp adds bill payment in India",
             "link": "https://www.socialmediatoday.com/news/whatsapp-adds-bill-payment-in-india/829644/",
-            "summary": "Owner Meta has been working to create a messaging platform similar to China\u2019s WeChat, and this new functionality is a step toward that goal.",
+            "summary": "App owner Meta has been working to create a messaging platform similar to China\u2019s WeChat, and this new functionality is a step toward that goal.",
             "image": null,
             "date": "Thu, 03 Sep 2026 19:28:36 -0400"
           },
@@ -313,9 +313,9 @@
               "date": "Thu, 03 Sep 2026 19:24:34 -0400"
             },
             {
-              "title": "TikTok adds voice notes and image carousels in comments",
-              "link": "https://www.socialmediatoday.com/news/tiktok-adds-voice-notes-and-image-carousels-in-comments/829640/",
-              "summary": "The additional response options are being rolled out globally and could help drive more engagement in the app.",
+              "title": "TikTok adds voice and image carousel comments",
+              "link": "https://www.socialmediatoday.com/news/tiktok-adds-voice-and-image-carousel-comments/829640/",
+              "summary": "The additional response options are being rolled out globally and could help to drive more engagement in the app.",
               "image": null,
               "date": "Thu, 03 Sep 2026 17:42:44 -0400"
             },
@@ -449,11 +449,18 @@
           "lead_story": {
             "title": "How an AI-powered system optimizes Resorts World\u2019s central utility plant",
             "link": "https://www.facilitiesdive.com/news/metasys-openblue-technology-vegas-resorts-world/829679/",
-            "summary": "Johnson Controls claims its Metasys and OpenBlue technology has saved the Las Vegas resort $110,000 in annual energy costs.",
+            "summary": "Johnson Controls says its Metasys and OpenBlue technology has saved the Las Vegas resort $110,000 in annual energy costs.",
             "image": "https://imgproxy.divecdn.com/7iagtkuTHHD7UIscCqogsfA3Vv-qmy7UjIZk_cp1ooM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SVy1NYWluLUVudHJhbmNlLUV4dGVyaW9yLVN1bnJpc2UuanBn.webp",
             "date": "Fri, 04 Sep 2026 11:08:48 -0400"
           },
           "top_stories": [
+            {
+              "title": "Rapid data center buildout can create site risks, property service CEO says",
+              "link": "https://www.facilitiesdive.com/news/rapid-data-center-buildout-can-create-site-risks-property-service-ceo-says/829692/",
+              "summary": "The speed at which data centers are being constructed could leave some with gaps that cause problems later, says Kade Thomas of Cerv Property Solutions.",
+              "image": "https://imgproxy.divecdn.com/RWz4Y8JIzVdfKToSHXxCyGKr_EWRTPqPQL1kQko5es8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjAwNTU1NTc0LmpwZw==.webp",
+              "date": "Fri, 04 Sep 2026 11:07:58 -0400"
+            },
             {
               "title": "Supporters hopeful as DOE and EPA finalize Energy Star transition plan",
               "link": "https://www.facilitiesdive.com/news/supporters-hopeful-as-doe-and-epa-finalize-energy-star-transition-plan/829658/",
@@ -462,7 +469,7 @@
               "date": "Fri, 04 Sep 2026 08:46:21 -0400"
             },
             {
-              "title": "Data centers\u2019 indirect water use is a bigger part of their water footprint than the water they use directly: report",
+              "title": "Data centers\u2019 indirect water use is a bigger part of their water footprint than the water they use directly",
               "link": "https://www.facilitiesdive.com/news/electricity-use-spurring-data-centers-growing-water-footprint-ceres/829206/",
               "summary": "While data centers\u2019 massive direct water use for cooling has come under scrutiny, the electricity that powers them consumes even more of the resource, according to a report.",
               "image": "https://imgproxy.divecdn.com/IBGg0rtvf6uAQepao1fCj47pf3nRNI3n2HoRV-ZNakE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhLmpwZWc=.webp",
@@ -481,13 +488,6 @@
               "summary": "The pilot moved the more than 2,100 participating clinics from a reactive to a proactive facilities management posture, says Ed Carney, Carrier Abound senior sales manager.",
               "image": "https://imgproxy.divecdn.com/ISEOSJ7sPJ9Lue38GGAIns9gNYM61ZeZMhc24kWjw6A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk1Mjg2Nzk3X3VucWFrNlYuanBn.webp",
               "date": "Thu, 03 Sep 2026 10:02:22 -0400"
-            },
-            {
-              "title": "Universities using offices and classrooms more: report",
-              "link": "https://www.facilitiesdive.com/news/universities-using-offices-and-classrooms-more-report/829439/",
-              "summary": "Higher education has made progress on utilization, but conference rooms still mostly sit empty, leaving room for improvements and savings, says occupancy intelligence firm Occuspace.",
-              "image": "https://imgproxy.divecdn.com/TRgrNAHtIrSX9S2zeszWz2qLYdtsZvXqLiYhti_wtq4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MTQzMTQzMDBfY3JlZGl0LUpvaG5ueUdyZWlnX2NvbGxlY3Rpb24tRS5qcGc=.webp",
-              "date": "Wed, 02 Sep 2026 11:10:33 -0400"
             }
           ]
         },
@@ -939,7 +939,7 @@
           "lead_story": {
             "title": "What is Sprouts\u2019 next CEO inheriting?",
             "link": "https://www.grocerydive.com/news/sprouts-farmers-market-jack-sinclair-nick-konat-ceo-change/829586/",
-            "summary": "Nick Konat will soon helm a specialty grocer that is juggling a lot, from improving its recent lackluster financial results to revamping value messaging and aiming to open dozens of stores.",
+            "summary": "Nick Konat will soon helm a specialty grocer juggling multiple priorities, from improving financial results to revamping value messaging and opening dozens of stores.",
             "image": "https://imgproxy.divecdn.com/HlB4t53cXMIW1c2aUJ3riU5Pi6gAji0FLx7NCzfGAVs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TcHJvdXRzX05ZLmpwZw==.webp",
             "date": "Fri, 04 Sep 2026 11:39:54 -0400"
           },
@@ -1089,13 +1089,6 @@
           },
           "top_stories": [
             {
-              "title": "Packaging dealmaking: August 2026",
-              "link": "https://www.packagingdive.com/news/packaging-dealmaking-august-2026-pregis-harperlove-applied-adhesives-jones-healthcare/829458/",
-              "summary": "HarperLove, Pregis, Applied Adhesives and Jones Healthcare Group announced acquisitions.",
-              "image": "https://imgproxy.divecdn.com/pHU1jiojYlQ6_5GRVjs0Jgu98Nuq2mv2V5wMbWzGsRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUxOTE0MTQ0LmpwZw==.webp",
-              "date": "Fri, 04 Sep 2026 10:00:00 -0400"
-            },
-            {
               "title": "With California\u2019s SB 343 stalled, push for federal labeling law continues",
               "link": "https://www.packagingdive.com/news/pack-act-markup-labeling-policy-updates/829455/",
               "summary": "Ameripen President Lynn Dyer said questions arose about the need for the Pack Act after a court acted on California\u2019s policy. \u201cBut the reality is, we still don\u2019t know what's actually going to happen there, and that\u2019s onl...",
@@ -1122,6 +1115,13 @@
               "summary": "Silgan also announced layoffs at a California metal container facility, but they are temporary.",
               "image": "https://imgproxy.divecdn.com/C3anqQb-_4Xv120iqyvJ-ZrAOqyLvv-GRMQnyfOBwHE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjE1ODQxMzk3LmpwZw==.webp",
               "date": "Wed, 02 Sep 2026 10:03:00 -0400"
+            },
+            {
+              "title": "10 years in, ePac CEO touts success of digital printing focus",
+              "link": "https://www.packagingdive.com/news/epac-flexible-packaging-virag-patel-digital-printing-10-years/829190/",
+              "summary": "CEO Virag Patel describes the desire to \u201cembrace change\u201d as ePac builds a new flagship facility in Phoenix following its acquisition by a private equity firm. It\u2019s also navigating changes from technology, tariffs and EPR...",
+              "image": null,
+              "date": "Tue, 01 Sep 2026 11:52:00 -0400"
             }
           ]
         }
@@ -1182,13 +1182,20 @@
           "name": "BioPharma Dive",
           "url": "https://www.biopharmadive.com",
           "lead_story": {
-            "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
-            "link": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
-            "summary": "The drugmaker is leaning on a better side effect profile compared to drugs from J&J, Pfizer and Regeneron as it pushes etentamig toward FDA submission.",
-            "image": "https://imgproxy.divecdn.com/0cnfwe5d43GhJmKetdmaK8qIEtUFH-OzbzGPXEu163M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yR0JLN0JZLmpwZw==.webp",
-            "date": "Fri, 04 Sep 2026 12:00:00 -0400"
+            "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines",
+            "link": "https://www.biopharmadive.com/news/novartis-ionis-pelacarsen-lpa-horizon-study-results-fail/829736/",
+            "summary": "Pelacarsen didn\u2019t protect heart health despite lowering levels of a protein particle, \u201cLp(a),\u201d in a large clinical trial \u2014 a surprise result with important implications for cardiovascular drug research.",
+            "image": "https://imgproxy.divecdn.com/aqW0OluGxeTjgQMC31sKD6r-yo2ojrHgFgSPl_pqzuY/g:nowe:0:1263/c:5616:3173/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTMxNTEwOTA4LmpwZw==.webp",
+            "date": "Sat, 05 Sep 2026 12:51:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
+              "link": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
+              "summary": "The drugmaker is leaning on a better side effect profile compared to drugs from J&J, Pfizer and Regeneron as it pushes etentamig toward FDA submission.",
+              "image": "https://imgproxy.divecdn.com/0cnfwe5d43GhJmKetdmaK8qIEtUFH-OzbzGPXEu163M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yR0JLN0JZLmpwZw==.webp",
+              "date": "Fri, 04 Sep 2026 12:00:00 -0400"
+            },
             {
               "title": "This week in charts: China deals, stock flatlines and Lilly\u2019s M&A spree",
               "link": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
@@ -1216,13 +1223,6 @@
               "summary": "With its latest foray into China, GSK acquired rights from Hutchmed to an \u201cantibody-targeted therapy conjugate\u201d impacting two well-known cancer drivers, EGFR and KRAS.",
               "image": "https://imgproxy.divecdn.com/mDk-h3NLB8udDPFuDlI7IPou1i9tJKJYucQXUnhK9vA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc3MzEzMjc4LmpwZw==.webp",
               "date": "Thu, 03 Sep 2026 12:01:00 -0400"
-            },
-            {
-              "title": "Ultragenyx to weigh \u2018significant\u2019 cost cuts as Angelman drug fails key study",
-              "link": "https://www.biopharmadive.com/news/ultragenyx-angelman-syndrome-drug-results-cost-cuts/829528/",
-              "summary": "The failure of what was once considered a potential blockbuster therapy represents a major setback in a tough-to-treat disease and is forcing Ultragenyx to closely examine its expenses.",
-              "image": null,
-              "date": "Thu, 03 Sep 2026 10:53:00 -0400"
             }
           ]
         },
@@ -1331,7 +1331,7 @@
           "name": "CIO Dive",
           "url": "https://www.ciodive.com",
           "lead_story": {
-            "title": "Deloitte aims to help enterprises with hybrid AI model strategy",
+            "title": "Deloitte aims to help companies with hybrid AI model strategy",
             "link": "https://www.ciodive.com/news/Deloitte-open-source-models-practice-engineering/829722/",
             "summary": "The consulting firm is launching an open model engineering practice intending to help enterprises find the right mix.",
             "image": "https://imgproxy.divecdn.com/y72PAW_ex8SEXF_vojFCEg0087DSwmuJEQwQvGjrg8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ0NDg4NjUyLmpwZw==.webp",
@@ -1584,6 +1584,13 @@
           },
           "top_stories": [
             {
+              "title": "Asana\u2019s AI pricing shift brings near-term revenue pressure",
+              "link": "https://www.cfodive.com/news/asanas-ai-pricing-shift-brings-near-term-revenue-pressure/829730/",
+              "summary": "The company expects consumption-based pricing to contribute to a $1.2 million revenue headwind as it works to accelerate AI adoption.",
+              "image": "https://imgproxy.divecdn.com/NqD9vRzh5L4qWqs08DvZRSFbNu4urHfH_-8zmNnJGw0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY0NTA0OTc0LmpwZw==.webp",
+              "date": "Fri, 04 Sep 2026 15:00:38 -0400"
+            },
+            {
               "title": "T-Mobile appoints Shell veteran as next CFO",
               "link": "https://www.cfodive.com/news/tmobile-shell-ge-vernova-veteran-cfo-telecom-merger/829726/",
               "summary": "Jessica Uhl will join the wireless network operator this month as CFO Designate amid questions raised by a potential merger with Deutsche Telekom.",
@@ -1610,13 +1617,6 @@
               "summary": "Among other changes, the company has reduced by nearly 50% its number of \u201cmicro-teams\u201d with only one or two direct reports.",
               "image": "https://imgproxy.divecdn.com/h9CKeyHUy5xEJMeqMQBgZHOtE12YgOq9e2gjeAEX_4M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY0MjY4ODgyLmpwZw==.webp",
               "date": "Thu, 03 Sep 2026 15:16:51 -0400"
-            },
-            {
-              "title": "Hershey finance exec succeeds retiring CFO",
-              "link": "https://www.cfodive.com/news/hershey-finance-exec-succeeds-retiring-cfo-compensation/829601/",
-              "summary": "Dave Hulays is taking the candy and snack giant's finance reins from Steven E. Voskuil, who served as CFO for seven years.",
-              "image": "https://imgproxy.divecdn.com/piyVzXoM9U49xKTyowd_hXrsViS8hHZkGJx0w2FjFOA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUxMzEzODg3X0pvRlBsdWwuanBn.webp",
-              "date": "Thu, 03 Sep 2026 15:02:20 -0400"
             }
           ]
         },
