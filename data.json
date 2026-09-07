@@ -1,6 +1,6 @@
 {
-  "date": "September 06, 2026",
-  "updated_at": "2026-09-06 23:23:36 UTC",
+  "date": "September 07, 2026",
+  "updated_at": "2026-09-07 23:53:07 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -154,13 +154,20 @@
           "name": "Higher Ed Dive",
           "url": "https://www.highereddive.com",
           "lead_story": {
-            "title": "Bipartisan House bill aims to stop outsourcing of some Education Department offices",
-            "link": "https://www.highereddive.com/news/bipartisan-house-bill-aims-to-stop-Education-Department-outsourcing-special-education/829638/",
-            "summary": "The bill seeks to keep all special education, postsecondary, Native American, and elementary and secondary education activities within the agency.",
-            "image": "https://imgproxy.divecdn.com/atobzHuVct_5nyNVNTDjWiAdk725aDP6zT6FRQxaLAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyNTA4Nzg3LmpwZw==.webp",
-            "date": "Fri, 04 Sep 2026 15:38:00 -0400"
+            "title": "Week in review: 3 Texas university systems move to slash core curriculum options",
+            "link": "https://www.highereddive.com/news/week-in-review-3-texas-university-systems-move-to-slash-core-curriculum-op/829721/",
+            "summary": "We\u2019re rounding up last week\u2019s stories, from Antioch University\u2019s fight against a \"hostile takeover\" to an IRS plan to punish diversity work.",
+            "image": null,
+            "date": "Mon, 07 Sep 2026 05:00:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Bipartisan House bill aims to stop outsourcing of some Education Department offices",
+              "link": "https://www.highereddive.com/news/bipartisan-house-bill-aims-to-stop-Education-Department-outsourcing-special-education/829638/",
+              "summary": "The bill seeks to keep all special education, postsecondary, Native American, and elementary and secondary education activities within the agency.",
+              "image": "https://imgproxy.divecdn.com/atobzHuVct_5nyNVNTDjWiAdk725aDP6zT6FRQxaLAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyNTA4Nzg3LmpwZw==.webp",
+              "date": "Fri, 04 Sep 2026 15:38:00 -0400"
+            },
             {
               "title": "Florida bans undocumented students from selective public universities",
               "link": "https://www.highereddive.com/news/florida-bans-undocumented-students-from-selective-public-universities/829710/",
@@ -188,13 +195,6 @@
               "summary": "If enacted, diversity work deemed illegal by President Donald Trump would disqualify colleges from federal tax exemption.",
               "image": "https://imgproxy.divecdn.com/pIb2jBWiuttlSLyWPBTamo2f46lpTpWBcBVX1ZNs1EA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3Mzk2NDU4XzEuanBn.webp",
               "date": "Thu, 03 Sep 2026 14:54:04 -0400"
-            },
-            {
-              "title": "Not enough students know about work-based learning opportunities",
-              "link": "https://www.highereddive.com/news/not-enough-students-know-about-work-based-learning-opportunities/829144/",
-              "summary": "Proving the effectiveness of paths such as apprenticeships can help students know their options, writes an Urban Institute senior fellow.",
-              "image": "https://imgproxy.divecdn.com/ae4NYguzC2mmD3G3aN8K9A9C_JJPVInZg_6mvIv_uBE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzU5NzI1Mzk4LmpwZw==.webp",
-              "date": "Thu, 03 Sep 2026 05:00:00 -0400"
             }
           ]
         },
@@ -300,7 +300,7 @@
           "lead_story": {
             "title": "WhatsApp adds bill payment in India",
             "link": "https://www.socialmediatoday.com/news/whatsapp-adds-bill-payment-in-india/829644/",
-            "summary": "Owner Meta has been working to create a messaging platform similar to China\u2019s WeChat, and this new functionality is a step toward that goal.",
+            "summary": "App owner Meta has been working to create a messaging platform similar to China\u2019s WeChat, and this new functionality is a step toward that goal.",
             "image": null,
             "date": "Thu, 03 Sep 2026 19:28:36 -0400"
           },
@@ -313,9 +313,9 @@
               "date": "Thu, 03 Sep 2026 19:24:34 -0400"
             },
             {
-              "title": "TikTok adds voice notes and image carousels in comments",
-              "link": "https://www.socialmediatoday.com/news/tiktok-adds-voice-notes-and-image-carousels-in-comments/829640/",
-              "summary": "The additional response options are being rolled out globally and could help drive more engagement in the app.",
+              "title": "TikTok adds voice and image carousel comments",
+              "link": "https://www.socialmediatoday.com/news/tiktok-adds-voice-and-image-carousel-comments/829640/",
+              "summary": "The additional response options are being rolled out globally and could help to drive more engagement in the app.",
               "image": null,
               "date": "Thu, 03 Sep 2026 17:42:44 -0400"
             },
@@ -1136,7 +1136,7 @@
           "lead_story": {
             "title": "Lawmakers to subpoena Oracle execs as EHR project costs rise",
             "link": "https://www.healthcaredive.com/news/lawmakers-to-subpoena-oracle-execs-as-ehr-project-costs-rise/829671/",
-            "summary": "After nearly tripling its contract ceiling with the VA to $27 billion, Congress wants to hear from Oracle\u2019s Executive Chairman Larry Ellison and CEO Mike Sicilia about the project\u2019s escalating costs and lengthy timeline.",
+            "summary": "After nearly tripling its contract ceiling with the VA, Congress wants to hear from Oracle\u2019s Executive Chairman Larry Ellison and CEO Mike Sicilia about the project\u2019s escalating costs and lengthy timeline.",
             "image": "https://imgproxy.divecdn.com/nqkMo008YWNaPPSgMxtEcgIojiVuQcMvuUh7dlnjqio/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjQyMjMyMjgxLmpwZw==.webp",
             "date": "Fri, 04 Sep 2026 09:58:59 -0400"
           },
@@ -1331,7 +1331,7 @@
           "name": "CIO Dive",
           "url": "https://www.ciodive.com",
           "lead_story": {
-            "title": "Deloitte aims to help enterprises with hybrid AI model strategy",
+            "title": "Deloitte aims to help companies with hybrid AI model strategy",
             "link": "https://www.ciodive.com/news/Deloitte-open-source-models-practice-engineering/829722/",
             "summary": "The consulting firm is launching an open model engineering practice intending to help enterprises find the right mix.",
             "image": "https://imgproxy.divecdn.com/y72PAW_ex8SEXF_vojFCEg0087DSwmuJEQwQvGjrg8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ0NDg4NjUyLmpwZw==.webp",
@@ -1387,13 +1387,6 @@
           },
           "top_stories": [
             {
-              "title": "OpenAI pledges $1 billion to provide resources, training for frontline cyber defenders",
-              "link": "https://www.cybersecuritydive.com/news/openai-pledges-1-billion-resources-cyber-defenders/829676/",
-              "summary": "Amid heightened scrutiny, the company will use frontier AI to help water, power and local government providers fight malicious actors.",
-              "image": "https://imgproxy.divecdn.com/rzzuwO1d6r53SmzG3DMeMUm3aWsZTRsgBKWAwNzcSkI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIwNjU0Nzc1LmpwZw==.webp",
-              "date": "Fri, 04 Sep 2026 10:23:44 -0400"
-            },
-            {
               "title": "SonicWall urges immediate patching of chained vulnerabilities",
               "link": "https://www.cybersecuritydive.com/news/sonicwall-immediate-patching-chained-vulnerabilities/829567/",
               "summary": "Just weeks after a wave of ransomware attacks, new flaws in SMA1000 series appliances are being exploited.",
@@ -1420,6 +1413,13 @@
               "summary": "The agency\u2019s decision, spurred by workload concerns, could leave organizations without valuable insights into their vulnerabilities.",
               "image": "https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp",
               "date": "Tue, 01 Sep 2026 16:30:33 -0400"
+            },
+            {
+              "title": "Security policies fail to keep up with a hybrid cloud world",
+              "link": "https://www.cybersecuritydive.com/news/security-policies-fail-keep-up-hybrid-cloud/829256/",
+              "summary": "Roughly two-thirds of companies have suffered a business-critical app outage due to misconfigured security policies, a Cloud Security Alliance report found.",
+              "image": "https://imgproxy.divecdn.com/q1EqHf99Vg3vlm2Yg3Jxti_p8B2SXqx3cSjrsipyQmw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExODkzOTYyLmpwZw==.webp",
+              "date": "Tue, 01 Sep 2026 12:00:00 -0400"
             }
           ]
         },
