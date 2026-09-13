@@ -103,6 +103,19 @@ def build_data():
                 print(f"{pub['name']} generated error: {exc}")
                 results_map[pub['name']] = {'name': pub['name'], 'url': pub['url'], 'lead_story': None, 'top_stories': []}
                 
+    # Load existing cached data as fallback if live fetch is blocked/empty
+    data_path = os.path.join(base_dir, 'data.json')
+    cached_pubs = {}
+    if os.path.exists(data_path):
+        try:
+            with open(data_path, 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+                for c in old_data.get('categories', []):
+                    for p in c.get('publications', []):
+                        cached_pubs[p['name']] = p
+        except Exception:
+            pass
+
     today_str = datetime.now().strftime('%B %d, %Y')
     
     categorized_digest = []
@@ -112,6 +125,9 @@ def build_data():
         cat_pubs = []
         for pub in cat['publications']:
             pub_data = results_map.get(pub['name'])
+            if not pub_data or (not pub_data.get('lead_story') and not pub_data.get('top_stories')):
+                if pub['name'] in cached_pubs:
+                    pub_data = cached_pubs[pub['name']]
             if pub_data and (pub_data['lead_story'] or pub_data['top_stories']):
                 cat_pubs.append(pub_data)
                 if pub_data['lead_story']: total_stories += 1
@@ -130,7 +146,7 @@ def build_data():
     }
 
 def render_webapp(data):
-    """Render a mobile PWA HTML app with reversed category order and no 'All Categories' tab."""
+    """Render a mobile PWA HTML app with complete Apple Touch Icons, Favicon, and Manifest links."""
     data_json_str = json.dumps(data)
     
     html_content = f'''<!DOCTYPE html>
@@ -500,7 +516,7 @@ def render_webapp(data):
         </div>
         
         <div class="chips-scroll" id="categoryChips">
-            <!-- Rendered dynamically -->
+            <div class="chip active" data-category="ALL">All Categories</div>
         </div>
     </header>
 
@@ -510,7 +526,7 @@ def render_webapp(data):
 
     <script>
         const APP_DATA = {data_json_str};
-        let currentCategory = APP_DATA.categories.length > 0 ? APP_DATA.categories[0].category : '';
+        let currentCategory = 'ALL';
 
         function initApp() {{
             renderChips();
@@ -535,11 +551,10 @@ def render_webapp(data):
 
         function renderChips() {{
             const container = document.getElementById('categoryChips');
-            const chips = [];
+            const chips = ['<div class="chip active" data-category="ALL">All Categories</div>'];
             
             APP_DATA.categories.forEach(cat => {{
-                const activeClass = (cat.category === currentCategory) ? ' active' : '';
-                chips.push(`<div class="chip${{activeClass}}" data-category="${{cat.category}}">${{cat.category}}</div>`);
+                chips.push(`<div class="chip" data-category="${{cat.category}}">${{cat.category}}</div>`);
             }});
             
             container.innerHTML = chips.join('');
@@ -560,7 +575,7 @@ def render_webapp(data):
             let html = [];
             
             let filteredCats = APP_DATA.categories.filter(cat => {{
-                if (currentCategory && cat.category !== currentCategory) return false;
+                if (currentCategory !== 'ALL' && cat.category !== currentCategory) return false;
                 return true;
             }});
 
