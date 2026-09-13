@@ -1,6 +1,6 @@
 {
   "date": "September 13, 2026",
-  "updated_at": "2026-09-13 16:16:25 UTC",
+  "updated_at": "2026-09-13 23:50:37 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -359,6 +359,13 @@
           },
           "top_stories": [
             {
+              "title": "Are MSPs losing customer leverage?",
+              "link": "https://www.channeldive.com/news/are-msps-losing-customer-leverage/830224/",
+              "summary": "Automation and vibe coding are making the process of switching providers easier and far less painful, in theory",
+              "image": "https://imgproxy.divecdn.com/OMoyheaeN-IhisL7h487fR11-0H_hTw_py6-Wbe88E0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjk4NzA3Njk4LmpwZw==.webp",
+              "date": "Fri, 11 Sep 2026 15:50:40 -0400"
+            },
+            {
               "title": "Yugabyte moves into the channel",
               "link": "https://www.channeldive.com/news/yugabyte-database-partner-program/830212/",
               "summary": "The cloud-native database vendor is recruiting IT resellers, distributors and service providers to build out a partner program.",
@@ -385,13 +392,6 @@
               "summary": "The two parties agreed to enter mediation to resolve a lawsuit that erupted last month.",
               "image": "https://imgproxy.divecdn.com/95PWZUHS6KPH5vHmIVat5jdjFDlWwQaBOWEGXnYwi-o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY1MjM1OTQyLmpwZw==.webp",
               "date": "Thu, 10 Sep 2026 12:45:45 -0400"
-            },
-            {
-              "title": "Lead with software. Accelerate modernization. Drive growth.",
-              "link": "https://www.channeldive.com/spons/lead-with-software-accelerate-modernization-drive-growth/829994/",
-              "summary": "Move beyond hardware with data-driven insights that accelerate infrastructure modernization.",
-              "image": "https://imgproxy.divecdn.com/jtVos5YV2W2Kx_XkoqcA6-oSefOeXZUhbTf3eJLi4i4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yR2V0dHlJbWFnZXMtMTQ4OTQxNDk2Ni5qcGc=.webp",
-              "date": "Thu, 10 Sep 2026 12:00:00 -0400"
             }
           ]
         }
@@ -659,7 +659,7 @@
             {
               "title": "Campbell\u2019s heats up digital focus amid marketing reformulation",
               "link": "https://www.fooddive.com/news/campbells-heats-up-digital-focus-amid-marketing-reformulation/829939/",
-              "summary": "Channels including social, influencer and e-commerce will command 85% of working media budgets as the marketer tries to meet modern consumer tastes.",
+              "summary": "Channels including social, influencer and e-commerce will command 85% of working media budgets as the food maker tries to meet modern consumer tastes.",
               "image": "https://imgproxy.divecdn.com/UN7q3rqMtSumw3Rme7luSzfatMGzujS7bT2nb7edmmw/g:nowe:0:120/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzEwMjk3LmpwZw==.webp",
               "date": "Fri, 11 Sep 2026 10:30:00 -0400"
             },
@@ -1293,14 +1293,14 @@
             {
               "title": "After rent emergency declaration, San Francisco mayor proposes reforms",
               "link": "https://www.smartcitiesdive.com/news/san-francisco-rent-emergency-daniel-lurie-housing/830173/",
-              "summary": "As an AI boom pushes median rents higher, San Francisco\u2019s mayor is proposing $30 million in investments and reforms to curb rising evictions and \u201csudden rent spikes.\u201d",
+              "summary": "As an AI boom pushes median rents higher, Mayor Daniel Lurie is proposing $30 million in investments and reforms to curb rising evictions and \u201csudden rent spikes.\u201d",
               "image": "https://imgproxy.divecdn.com/nusfZSfE9226su1jou7zN1QhFNTBqIlJ2dTZdNpe0es/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk4OTc4MDEyLmpwZw==.webp",
               "date": "Fri, 11 Sep 2026 11:03:18 -0400"
             },
             {
               "title": "The \u2018next 9/11\u2019 may not look like 9/11, former FDNY fire chief says",
               "link": "https://www.smartcitiesdive.com/news/the-next-911-may-not-look-like-911-former-fdny-fire-chief-says/830167/",
-              "summary": "Prepare for a new generation of threats, including climate disasters, says the founder of NYC's Center for Terrorism and Disaster Preparedness.",
+              "summary": "Prepare for a new generation of threats, including climate disasters, says Joseph Pfeifer, who went on to found the fire department\u2019s Center for Terrorism and Disaster Preparedness.",
               "image": "https://imgproxy.divecdn.com/Lsb43ivruMgTx6dPMrSx-AwZqdI2nhp7E9sMmX3zoOw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00OTgyNzAyOTAuanBn.webp",
               "date": "Fri, 11 Sep 2026 10:54:20 -0400"
             },
@@ -1480,13 +1480,20 @@
           "name": "Higher Ed Dive",
           "url": "https://www.highereddive.com",
           "lead_story": {
-            "title": "How Dartmouth\u2019s push for more dialogue improved campus debate and its reputation",
-            "link": "https://www.highereddive.com/news/how-dartmouths-push-for-more-dialogue-improved-campus-debate-and-its-reput/830098/",
-            "summary": "Efforts by the Ivy League institution to foster open conversations have helped raise its score with the Foundation for Individual Rights and Expression.",
-            "image": null,
-            "date": "Fri, 11 Sep 2026 05:00:00 -0400"
+            "title": "IRS tax plan could imperil college finances, Moody\u2019s says",
+            "link": "https://www.highereddive.com/news/irs-tax-plan-could-imperil-college-finances-moodys-says/830213/",
+            "summary": "If institutions lose their tax-exempt status over diversity efforts, they could face a loss of gifts and higher borrowing costs among other hits, analysts said.",
+            "image": "https://imgproxy.divecdn.com/xLWZI-F_ZI4MiFNw1PWeMy9Zs3j1JSAcT6_ng-rehio/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk5NDUwMjAxLmpwZw==.webp",
+            "date": "Fri, 11 Sep 2026 14:39:22 -0400"
           },
           "top_stories": [
+            {
+              "title": "How Dartmouth\u2019s push for more dialogue improved campus debate and its reputation",
+              "link": "https://www.highereddive.com/news/how-dartmouths-push-for-more-dialogue-improved-campus-debate-and-its-reput/830098/",
+              "summary": "Efforts by the Ivy League institution to foster open conversations have helped raise its score with the Foundation for Individual Rights and Expression.",
+              "image": null,
+              "date": "Fri, 11 Sep 2026 05:00:00 -0400"
+            },
             {
               "title": "University of Utah could cut up to 15% of staff ahead of future enrollment drops",
               "link": "https://www.highereddive.com/news/university-of-utah-could-cut-up-to-15-of-staff-ahead-of-future-enrollment/830089/",
@@ -1514,13 +1521,6 @@
               "summary": "Tuesday's vote follows more than a year of attacks by the Trump administration on the legal organization and its diversity work.",
               "image": null,
               "date": "Wed, 09 Sep 2026 15:42:20 -0400"
-            },
-            {
-              "title": "\u2018Utter paralysis\u2019: Legacy admissions ban faces tough road in Congress",
-              "link": "https://www.highereddive.com/news/utter-paralysis-legacy-admissions-ban-faces-tough-road-in-congress/829112/",
-              "summary": "The fate of bipartisan bills is in doubt at the congressional level, while state-level proposals have stalled in the legislatures.",
-              "image": "https://imgproxy.divecdn.com/kk37-E-tb73Yenv2AGx2rgnkaGxvzpNQsblSxxSWR5g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MTg2NjI1OF9WNzhHZ3VYLmpwZw==.webp",
-              "date": "Wed, 09 Sep 2026 05:00:00 -0400"
             }
           ]
         },
@@ -1624,7 +1624,7 @@
           "name": "Social Media Today",
           "url": "https://www.socialmediatoday.com",
           "lead_story": {
-            "title": "Instagram Chief warns against eliminating algorithms",
+            "title": "Instagram chief warns against eliminating algorithms",
             "link": "https://www.socialmediatoday.com/news/instagram-chief-warns-against-eliminating-algorithms/830130/",
             "summary": "Adam Mosseri told reporters in Australia that eliminating the algorithmic feed would create a less engaging experience for users.",
             "image": null,
@@ -1634,14 +1634,14 @@
             {
               "title": "X rolls out number code access for DMs",
               "link": "https://www.socialmediatoday.com/news/x-rolls-out-number-code-access-for-dms/830129/",
-              "summary": "The feature will let users generate unique, private 10-digit contact numbers to facilitate DMs with users they\u2019re not connected to.",
+              "summary": "Users can generate unique, private 10-digit contact numbers to facilitate DMs with users they\u2019re not connected to.",
               "image": null,
               "date": "Thu, 10 Sep 2026 19:50:19 -0400"
             },
             {
               "title": "Meta expands Community Notes to Latin America",
               "link": "https://www.socialmediatoday.com/news/meta-expands-community-notes-to-latin-america/830128/",
-              "summary": "The company is starting to test its crowd-sourced moderation feature with 16 countries including Mexico, Argentina, El Salvador and Venezuela.",
+              "summary": "The company is starting to test its crowdsourced moderation feature with 16 countries including Mexico, Argentina, El Salvador and Venezuela.",
               "image": null,
               "date": "Thu, 10 Sep 2026 19:45:55 -0400"
             },
@@ -1655,14 +1655,14 @@
             {
               "title": "Snapchat expands Dynamic Product Ads to Sponsored Snaps",
               "link": "https://www.socialmediatoday.com/news/snapchat-expands-dynamic-product-ads-to-sponsored-snaps/830124/",
-              "summary": "The platform updated its commerce tools for retail advertisers ahead of the holiday promotional season, allowing brands to showcase products via Snap DMs.",
+              "summary": "The platform updated its commerce tools for advertisers ahead of the holiday season, allowing brands to showcase products via Snap DMs.",
               "image": "https://imgproxy.divecdn.com/9MuqZSRjcGNKA1U4wWdfqExBU5SWlK5bp36DFs656T8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF9jb21tZXJjZV9wb3dlcl9wYWNrLnBuZw==.webp",
               "date": "Thu, 10 Sep 2026 17:24:45 -0400"
             },
             {
               "title": "Snapchat adds event creation tools",
               "link": "https://www.socialmediatoday.com/news/snapchat-adds-event-creation-tools/830121/",
-              "summary": "The new features are designed to help users easily move from chats to real-life meetups, and aligns with the app\u2019s larger focus on creating connections.",
+              "summary": "The features are designed to help users easily move from chats to real-life meetups, and aligns with the app\u2019s larger focus on creating connections.",
               "image": "https://imgproxy.divecdn.com/Wcf6HAm-Ao5OubaTBm6H4X0uh4u0nXyuZgGQUlZJarA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF9ncm91cF9jaGF0X3VwZGF0ZS5wbmc=.webp",
               "date": "Thu, 10 Sep 2026 16:04:47 -0400"
             }
