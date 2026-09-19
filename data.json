@@ -1,6 +1,6 @@
 {
-  "date": "September 18, 2026",
-  "updated_at": "2026-09-18 23:48:00 UTC",
+  "date": "September 19, 2026",
+  "updated_at": "2026-09-19 23:49:49 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -202,47 +202,47 @@
           "name": "HR Dive",
           "url": "https://www.hrdive.com",
           "lead_story": {
-            "title": "Activision Blizzard hit with new sexual assault, harassment claims in lawsuit",
-            "link": "https://www.hrdive.com/news/activision-blizzard-hit-with-new-sexual-assault-harassment-claims/830702/",
-            "summary": "The video game publisher\u2019s HR department \u2014 previously alleged to have condoned a \u201cfrat boy culture\u201d \u2014 was dismissive of the plaintiff\u2019s complaints, she claimed.",
-            "image": "https://imgproxy.divecdn.com/NQ60OnDLLcMWj7RXuwliuvUsS-CWLhaXoc7gTefygjA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY1NDc2MzQzLmpwZw==.webp",
-            "date": "Thu, 17 Sep 2026 15:30:00 -0400"
+            "title": "Starbucks, Florida AG ink deal to end lawsuit over alleged illegal DEI practices",
+            "link": "https://www.hrdive.com/news/starbucks-florida-ag-ink-lawsuit-alleged-illegal-dei/830829/",
+            "summary": "Attorney General James Uthmeier alleged that the coffee chain excluded or disfavored nonminorities in a lawsuit that mirrored recent federal enforcement activity.",
+            "image": "https://imgproxy.divecdn.com/n4BFNhHPp_L0L9Cc53AK61e3nG7QuuXTBQoa8xdjWxg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTcyOTkwNTgyLmpwZw==.webp",
+            "date": "Fri, 18 Sep 2026 16:26:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Butterball settles EEOC allegation it was liable for vendor\u2019s failure to process ADA leave request",
+              "link": "https://www.hrdive.com/news/butterball-settles-eeoc-allegation-ada-cancer-vendor-claim-failure/830804/",
+              "summary": "Employers can\u2019t delegate their responsibility for complying with federal law to a third-party administrator, an EEOC attorney said.",
+              "image": "https://imgproxy.divecdn.com/gPhvicDYjWhGw2fpWezYWKK2K5rkkPpcQXThLLz7G20/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NTg3MDY1MjEuanBn.webp",
+              "date": "Fri, 18 Sep 2026 16:25:00 -0400"
+            },
+            {
+              "title": "\u2018Rampant pay cynicism\u2019 threatens companies, report finds",
+              "link": "https://www.hrdive.com/news/rampant-pay-cynicism-threatens-companies-marsh/830726/",
+              "summary": "\u201cA depleted workforce paired with cynicism about pay creates a precarious moment for employers,\u201d a global rewards leader at Marsh said.",
+              "image": "https://imgproxy.divecdn.com/N9RPN1F71YLpRTDDpECzXb4L4kkYnWYFAIkzAlGJ4DU/g:nowe:0:0/c:996:563/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgwMzU3LmpwZw==.webp",
+              "date": "Fri, 18 Sep 2026 10:21:00 -0400"
+            },
+            {
+              "title": "AI summaries leave a paper trail recruiters might not be ready for",
+              "link": "https://www.hrdive.com/news/ai-summaries-leave-a-paper-trail-recruiters-might-not-be-ready-for/830734/",
+              "summary": "\u201cA job seeker\u2019s mistake could be recorded permanently. An interviewer\u2019s insensitive \u2014 or even illegal \u2014 question could also be captured,\u201d one CEO said.",
+              "image": "https://imgproxy.divecdn.com/JB8mTsGTmFAvHIxVbJ8BoNJCzxCybd-YaRcu5HX_fhc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgxNDkzMDg0LmpwZw==.webp",
+              "date": "Fri, 18 Sep 2026 10:20:00 -0400"
+            },
+            {
+              "title": "Activision Blizzard hit with new sexual assault, harassment claims in lawsuit",
+              "link": "https://www.hrdive.com/news/activision-blizzard-hit-with-new-sexual-assault-harassment-claims/830702/",
+              "summary": "The video game publisher\u2019s HR department \u2014 previously alleged to have condoned a \u201cfrat boy culture\u201d \u2014 was dismissive of the plaintiff\u2019s complaints, she claimed.",
+              "image": "https://imgproxy.divecdn.com/NQ60OnDLLcMWj7RXuwliuvUsS-CWLhaXoc7gTefygjA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY1NDc2MzQzLmpwZw==.webp",
+              "date": "Thu, 17 Sep 2026 15:30:00 -0400"
+            },
             {
               "title": "Ignoring a doctor\u2019s note can be costly, EEOC reminds employers",
               "link": "https://www.hrdive.com/news/pregnancy-discrimination-doctors-notes/830692/",
               "summary": "Employers should \u201cleave the work of identifying pregnancy-related risks and limitations to qualified medical professionals,\u201d the agency said in conciliating two separate cases.",
               "image": null,
               "date": "Thu, 17 Sep 2026 15:30:00 -0400"
-            },
-            {
-              "title": "This week in 5 numbers: Amazon will give grocery benefits to workers",
-              "link": "https://www.hrdive.com/news/amazon-will-give-grocery-benefits-to-workers/830686/",
-              "summary": "Here\u2019s a roundup of numbers from the last week \u2014 including how many employers say artificial intelligence is actually slowing down the hiring process.",
-              "image": "https://imgproxy.divecdn.com/ihhrKvKaohHxmY7tMNRQT3sYoRXg-UyC0NcIwABlxA0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg4OTU4MDkzLmpwZw==.webp",
-              "date": "Thu, 17 Sep 2026 15:30:00 -0400"
-            },
-            {
-              "title": "How can employers boost workers\u2019 401(k)s? Student loan matching.",
-              "link": "https://www.hrdive.com/news/how-can-employers-boost-workers-401ks-student-loan-matching/830450/",
-              "summary": "The SECURE 2.0 Act of 2022 for the first time allowed employers to match eligible employee payments on student loans.",
-              "image": "https://imgproxy.divecdn.com/JMxQQX8bG97kMVV5e1gnPD7n_cQGaSYTibxQ0QRb46s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDcwMzEzMTQ5LmpwZw==.webp",
-              "date": "Thu, 17 Sep 2026 12:29:00 -0400"
-            },
-            {
-              "title": "Amazon ups minimum hourly starting wage to $20",
-              "link": "https://www.hrdive.com/news/amazon-boosts-minimum-hourly-starting-wage/830677/",
-              "summary": "The e-commerce company increased pay by $1 an hour for full-time employees in core operations and added new grocery discounts.",
-              "image": "https://imgproxy.divecdn.com/6rYONk9gHxD7OCiV06QDVD_jFsowkojMIGdl4LxmWak/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMDYtMTNfMTI0NDA3LnBuZw==.webp",
-              "date": "Thu, 17 Sep 2026 12:26:00 -0400"
-            },
-            {
-              "title": "Employers may not know how to explain their pay decisions, Aon says",
-              "link": "https://www.hrdive.com/news/employers-explain-pay-decisions-aon-transparency/830657/",
-              "summary": "Only a third of those surveyed said they have conducted a pay remediation analysis, and only 5% could say that remediation is largely complete.",
-              "image": "https://imgproxy.divecdn.com/shN4pV3gr9B6sEZoSEyiu0u-haiZugthR3sAREAwvbg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5NjgxMjMwLmpwZw==.webp",
-              "date": "Thu, 17 Sep 2026 11:17:00 -0400"
             }
           ]
         }
@@ -359,16 +359,9 @@
           },
           "top_stories": [
             {
-              "title": "UK reseller expands North American footprint with $1.05B GDT acquisition",
-              "link": "https://www.channeldive.com/news/uk-reseller-softcat-expands-north-american-footprint-with-gdt-acquisition/830812/",
-              "summary": "Softcat followed Germany-based VAR Computacenter into the U.S. market with a deal that adds telco and AI networking expertise.",
-              "image": "https://imgproxy.divecdn.com/YtUjEClPwEDB0ZLoSuUrp3wxowFp8PENbw39grG2j0U/g:nowe:0:104/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NjI4Nzg1ODJfam9tUUc4by5qcGc=.webp",
-              "date": "Fri, 18 Sep 2026 14:56:00 -0400"
-            },
-            {
               "title": "Ensono\u2019s AI lead outlines a partner strategy for the technology",
               "link": "https://www.channeldive.com/news/ensono-chief-ai-officer-adoption-playbook/830579/",
-              "summary": "\u201cThe market has moved from rewarding AI ambition to demanding evidence of AI productivity,\u201d the MSP\u2019s chief AI officer said.",
+              "summary": "\u201cThe market has moved from rewarding AI ambition to demanding evidence of AI productivity,\u201d the MSP\u2019s Chief AI officer said.",
               "image": null,
               "date": "Fri, 18 Sep 2026 14:09:43 -0400"
             },
@@ -391,6 +384,13 @@
               "link": "https://www.channeldive.com/news/arctic-wolf-targets-msp-growth-with-streamlined-mdr-offering/830605/",
               "summary": "The cybersecurity company\u2019s Aurora MDR Connect product targets MSPs serving smaller customers and steps up competition with Huntress and Blackpoint.",
               "image": null,
+              "date": "Thu, 17 Sep 2026 15:05:00 -0400"
+            },
+            {
+              "title": "Only 35% of AI usage time is productive, workers say",
+              "link": "https://www.channeldive.com/news/only-35-of-ai-usage-time-is-productive-workers-say/830687/",
+              "summary": "Executives spend almost twice as much time working with artificial intelligence tools as other employees.",
+              "image": "https://imgproxy.divecdn.com/tcK5tmwUThXOWrXMdPbccCXFVr3vOj_4DcmqDp2s50U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY4MDE2NzU0LmpwZw==.webp",
               "date": "Thu, 17 Sep 2026 15:05:00 -0400"
             }
           ]
@@ -603,7 +603,7 @@
           "lead_story": {
             "title": "Longtime Christmas decor retailer files for bankruptcy",
             "link": "https://www.retaildive.com/news/christmas-decor-retailer-gordon-companies-files-chapter-11-bankruptcy/830777/",
-            "summary": "Gordon Brothers Inc. \u2014 which operates Christmas Central, Christmas.com and more \u2014 filed for Ch. 11 bankruptcy protection just ahead of peak season.",
+            "summary": "Gordon Companies Inc. \u2014 which operates Christmas Central, Christmas.com and more \u2014 filed for Ch. 11 bankruptcy protection just ahead of peak season.",
             "image": "https://imgproxy.divecdn.com/6b2MnwcKoAI8imru8Ek26_F_u0EIj2TZt2pbudR2nzQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQzNDIyNDgwLmpwZw==.webp",
             "date": "Fri, 18 Sep 2026 12:00:00 -0400"
           },
@@ -616,7 +616,7 @@
               "date": "Fri, 18 Sep 2026 11:48:00 -0400"
             },
             {
-              "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the \u201890s",
+              "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the \u201990s",
               "link": "https://www.retaildive.com/news/bed-bath-and-beyond-credit-union-express-nineties-nostalgia/830739/",
               "summary": "Neighborhood Intelligence hopes to simplify home ownership with the move. Meanwhile, the apparel retailer is tapping into nostalgia.",
               "image": "https://imgproxy.divecdn.com/IY7WU-EzNlUNlgL7ksJB_6UU7OgVzVVnRTg78ZNcf6s/g:nowe:0:4/c:960:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9leHByZXNzX2FyY2hpdmVfLV8xXzEuanBlZw==.webp",
@@ -632,7 +632,7 @@
             {
               "title": "Beyond Yoga captures \u2018highly engaged\u2019 NYC customer base with new pop-up",
               "link": "https://www.retaildive.com/news/beyond-yoga-new-york-city-pop-up-store/830754/",
-              "summary": "After the success of its weeklong pop-up store in 2024, the brand is setting up another shop that will offer exclusive merchandise and activations through January.",
+              "summary": "After the success of its weeklong pop-up store in 2024, the brand set up another shop that will offer exclusive merchandise and activations through January.",
               "image": "https://imgproxy.divecdn.com/MORFZl4mF-IjT0yKdrlN4-JxOj9vx9rG3xvS71IBi70/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZXlvbmQtWW9nYS1GbGF0aXJvbi1Qb3BVcC00LTEuanBn.webp",
               "date": "Fri, 18 Sep 2026 10:14:00 -0400"
             },
@@ -697,9 +697,9 @@
           "name": "Grocery Dive",
           "url": "https://www.grocerydive.com",
           "lead_story": {
-            "title": "The Friday Checkout: Kroger looks to energize its low-price image",
+            "title": "The Friday Checkout: Can Red Bull energize Kroger\u2019s quest to build a low-price image?",
             "link": "https://www.grocerydive.com/news/the-friday-checkout-kroger-red-bull-pricing/830708/",
-            "summary": "The grocery chain has stopped selling Red Bull\u2019s products at some banners as it works with suppliers \u201cto keep prices affordable.\u201d",
+            "summary": "The grocery chain has stopped selling the energy drink maker\u2019s products at some banners as it works with suppliers \u201cto keep prices affordable.\u201d",
             "image": "https://imgproxy.divecdn.com/sj4wT6fx5Ur37PwbvRCU9FVuvl_CvxuXDgui7nl72sQ/g:nowe:0:180/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU4MzQxNjYxLmpwZw==.webp",
             "date": "Fri, 18 Sep 2026 11:07:00 -0400"
           },
@@ -714,14 +714,14 @@
             {
               "title": "Costco now offers nationwide delivery on Uber and DoorDash",
               "link": "https://www.grocerydive.com/news/costco-uber-doordash-nationwide-same-day-delivery-ecommerce/830722/",
-              "summary": "The wholesaler expanded its partnerships with both e-commerce providers at a time when same-day delivery is resonating with its shoppers.",
+              "summary": "The wholesaler expanded its partnerships with both e-commerce providers at a time when same-day delivery is proving a powerful force in resonating with its shoppers.",
               "image": null,
               "date": "Fri, 18 Sep 2026 10:35:57 -0400"
             },
             {
               "title": "Schnucks offers \u2018affordable indulgence\u2019 with new Italian store brand",
               "link": "https://www.grocerydive.com/news/schnucks-private-label-culinaria-italian-table-brand/830760/",
-              "summary": "The regional grocer\u2019s newest private label line includes over 40 items sourced from Italy.",
+              "summary": "The regional grocer\u2019s newest private label line includes over 40 items, all sourced directly from Italy.",
               "image": "https://imgproxy.divecdn.com/dNdFATlJgwwRZEYcFq3NKEdtfbKEUOMKMa8z3l3-xRk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY2hudWNrc19DdWxpbmFyaWFfSXRhbGlhbl9UYWJsZV8yLmpwZw==.webp",
               "date": "Fri, 18 Sep 2026 09:40:14 -0400"
             },
@@ -747,7 +747,7 @@
           "lead_story": {
             "title": "3 Big Numbers: The rise of stacking fuel rewards",
             "link": "https://www.cstoredive.com/news/3-big-numbers-the-rise-of-stacking-fuel-rewards/830706/",
-            "summary": "As gas prices remain elevated, more customers are combining multiple fuel-saving benefits, though guests using just one program may save more.",
+            "summary": "As gas prices remain elevated, the number of customers combining two or more fuel-saving benefits is rising, though customers using just one program may save more.",
             "image": "https://imgproxy.divecdn.com/KgSeMk6jS8-e5ANNq_WDa5s_MnbyFMFPeDH939WRzvI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA1NTE2MzExLmpwZw==.webp",
             "date": "Fri, 18 Sep 2026 09:13:18 -0400"
           },
@@ -1237,7 +1237,7 @@
           "lead_story": {
             "title": "Advice from apartment pros you might have missed",
             "link": "https://www.multifamilydive.com/news/advice-from-apartment-pros-you-might-have-missed/830664/",
-            "summary": "Multifamily experts offer insight on navigating artificial intelligence, volatile financing, affordability pressure, federal policy changes and more.",
+            "summary": "Multifamily experts offer insight on navigating artificial intelligence, volatile financing and affordability pressure, federal policy changes and more.",
             "image": "https://imgproxy.divecdn.com/dErbIlknV1mfvxNFjp5oaZR9f2vuqUhMTLgj_dAETLc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PVEhfVE9EXzIwMTkwMzIyLTIuanBn.webp",
             "date": "Thu, 17 Sep 2026 16:31:00 -0400"
           },
@@ -1338,18 +1338,11 @@
           "lead_story": {
             "title": "Microsoft \u2018preserving its ability\u2019 to challenge data center transmission costs decision",
             "link": "https://www.utilitydive.com/news/microsoft-virginia-scc-data-center-transmission/830775/",
-            "summary": "It has until November to formally appeal the Virginia State Corporation Commission\u2019s order to directly assign some costs of transmission. Dominion Energy has an October deadline to propose compliant policy changes.",
+            "summary": "The company has until November to formally appeal the Virginia State Corporation Commission\u2019s order to directly assign some costs of transmission. Dominion Energy has an October deadline to propose compliant policy chang...",
             "image": "https://imgproxy.divecdn.com/KP-NZsE3EojMbciTvTHP9YO7oY_yJgVY9INp39Hf1ug/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI0OTEyMTA4X1JPQ05hbnAuanBn.webp",
             "date": "Fri, 18 Sep 2026 10:09:13 -0400"
           },
           "top_stories": [
-            {
-              "title": "Hitachi to double US production of small and medium-sized power transformers",
-              "link": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/",
-              "summary": "A Mississippi facility will produce transformers in the 10 MVA to 160 MVA range, designed for voltages up to 230 kV. The additional capacity \u201cis expected to help alleviate industry-wide supply constraints,\u201d a Hitachi off...",
-              "image": "https://imgproxy.divecdn.com/-DVUj3qDRqMRwekDWAg8EPT1F8Ukk4-yNOHwvT1c97Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnNpZGVfb2ZfQ3J5c3RhbF9TcHJpbmdzX0ZhY2lsaXR5LmpwZw==.webp",
-              "date": "Fri, 18 Sep 2026 08:42:36 -0400"
-            },
             {
               "title": "Trump is stalling EV adoption. Here\u2019s how states can step up.",
               "link": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
@@ -1377,6 +1370,13 @@
               "summary": "The bill would \u201clargely reinforce\u201d a transition that is already underway as more states adopt large-load tariffs and is unlikely to pass the Senate before the midterm elections, according to ClearView Energy Partners.",
               "image": "https://imgproxy.divecdn.com/N9ZmFW3_lBLqEKiccMXkL6lqvErf14UeDKlzfxouHKk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0thbnNhc19DaXR5X0RhdGFfQ2VudGVyX0FlcmlhbF8xLmpwZw==.webp",
               "date": "Thu, 17 Sep 2026 10:31:21 -0400"
+            },
+            {
+              "title": "Climavision offers expanded weather forecasting to data centers",
+              "link": "https://www.utilitydive.com/news/climavision-offers-expanded-weather-forecasting-to-data-centers/830057/",
+              "summary": "The company says it can help large loads better respond to changing weather conditions as data centers are asked to play a more active role in grid management.",
+              "image": "https://imgproxy.divecdn.com/rcKZNOvAK8-7xGWXTuhQBGKLkySAA8QASQbZyPprAHk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JY2VfcG93ZXJfbGluZXMuanBn.webp",
+              "date": "Wed, 16 Sep 2026 11:09:06 -0400"
             }
           ]
         },
@@ -1442,7 +1442,7 @@
             {
               "title": "EPA pulls guidance to address PFAS in wastewater permits",
               "link": "https://www.wastedive.com/news/epa-pulls-pfas-wastewater-permit-guidance-memo-state-authority/830767/",
-              "summary": "Environmental groups warn this could have a \u201cchilling effect\u201d on PFAS restriction language in permits for sites like landfills and manufacturing facilities.",
+              "summary": "The agency made the change as part of a rescission of five documents that it said no longer reflected current laws and executive orders. Environmental groups fear this could have a \u201cchilling effect\u201d on PFAS permit langua...",
               "image": "https://imgproxy.divecdn.com/uckBz4HDOgS04IsK-PlS74mDH6CPb68KHtkN9ccFOQk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzkwMDk2ODI5LmpwZw==.webp",
               "date": "Fri, 18 Sep 2026 11:40:00 -0400"
             },
@@ -1674,7 +1674,7 @@
           "lead_story": {
             "title": "How one mortgage lender deployed voice AI agents to improve borrowers\u2019 experience",
             "link": "https://www.customerexperiencedive.com/news/how-one-mortgage-lender-deployed-voice-ai-agents-to-improve-borrowers-expe/830723/",
-            "summary": "Mutual of Omaha Mortgage is using voice AI agents so that their loan officers can spend more time on the phone with borrowers.",
+            "summary": "The mortgage lender is using voice AI agents so that their loan officers can spend more time on the phone with borrowers.",
             "image": "https://imgproxy.divecdn.com/LBHcDH9a_yewla-G930dmdB2YsVRnCHaLw7EmC8lmxs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTM2NTQxMDMxLmpwZw==.webp",
             "date": "Fri, 18 Sep 2026 10:00:00 -0400"
           },
