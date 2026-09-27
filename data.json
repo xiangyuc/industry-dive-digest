@@ -1,6 +1,6 @@
 {
-  "date": "September 26, 2026",
-  "updated_at": "2026-09-26 00:18:51 UTC",
+  "date": "September 27, 2026",
+  "updated_at": "2026-09-27 00:05:50 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -20,16 +20,9 @@
             {
               "title": "Michigan credit union CEO is out after \u2018Lake America\u2019 blowback",
               "link": "https://www.bankingdive.com/news/michigan-credit-union-ceo-leaves-after-blowback-lake-america-ai-facebook-post-family-first/831396/",
-              "summary": "The executive privately posted an AI-altered photo of family members wearing \u201cLake America\u201d sweatshirts while headed to Canada for vacation. A public repost \u2013 without the AI label \u2013 went viral.",
+              "summary": "The executive privately posted an AI-altered photo of family members wearing \u2018Lake America\u2019 sweatshirts while headed to Canada for vacation. A public repost \u2013 without the AI label \u2013 went viral.",
               "image": "https://imgproxy.divecdn.com/LG1X6Wzo54rMV9YZ8ckIeZNg-a0JEx_ei-jm2-_N94o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU5NDUwNTQyLmpwZw==.webp",
               "date": "Fri, 25 Sep 2026 12:01:35 -0400"
-            },
-            {
-              "title": "Huntington unites marketing, digital in a push for growth",
-              "link": "https://www.bankingdive.com/news/huntington-bank-marketing-digital-brand-customer-experience-vakharia/831361/",
-              "summary": "Former USAA executive Ameesh Vakharia has been tasked with aligning the regional bank\u2019s brand experience with its digital product delivery. \u201cWe can't have marketing buzzwords or campaigns that don't manifest,\u201d he said.",
-              "image": null,
-              "date": "Fri, 25 Sep 2026 09:57:01 -0400"
             },
             {
               "title": "WestStar stretches New Mexico presence with Southwest Capital deal",
@@ -51,6 +44,13 @@
               "summary": "Chief Risk Officer Derek Flowers will retire from Wells Fargo in mid-January, and Powell will transition to that role, the bank said.",
               "image": "https://imgproxy.divecdn.com/F4cySOdiAFbbaQSQc_eNVzjUvdPUDC346M_qvgOa7Dc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDUwNzI1OTMzLmpwZw==.webp",
               "date": "Thu, 24 Sep 2026 11:28:31 -0400"
+            },
+            {
+              "title": "Moov adds P2P competition",
+              "link": "https://www.bankingdive.com/news/moov-adds-p2p-competition/831397/",
+              "summary": "Using Mastercard and Visa\u2019s digital infrastructure, the tool facilitates peer-to-peer payments without requiring both parties to have the same app.",
+              "image": "https://imgproxy.divecdn.com/wys3JweVuND6TEAexis8mSSfn8nKt9t_XY4WkvL-oik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDI4NzU5MzY4LmpwZw==.webp",
+              "date": "Thu, 24 Sep 2026 10:51:00 -0400"
             }
           ]
         },
@@ -156,7 +156,7 @@
           "lead_story": {
             "title": "Kroger\u2019s AI focus is on \u2018flexibility and control\u2019",
             "link": "https://www.paymentsdive.com/news/kroger-ai-technology-groceryshop/831391/",
-            "summary": "From bridging the digital and physical shopping worlds to further ramping effective personalization, the grocer\u2019s chief digital officer delved into the company\u2019s priorities.",
+            "summary": "From bridging the digital and physical shopping worlds to further ramping up effective personalization, the grocer\u2019s chief digital officer delved into the company\u2019s priorities.",
             "image": "https://imgproxy.divecdn.com/xbO2R3ByfdgTh9A2ehwcjP46RKtTyi_FtiWpR32czcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HU19Lcm9nZXIuanBn.webp",
             "date": "Fri, 25 Sep 2026 10:40:00 -0400"
           },
@@ -625,7 +625,7 @@
             {
               "title": "The Weekly Closeout: What will happen to Michael Kors and J. Crew celebrates its Barn Jacket",
               "link": "https://www.retaildive.com/news/michael-kors-capri-sale-acquisition-j-crew-barn-jacket-anniversary/831321/",
-              "summary": "The fashion brand is dragging down Capri Holdings. Meanwhile, the specialty retailer observes 40 years of a key outerwear product.",
+              "summary": "The fashion brand is dragging on Capri Holdings. Meanwhile, the specialty retailer observes 40 years of a key outerwear product.",
               "image": "https://imgproxy.divecdn.com/nEE5Vw6wrTrzMpNgDEfmeTXB2q_aD04BVjcw18hW7Ho/g:nowe:283:953/c:4471:2526/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0NGODA4MC5KUEc=.webp",
               "date": "Fri, 25 Sep 2026 10:38:00 -0400"
             },
@@ -793,7 +793,7 @@
           "name": "Restaurant Dive",
           "url": "https://www.restaurantdive.com",
           "lead_story": {
-            "title": "How McDonald\u2019s plans to reactivate 150M infrequent loyalty guests",
+            "title": "How McDonald\u2019s plans to reactivate 150M infrequent guests",
             "link": "https://www.restaurantdive.com/news/mcdonalds-tiered-loyalty-rollout/831322/",
             "summary": "The Golden Arches will add rewards tiers, tie-ups with other major brands and increased personalization to its loyalty system.",
             "image": "https://imgproxy.divecdn.com/E6S0OZWJHdbu0CR13_oIn0-qNsOuVPvtqADHkPVJ8kY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTgwNTQ2MTkyLmpwZw==.webp",
@@ -801,16 +801,9 @@
           },
           "top_stories": [
             {
-              "title": "McDonald\u2019s turns to AI for drive-thru, inventory management, order accuracy",
-              "link": "https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/",
-              "summary": "McDonald\u2019s will roll out ArchIQ, an artificial intelligence platform to power restaurant operations, as part of its Next strategy.",
-              "image": "https://imgproxy.divecdn.com/54VPe-mzMcoKoTGKoOiJrIPXCxWnzWHRE23PE3FgxfU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYzMDY3NzczLmpwZw==.webp",
-              "date": "Fri, 25 Sep 2026 10:46:07 -0400"
-            },
-            {
               "title": "Yard House becomes Darden\u2019s third billion-dollar brand",
               "link": "https://www.restaurantdive.com/news/yard-house-third-darden-billion-dollar-brand/831313/",
-              "summary": "The full-service concept, which posted 10% growth in same-store sales during fiscal Q1 2027, plans to open 13 new stores during the ongoing fiscal year.",
+              "summary": "The full-service concept, which posted 10% growth in same-store sales during fiscal Q1 2027, plans to open 13 new stores during the upcoming fiscal year.",
               "image": "https://imgproxy.divecdn.com/Fx918kTbUG4Do3ofM316tvBe86kuUk3fsYx_CSU7oRY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAwMDE1OTE4LmpwZw==.webp",
               "date": "Fri, 25 Sep 2026 09:55:00 -0400"
             },
@@ -834,6 +827,13 @@
               "summary": "The brand said the closures would impact locations that can\u2019t deliver the coffeehouse experience or financial performance it expects.",
               "image": "https://imgproxy.divecdn.com/MZPUnP77z-H6PnLxfez5TXvnd8M7Ry51Sfab_IjnA7M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU5ODY3MTU3LmpwZw==.webp",
               "date": "Thu, 24 Sep 2026 11:19:00 -0400"
+            },
+            {
+              "title": "Inside McDonald\u2019s new marketing model as it enters media network fray",
+              "link": "https://www.restaurantdive.com/news/inside-mcdonalds-new-marketing-model-as-it-enters-media-network-fray/831207/",
+              "summary": "At its first investor day since 2023, the fast food giant announced it is piloting a media network with the goal of building a $1 billion ad business.",
+              "image": "https://imgproxy.divecdn.com/-YuW349ccEajUTSSEoqqOzEWFdkOyI0KSFd_S_T-dUQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTgwNTQ2MTkyX1RPWDJkcDMuanBn.webp",
+              "date": "Thu, 24 Sep 2026 10:02:00 -0400"
             }
           ]
         },
@@ -843,7 +843,7 @@
           "lead_story": {
             "title": "NAW\u00a0to appeal ruling that upheld Oregon EPR law",
             "link": "https://www.packagingdive.com/news/wholesalers-appeal-oregon-epr-decision-ninth-circuit/831347/",
-            "summary": "\u201cThe district court reached the wrong legal conclusions, and we\u2019re asking the Ninth Circuit to correct them,\u201d said National Association of Wholesaler-Distributors CEO Eric Hoplin.",
+            "summary": "\u201cThe district court reached the wrong legal conclusions, and we\u2019re asking the Ninth Circuit to correct them,\u201d said NAW CEO Eric Hoplin. The case also has implications for a class action lawsuit in the state.",
             "image": "https://imgproxy.divecdn.com/g5qFFSNj0jzHJpvfkHU8IHf8V4EmUkGWDGyEI5xVNiM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW9uZWVyLmpwZw==.webp",
             "date": "Fri, 25 Sep 2026 11:00:00 -0400"
           },
@@ -1147,6 +1147,13 @@
           },
           "top_stories": [
             {
+              "title": "Green roofs, reflective materials on bus shelters aim to beat the heat in NYC pilot",
+              "link": "https://www.facilitiesdive.com/news/green-roofs-reflective-materials-beat-bus-shelter-heat--nyc-pilot/831297/",
+              "summary": "Living or green roofs can reduce surrounding air temperatures by up to 20 degrees Fahrenheit, a construction engineering researcher says.",
+              "image": null,
+              "date": "Fri, 25 Sep 2026 10:03:01 -0400"
+            },
+            {
               "title": "\u2018Elephant skin\u2019 tiles reduce heat 33%: research",
               "link": "https://www.facilitiesdive.com/news/elephant-skin-tiles-reduce-heat-33-research/831353/",
               "summary": "Building operators can use the tiles to reduce air conditioning, even during heat waves, say University of Pennsylvania and Syracuse University scientists.",
@@ -1173,13 +1180,6 @@
               "summary": "The market for commercial systems will grow 27% over the next five years, say American Clean Power and Wood Mackenzie.",
               "image": "https://imgproxy.divecdn.com/KSb42buGFZLMFc93gmyq3ZYY65YmlgNshJ9fIx99yLA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzMDgxNTAzLmpwZw==.webp",
               "date": "Thu, 24 Sep 2026 07:56:04 -0400"
-            },
-            {
-              "title": "Oberlin project shows path to implementing geothermal system",
-              "link": "https://www.facilitiesdive.com/news/oberlin-project-shows-path-to-implementing-geothermal-system/831156/",
-              "summary": "The Ohio college used climate bonds to finance a geothermal heating and cooling system on its campus that has helped it attract students and retain staff.",
-              "image": "https://imgproxy.divecdn.com/PALx50P_fd0eDwuaB8c9MxeQdI2-LXNnslgs8Lfuowk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc0MTc5MDg3LmpwZw==.webp",
-              "date": "Wed, 23 Sep 2026 11:43:33 -0400"
             }
           ]
         },
@@ -1336,7 +1336,7 @@
           "name": "Utility Dive",
           "url": "https://www.utilitydive.com",
           "lead_story": {
-            "title": "Second federal judge overturns $7B Solar for All cancellation by Trump administration",
+            "title": "Second federal judge overturns $7B Solar for All cancellation",
             "link": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/",
             "summary": "The decision in a suit brought by Harris County, Texas, follows a similar ruling last week. A Harris County judge called it \u201ca really important victory for energy resilience.\u201d",
             "image": "https://imgproxy.divecdn.com/iufL00sIgeaxKNw8jnIGOFxagmAL1noTOrMGJ3_z0lk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yb29mdG9wX3NvbGFyX0NhbGlmb3JuaWEuanBn.webp",
@@ -1346,7 +1346,7 @@
             {
               "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM\u2019s interconnection study cycle",
               "link": "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/",
-              "summary": "The decision affects a 750-MW, mixed technology project in Virginia, which Oklo said would be delayed by at least 14 months if it misses the current interconnection cycle.",
+              "summary": "The decision affects a 750-MW, mixed technology project in Virginia, which Oklo said would be delayed by at least 18 months if it misses the current interconnection cycle.",
               "image": "https://imgproxy.divecdn.com/AE7uPp236vg7q8q9iY6CCvXQwIdc0VSLJlP2b2VkLlQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjAzODEzMjg1LmpwZw==.webp",
               "date": "Fri, 25 Sep 2026 09:46:29 -0400"
             },
@@ -1356,6 +1356,13 @@
               "summary": "\u201cTechnologies that help the utility be more efficient in terms of building infrastructure \u2026 is a space that we're looking at,\u201d an Exelon executive said.",
               "image": "https://imgproxy.divecdn.com/wnERvP00zLA1zKOJ_45teachRDW6K0Ll6T3C7eFA9m4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDAyMDEyNTQ1LmpwZw==.webp",
               "date": "Thu, 24 Sep 2026 12:12:30 -0400"
+            },
+            {
+              "title": "States sue Trump administration, developers over offshore wind lease buyouts",
+              "link": "https://www.utilitydive.com/news/states-sue-trump-administration-developers-over-offshore-wind-lease-buyout/831279/",
+              "summary": "Attorneys general from California and a coalition of Northeastern states accused the federal government of violating several laws and the developers of colluding with the administration.",
+              "image": "https://imgproxy.divecdn.com/wMWOaczvU8z87wzkdVkDqR6KyAWwqH0y3chv9Iq3BaM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ueXNlcmRhMi5QTkc=.webp",
+              "date": "Thu, 24 Sep 2026 11:45:02 -0400"
             },
             {
               "title": "Advanced transmission projects get $1.9B in DOE funding",
@@ -1370,13 +1377,6 @@
               "summary": "When Congress revisits clean-energy tax policy, lawmakers should restore incentives for locally driven solar and storage projects, writes Edward Yim at Lawyers for Good Government.",
               "image": "https://imgproxy.divecdn.com/R9VpWXCI-N45Br9Sxcuid13dNR4kDAaWssKLIGBBmTE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA2NTM2NzAzLmpwZw==.webp",
               "date": "Thu, 24 Sep 2026 11:00:00 -0400"
-            },
-            {
-              "title": "Affordability concerns drive momentum for performance-based ratemaking",
-              "link": "https://www.utilitydive.com/news/affordability-concerns-drive-momentum-for-performance-based-ratemaking/831120/",
-              "summary": "Michigan is among the states weighing reforms to rate case planning and utility profits. Experts and stakeholders told Utility Dive what works \u2014 and what doesn\u2019t.",
-              "image": "https://imgproxy.divecdn.com/I05RAiEj-TlZ7njDFZjtJiqh6teeI_TSW2LT__JnVJw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNoaWdhbl90cmFuc21pc3Npb24uanBn.webp",
-              "date": "Thu, 24 Sep 2026 09:11:07 -0400"
             }
           ]
         },
@@ -1648,16 +1648,9 @@
             {
               "title": "LinkedIn shares insights into key B2B buying behaviors",
               "link": "https://www.socialmediatoday.com/news/linkedin-shares-insights-into-key-b2b-buying-behaviors/831324/",
-              "summary": "The data suggests that marketers should enact longer lead-in promotions to tap into early discovery.",
+              "summary": "The data suggests that marketers should enact promotions with longer lead-in promotions to tap into early discovery.",
               "image": null,
               "date": "Thu, 24 Sep 2026 15:59:43 -0400"
-            },
-            {
-              "title": "Meta looks to reassure AI users it can be trusted with their data",
-              "link": "https://www.socialmediatoday.com/news/meta-looks-to-reassure-ai-users-it-can-be-trusted-with-their-data/831323/",
-              "summary": "The tech giant is using cute characters and fun devices as a means to drive adoption of an always-on artificial intelligence recording device.",
-              "image": null,
-              "date": "Thu, 24 Sep 2026 15:54:30 -0400"
             },
             {
               "title": "Meta outlines Muse, AI glasses and VR device updates at Connect 2026",
@@ -1665,6 +1658,13 @@
               "summary": "Meta showed off its latest artificial intelligence-powered wearables at its annual showcase event.",
               "image": null,
               "date": "Thu, 24 Sep 2026 02:15:54 -0400"
+            },
+            {
+              "title": "X updates third-party livestream support",
+              "link": "https://www.socialmediatoday.com/news/x-updates-third-party-livestream-support/831218/",
+              "summary": "The company said its new API has been rebuilt from the ground up and features expanded scheduling and moderating capabilities.",
+              "image": null,
+              "date": "Wed, 23 Sep 2026 19:25:49 -0400"
             }
           ]
         },
