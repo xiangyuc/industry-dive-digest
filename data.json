@@ -1,6 +1,6 @@
 {
-  "date": "September 27, 2026",
-  "updated_at": "2026-09-27 00:05:50 UTC",
+  "date": "September 28, 2026",
+  "updated_at": "2026-09-28 00:14:21 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -20,9 +20,16 @@
             {
               "title": "Michigan credit union CEO is out after \u2018Lake America\u2019 blowback",
               "link": "https://www.bankingdive.com/news/michigan-credit-union-ceo-leaves-after-blowback-lake-america-ai-facebook-post-family-first/831396/",
-              "summary": "The executive privately posted an AI-altered photo of family members wearing \u2018Lake America\u2019 sweatshirts while headed to Canada for vacation. A public repost \u2013 without the AI label \u2013 went viral.",
+              "summary": "The executive privately posted an AI-altered photo of family members wearing \u201cLake America\u201d sweatshirts while headed to Canada for vacation. A public repost \u2013 without the AI label \u2013 went viral.",
               "image": "https://imgproxy.divecdn.com/LG1X6Wzo54rMV9YZ8ckIeZNg-a0JEx_ei-jm2-_N94o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU5NDUwNTQyLmpwZw==.webp",
               "date": "Fri, 25 Sep 2026 12:01:35 -0400"
+            },
+            {
+              "title": "Huntington unites marketing, digital in a push for growth",
+              "link": "https://www.bankingdive.com/news/huntington-bank-marketing-digital-brand-customer-experience-vakharia/831361/",
+              "summary": "Former USAA executive Ameesh Vakharia has been tasked with aligning the regional bank\u2019s brand experience with its digital product delivery. \u201cWe can't have marketing buzzwords or campaigns that don't manifest,\u201d he said.",
+              "image": null,
+              "date": "Fri, 25 Sep 2026 09:57:01 -0400"
             },
             {
               "title": "WestStar stretches New Mexico presence with Southwest Capital deal",
@@ -44,13 +51,6 @@
               "summary": "Chief Risk Officer Derek Flowers will retire from Wells Fargo in mid-January, and Powell will transition to that role, the bank said.",
               "image": "https://imgproxy.divecdn.com/F4cySOdiAFbbaQSQc_eNVzjUvdPUDC346M_qvgOa7Dc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDUwNzI1OTMzLmpwZw==.webp",
               "date": "Thu, 24 Sep 2026 11:28:31 -0400"
-            },
-            {
-              "title": "Moov adds P2P competition",
-              "link": "https://www.bankingdive.com/news/moov-adds-p2p-competition/831397/",
-              "summary": "Using Mastercard and Visa\u2019s digital infrastructure, the tool facilitates peer-to-peer payments without requiring both parties to have the same app.",
-              "image": "https://imgproxy.divecdn.com/wys3JweVuND6TEAexis8mSSfn8nKt9t_XY4WkvL-oik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDI4NzU5MzY4LmpwZw==.webp",
-              "date": "Thu, 24 Sep 2026 10:51:00 -0400"
             }
           ]
         },
@@ -843,7 +843,7 @@
           "lead_story": {
             "title": "NAW\u00a0to appeal ruling that upheld Oregon EPR law",
             "link": "https://www.packagingdive.com/news/wholesalers-appeal-oregon-epr-decision-ninth-circuit/831347/",
-            "summary": "\u201cThe district court reached the wrong legal conclusions, and we\u2019re asking the Ninth Circuit to correct them,\u201d said NAW CEO Eric Hoplin. The case also has implications for a class action lawsuit in the state.",
+            "summary": "\u201cThe district court reached the wrong legal conclusions, and we\u2019re asking the Ninth Circuit to correct them,\u201d said National Association of Wholesaler-Distributors CEO Eric Hoplin.",
             "image": "https://imgproxy.divecdn.com/g5qFFSNj0jzHJpvfkHU8IHf8V4EmUkGWDGyEI5xVNiM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW9uZWVyLmpwZw==.webp",
             "date": "Fri, 25 Sep 2026 11:00:00 -0400"
           },
@@ -1336,7 +1336,7 @@
           "name": "Utility Dive",
           "url": "https://www.utilitydive.com",
           "lead_story": {
-            "title": "Second federal judge overturns $7B Solar for All cancellation",
+            "title": "Second federal judge overturns $7B Solar for All cancellation by Trump administration",
             "link": "https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/",
             "summary": "The decision in a suit brought by Harris County, Texas, follows a similar ruling last week. A Harris County judge called it \u201ca really important victory for energy resilience.\u201d",
             "image": "https://imgproxy.divecdn.com/iufL00sIgeaxKNw8jnIGOFxagmAL1noTOrMGJ3_z0lk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yb29mdG9wX3NvbGFyX0NhbGlmb3JuaWEuanBn.webp",
@@ -1346,7 +1346,7 @@
             {
               "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM\u2019s interconnection study cycle",
               "link": "https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/",
-              "summary": "The decision affects a 750-MW, mixed technology project in Virginia, which Oklo said would be delayed by at least 18 months if it misses the current interconnection cycle.",
+              "summary": "The decision affects a 750-MW, mixed technology project in Virginia, which Oklo said would be delayed by at least 14 months if it misses the current interconnection cycle.",
               "image": "https://imgproxy.divecdn.com/AE7uPp236vg7q8q9iY6CCvXQwIdc0VSLJlP2b2VkLlQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjAzODEzMjg1LmpwZw==.webp",
               "date": "Fri, 25 Sep 2026 09:46:29 -0400"
             },
@@ -1356,13 +1356,6 @@
               "summary": "\u201cTechnologies that help the utility be more efficient in terms of building infrastructure \u2026 is a space that we're looking at,\u201d an Exelon executive said.",
               "image": "https://imgproxy.divecdn.com/wnERvP00zLA1zKOJ_45teachRDW6K0Ll6T3C7eFA9m4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDAyMDEyNTQ1LmpwZw==.webp",
               "date": "Thu, 24 Sep 2026 12:12:30 -0400"
-            },
-            {
-              "title": "States sue Trump administration, developers over offshore wind lease buyouts",
-              "link": "https://www.utilitydive.com/news/states-sue-trump-administration-developers-over-offshore-wind-lease-buyout/831279/",
-              "summary": "Attorneys general from California and a coalition of Northeastern states accused the federal government of violating several laws and the developers of colluding with the administration.",
-              "image": "https://imgproxy.divecdn.com/wMWOaczvU8z87wzkdVkDqR6KyAWwqH0y3chv9Iq3BaM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ueXNlcmRhMi5QTkc=.webp",
-              "date": "Thu, 24 Sep 2026 11:45:02 -0400"
             },
             {
               "title": "Advanced transmission projects get $1.9B in DOE funding",
@@ -1377,6 +1370,13 @@
               "summary": "When Congress revisits clean-energy tax policy, lawmakers should restore incentives for locally driven solar and storage projects, writes Edward Yim at Lawyers for Good Government.",
               "image": "https://imgproxy.divecdn.com/R9VpWXCI-N45Br9Sxcuid13dNR4kDAaWssKLIGBBmTE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA2NTM2NzAzLmpwZw==.webp",
               "date": "Thu, 24 Sep 2026 11:00:00 -0400"
+            },
+            {
+              "title": "Affordability concerns drive momentum for performance-based ratemaking",
+              "link": "https://www.utilitydive.com/news/affordability-concerns-drive-momentum-for-performance-based-ratemaking/831120/",
+              "summary": "Michigan is among the states weighing reforms to rate case planning and utility profits. Experts and stakeholders told Utility Dive what works \u2014 and what doesn\u2019t.",
+              "image": "https://imgproxy.divecdn.com/I05RAiEj-TlZ7njDFZjtJiqh6teeI_TSW2LT__JnVJw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNoaWdhbl90cmFuc21pc3Npb24uanBn.webp",
+              "date": "Thu, 24 Sep 2026 09:11:07 -0400"
             }
           ]
         },
@@ -1624,47 +1624,47 @@
           "name": "Social Media Today",
           "url": "https://www.socialmediatoday.com",
           "lead_story": {
-            "title": "Google provides more Demand Gen ad features",
-            "link": "https://www.socialmediatoday.com/news/google-provides-more-demand-gen-ad-features/831330/",
-            "summary": "Updates like affiliate location extensions in Google Maps and one-click ads on YouTube Shorts are meant to speed up conversions.",
-            "image": null,
-            "date": "Thu, 24 Sep 2026 16:36:26 -0400"
+            "title": "Can Meta be trusted with user data to power its AI agents?",
+            "link": "https://www.socialmediatoday.com/news/can-meta-be-trusted-with-user-data-to-power-its-ai-agents/831446/",
+            "summary": "An incomplete list of the many times that Meta has been accused of misusing people\u2019s data over the years reflects how it prioritizes innovation over safety.",
+            "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp",
+            "date": "Sun, 27 Sep 2026 18:38:36 -0400"
           },
           "top_stories": [
             {
-              "title": "Instagram chief shares algorithm insights and posting tips",
-              "link": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/831326/",
-              "summary": "In a new series of videos, chief Adam Mosseri addresses concerns about algorithmic influence and suggests how creators can improve their results.",
+              "title": "YouTube previews AI-powered Conversational Editing",
+              "link": "https://www.socialmediatoday.com/news/youtube-previews-ai-powered-conversational-editing/831445/",
+              "summary": "Conversational Editing will make it easier for creators to build and refine their projects using plain language guidance.",
               "image": null,
-              "date": "Thu, 24 Sep 2026 16:05:28 -0400"
+              "date": "Sun, 27 Sep 2026 18:34:24 -0400"
             },
             {
-              "title": "YouTube refuses to join Meta settlement on teen harms",
-              "link": "https://www.socialmediatoday.com/news/youtube-refuses-to-join-meta-settlement-on-teen-harms/831325/",
-              "summary": "CEO Neal Mohan told CNN this week that YouTube has invested heavily in safety measures for young users and will continue to do so.",
+              "title": "X launches Grok Bot rewards program to showcase AI utility",
+              "link": "https://www.socialmediatoday.com/news/x-launches-grok-bot-rewards-program-to-showcase-ai-utility/831444/",
+              "summary": "The new trend in AI development is enabling users to deploy AI-powered bots that can be tasked with online roles on their behalf.",
               "image": null,
-              "date": "Thu, 24 Sep 2026 16:02:58 -0400"
+              "date": "Sun, 27 Sep 2026 18:30:04 -0400"
             },
             {
-              "title": "LinkedIn shares insights into key B2B buying behaviors",
-              "link": "https://www.socialmediatoday.com/news/linkedin-shares-insights-into-key-b2b-buying-behaviors/831324/",
-              "summary": "The data suggests that marketers should enact promotions with longer lead-in promotions to tap into early discovery.",
+              "title": "How can Instagram creators use Muse AI agents?",
+              "link": "https://www.socialmediatoday.com/news/how-can-instagram-creators-use-muse-ai-agents/831443/",
+              "summary": "There\u2019s a range of ways that Meta's AI agents could be of value for creators, but building trust in them will be a hurdle.",
               "image": null,
-              "date": "Thu, 24 Sep 2026 15:59:43 -0400"
+              "date": "Sun, 27 Sep 2026 18:24:06 -0400"
             },
             {
-              "title": "Meta outlines Muse, AI glasses and VR device updates at Connect 2026",
-              "link": "https://www.socialmediatoday.com/news/meta-outlines-muse-ai-glasses-and-vr-device-updates-at-connect-2026/831223/",
-              "summary": "Meta showed off its latest artificial intelligence-powered wearables at its annual showcase event.",
+              "title": "TikTok agrees to teen usage restrictions in Alabama",
+              "link": "https://www.socialmediatoday.com/news/tiktok-agrees-to-teen-usage-restrictions-in-alabama/831442/",
+              "summary": "The measures are very similar to the provisions that Meta agreed to implement as part of its recent settlement deal in California.",
               "image": null,
-              "date": "Thu, 24 Sep 2026 02:15:54 -0400"
+              "date": "Sun, 27 Sep 2026 18:21:25 -0400"
             },
             {
-              "title": "X updates third-party livestream support",
-              "link": "https://www.socialmediatoday.com/news/x-updates-third-party-livestream-support/831218/",
-              "summary": "The company said its new API has been rebuilt from the ground up and features expanded scheduling and moderating capabilities.",
+              "title": "Google provides more Demand Gen ad features",
+              "link": "https://www.socialmediatoday.com/news/google-provides-more-demand-gen-ad-features/831330/",
+              "summary": "Updates like affiliate location extensions in Google Maps and one-click ads on YouTube Shorts are meant to speed up conversions.",
               "image": null,
-              "date": "Wed, 23 Sep 2026 19:25:49 -0400"
+              "date": "Thu, 24 Sep 2026 16:36:26 -0400"
             }
           ]
         },
