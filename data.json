@@ -1,6 +1,6 @@
 {
-  "date": "October 03, 2026",
-  "updated_at": "2026-10-03 00:52:06 UTC",
+  "date": "October 04, 2026",
+  "updated_at": "2026-10-04 00:17:25 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -66,13 +66,6 @@
           },
           "top_stories": [
             {
-              "title": "Tax fraud costs US government at least $116B annually, GAO says",
-              "link": "https://www.cfo.com/news/tax-fraud-costs-us-government-at-least-116b-annually-gao-says/831955/",
-              "summary": "In a new report, the watchdog said there has not yet been a comprehensive estimate of revenue lost to tax fraud until now.",
-              "image": "https://imgproxy.divecdn.com/7XauVZrjyczcj4IH5Ba3vpm1FajfQ3-YX-vd7-_kSio/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzQ4Nzk1MDEuanBn.webp",
-              "date": "Fri, 02 Oct 2026 08:58:00 -0400"
-            },
-            {
               "title": "Beyond tariffs, a storm of pressures is hampering SMB supply chains",
               "link": "https://www.cfo.com/news/beyond-tariffs-a-storm-of-pressures-is-hampering-smb-supply-chains/831772/",
               "summary": "With several variables shifting at once, this has turned out to be a year of \u201cchaos\u201d for inventory planning.",
@@ -99,6 +92,13 @@
               "summary": "Chevron CFO Eimear Bonner expects energy prices to stay elevated, while a major trucking CEO says contracts signed before diesel prices rose are hurting the bottom line.",
               "image": "https://imgproxy.divecdn.com/ORhn4kQaR8FaD3Y-k3htVfyq-H2JHZPVyAGUakw07Q8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA2MDA4ODY0XzIuanBn.webp",
               "date": "Wed, 30 Sep 2026 09:00:00 -0400"
+            },
+            {
+              "title": "5 ways CFOs can own the financial side of AI strategy",
+              "link": "https://www.cfo.com/news/5-ways-cfos-can-own-the-financial-side-of-ai-strategy/831516/",
+              "summary": "Making artificial intelligence investments was the easy part. Now finance leaders must defend them.",
+              "image": "https://imgproxy.divecdn.com/jvhRPbisRvmbE6clx-EbenaVLRI-28-W7wvInwhjLNw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU3ODQ1NDYxLmpwZw==.webp",
+              "date": "Tue, 29 Sep 2026 09:07:52 -0400"
             }
           ]
         },
@@ -144,7 +144,7 @@
             {
               "title": "Chief AI officers arrive in C-suites",
               "link": "https://www.cfodive.com/news/chief-ai-officers-arrive-c-suites-cristkolder/832014/",
-              "summary": "Major corporations including Boeing, Eli Lilly and McDonald\u2019s have added the roles since 2020, the report from Crist Kolder finds.",
+              "summary": "Major corporations including Boeing, Eli Lilly, and McDonald\u2019s have added the roles since 2020, the report from Crist Kolder finds.",
               "image": "https://imgproxy.divecdn.com/lBC_POzVo7b14uSGsF1lXtuyDr5eqga1m8oEEjnCyjo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2NTY2NDEwXzEuanBn.webp",
               "date": "Fri, 02 Oct 2026 10:39:32 -0400"
             }
@@ -257,7 +257,7 @@
           "lead_story": {
             "title": "Tech hiring dips despite spike in job postings",
             "link": "https://www.ciodive.com/news/september-jobs-report-compTIA-hiring-glassdoor/832068/",
-            "summary": "Demand for technology roles reached a three-year high, as employers added more than a quarter million postings last month, CompTIA found.",
+            "summary": "Demand for technology roles reached a three-year high, as employers added more than a quarter million job postings last month, CompTIA found.",
             "image": "https://imgproxy.divecdn.com/mD5kk1S8UcV0Xh9QSwA02iv-22mBbkmKJOKu_-PgXKg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjczODk3NjY1LmpwZw==.webp",
             "date": "Fri, 02 Oct 2026 16:19:40 -0400"
           },
@@ -351,20 +351,13 @@
           "name": "Channel Dive",
           "url": "https://www.channeldive.com",
           "lead_story": {
-            "title": "Partner priorities shift as security automation spreads",
-            "link": "https://www.channeldive.com/news/cybersecurity-ai-automation-partner-roles-shift/831666/",
-            "summary": "The channel\u2019s role is in guiding governance, not amplifying AI hype, according to Expel\u2019s channel chief.",
-            "image": "https://imgproxy.divecdn.com/Q4lJFSprRdSMyvyexu4FdXmFyHUyai9o-c4bjJa9-2o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjAxNjMwMDk4LmpwZw==.webp",
-            "date": "Fri, 02 Oct 2026 13:00:00 -0400"
+            "title": "Former AT&T channel leader joins Avant\u2019s leadership team",
+            "link": "https://www.channeldive.com/news/former-att-channel-leader-joins-avants-leadership-team-jush-danielson/832044/",
+            "summary": "Jush Danielson will start her new role as chief partner experience officer as the firm expands its C-suite.",
+            "image": null,
+            "date": "Fri, 02 Oct 2026 14:20:19 -0400"
           },
           "top_stories": [
-            {
-              "title": "As AI writes more code, software quality takes a hit",
-              "link": "https://www.channeldive.com/news/as-ai-writes-more-code-software-quality-takes-a-hit/831817/",
-              "summary": "Nearly half of developers have experienced AI-written code failure, according to a survey from SmartBear.",
-              "image": "https://imgproxy.divecdn.com/h6eyjb3RqwCRgZWS39SAO47KjW2PCsXxLJtLAcX9J3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc2MTIyMDU1LmpwZw==.webp",
-              "date": "Fri, 02 Oct 2026 13:00:00 -0400"
-            },
             {
               "title": "AI security training soars amid rising threats",
               "link": "https://www.channeldive.com/news/AI-security-training-coursera-udemy-agentic/831962/",
@@ -392,6 +385,13 @@
               "summary": "Customers want a return on AI spending. Partners that can protect customer data will be the ones to deliver it.",
               "image": "https://imgproxy.divecdn.com/nzKpuR4BiI2eXBXDhJZ23cw87FPyROLMVqVWsYDWgdo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MDkxOTg3LmpwZw==.webp",
               "date": "Thu, 01 Oct 2026 09:37:53 -0400"
+            },
+            {
+              "title": "AI skill levels drive workforce divide: PwC",
+              "link": "https://www.channeldive.com/news/ai-skill-levels-drive-workforce-divide-pwc/831826/",
+              "summary": "More than half of workers surveyed said they are falling behind AI-savvy colleagues, PwC said.",
+              "image": "https://imgproxy.divecdn.com/pO52Kd6cEOf2oQ_hziI3_qHWWkYYiWLCheyz082bzSU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2ODg2Njg4X2hjRU9NaWIuanBn.webp",
+              "date": "Wed, 30 Sep 2026 15:42:17 -0400"
             }
           ]
         }
@@ -460,13 +460,6 @@
           },
           "top_stories": [
             {
-              "title": "Novartis wagers almost $8B on a Chinese biotech\u2019s RNA drugs",
-              "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-              "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
-              "image": "https://imgproxy.divecdn.com/mnq5GbBV-QXgGPe2-0VR931mfPsNAmKJqN8EkpLr3lI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY1NzI0ODY5LmpwZw==.webp",
-              "date": "Fri, 02 Oct 2026 10:16:54 -0400"
-            },
-            {
               "title": "3 takeaways from a European obesity scientific meeting",
               "link": "https://www.biopharmadive.com/news/3-takeaways-from-european-obesity-scientific-meeting/831870/",
               "summary": "Eli Lilly impressed with its amylin-Zepbound combination data. Elsewhere, Novo demonstrated continued weight loss following a switch to oral and AbbVie and Boehringer gave glimpses into their contenders.",
@@ -493,6 +486,13 @@
               "summary": "The department is offering funding to teams with innovative proposals as it considers ending the traditional phased clinical trial system.",
               "image": "https://imgproxy.divecdn.com/IjJiP0IJSFpxNqttQzzSI9gTgUzpJItTCMlSNblLZLo/g:nowe:0:303/c:3000:1695/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MTY1MDAwNi5qcGc=.webp",
               "date": "Thu, 01 Oct 2026 11:06:05 -0400"
+            },
+            {
+              "title": "Pfizer\u2019s eczema drug clears skin in mid-stage trial",
+              "link": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
+              "summary": "Detailed results are competitive with Dupixent and Ebglyss, but the drug lacks differentiation amid an increasingly competitive landscape, one analyst argued.",
+              "image": "https://imgproxy.divecdn.com/bHeki-RcmamHWZ337AesYqx0-vgLVnsXCVdnZnNyTHA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ0MTEwNTU2LmpwZw==.webp",
+              "date": "Thu, 01 Oct 2026 11:03:19 -0400"
             }
           ]
         },
@@ -1053,13 +1053,6 @@
               "date": "Fri, 02 Oct 2026 12:02:00 -0400"
             },
             {
-              "title": "Lucid deploys Gravity UX to 2025 and newer Air models",
-              "link": "https://www.wardsauto.com/news/lucid-deploys-gravity-ux-to-2025-and-newer-air-models/831983/",
-              "summary": "Owners of the 2022-2024 Lucid Air will have to schedule a $950 hardware upgrade to get the elevated user experience, called UX 3.0, but it\u2019s free for newer eligible vehicles.",
-              "image": "https://imgproxy.divecdn.com/GxNvr1ya27gdwGh99SxtEa3a8HSVzP5BouI1yNBZpc8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wUDZBMzMzNV9VU0FfVjIuanBn.webp",
-              "date": "Fri, 02 Oct 2026 11:50:00 -0400"
-            },
-            {
               "title": "A family dealership revolutionizes its operations with AI",
               "link": "https://www.wardsauto.com/news/a-family-dealership-revolutionizes-its-operations-with-ai/830840/",
               "summary": "As VIP Auto Group's CMO, Ben Sporn has helped build AI-based solutions to overhaul the company\u2019s e-commerce parts business and improve its fixed operations.",
@@ -1079,6 +1072,13 @@
               "summary": "The automaker and bank are partnering with the state to tackle challenges in scaling robotics and automation, critical minerals processing and other priority areas.",
               "image": null,
               "date": "Wed, 30 Sep 2026 14:15:00 -0400"
+            },
+            {
+              "title": "Ultium Cells boasts $1B investment for future affordable GM EV batteries",
+              "link": "https://www.wardsauto.com/news/ultium-cells-boasts-1b-investment-for-future-affordable-gm-ev-batteries/831720/",
+              "summary": "The GM battery supplier, a joint venture with LG Energy Solution, says that it will be the first in the world to mass-produce LMR battery cells, which it has targeted for electric trucks and more.",
+              "image": "https://imgproxy.divecdn.com/AOmcPZrq-MbLJIXEzagn2psqoUBns8OZRTFfn5CrrIg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UTjIucG5n.webp",
+              "date": "Wed, 30 Sep 2026 11:55:00 -0400"
             }
           ]
         }
@@ -1147,18 +1147,11 @@
           },
           "top_stories": [
             {
-              "title": "Legacy BACnet standard leaves HVAC, other building systems vulnerable to hacks",
+              "title": "Legacy BACnet leaves HVAC, other building systems vulnerable to hacks",
               "link": "https://www.facilitiesdive.com/news/legacy-bacnet-leaves-hvac-other-building-systems-vulnerable-to-hacks/831950/",
               "summary": "Bad actors have learned that interrupting building operations like access control and elevators is as effective as hijacking data for ransom, says security company Armis Labs.",
               "image": "https://imgproxy.divecdn.com/9rsfhevPDAyBpAHVn1ZWFD0tBycXdZf3P4Oy2gcWNNg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQ4MTgwMTg3LmpwZw==.webp",
               "date": "Fri, 02 Oct 2026 11:28:04 -0400"
-            },
-            {
-              "title": "Heat pumps, electric water heaters continue to gain ground: reports",
-              "link": "https://www.facilitiesdive.com/news/heat-pumps-electric-water-heaters-continue-to-gain-ground-reports/832024/",
-              "summary": "Mandates and long-term trends toward electrification are supporting demand for these HVAC technologies despite federal headwinds.",
-              "image": "https://imgproxy.divecdn.com/uuONw6hvwtLbzhtyOoIOnAfcGH4POWpCRWuM-D02_eY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4ODkwNzUyLmpwZw==.webp",
-              "date": "Fri, 02 Oct 2026 11:17:39 -0400"
             },
             {
               "title": "The tracking device that clears hotel room service trays",
@@ -1180,6 +1173,13 @@
               "summary": "Major markets still have slack, but building operators are diversifying their tenant rosters to offload space, analyses show.",
               "image": "https://imgproxy.divecdn.com/iCoXyA47fdM7P669ypC7UV2b-DvjAzh_P24p2S7uBvI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzkzODg0NzE0LmpwZw==.webp",
               "date": "Thu, 01 Oct 2026 11:24:20 -0400"
+            },
+            {
+              "title": "Public facilities remain biggest users of energy services companies",
+              "link": "https://www.facilitiesdive.com/news/energy-services-companies-are-becoming-a-15b-industry/831664/",
+              "summary": "Commercial and industrial companies comprise only 6% of ESCO users, mainly for design-build services rather than long-term energy management, a Lawrence Berkeley National Laboratory report says.",
+              "image": "https://imgproxy.divecdn.com/aJrTb4VVTKLyJ7T7cpWlsKzkQU7CgvtgBbduCnwty2g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNTI0NTAzLmpwZw==.webp",
+              "date": "Wed, 30 Sep 2026 10:59:14 -0400"
             }
           ]
         },
@@ -1187,7 +1187,7 @@
           "name": "Hotel Dive",
           "url": "https://www.hoteldive.com",
           "lead_story": {
-            "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
+            "title": "Lodging Lowdown: Nobu expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
             "link": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
             "summary": "Plus, Choice Hotels launched a new points-sharing feature, allowing loyalty members to share points \u201cseamlessly and for free.\u201d",
             "image": null,
@@ -1285,7 +1285,7 @@
           "lead_story": {
             "title": "Affordable housing \u2018fast track\u2019 plan targets low-production NYC neighborhoods",
             "link": "https://www.smartcitiesdive.com/news/affordable-housing-fast-track-plan-targets-low-production-nyc-neighborhoo/832018/",
-            "summary": "Twelve districts contributed just 1.1% of the city\u2019s new affordable housing in the past five years, the city says.",
+            "summary": "Twelve districts contributed just 1.1% of the city\u2019s new affordable housing in the past five years, the city says. They\u2019re now prioritized for faster permitting.",
             "image": "https://imgproxy.divecdn.com/820_0BY6lCJl2uZoRqiTUcAIkxXZXF_WRVkjhc1RaoQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU0MjgzMjg1LmpwZw==.webp",
             "date": "Fri, 02 Oct 2026 10:58:35 -0400"
           },
@@ -1338,13 +1338,13 @@
           "lead_story": {
             "title": "Cities, states sue EPA over power plant emissions rollback",
             "link": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
-            "summary": "Chicago, Denver and New York City joined multistate lawsuits challenging the agency\u2019s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
+            "summary": "Chicago, Denver and New York City join multistate lawsuits challenging the agency\u2019s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
             "image": "https://imgproxy.divecdn.com/nAk94Lh_56THLuBwC_AGbNKQwjWkK256ekY2Yy0NEUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc0MDgxOTMyLmpwZw==.webp",
             "date": "Fri, 02 Oct 2026 10:27:26 -0400"
           },
           "top_stories": [
             {
-              "title": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit",
+              "title": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit",
               "link": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
               "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and despite the unit\u2019s lack of output, payment is due, the agency said.",
               "image": null,
@@ -1367,7 +1367,7 @@
             {
               "title": "Senate permitting bill would expand federal role in transmission siting",
               "link": "https://www.utilitydive.com/news/senate-permitting-bill-would-expand-federal-role-in-electric-transmission-s/831886/",
-              "summary": "The legislation gives FERC authority to issue permits for transmission projects when they are in the public interest. It also eliminates NIETCs and the federal right of first refusal for incumbent utilities and protects ...",
+              "summary": "The legislation gives FERC authority to issue permits for transmission projects when it is in the public interest. It also eliminates NIETCs and the federal right of first refusal for incumbent utilities, and protects ex...",
               "image": "https://imgproxy.divecdn.com/rIUEiz3exNIkEo1of5cyfom0PtCcCCipHUSCtj0CGaY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTAtMDFfMTAzMjQxLnBuZw==.webp",
               "date": "Thu, 01 Oct 2026 09:55:34 -0400"
             },
@@ -1639,16 +1639,16 @@
               "date": "Thu, 01 Oct 2026 18:25:47 -0400"
             },
             {
-              "title": "TikTok US reports generating $81B in economic value",
+              "title": "TikTok U.S. reports generating $81B in economic value",
               "link": "https://www.socialmediatoday.com/news/tiktok-us-reports-generating-81b-in-economic-value/831978/",
-              "summary": "A study commissioned by the app outlined its impact on jobs, small businesses and consumer learning opportunities.",
+              "summary": "A new study commissioned by the app outlined its impact on jobs, small businesses and consumer learning opportunities.",
               "image": null,
               "date": "Thu, 01 Oct 2026 18:20:33 -0400"
             },
             {
               "title": "YouTube updates Shorts algorithm to put more focus on original content",
               "link": "https://www.socialmediatoday.com/news/youtube-updates-shorts-algorithm-to-put-more-focus-on-original-content/831976/",
-              "summary": "The platform is updating its recommendation systems to prioritize creator-made videos, which will also reduce the reach of aggregator accounts.",
+              "summary": "YouTube's updating its recommendation systems to prioritize creator-made videos, which will also reduce the reach of aggregator accounts.",
               "image": null,
               "date": "Thu, 01 Oct 2026 17:13:07 -0400"
             },
