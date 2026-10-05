@@ -1,6 +1,6 @@
 {
-  "date": "October 04, 2026",
-  "updated_at": "2026-10-04 00:17:25 UTC",
+  "date": "October 05, 2026",
+  "updated_at": "2026-10-05 00:22:17 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -257,7 +257,7 @@
           "lead_story": {
             "title": "Tech hiring dips despite spike in job postings",
             "link": "https://www.ciodive.com/news/september-jobs-report-compTIA-hiring-glassdoor/832068/",
-            "summary": "Demand for technology roles reached a three-year high, as employers added more than a quarter million job postings last month, CompTIA found.",
+            "summary": "Demand for technology roles reached a three-year high, as employers added more than a quarter million postings last month, CompTIA found.",
             "image": "https://imgproxy.divecdn.com/mD5kk1S8UcV0Xh9QSwA02iv-22mBbkmKJOKu_-PgXKg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjczODk3NjY1LmpwZw==.webp",
             "date": "Fri, 02 Oct 2026 16:19:40 -0400"
           },
@@ -351,13 +351,20 @@
           "name": "Channel Dive",
           "url": "https://www.channeldive.com",
           "lead_story": {
-            "title": "Former AT&T channel leader joins Avant\u2019s leadership team",
-            "link": "https://www.channeldive.com/news/former-att-channel-leader-joins-avants-leadership-team-jush-danielson/832044/",
-            "summary": "Jush Danielson will start her new role as chief partner experience officer as the firm expands its C-suite.",
-            "image": null,
-            "date": "Fri, 02 Oct 2026 14:20:19 -0400"
+            "title": "Partner priorities shift as security automation spreads",
+            "link": "https://www.channeldive.com/news/cybersecurity-ai-automation-partner-roles-shift/831666/",
+            "summary": "The channel\u2019s role is in guiding governance, not amplifying AI hype, according to Expel\u2019s channel chief.",
+            "image": "https://imgproxy.divecdn.com/Q4lJFSprRdSMyvyexu4FdXmFyHUyai9o-c4bjJa9-2o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjAxNjMwMDk4LmpwZw==.webp",
+            "date": "Fri, 02 Oct 2026 13:00:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "As AI writes more code, software quality takes a hit",
+              "link": "https://www.channeldive.com/news/as-ai-writes-more-code-software-quality-takes-a-hit/831817/",
+              "summary": "Nearly half of developers have experienced AI-written code failure, according to a survey from SmartBear.",
+              "image": "https://imgproxy.divecdn.com/h6eyjb3RqwCRgZWS39SAO47KjW2PCsXxLJtLAcX9J3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc2MTIyMDU1LmpwZw==.webp",
+              "date": "Fri, 02 Oct 2026 13:00:00 -0400"
+            },
             {
               "title": "AI security training soars amid rising threats",
               "link": "https://www.channeldive.com/news/AI-security-training-coursera-udemy-agentic/831962/",
@@ -385,13 +392,6 @@
               "summary": "Customers want a return on AI spending. Partners that can protect customer data will be the ones to deliver it.",
               "image": "https://imgproxy.divecdn.com/nzKpuR4BiI2eXBXDhJZ23cw87FPyROLMVqVWsYDWgdo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MDkxOTg3LmpwZw==.webp",
               "date": "Thu, 01 Oct 2026 09:37:53 -0400"
-            },
-            {
-              "title": "AI skill levels drive workforce divide: PwC",
-              "link": "https://www.channeldive.com/news/ai-skill-levels-drive-workforce-divide-pwc/831826/",
-              "summary": "More than half of workers surveyed said they are falling behind AI-savvy colleagues, PwC said.",
-              "image": "https://imgproxy.divecdn.com/pO52Kd6cEOf2oQ_hziI3_qHWWkYYiWLCheyz082bzSU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2ODg2Njg4X2hjRU9NaWIuanBn.webp",
-              "date": "Wed, 30 Sep 2026 15:42:17 -0400"
             }
           ]
         }
@@ -406,22 +406,15 @@
           "lead_story": {
             "title": "Independence Blue Cross to pay $22.5M to resolve MA fraud allegations",
             "link": "https://www.healthcaredive.com/news/independence-blue-cross-to-pay-to-resolve-ma-fraud-allegations/831998/",
-            "summary": "Independence Blue Cross will pay to settle allegations it defrauded Medicare by inflating diagnosis codes for MA beneficiaries. The payer cited \u201cindustry-wide challenges\u201d in applying MA risk adjustment standards.",
+            "summary": "Independence Blue Cross will pay to resolve allegations it defrauded Medicare by inflating diagnosis codes for MA beneficiaries. The payer said its settlement and others reflect \u201cindustry-wide challenges\u201d in applying MA\u2019...",
             "image": "https://imgproxy.divecdn.com/3Tn6mmGOVQQDlmUKS5LfZQOS2OH0D4DZRCs5EdYx5IY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE4Mzc2Mzg1LmpwZw==.webp",
             "date": "Fri, 02 Oct 2026 09:51:27 -0400"
           },
           "top_stories": [
             {
-              "title": "Governors ask HHS for more time to implement Medicaid work requirements",
-              "link": "https://www.healthcaredive.com/news/medicaid-work-requirements-governors-ask-hhs-delay-letter/831992/",
-              "summary": "The governors of Oregon, California, Maine, New York and Virginia don\u2019t think it\u2019s possible for states to meet the Jan. 1 deadline to stand up work requirements while protecting beneficiaries.",
-              "image": "https://imgproxy.divecdn.com/hQwexktMRao_kXaWkd0XJ45aN6LKObGs7ttW1sOe3LE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjAxMDk3MjU5LmpwZw==.webp",
-              "date": "Fri, 02 Oct 2026 09:15:31 -0400"
-            },
-            {
               "title": "HRSA discloses manufacturers approved for revised 340B rebate pilot",
               "link": "https://www.healthcaredive.com/news/340b-rebate-program-approved-drugs-hrsa/831913/",
-              "summary": "Ten pharmaceutical companies will start paying after-the-fact rebates instead of upfront discounts on 21 drugs in 340B at the start of next year, more than in the Trump administration\u2019s first attempt at a rebate program.",
+              "summary": "Ten drugmakers will see 21 of their drugs move from upfront discounts to after-the-fact payments in the drug discount program at the start of next year, an expansion from the Trump administration\u2019s first attempt at kicks...",
               "image": "https://imgproxy.divecdn.com/wHW0O91DafyyaT58km8B9R9EmaElouPDIYf48sunJbo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc0ODcxNTQ5LmpwZw==.webp",
               "date": "Thu, 01 Oct 2026 12:08:42 -0400"
             },
@@ -445,6 +438,13 @@
               "summary": "The insurer said it\u2019s trying to restrict hospitals from charging higher rates for services at off-campus outpatient departments. Hospital groups say the reimbursement cuts could threaten access to care.",
               "image": "https://imgproxy.divecdn.com/EItwcBVBmdO9AIc_KHDN891zzR4unM-6CbPiyEIF9Ak/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWDJIQldOLmpwZw==.webp",
               "date": "Wed, 30 Sep 2026 14:39:00 -0400"
+            },
+            {
+              "title": "Cigna unveils $3B productivity initiative, including use of AI",
+              "link": "https://www.healthcaredive.com/news/cigna-3-billion-productivity-initiative-ai/831798/",
+              "summary": "The company will focus on automating and modernizing processes, better managing suppliers, partners and vendors and making employees more efficient, executives said during a Wednesday investor day.",
+              "image": "https://imgproxy.divecdn.com/EbCGehvgYVvuyUK9-wM4fa8FnGWEMX_zHnZBk8pTOOE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yS0MwWTJFLmpwZw==.webp",
+              "date": "Wed, 30 Sep 2026 13:35:35 -0400"
             }
           ]
         },
@@ -1187,7 +1187,7 @@
           "name": "Hotel Dive",
           "url": "https://www.hoteldive.com",
           "lead_story": {
-            "title": "Lodging Lowdown: Nobu expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
+            "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
             "link": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
             "summary": "Plus, Choice Hotels launched a new points-sharing feature, allowing loyalty members to share points \u201cseamlessly and for free.\u201d",
             "image": null,
@@ -1338,13 +1338,13 @@
           "lead_story": {
             "title": "Cities, states sue EPA over power plant emissions rollback",
             "link": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
-            "summary": "Chicago, Denver and New York City join multistate lawsuits challenging the agency\u2019s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
+            "summary": "Chicago, Denver and New York City joined multistate lawsuits challenging the agency\u2019s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
             "image": "https://imgproxy.divecdn.com/nAk94Lh_56THLuBwC_AGbNKQwjWkK256ekY2Yy0NEUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc0MDgxOTMyLmpwZw==.webp",
             "date": "Fri, 02 Oct 2026 10:27:26 -0400"
           },
           "top_stories": [
             {
-              "title": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit",
+              "title": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit",
               "link": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
               "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and despite the unit\u2019s lack of output, payment is due, the agency said.",
               "image": null,
@@ -1367,7 +1367,7 @@
             {
               "title": "Senate permitting bill would expand federal role in transmission siting",
               "link": "https://www.utilitydive.com/news/senate-permitting-bill-would-expand-federal-role-in-electric-transmission-s/831886/",
-              "summary": "The legislation gives FERC authority to issue permits for transmission projects when it is in the public interest. It also eliminates NIETCs and the federal right of first refusal for incumbent utilities, and protects ex...",
+              "summary": "The legislation gives FERC authority to issue permits for transmission projects when they are in the public interest. It also eliminates NIETCs and the federal right of first refusal for incumbent utilities and protects ...",
               "image": "https://imgproxy.divecdn.com/rIUEiz3exNIkEo1of5cyfom0PtCcCCipHUSCtj0CGaY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTAtMDFfMTAzMjQxLnBuZw==.webp",
               "date": "Thu, 01 Oct 2026 09:55:34 -0400"
             },
