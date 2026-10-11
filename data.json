@@ -1,6 +1,6 @@
 {
-  "date": "October 10, 2026",
-  "updated_at": "2026-10-10 01:26:00 UTC",
+  "date": "October 11, 2026",
+  "updated_at": "2026-10-11 00:37:01 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -212,7 +212,7 @@
             {
               "title": "EEOC\u2019s FY 2026 was \u2018historically anemic,\u2019 but big on messaging",
               "link": "https://www.hrdive.com/news/eeocs-fy-2026-big-on-messaging/832551/",
-              "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on the Trump administration priorities that have risen to the fore.",
+              "summary": "As FY 2027 kicks off, a partner at Seyfarth Shaw said he expects to see EEOC keep its attention on Trump administration priorities that have risen to the fore.",
               "image": null,
               "date": "Fri, 09 Oct 2026 15:44:00 -0400"
             },
@@ -305,7 +305,7 @@
           "lead_story": {
             "title": "FBI seizes domains linked to China-nexus botnet",
             "link": "https://www.cybersecuritydive.com/news/fbi-seizes-domains-china-botnet-flax-typhoon/832611/",
-            "summary": "The infrastructure supported an international hacking campaign that targeted critical infrastructure, including a South Carolina-based power company.",
+            "summary": "The infrastructure supported an international hacking campaign that targeted critical providers, including a South Carolina-based power company.",
             "image": "https://imgproxy.divecdn.com/PMCYMyYD9pmYzFwbmaM9R8yxhklX0hh-p6S_lz3q-FA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfcUlTbTVkZi5qcGc=.webp",
             "date": "Fri, 09 Oct 2026 10:16:01 -0400"
           },
@@ -313,7 +313,7 @@
             {
               "title": "As frontier models go rogue, colleges beef up AI cybersecurity education",
               "link": "https://www.cybersecuritydive.com/news/ai-cybersecurity-education-university/832132/",
-              "summary": "Student interest in AI safety is surging, and schools are rushing to prepare for new career paths.",
+              "summary": "Student interest in AI safety is growing rapidly, and schools are rushing to prepare for new career paths.",
               "image": "https://imgproxy.divecdn.com/CZZCOM9zpm4SuL8FVB6FsybkOxGR-mJoMv5PM0xc90U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkzNTIzMzEyX0p6Q0tZRVYuanBn.webp",
               "date": "Fri, 09 Oct 2026 08:00:00 -0400"
             },
@@ -406,11 +406,18 @@
           "lead_story": {
             "title": "Humana soars, Alignment plummets in 2027 Medicare Advantage star ratings",
             "link": "https://www.healthcaredive.com/news/medicare-advantage-stars-2027-winners-losers/832582/",
-            "summary": "A Healthcare Dive analysis of highly anticipated stars data for next year shows a potpourri of winners and losers, though \u2014 as expected \u2014 the quality scores slipped overall. See how major carriers fared for 2027.",
+            "summary": "A Healthcare Dive analysis of highly anticipated stars data shows a mixed bag of winners and losers, though \u2014 as expected \u2014 the quality scores slipped overall. See how major carriers fared for 2027.",
             "image": "https://imgproxy.divecdn.com/yNFj1iOXXiGXHrvNzMITrI7Zf52PfwK1rovRc0StZW8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ3NTA1MDAwLmpwZw==.webp",
             "date": "Fri, 09 Oct 2026 09:05:19 -0400"
           },
           "top_stories": [
+            {
+              "title": "HHS launches new plan to strengthen vaccine injury research, reporting",
+              "link": "https://www.healthcaredive.com/news/hhs-vaccine-injury-reporting-research-rfk/832595/",
+              "summary": "Spearheaded by vaccine skeptic Robert F. Kennedy Jr., the initiative will involve a new NIH clinic, an updated monitoring system and reimbursements for doctors who report suspected side effects.",
+              "image": "https://imgproxy.divecdn.com/_4sxH7S_vfvBrR-a42kVaLNTuhqOMKaxuYfs1D58YAs/g:nowe:0:104/c:1023:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SRksucG5n.webp",
+              "date": "Thu, 08 Oct 2026 16:57:00 -0400"
+            },
             {
               "title": "Healthcare organizations are underprepared for quantum computing threats",
               "link": "https://www.healthcaredive.com/news/healthcare-organizations-are-underprepared-for-quantum-computing-threats/832516/",
@@ -438,13 +445,6 @@
               "summary": "Ken Paxton is on the hunt for evidence that UnitedHealth is breaking the Deceptive Trade Practices Act and other Texas laws, citing \u201calarming reports\u201d of denied care.",
               "image": "https://imgproxy.divecdn.com/MAvxOgIFSi5XIlVDKYwHheYk8t1pwOzXPdLFBZtzcjE/g:nowe:0:0/c:4026:2274/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI4MTgxNTE1LmpwZw==.webp",
               "date": "Wed, 07 Oct 2026 09:08:40 -0400"
-            },
-            {
-              "title": "Highmark Health taps Karen Hanlon as CEO",
-              "link": "https://www.healthcaredive.com/news/highmark-health-karen-hanlon-ceo/832350/",
-              "summary": "Hanlon, who has worked in a variety of leadership roles at Highmark during nearly three decades with the company, will be the organization\u2019s first-ever woman CEO.",
-              "image": "https://imgproxy.divecdn.com/LKdIV13yjcLQ8YzH7SXCqRsWaIy_WWlsJuYhctTN98Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODcwNjcyODEyLmpwZw==.webp",
-              "date": "Wed, 07 Oct 2026 08:48:44 -0400"
             }
           ]
         },
@@ -698,7 +698,7 @@
           "url": "https://www.grocerydive.com",
           "lead_story": {
             "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
-            "link": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
+            "link": "https://www.grocerydive.com/news/the-friday-checkout-why-kroger-and-target-store-workers-are-dressing-to-im/832556/",
             "summary": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
             "image": "https://imgproxy.divecdn.com/zkqrnOspDB16c0N_PMqEB3-P7X-zhfk85J48sP3zEUU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90YXJnZXRfSVljUWpLZi5qcGc=.webp",
             "date": "Fri, 09 Oct 2026 11:41:00 -0400"
@@ -753,6 +753,13 @@
           },
           "top_stories": [
             {
+              "title": "6 highlights from Day 3 of the 2026 NACS Show",
+              "link": "https://www.cstoredive.com/news/6-highlights-from-day-3-of-the-2026-nacs-show/832485/",
+              "summary": "The expo\u2019s third day delivered insights on key retail challenges alongside more food and beverage trends from the show floor.",
+              "image": "https://imgproxy.divecdn.com/p2YDwHt6ynlClzGviiH7Fz7yJvlEOrhF39meB9Mm_Lc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZV8yNDMucG5n.webp",
+              "date": "Fri, 09 Oct 2026 09:54:55 -0400"
+            },
+            {
               "title": "LV Petroleum aims to have 140 travel centers by the end of 2027",
               "link": "https://www.cstoredive.com/news/lv-petroleum-aims-to-reach-140-travel-centers-through-2030/832531/",
               "summary": "The retailer is accelerating its already rapid expansion following a year of acquisitions and leadership changes.",
@@ -779,13 +786,6 @@
               "summary": "McQuirter, director of operations of the 36 Lyn Refuel Station in Minneapolis, will also lead NACS\u2019 executive committee, which provides its strategic direction and financial oversight.",
               "image": "https://imgproxy.divecdn.com/va2YeoaeUdBfdrJ2ApFfGd-cYjJzaQH82HepKgq4BzM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OQUNTX2JpZ19zaWduLmpwZw==.webp",
               "date": "Thu, 08 Oct 2026 09:14:37 -0400"
-            },
-            {
-              "title": "6 highlights from Day 1 of the 2026 NACS Show",
-              "link": "https://www.cstoredive.com/news/6-highlights-from-day-1-of-the-2026-nacs-show/832346/",
-              "summary": "Leaders shared strategies for driving growth, building strong travel centers and what this year has brought the convenience retail industry.",
-              "image": "https://imgproxy.divecdn.com/q7EXASGaOZ39K0LTkN0qWQBIklG15bQI1gUgUme5V1A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZV8yMzYucG5n.webp",
-              "date": "Wed, 07 Oct 2026 10:00:00 -0400"
             }
           ]
         },
@@ -952,12 +952,12 @@
             {
               "title": "Thousands of manufacturing layoffs announced in September",
               "link": "https://www.manufacturingdive.com/news/manufacturing-layoffs-closures-warn-act-september-2026/832400/",
-              "summary": "Avid Medical, Bristol Myers Squibb, Dreyer\u2019s, MasterBrand Cabinets, Wonder Group and Carry-On Trailer were among dozens of companies that announced facility closures or changes last month.",
+              "summary": "Avid Medical, Bristol Meyers Squibb, Dreyer\u2019s, MasterBrand Cabinets, Wonder Group and Carry-On Trailer were among dozens of companies that announced facility closures or changes last month.",
               "image": "https://imgproxy.divecdn.com/uCJK41mgaMyMFo9v2irnvBbMAn6IdGrH_Ia5SrFVbnM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQkM0V0IuanBn.webp",
               "date": "Fri, 09 Oct 2026 11:24:49 -0400"
             },
             {
-              "title": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers",
+              "title": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposes",
               "link": "https://www.manufacturingdive.com/news/globalfoundries-tsmc-silicon-interposes-semiconductors/832537/",
               "summary": "The multiyear agreement aims to expand capacity for TSMC's advanced packaging and support growing demand for artificial intelligence and high-performance computing technologies.",
               "image": "https://imgproxy.divecdn.com/Tbe4NAML45JcmmsJv37rIZMLX5K_yVlixpmAMwjqo8o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HbG9iYWxGb3VuZHJpZXMtTWFsdGFOWS1IUS1CSzNJMDYzNi1zY2FsZWQuanBn.webp",
@@ -1243,20 +1243,6 @@
           },
           "top_stories": [
             {
-              "title": "Residential leasing led multifamily job openings in Q3: CRETI",
-              "link": "https://www.multifamilydive.com/news/leasing-agents-apartment-construction-multifamily-labor/832664/",
-              "summary": "Apartment firms say they\u2019re finding more candidates for jobs compared to a few years ago, though the search for top-tier multifamily talent remains highly competitive.",
-              "image": "https://imgproxy.divecdn.com/AlykKbI9I3xQL9tvy-cKUrM51O7O-QcjvO4ecCdD48w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjU5NzI5NTA5XzEuanBn.webp",
-              "date": "Fri, 09 Oct 2026 15:23:53 -0400"
-            },
-            {
-              "title": "HUD manufactured housing plan aims to spur production",
-              "link": "https://www.multifamilydive.com/news/hud-manufactured-housing-plan-aims-to-spur-production/832633/",
-              "summary": "The 21st Century ROAD to Housing Act ushers in significant changes to how the affordable housing type can be built and opens a path to a \u201crepeatable multifamily construction\u201d framework.",
-              "image": "https://imgproxy.divecdn.com/0g7zKqNTcq2ADVc5pfjnEttrMGlJWrdK-dhdUGa89nA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTUwOTU2NTcuanBn.webp",
-              "date": "Fri, 09 Oct 2026 11:12:16 -0400"
-            },
-            {
               "title": "5 apartment projects that recently broke ground",
               "link": "https://www.multifamilydive.com/news/apartment-projects-break-ground/832522/",
               "summary": "New multifamily developments aimed at a range of income levels are coming to the Sun Belt and beyond.",
@@ -1276,6 +1262,20 @@
               "summary": "The co-founder and CEO of Gaia Real Estate sees more troubled properties hitting the market next year as he looks for signs of improvement in the Sun Belt.",
               "image": null,
               "date": "Wed, 07 Oct 2026 15:38:01 -0400"
+            },
+            {
+              "title": "September rents up YOY as supply slows: Yardi",
+              "link": "https://www.multifamilydive.com/news/september-rents-multifamily-apartments-yardi/832402/",
+              "summary": "Renewal rent growth, however, slowed to its lowest level since before 2020 as existing rents catch up to advertised rents, according to a report from the real estate data firm.",
+              "image": "https://imgproxy.divecdn.com/5-5aSf0GrI9CQNFxp1NJdloT8xr0rREvA01cb9u7EDk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ3MjU3MDIwLmpwZw==.webp",
+              "date": "Wed, 07 Oct 2026 15:19:00 -0400"
+            },
+            {
+              "title": "More diverse housing types could result from new laws in California",
+              "link": "https://www.multifamilydive.com/news/california-housing-laws-newsom/832393/",
+              "summary": "From cheaper ADUs to streamlined \u201cmissing middle\u201d housing to high-rises in transit-rich cities, the state adopted a slew of housing reforms.",
+              "image": "https://imgproxy.divecdn.com/JgGYWqM0qtFBqqT9BPUjcSRdAQny01WYOuxBn4Y_4jA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3NzUwMzQ0LmpwZw==.webp",
+              "date": "Wed, 07 Oct 2026 13:49:00 -0400"
             }
           ]
         },
@@ -1463,7 +1463,7 @@
             {
               "title": "MRF upgrades leverage tech in North Carolina, California and Colorado",
               "link": "https://www.wastedive.com/news/new-mrf-improvements-north-carolina-california-and-colorado/832379/",
-              "summary": "Circular Services\u2019 upgraded North Carolina MRF is open, and AI improvements for California Waste Solutions are also helping detect illegal dumping. A major MRF project in Colorado is set to open in December.",
+              "summary": "Upgrades to a Circular Services-operated MRF are complete, and AI improvements for California Waste Solutions are also helping detect illegal dumping. A major MRF project in Colorado is set to open in December.",
               "image": "https://imgproxy.divecdn.com/j5k1uem0hr-PoSwYMfolb607j7bR3yIWmW0_Mzl45Xo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWJsZS1Ecml2ZS1BZXJpYWwud2VicA==.webp",
               "date": "Wed, 07 Oct 2026 11:29:56 -0400"
             },
