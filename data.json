@@ -1,6 +1,6 @@
 {
-  "date": "October 11, 2026",
-  "updated_at": "2026-10-11 00:37:01 UTC",
+  "date": "October 12, 2026",
+  "updated_at": "2026-10-12 00:53:32 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -17,6 +17,13 @@
             "date": "Fri, 09 Oct 2026 12:08:15 -0400"
           },
           "top_stories": [
+            {
+              "title": "Citi hires up in push to overtake private bank competitors",
+              "link": "https://www.bankingdive.com/news/citi-private-bank-hires-north-america-growth-wealth-biotti/832623/",
+              "summary": "Under BofA alum Chris Biotti, Citi\u2019s private bank is targeting $3 trillion in untapped North American client assets by installing new leaders across the region.",
+              "image": "https://imgproxy.divecdn.com/iftmxk0ZFcJg9wWHTMAmfQRfBJBT7NSpUdTqpGdVWhQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU2MjkzNTYwLmpwZw==.webp",
+              "date": "Fri, 09 Oct 2026 11:23:28 -0400"
+            },
             {
               "title": "Amex dinged by Fed, OCC; must pay $350M for AML failures",
               "link": "https://www.bankingdive.com/news/amex-dinged-by-fed-occ-must-pay-350m-for-aml-failures/832570/",
@@ -44,13 +51,6 @@
               "summary": "The Virginia lender is paying a premium for Mooresville, North Carolina-based Blueharbor, and scarcity value makes the remaining banks in the Tar Heel State \u201cquite valuable,\u201d an analyst said.",
               "image": null,
               "date": "Thu, 08 Oct 2026 11:45:42 -0400"
-            },
-            {
-              "title": "Third Coast to buy Oklahoma bank for $240M",
-              "link": "https://www.bankingdive.com/news/third-coast-texas-buy-oklahoma-bank-240-million/832392/",
-              "summary": "The deal comes roughly a year after Houston-based Third Coast announced its $123 million purchase of Austin, Texas-based Keystone Bancshares.",
-              "image": "https://imgproxy.divecdn.com/hqSWgAsH_Oiegr8aI77L0gtbeJsIgCYXXu8t2BrBlg8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTY1MDE4LmpwZw==.webp",
-              "date": "Wed, 07 Oct 2026 12:14:50 -0400"
             }
           ]
         },
@@ -305,7 +305,7 @@
           "lead_story": {
             "title": "FBI seizes domains linked to China-nexus botnet",
             "link": "https://www.cybersecuritydive.com/news/fbi-seizes-domains-china-botnet-flax-typhoon/832611/",
-            "summary": "The infrastructure supported an international hacking campaign that targeted critical providers, including a South Carolina-based power company.",
+            "summary": "The infrastructure supported an international hacking campaign that targeted critical infrastructure, including a South Carolina-based power company.",
             "image": "https://imgproxy.divecdn.com/PMCYMyYD9pmYzFwbmaM9R8yxhklX0hh-p6S_lz3q-FA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfcUlTbTVkZi5qcGc=.webp",
             "date": "Fri, 09 Oct 2026 10:16:01 -0400"
           },
@@ -313,7 +313,7 @@
             {
               "title": "As frontier models go rogue, colleges beef up AI cybersecurity education",
               "link": "https://www.cybersecuritydive.com/news/ai-cybersecurity-education-university/832132/",
-              "summary": "Student interest in AI safety is growing rapidly, and schools are rushing to prepare for new career paths.",
+              "summary": "Student interest in AI safety is surging, and schools are rushing to prepare for new career paths.",
               "image": "https://imgproxy.divecdn.com/CZZCOM9zpm4SuL8FVB6FsybkOxGR-mJoMv5PM0xc90U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkzNTIzMzEyX0p6Q0tZRVYuanBn.webp",
               "date": "Fri, 09 Oct 2026 08:00:00 -0400"
             },
@@ -651,7 +651,7 @@
           "lead_story": {
             "title": "Leftovers: BeatBox jams with Cinnabon | Topo Chico launches premium canned water",
             "link": "https://www.fooddive.com/news/leftovers-beatbox-cinnabon-topo-chico-canned-water-Bauducco-skippy/832606/",
-            "summary": "The party punch brand is bringing an April Fools' joke to life, while Bauducco looks to introduce panettone to Americans with Skippy peanut butter.",
+            "summary": "The party punch brand is bringing an April Fools\u2019 joke to life, while Bauducco looks to introduce Americans to panettone made with Skippy peanut butter.",
             "image": "https://imgproxy.divecdn.com/iOhVitnqlYa_WLBq0tfbotmFkHIkabEoMxwFDr32gLM/g:nowe:0:723/c:2650:1497/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaW5uYWJvbl9CQl9TZXQyXzV4NF8xLWZvdG9yLTIwMjYxMDA5OTMzMTMuanBn.webp",
             "date": "Fri, 09 Oct 2026 10:12:00 -0400"
           },
@@ -698,7 +698,7 @@
           "url": "https://www.grocerydive.com",
           "lead_story": {
             "title": "The Friday Checkout: Why Kroger and Target store workers are dressing to impress",
-            "link": "https://www.grocerydive.com/news/the-friday-checkout-why-kroger-and-target-store-workers-are-dressing-to-im/832556/",
+            "link": "https://www.grocerydive.com/news/kroger-target-dress-code-update-in-store-experience/832556/",
             "summary": "Both retailers have reportedly introduced new dress codes for their workers as they continue looking for ways to elevate the shopping experience.",
             "image": "https://imgproxy.divecdn.com/zkqrnOspDB16c0N_PMqEB3-P7X-zhfk85J48sP3zEUU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90YXJnZXRfSVljUWpLZi5qcGc=.webp",
             "date": "Fri, 09 Oct 2026 11:41:00 -0400"
@@ -803,7 +803,7 @@
             {
               "title": "Fatburger launches first rewards program",
               "link": "https://www.restaurantdive.com/news/fatburger-debuts-first-loyalty-program/832550/",
-              "summary": "Members earn $1 on eligible purchases and can redeem $5 off for every 75 points accrued, a strategy that could help boost sales and frequency.",
+              "summary": "Members earn points for every $1 spent on eligible purchases and receive $5 discounts for every 75 points accrued, a strategy that could help boost sales and frequency.",
               "image": null,
               "date": "Fri, 09 Oct 2026 10:33:50 -0400"
             },
@@ -952,12 +952,12 @@
             {
               "title": "Thousands of manufacturing layoffs announced in September",
               "link": "https://www.manufacturingdive.com/news/manufacturing-layoffs-closures-warn-act-september-2026/832400/",
-              "summary": "Avid Medical, Bristol Meyers Squibb, Dreyer\u2019s, MasterBrand Cabinets, Wonder Group and Carry-On Trailer were among dozens of companies that announced facility closures or changes last month.",
+              "summary": "Avid Medical, Bristol Myers Squibb, Dreyer\u2019s, MasterBrand Cabinets, Wonder Group and Carry-On Trailer were among dozens of companies that announced facility closures or changes last month.",
               "image": "https://imgproxy.divecdn.com/uCJK41mgaMyMFo9v2irnvBbMAn6IdGrH_Ia5SrFVbnM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQkM0V0IuanBn.webp",
               "date": "Fri, 09 Oct 2026 11:24:49 -0400"
             },
             {
-              "title": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposes",
+              "title": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers",
               "link": "https://www.manufacturingdive.com/news/globalfoundries-tsmc-silicon-interposes-semiconductors/832537/",
               "summary": "The multiyear agreement aims to expand capacity for TSMC's advanced packaging and support growing demand for artificial intelligence and high-performance computing technologies.",
               "image": "https://imgproxy.divecdn.com/Tbe4NAML45JcmmsJv37rIZMLX5K_yVlixpmAMwjqo8o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HbG9iYWxGb3VuZHJpZXMtTWFsdGFOWS1IUS1CSzNJMDYzNi1zY2FsZWQuanBn.webp",
@@ -1139,13 +1139,20 @@
           "name": "Facilities Dive",
           "url": "https://www.facilitiesdive.com",
           "lead_story": {
-            "title": "LG Electronics makes US push into AI data center cooling",
-            "link": "https://www.facilitiesdive.com/news/lg-electronics-makes-us-push-into-ai-data-center-cooling/832625/",
-            "summary": "The company plans to build a 350,000-square-foot chiller manufacturing facility in Virginia backed by a large long-term supply agreement, it announced last week.",
-            "image": "https://imgproxy.divecdn.com/dv6QWKb3PASME4tgIi0zPMNEQ6qV5WpLdaCg03ybdbg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTMyMjc3MzY2XzFZczNRZmwuanBn.webp",
-            "date": "Fri, 09 Oct 2026 11:48:29 -0400"
+            "title": "Amazon, Constellation sign 20-year PPA for 690 MW of nuclear energy",
+            "link": "https://www.facilitiesdive.com/news/amazon-constellation-sign-20-year-ppa-to-expand-maryland-nuclear-plant/832680/",
+            "summary": "The tech giant and energy producer are backing improvements and renovations at the 1,790-megawatt Calvert Cliffs Clean Energy Center, Maryland\u2019s largest source of clean energy.",
+            "image": "https://imgproxy.divecdn.com/6441MLvnLZyQO9iUakZ2H21NS_tQYCEzGBS219lT158/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEwMTc5NjMxLmpwZw==.webp",
+            "date": "Sun, 11 Oct 2026 18:44:35 -0400"
           },
           "top_stories": [
+            {
+              "title": "LG Electronics makes US push into AI data center cooling",
+              "link": "https://www.facilitiesdive.com/news/lg-electronics-makes-us-push-into-ai-data-center-cooling/832625/",
+              "summary": "The company plans to build a 350,000-square-foot chiller manufacturing facility in Virginia backed by a large long-term supply agreement, it announced last week.",
+              "image": "https://imgproxy.divecdn.com/dv6QWKb3PASME4tgIi0zPMNEQ6qV5WpLdaCg03ybdbg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTMyMjc3MzY2XzFZczNRZmwuanBn.webp",
+              "date": "Fri, 09 Oct 2026 11:48:29 -0400"
+            },
             {
               "title": "Facilities teams often miss preventive maintenance, raising costs: Limble",
               "link": "https://www.facilitiesdive.com/news/maintenance-teams-downtime-AI-limble/832593/",
@@ -1173,13 +1180,6 @@
               "summary": "A bill to return legacy lighting products to store shelves faces a tough road despite passage by the Senate Energy and Natural Resources Committee last week, says an advocate for manufacturers.",
               "image": "https://imgproxy.divecdn.com/KF4p9PZxfFKOoJSWpVeoc-kZ1JJZDiFVwS7jvrmATjw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IZWluLmpwZw==.webp",
               "date": "Thu, 08 Oct 2026 10:42:38 -0400"
-            },
-            {
-              "title": "Constellation, Google strike 890-MW nuclear deal in PJM",
-              "link": "https://www.facilitiesdive.com/news/constellation-google-deal-will-bring-890-mw-of-new-nuclear-to-pjm/832465/",
-              "summary": "The deal with Google is a \u201cdirect response\u201d to PJM\u2019s Bring Your Own Power proposal and aligns with the White House\u2019s ratepayer protection pledge, Constellation said in a statement.",
-              "image": null,
-              "date": "Thu, 08 Oct 2026 08:55:10 -0400"
             }
           ]
         },
@@ -1243,6 +1243,20 @@
           },
           "top_stories": [
             {
+              "title": "Residential leasing led multifamily job openings in Q3: CRETI",
+              "link": "https://www.multifamilydive.com/news/leasing-agents-apartment-construction-multifamily-labor/832664/",
+              "summary": "Apartment firms say they\u2019re finding more candidates for jobs compared to a few years ago, though the search for top-tier multifamily talent remains highly competitive.",
+              "image": "https://imgproxy.divecdn.com/AlykKbI9I3xQL9tvy-cKUrM51O7O-QcjvO4ecCdD48w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjU5NzI5NTA5XzEuanBn.webp",
+              "date": "Fri, 09 Oct 2026 15:23:53 -0400"
+            },
+            {
+              "title": "HUD manufactured housing plan aims to spur production",
+              "link": "https://www.multifamilydive.com/news/hud-manufactured-housing-plan-aims-to-spur-production/832633/",
+              "summary": "The 21st Century ROAD to Housing Act ushers in significant changes to how the affordable housing type can be built and opens a path to a \u201crepeatable multifamily construction\u201d framework.",
+              "image": "https://imgproxy.divecdn.com/0g7zKqNTcq2ADVc5pfjnEttrMGlJWrdK-dhdUGa89nA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTUwOTU2NTcuanBn.webp",
+              "date": "Fri, 09 Oct 2026 11:12:16 -0400"
+            },
+            {
               "title": "5 apartment projects that recently broke ground",
               "link": "https://www.multifamilydive.com/news/apartment-projects-break-ground/832522/",
               "summary": "New multifamily developments aimed at a range of income levels are coming to the Sun Belt and beyond.",
@@ -1262,20 +1276,6 @@
               "summary": "The co-founder and CEO of Gaia Real Estate sees more troubled properties hitting the market next year as he looks for signs of improvement in the Sun Belt.",
               "image": null,
               "date": "Wed, 07 Oct 2026 15:38:01 -0400"
-            },
-            {
-              "title": "September rents up YOY as supply slows: Yardi",
-              "link": "https://www.multifamilydive.com/news/september-rents-multifamily-apartments-yardi/832402/",
-              "summary": "Renewal rent growth, however, slowed to its lowest level since before 2020 as existing rents catch up to advertised rents, according to a report from the real estate data firm.",
-              "image": "https://imgproxy.divecdn.com/5-5aSf0GrI9CQNFxp1NJdloT8xr0rREvA01cb9u7EDk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ3MjU3MDIwLmpwZw==.webp",
-              "date": "Wed, 07 Oct 2026 15:19:00 -0400"
-            },
-            {
-              "title": "More diverse housing types could result from new laws in California",
-              "link": "https://www.multifamilydive.com/news/california-housing-laws-newsom/832393/",
-              "summary": "From cheaper ADUs to streamlined \u201cmissing middle\u201d housing to high-rises in transit-rich cities, the state adopted a slew of housing reforms.",
-              "image": "https://imgproxy.divecdn.com/JgGYWqM0qtFBqqT9BPUjcSRdAQny01WYOuxBn4Y_4jA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3NzUwMzQ0LmpwZw==.webp",
-              "date": "Wed, 07 Oct 2026 13:49:00 -0400"
             }
           ]
         },
@@ -1336,9 +1336,9 @@
           "name": "Utility Dive",
           "url": "https://www.utilitydive.com",
           "lead_story": {
-            "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+            "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
             "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
-            "summary": "The PJM Interconnection expects Engie\u2019s two storage projects totaling nearly 1.7 GW and LS Power\u2019s 455-MW gas-fired uprate will be online by mid-2029.",
+            "summary": "The grid operator expects Engie\u2019s two storage projects totaling nearly 1.7 GW and LS Power\u2019s 455-MW gas-fired uprate will be online by mid-2029.",
             "image": "https://imgproxy.divecdn.com/GzM8kkoUd0gqvk4QnWqntspxbFyRRmYUqDSMlu3AKh0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcyNTAxNTYxX25na1VwZGguanBn.webp",
             "date": "Fri, 09 Oct 2026 10:27:49 -0400"
           },
@@ -1346,7 +1346,7 @@
             {
               "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
               "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
-              "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest am...",
+              "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group.",
               "image": "https://imgproxy.divecdn.com/hasPkLKR6t1KD6EfkjKCaZTW1yNxMTzkEA_E3FhGn9Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYwMjQxNzg2LmpwZw==.webp",
               "date": "Fri, 09 Oct 2026 09:49:05 -0400"
             },
@@ -1624,47 +1624,47 @@
           "name": "Social Media Today",
           "url": "https://www.socialmediatoday.com",
           "lead_story": {
-            "title": "Threads recognizes top posts with Gems",
-            "link": "https://www.socialmediatoday.com/news/threads-recognizes-top-posts-with-gems/832577/",
-            "summary": "The in-app rewards system will automatically select original posts and replies that bring value and spark discussion, per the company.",
+            "title": "X re-builds its third-party usage showcase",
+            "link": "https://www.socialmediatoday.com/news/x-re-builds-its-third-party-usage-showcase/832684/",
+            "summary": "The platform\u2019s relaunched exhibit website lists official partners, agentic use cases and more in an effort to inspire developers to integrate X data into their apps.",
             "image": null,
-            "date": "Thu, 08 Oct 2026 17:58:38 -0400"
+            "date": "Sun, 11 Oct 2026 18:19:16 -0400"
           },
           "top_stories": [
             {
-              "title": "LinkedIn exec offers insight into the battle against AI slop",
-              "link": "https://www.socialmediatoday.com/news/linkedin-exec-offers-insight-into-the-battle-against-ai-slop/832576/",
-              "summary": "Vice President of Engineering Tim Junka outlined in a post how the company approaches detection and how its artificial intelligence agents are trained.",
-              "image": null,
-              "date": "Thu, 08 Oct 2026 17:42:14 -0400"
+              "title": "Social media platforms have not ruled out execution livestream",
+              "link": "https://www.socialmediatoday.com/news/social-media-platforms-have-not-ruled-out-execution-livestream/832683/",
+              "summary": "U.S. Secretary of Defense Pete Hegseth proposed that a December military execution be livestreamed, and many platforms have not yet weighed in, per The Verge.",
+              "image": "https://imgproxy.divecdn.com/IEEEdleQqsmmqs5GwU6nKY0zHpCrFKSqOO9tbLz2fAI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MzU2MjA2NTYuanBn.webp",
+              "date": "Sun, 11 Oct 2026 18:14:33 -0400"
             },
             {
-              "title": "X launches MLB Gametime experience",
-              "link": "https://www.socialmediatoday.com/news/x-launches-mlb-gametime-experience/832574/",
-              "summary": "Similar to its NFL hub, the dedicated space will feature real-time scores and conversations designed to enhance engagement among the platform\u2019s sports fans.",
-              "image": null,
-              "date": "Thu, 08 Oct 2026 17:24:12 -0400"
+              "title": "There is no viable case for widespread generative AI access",
+              "link": "https://www.socialmediatoday.com/news/there-is-no-viable-case-for-widespread-generative-ai-access/832681/",
+              "summary": "Despite the push to incorporate artificial intelligence into every aspect of social media and online life, the risks far outweigh AI\u2019s narrow use case.",
+              "image": "https://imgproxy.divecdn.com/YIQ7HOkwtQZ7yarIul5hl7pfNQz00P82cotacDN0BFY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwX1ZDajFpZzguanBn.webp",
+              "date": "Sun, 11 Oct 2026 16:42:04 -0400"
             },
             {
-              "title": "TikTok announces its first European Bestseller of the Year",
-              "link": "https://www.socialmediatoday.com/news/tiktok-announces-its-first-european-bestseller-of-the-year/832571/",
-              "summary": "The 2026 BookTok honor went to author Rebecca Yarros\u2019s novel \u201cFourth Wing\u201d on a list that also included author Rachel Reid\u2019s book \u201cHeated Rivalry.\u201d",
-              "image": null,
-              "date": "Thu, 08 Oct 2026 16:57:54 -0400"
+              "title": "Meta publishes post to counter data center concerns",
+              "link": "https://www.socialmediatoday.com/news/meta-publishes-post-to-counter-data-center-concerns/832679/",
+              "summary": "The company released an overview from creator Tom Shaw addressing public apprehensions about water usage, energy bills and local job impacts.",
+              "image": "https://imgproxy.divecdn.com/N9ZmFW3_lBLqEKiccMXkL6lqvErf14UeDKlzfxouHKk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0thbnNhc19DaXR5X0RhdGFfQ2VudGVyX0FlcmlhbF8xLmpwZw==.webp",
+              "date": "Sun, 11 Oct 2026 16:17:49 -0400"
             },
             {
-              "title": "X\u2019s Grok bots get analytic search capabilities",
-              "link": "https://www.socialmediatoday.com/news/xs-grok-bots-get-analytic-search-capabilities/832565/",
-              "summary": "The bots will be able to respond to conversational queries and search in-app posts and brand mentions, offering trend insights to marketers.",
+              "title": "Meta removes access verification for developers",
+              "link": "https://www.socialmediatoday.com/news/meta-removes-access-verification-for-developers/832678/",
+              "summary": "The company is retiring a separate access review process for third-party apps and will rely on Business Verification and App Review instead.",
               "image": null,
-              "date": "Thu, 08 Oct 2026 16:25:17 -0400"
+              "date": "Sun, 11 Oct 2026 16:14:08 -0400"
             },
             {
-              "title": "X adds liveness check to counter bots",
-              "link": "https://www.socialmediatoday.com/news/x-adds-liveness-check-to-counter-bots/832558/",
-              "summary": "The app\u2019s new bot profile detection tool is designed to test whether suspect profiles are run by human users.",
+              "title": "Threads recognizes top posts with in-app Gems program",
+              "link": "https://www.socialmediatoday.com/news/threads-recognizes-top-posts-with-in-app-gems-program/832577/",
+              "summary": "Gems automatically selects original posts and replies that bring value and spark discussion, per the company.",
               "image": null,
-              "date": "Thu, 08 Oct 2026 14:54:52 -0400"
+              "date": "Thu, 08 Oct 2026 17:58:38 -0400"
             }
           ]
         },
