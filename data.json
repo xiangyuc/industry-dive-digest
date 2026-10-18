@@ -1,6 +1,6 @@
 {
-  "date": "October 17, 2026",
-  "updated_at": "2026-10-17 23:41:58 UTC",
+  "date": "October 18, 2026",
+  "updated_at": "2026-10-18 23:50:33 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -17,6 +17,13 @@
             "date": "Fri, 16 Oct 2026 12:20:33 -0400"
           },
           "top_stories": [
+            {
+              "title": "NYDFS fines Swedish bank SEB $33M over AML issues",
+              "link": "https://www.bankingdive.com/news/nydfs-fines-swedish-bank-seb-33-million-aml-panama-papers/833251/",
+              "summary": "Anti-money laundering program deficiencies at Stockholm-based Skandinaviska Enskilda Banken came to light following the 2016 Panama Papers leak that ensnared hundreds of banks.",
+              "image": "https://imgproxy.divecdn.com/oJJRGJ8I24lnNSoZ9RfRv4pBHj8Zc4OvE92AK-rBmh0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk5MDk0MjIyLmpwZw==.webp",
+              "date": "Fri, 16 Oct 2026 12:20:21 -0400"
+            },
             {
               "title": "Truist consumer-bank chief is out in leadership shakeup",
               "link": "https://www.bankingdive.com/news/truist-lyons-wilson-consumer-banking-leadership-shakeup-earnings/833247/",
@@ -44,13 +51,6 @@
               "summary": "To get a foot in the door with customers, smaller players like the New York community bank need larger lenders to slip up, CEO Steve Bush said.",
               "image": "https://imgproxy.divecdn.com/e5u26CzDdbOEu2Xwrz-warsxtxMd9cf10V9-2IBRvW0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkzMDE5MzUwLmpwZw==.webp",
               "date": "Thu, 15 Oct 2026 08:35:32 -0400"
-            },
-            {
-              "title": "What Wells Fargo, Citi and Goldman Sachs\u2019 CEOs are saying about AI",
-              "link": "https://www.bankingdive.com/news/ai-citi-fraser-wells-fargo-scharf-goldman-sachs-solomon-morgan-stanley-pick-bofa-moynihan-dimon/833087/",
-              "summary": "Citi's Jane Fraser touted faster product launches and reduced vendor spend, while Goldman's David Solomon urged \u201crigorous testing\u201d of AI, and \u201cclear human accountability.\"",
-              "image": "https://imgproxy.divecdn.com/aFo63cbCGiZg-55afeuPPy9OJLB1jhN7QGk4snwxHec/g:nowe:93:6/c:2235:1262/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUxNDQ2MTM0LmpwZw==.webp",
-              "date": "Thu, 15 Oct 2026 07:00:00 -0400"
             }
           ]
         },
@@ -697,9 +697,9 @@
           "name": "Grocery Dive",
           "url": "https://www.grocerydive.com",
           "lead_story": {
-            "title": "Albertsons expands board for a third time",
+            "title": "Albertsons expands board for third time in 5 weeks",
             "link": "https://www.grocerydive.com/news/albertsons-adds-another-board-member/833164/",
-            "summary": "Dive Brief: Albertsons announced Thursday the appointment of Harmit Singh, chief financial and growth officer of Levi Strauss & Co., to its board of directors, effective immediately. Singh\u2019s appointment marks the third t...",
+            "summary": "The grocery company has grown its board from 10 members in September to 15 with its latest appointment.",
             "image": "https://imgproxy.divecdn.com/r-uDUYEBeRkZYRnpZIXS-NOjbr4nE90-o5XRR7rXAfo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjQyMzMxMTcwLmpwZw==.webp",
             "date": "Fri, 16 Oct 2026 10:47:00 -0400"
           },
@@ -710,6 +710,13 @@
               "summary": "Jim Bahrenburg has stepped down after three years in the role, marking the first confirmed C-suite change since the company announced a succession plan for CEO Jack Sinclair.",
               "image": "https://imgproxy.divecdn.com/HlB4t53cXMIW1c2aUJ3riU5Pi6gAji0FLx7NCzfGAVs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TcHJvdXRzX05ZLmpwZw==.webp",
               "date": "Fri, 16 Oct 2026 10:00:00 -0400"
+            },
+            {
+              "title": "The Friday Checkout: Ahold Delhaize\u2019s digital disaster is a customer retention nightmare",
+              "link": "https://www.grocerydive.com/news/the-friday-checkout-ahold-delhaizes-digital-disaster-is-a-customer-retent/833220/",
+              "summary": "The cybersecurity incident that struck the grocer has restricted people\u2019s access to its loyalty programs, posing a significant risk to the company\u2019s omnichannel operations.",
+              "image": null,
+              "date": "Fri, 16 Oct 2026 09:34:18 -0400"
             },
             {
               "title": "Publix names new chief information and digital officer",
@@ -731,13 +738,6 @@
               "summary": "Steve Shee stepped into a vice president role in the division around the same time as the retail media arm\u2019s leader departed.",
               "image": "https://imgproxy.divecdn.com/r-uDUYEBeRkZYRnpZIXS-NOjbr4nE90-o5XRR7rXAfo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjQyMzMxMTcwLmpwZw==.webp",
               "date": "Thu, 15 Oct 2026 10:00:00 -0400"
-            },
-            {
-              "title": "Wegmans\u2019 latest store opening highlights low price focus",
-              "link": "https://www.grocerydive.com/news/wegmans-charlotte-north-carolina-first-store-supermarkets-value/832518/",
-              "summary": "In Charlotte, North Carolina, the regional grocer is challenging established players Harris Teeter and Food Lion by claiming that it charges less for a group of frequently purchased products.",
-              "image": "https://imgproxy.divecdn.com/sfS2C8FTcKpzQxn-DRen3SsUTEapBWVdTUm8Drdb7qQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS93ZWdtYW5zLWNoYXJsb3R0ZS1ub3J0aC1jYXJvbGluYS5qcGc=.webp",
-              "date": "Wed, 14 Oct 2026 11:17:00 -0400"
             }
           ]
         },
@@ -776,7 +776,7 @@
             {
               "title": "7-Eleven, Circle K are falling behind in lunchtime traffic",
               "link": "https://www.cstoredive.com/news/7-eleven-circle-k-are-falling-behind-in-lunchtime-traffic/833018/",
-              "summary": "The country\u2019s largest c-store chains trailed several major competitors in both year-over-year lunch visits and overall share of lunchtime trips, according to data from Placer.ai.",
+              "summary": "The country\u2019s largest c-store chains trailed several major competitors in both year-over-year visits and overall share of lunchtime trips, according to data from Placer.ai.",
               "image": "https://imgproxy.divecdn.com/C-oMf8W0RRH5_ba4A2_IGHmwoKxntgozJStASbhIX1Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83ZV9uZXdfc3RhbmRhcmRfbGFyZWRvLmpwZw==.webp",
               "date": "Thu, 15 Oct 2026 10:00:00 -0400"
             },
@@ -795,7 +795,7 @@
           "lead_story": {
             "title": "Salad and Go is coming back from the dead",
             "link": "https://www.restaurantdive.com/news/salad-go-16-million-sale-30-stores-intellectual-property-reopening-arizona/833222/",
-            "summary": "Roughly 100 former Salad and Go locations have been approved for sale during bankruptcy, but the buyer of its intellectual property plans to bring the chain back.",
+            "summary": "Roughly 100 former Salad and Go locations were approved for sale during bankruptcy, but the buyer of its intellectual property plans to reopen some units.",
             "image": null,
             "date": "Fri, 16 Oct 2026 10:37:00 -0400"
           },
@@ -851,7 +851,7 @@
             {
               "title": "International Paper entertains offers for EMEA business",
               "link": "https://www.packagingdive.com/news/international-paper-explores-sale-spinoff-business-emea/833136/",
-              "summary": "The Memphis, Tennessee-based company confirmed that it has received unsolicited offers for the independent company it\u2019s spinning off in the Europe, Middle East and Africa region.",
+              "summary": "IP confirmed it has received unsolicited offers for the independent company it\u2019s spinning off in the Europe, Middle East and Africa region. The new company will be called DS Smith.",
               "image": "https://imgproxy.divecdn.com/pBTP9Skdqdaknro9tSj5MC-F7gtPlhsX0XevNa0WD9k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JUF9sb2dvLmpwZw==.webp",
               "date": "Thu, 15 Oct 2026 15:42:00 -0400"
             },
@@ -1344,6 +1344,13 @@
           },
           "top_stories": [
             {
+              "title": "NextEra\u2019s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
+              "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
+              "summary": "The donation, which advocates called \u201cproblematic\u201d and \u201cconvenient\u201d for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
+              "image": "https://imgproxy.divecdn.com/v7POyObBz_ypbY6WVs3hl6yeVIhU2mfxNnUtvy2wfuQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CYWxscm9vbS5qcGc=.webp",
+              "date": "Fri, 16 Oct 2026 06:28:17 -0400"
+            },
+            {
               "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
               "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
               "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services\u2019 head of energy and utilities, Joseph Santamaria.",
@@ -1370,13 +1377,6 @@
               "summary": "The retailer deployed electric yard switchers as part of its efforts to curb emissions and will gauge future deployment potential across its supply chain, it said.",
               "image": "https://imgproxy.divecdn.com/3iFBkt8eLLJU7Cp5pdr2ymtNSLlgKb-tgig3-9_bw1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI0MzM2ODQwLmpwZw==.webp",
               "date": "Thu, 15 Oct 2026 10:32:12 -0400"
-            },
-            {
-              "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
-              "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
-              "summary": "The proposed rules must still be approved by NERC\u2019s board and federal regulators. As written, they would apply to computational loads of 50 MW or more connected at voltage levels of at least 100 kV.",
-              "image": "https://imgproxy.divecdn.com/Ix2EUTlYTDa7BvmkrlEGo7mfAaCXayD6AX3dQzjpfwM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ1NjkzNjkxXzEuanBn.webp",
-              "date": "Thu, 15 Oct 2026 09:28:37 -0400"
             }
           ]
         },
@@ -1641,7 +1641,7 @@
             {
               "title": "TikTok shares holiday sales data",
               "link": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
-              "summary": "The company said in-app sales surpassed $500 million between Black Friday Cyber Monday last year and users are currently looking for holiday inspiration.",
+              "summary": "In-app sales surpassed $500 million between Black Friday and Cyber Monday last year, per the company.",
               "image": null,
               "date": "Thu, 15 Oct 2026 17:58:55 -0400"
             },
@@ -1655,14 +1655,14 @@
             {
               "title": "LinkedIn adds new creator monetization options",
               "link": "https://www.socialmediatoday.com/news/linkedin-adds-new-creator-monetization-options/833179/",
-              "summary": "The company is offering expanded sponsorships, updated insights and the ability to host one-on-one consultations directly from the app.",
+              "summary": "Features include expanded sponsorships, updated insights and the ability to host one-on-one consultations directly from the app.",
               "image": "https://imgproxy.divecdn.com/GtN2dCkSjxPZKAKzxVbXeoGG_JRkSQ-i22Rj-l0l_RA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saW5rZWRpbl9jcmVhdG9yX21hcmtldHBsYWNlX2ZpbHRlcnMucG5n.webp",
               "date": "Thu, 15 Oct 2026 16:31:31 -0400"
             },
             {
               "title": "Meta offers enhanced ad campaign exposure",
               "link": "https://www.socialmediatoday.com/news/meta-offers-enhanced-ad-campaign-exposure/833171/",
-              "summary": "At its brand building summit the company announced a trio of ad updates, which included a new First Impressions option and expanded Reels services.",
+              "summary": "A trio of ad updates includes a new First Impressions option and expanded Reels services.",
               "image": null,
               "date": "Thu, 15 Oct 2026 15:34:30 -0400"
             }
