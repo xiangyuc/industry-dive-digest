@@ -1,6 +1,6 @@
 {
-  "date": "October 24, 2026",
-  "updated_at": "2026-10-24 23:55:12 UTC",
+  "date": "October 25, 2026",
+  "updated_at": "2026-10-25 23:42:26 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -13,7 +13,7 @@
             "title": "Wells Fargo consolidates leadership of consumer bank",
             "link": "https://www.bankingdive.com/news/wells-fargo-consolidate-consumer-bank-leadership-santos-van-beurden-ai/833863/",
             "summary": "Kleber Santos is now solely responsible for the bank\u2019s consumer banking and lending as Saul Van Beurden becomes wholly focused on AI.",
-            "image": "https://imgproxy.divecdn.com/b5FZiDbomPs8vydak_Qn9giw8Umfljl6AY0f0FDK_1g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU4MzI1MDUzLmpwZw==.webp",
+            "image": "https://imgproxy.divecdn.com/4BtJyecTdj027aiDxLpF2feMPenVLvQqwwTIbivpEVw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NjM3MTEzMV8xLmpwZw==.webp",
             "date": "Fri, 23 Oct 2026 12:17:45 -0400"
           },
           "top_stories": [
@@ -25,6 +25,13 @@
               "date": "Fri, 23 Oct 2026 12:03:45 -0400"
             },
             {
+              "title": "Amex to cut roughly 3,500 employees",
+              "link": "https://www.bankingdive.com/news/amex-american-express-cut-3500-employees-ai-squeri/833861/",
+              "summary": "The card company is reducing its workforce by 4.5% as it aims to become more \u201cagile and efficient\u201d amid increased use of artificial intelligence, CEO Stephen Squeri said.",
+              "image": "https://imgproxy.divecdn.com/oFzWzOTFHBL5p0ECEoSrWbXOIjXnLnnVUkMT4E1pZdw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MzY1MzI1Ml9ZaXd4MmFhLmpwZw==.webp",
+              "date": "Fri, 23 Oct 2026 11:49:35 -0400"
+            },
+            {
               "title": "Citi takes cautious approach on AI agent access",
               "link": "https://www.bankingdive.com/news/citi-takes-cautious-approach-ai-agent-access/833849/",
               "summary": "\u201cThere are places in which we want to go faster. This is not one of those places,\u201d Naveed Anwar, global head of AI, digital and data platforms within Citi\u2019s services business, said at Money20/20.",
@@ -32,25 +39,18 @@
               "date": "Fri, 23 Oct 2026 11:31:53 -0400"
             },
             {
+              "title": "[Podcast] From Fragmentation to Infrastructure: The Lasting Value of Modernizing Insurance Payments",
+              "link": "https://www.bankingdive.com/spons/podcast-from-fragmentation-to-infrastructure-the-lasting-value-of-modern/833759/",
+              "summary": "Explore how modernizing and unifying insurance payments helps insurers reduce costs, improve customer experiences, and build a foundation for long-term growth.",
+              "image": null,
+              "date": "Fri, 23 Oct 2026 08:00:00 -0400"
+            },
+            {
               "title": "JPMorgan Chase, Goldman Sachs underscore security in AI plans",
               "link": "https://www.bankingdive.com/news/jpmorgan-chase-goldman-sachs-AI-security-lori-beer-marco-argenti/833792/",
               "summary": "\u201cThis is one of the most important times to make sure you are appropriately balancing risk and innovation tradeoffs,\u201d JPMorgan Chase CIO Lori Beer said.",
               "image": "https://imgproxy.divecdn.com/dqjj4JNPWxPSCkMQ0T68jLzVJIOPrCyjoVKkiVwCQL8/g:nowe:443:372/c:1187:670/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTAtMjJfYXRfMi4zNi4wMlBNLnBuZw==.webp",
               "date": "Fri, 23 Oct 2026 05:57:00 -0400"
-            },
-            {
-              "title": "Barclays to cut 5,000 employees this year",
-              "link": "https://www.bankingdive.com/news/barclays-cut-5000-employees-ai-q3-earnings-venkat/833747/",
-              "summary": "Roughly 60% of the reductions are expected in \u201csupport functions,\u201d including developers, as AI bolsters productivity, the bank said.",
-              "image": "https://imgproxy.divecdn.com/DJwvDfevvS1Xu91DZTxCA-NBEFuwhtVEWz09Mtp0U5k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkwOTkxMTVfMS5qcGc=.webp",
-              "date": "Thu, 22 Oct 2026 12:23:58 -0400"
-            },
-            {
-              "title": "Paze sets big targets after revamp",
-              "link": "https://www.bankingdive.com/news/paze-digital-wallet-sets-big-targets-revamp-fowler-elkiner/833746/",
-              "summary": "The wallet\u2019s bank owners are battling Apple and PayPal with an extensive marketing push, touting it as a more secure payment method.",
-              "image": "https://imgproxy.divecdn.com/yBoQfVhjzXtod925A4JtTUPbFnxlZNMROo453nqL7Ys/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QYXplMi5qcGc=.webp",
-              "date": "Thu, 22 Oct 2026 10:49:00 -0400"
             }
           ]
         },
@@ -114,6 +114,20 @@
           },
           "top_stories": [
             {
+              "title": "Gold stakes claim in digital rush",
+              "link": "https://www.cfodive.com/news/gold-trade-restakes-claims-digital-rush/833642/",
+              "summary": "The industry seeks to carve a niche in the fintech era, with a recent report estimating the digital gold market could be valued at $170 billion by 2031.",
+              "image": "https://imgproxy.divecdn.com/SgcE5BRNYIyJeY6LKK0nkTmDPE272rL_53tsN2weCPc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nb2xkX2Jhci5qcGc=.webp",
+              "date": "Fri, 23 Oct 2026 15:08:16 -0400"
+            },
+            {
+              "title": "Forgent Power CFO leaves after a year",
+              "link": "https://www.cfodive.com/news/forgent-power-cfo-leaves-one-year-ipo-comp/833872/",
+              "summary": "Forgent veteran Amy Ard is taking the CFO reins in the wake of the power distributor's net income skyrocketing in fiscal 2026.",
+              "image": "https://imgproxy.divecdn.com/QjXedfWHsAdYnQdsaRLinaW3qRbG3gpw9T6kD19YB3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUzMzA4MjU0LmpwZ19yZXNpemUuanBn.webp",
+              "date": "Fri, 23 Oct 2026 13:48:57 -0400"
+            },
+            {
               "title": "GASB leans into new technologies to improve public sector reporting",
               "link": "https://www.cfodive.com/news/gasb-leans-new-technologies-improve-public-sector-reporting-accounting/833869/",
               "summary": "Emerging tools, including AI, could soon be used to prepare GAAP reports, automate research efforts, and allow governments to file detailed and simplified versions of the same report.",
@@ -133,20 +147,6 @@
               "summary": "The Musk-owned company revised its spending guidance for the full year as it attempts to grow from an EV maker to a leader in the AI and autonomous tech space.",
               "image": "https://imgproxy.divecdn.com/t2PiC3p2R_KWNmCvGaz1B05d3ZZjfvbqw-RzycSzKL0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA4MTgxNjIxLmpwZ19yZXNpemUuanBn.webp",
               "date": "Thu, 22 Oct 2026 15:22:35 -0400"
-            },
-            {
-              "title": "What the fintech cool kids are wearing",
-              "link": "https://www.cfodive.com/news/fintech-cool-kids-wearing-fashion-vegas/833769/",
-              "summary": "A business casual vibe informed the unspoken dress code at the Money20/20 conference in Las Vegas this week. The standouts chose suits.",
-              "image": "https://imgproxy.divecdn.com/H7-yOGkyO4d8LmkDbz3-K8zFzBDgXtwn6vWWuMWZYk0/g:nowe:81:482/c:1575:889/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GZXJyYXJpLmpwZw==.webp",
-              "date": "Thu, 22 Oct 2026 14:57:42 -0400"
-            },
-            {
-              "title": "SEC enforcement actions sink 57% below 8-year average: Brattle Group",
-              "link": "https://www.cfodive.com/news/sec-enforcement-actions-sink-57-8-year-average-brattle-group-atkins-gensler-law-fraud/833648/",
-              "summary": "Staff reductions at the Securities and Exchange Commission and the record-long government shutdown slowed enforcement last year, the Brattle Group said.",
-              "image": "https://imgproxy.divecdn.com/isV_s7lV3_-m9EQ3AZ_bbdor3SuT0RM-nDryYnkJYzc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxMjY1MDM5LmpwZw==.webp",
-              "date": "Wed, 21 Oct 2026 15:34:07 -0400"
             }
           ]
         },
@@ -224,6 +224,13 @@
               "date": "Fri, 23 Oct 2026 16:19:00 -0400"
             },
             {
+              "title": "Job seekers say they\u2019re still being ghosted \u2014 even as they\u2019re trying harder to get noticed",
+              "link": "https://www.hrdive.com/news/job-seekers-say-theyre-still-being-ghosted-even-as-theyre-trying-harder/833774/",
+              "summary": "Nearly one-third of applicants said they were rejected without ever being contacted by either a human or an artificial intelligence agent, per a new report.",
+              "image": "https://imgproxy.divecdn.com/sAhZ2Y6on4Qhxp8UcdZnXsnfxXyb7xZbINxeXJkB_dI/g:nowe:0:159/c:2976:1681/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NDY3NDA2OS5qcGc=.webp",
+              "date": "Fri, 23 Oct 2026 16:19:00 -0400"
+            },
+            {
               "title": "CEOs say they\u2019re not yet seeing transformational change from AI",
               "link": "https://www.hrdive.com/news/ceos-not-yet-seeing-transformational-change-from-ai/833691/",
               "summary": "But more than 6 in 10 U.S. leaders said they were confident their firms were moving at the right pace or ahead of the curve in terms of AI development, per a KPMG report.",
@@ -235,13 +242,6 @@
               "link": "https://www.hrdive.com/news/southwest-flight-attendant-sues-for-failure-to-accommodate-pet-allergies/833702/",
               "summary": "The company allegedly said \u201cno accommodation\u201d could be made after it changed its policy in 2018 to allow cats and dogs on board.",
               "image": "https://imgproxy.divecdn.com/dTP20b4frfMzmL-7Z_Cb5rJ0VRuVichc4MXIwpX15UU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc2MDc3OTA1LmpwZw==.webp",
-              "date": "Thu, 22 Oct 2026 14:35:00 -0400"
-            },
-            {
-              "title": "AI is splitting HR into 2 archetypes, study shows",
-              "link": "https://www.hrdive.com/news/ai-is-splitting-hr-into-two-archetypes/833698/",
-              "summary": "Every role \u2014 from HR specialist to CHRO \u2014 now requires knowledge of data analytics, while traditional administrative skills are declining, Draup explained.",
-              "image": "https://imgproxy.divecdn.com/e_jvejxS3BlFpo0sUvRl-NRfhSYF6Y-II-ICl0xrgII/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg4ODc0MjM4LmpwZw==.webp",
               "date": "Thu, 22 Oct 2026 14:35:00 -0400"
             }
           ]
@@ -795,11 +795,18 @@
           "lead_story": {
             "title": "Restaurants are about to inherit the food industry\u2019s hardest labeling problem",
             "link": "https://www.restaurantdive.com/news/restaurants-are-about-to-inherit-the-food-industrys-hardest-labeling-probl/833533/",
-            "summary": "Operators need to create a single plan on how to address allergen notifications that satisfies cross-state regulations if they have restaurants across multiple states, writes Steritech\u2019s Chris Boyles.",
+            "summary": "Multistate operators need to create a single plan to satisfy allergen notification rules across state lines, writes Steritech\u2019s Chris Boyles.",
             "image": "https://imgproxy.divecdn.com/bnNrTYtVe8WNvgSmNHJUiUTBZHy8J1UsxG2Rs5rAj6g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYwOTc1NjA1LmpwZw==.webp",
             "date": "Fri, 23 Oct 2026 09:35:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Taco Bell, Pepsi renew vows after KFC divorce",
+              "link": "https://www.restaurantdive.com/news/taco-bell-mountain-dew-baja-blast-pepsi/833787/",
+              "summary": "Remaining with the sodamaker signals strategic menu continuity for Taco Bell and the Mountain Dew Baja Blast, while sister-brand KFC pursues an overhaul.",
+              "image": "https://imgproxy.divecdn.com/s4miVBpbE4s7g5nIfx0Im9ahsm-X8dqdtyple6Mqobk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80MzM4MjhfRTExX05BVF9CYWphQmxhc3RQaWVfUFJJbWFnZV81X05ld3NSb29tX0hFUk9QYXJ0aWFsQm94X0N1c3RvbV8xODEweDEwOTlfRDhhMVV0di5qcGc=.webp",
+              "date": "Thu, 22 Oct 2026 16:00:57 -0400"
+            },
             {
               "title": "Why Q3 marked the end of fast food value wars",
               "link": "https://www.restaurantdive.com/news/price-value-wars-over-fast-food-chains-shift-food-quality/833658/",
@@ -827,13 +834,6 @@
               "summary": "Restaurants offering the four new housemade drinks saw the share of beverage transactions jump nearly 25%.",
               "image": "https://imgproxy.divecdn.com/5ByXF87zUx6AqnDMe9hVUAm9zzAwlEBFpXYGm00Qqq4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TSE9UXzA4XzAwNDkuanBn.webp",
               "date": "Wed, 21 Oct 2026 10:39:00 -0400"
-            },
-            {
-              "title": "Olo wants to kill delivery commissions",
-              "link": "https://www.restaurantdive.com/news/olo-app-delivery-commission-fees-aggregator-competition/833536/",
-              "summary": "The restaurant software company\u2019s CEO says its new app can bring delivery to consumers for less, while avoiding exorbitant commission rates for restaurants.",
-              "image": null,
-              "date": "Wed, 21 Oct 2026 08:29:00 -0400"
             }
           ]
         },
@@ -843,7 +843,7 @@
           "lead_story": {
             "title": "Pricing is PCA\u2019s \u2018supreme focus\u2019 right now",
             "link": "https://www.packagingdive.com/news/pricing-is-pcas-supreme-focus-right-now/833677/",
-            "summary": "Higher prices helped to offset some demand declines and higher input costs during Q3, said Packaging Corporation of America executives during Thursday\u2019s earnings call. They also credited recent mill upgrades.",
+            "summary": "Product price increases helped to offset some demand declines and higher input costs during Q3, said Packaging Corporation of America executives during Thursday\u2019s earnings call. They also credited recent mill upgrades.",
             "image": null,
             "date": "Fri, 23 Oct 2026 12:57:00 -0400"
           },
@@ -1291,6 +1291,13 @@
           },
           "top_stories": [
             {
+              "title": "Few states, cities have capacity to handle disasters without FEMA, reports find",
+              "link": "https://www.smartcitiesdive.com/news/few-states-cities-have-capacity-handle-disasters-without-fema/833843/",
+              "summary": "States could be expected to shoulder more disaster and recovery costs within six months, but federal reports document staffing and funding shortfalls at state and local emergency management agencies.",
+              "image": "https://imgproxy.divecdn.com/d0H2pvxMx-iQkX23K8rEthuLrI5S7kvA9FO_fJbPBIY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgxNDM5NDgxLmpwZw==.webp",
+              "date": "Fri, 23 Oct 2026 10:49:04 -0400"
+            },
+            {
               "title": "Seattle social housing hits milestone with land acquisition",
               "link": "https://www.smartcitiesdive.com/news/seattle-social-housing-hits-milestone-with-land-acquisition-for-first-const/833833/",
               "summary": "The Seattle Social Housing Developer Board will build around 20 mixed-income homes in the city\u2019s Central District. It expects to own 1,000 homes by the end of next year.",
@@ -1317,13 +1324,6 @@
               "summary": "The Israel-Hamas war has tested U.S. community leaders\u2019 ability to protect residents and maintain social cohesion. A standing crisis protocol can help cities prepare, experts say.",
               "image": null,
               "date": "Thu, 22 Oct 2026 08:09:48 -0400"
-            },
-            {
-              "title": "Good luck finding parking in these big US cities: Inrix report",
-              "link": "https://www.smartcitiesdive.com/news/inrix-parking-us-cities-cost-availability/833538/",
-              "summary": "Drivers in downtown areas must choose between searching for on-street parking or paying high fees at public parking lots and garages, the transportation analytics company found.",
-              "image": "https://imgproxy.divecdn.com/OJ-dV6fmfhkGBW_03L58b0fQKXMJAyLqEx0rR3A9Umc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MTAyNjY3X2Q1M3BseW0uanBn.webp",
-              "date": "Wed, 21 Oct 2026 11:47:00 -0400"
             }
           ]
         }
@@ -1344,10 +1344,17 @@
           },
           "top_stories": [
             {
+              "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+              "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+              "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+              "image": "https://imgproxy.divecdn.com/opCR8D5Awq01-oRVeoKWicGPrVXFIXYFyI-7DwcAr98/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Jb3dhX3dpbmRfdHVyYmluZXMuanBn.webp",
+              "date": "Fri, 23 Oct 2026 08:11:00 -0400"
+            },
+            {
               "title": "NextEra Energy secures $5.7B to support federal energy \u2018hub\u2019 projects",
               "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
               "summary": "The company remains on track to close a merger with Dominion Energy in the second half of 2027, despite political opposition in Virginia, NextEra officials said Wednesday.",
-              "image": "https://imgproxy.divecdn.com/oRz3VYaqsdejdV2l0e9UH4nCIyQYxiIvkBM2eK4MUhY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0tldGNodW0uanBn.webp",
+              "image": "https://imgproxy.divecdn.com/BQL9FGpeK0GJfr2HRS9WZgHbGg_7SANDRnmEopt1SAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OZXh0RXJhX0NFTy5qcGc=.webp",
               "date": "Fri, 23 Oct 2026 08:00:00 -0400"
             },
             {
@@ -1370,13 +1377,6 @@
               "summary": "With utility returns trending downward, the data does not support a national \u201cutility greed\u201d narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
               "image": "https://imgproxy.divecdn.com/2HcvzE-Ry8yNhBP2ra0WFW07XxDS4UQwfefirwDfeis/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODI4NTc5NDMuanBn.webp",
               "date": "Thu, 22 Oct 2026 11:00:00 -0400"
-            },
-            {
-              "title": "Google supersizes PJM virtual power plant to more than 1 GW",
-              "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
-              "summary": "Such contracts signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response ac...",
-              "image": "https://imgproxy.divecdn.com/7DLcfcKf0cY5Xti5aPJ8rQj3oQaVe2gmM0-vcH3pOno/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMzk0OTgyLmpwZw==.webp",
-              "date": "Thu, 22 Oct 2026 10:42:49 -0400"
             }
           ]
         },
@@ -1434,7 +1434,7 @@
           "lead_story": {
             "title": "Moving past \u2018hard to recycle\u2019 hurdles takes accountability, creativity",
             "link": "https://www.wastedive.com/news/zero-waste-conference-hard-to-recycle-mateirals-textiles-batteries/833844/",
-            "summary": "Speakers at the virtual National Zero Waste Conference said solutions for hard-to-recycle materials like batteries or textiles are possible with transparent systems and processes",
+            "summary": "Speakers at the virtual National Zero Waste Conference said solutions for hard-to-recycle materials like batteries or textiles are possible with transparent systems and processes.",
             "image": "https://imgproxy.divecdn.com/3LgMSQE1upzvChM1wxLmhriASry7iY2wZfpw_orilEo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjQ4NDA2NzAwXzEuanBn.webp",
             "date": "Fri, 23 Oct 2026 10:47:24 -0400"
           },
@@ -1626,7 +1626,7 @@
           "lead_story": {
             "title": "Meta says shopping is Muse\u2019s primary use case",
             "link": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/",
-            "summary": "In its third-quarter earnings transcript, CEO Mark Zuckerberg touted the artificial intelligence agent\u2019s download numbers and outlined its benefits.",
+            "summary": "On a third quarter earnings call, CEO Mark Zuckerberg touted the artificial intelligence agent\u2019s download numbers and outlined its benefits.",
             "image": null,
             "date": "Thu, 22 Oct 2026 18:36:18 -0400"
           },
@@ -1634,20 +1634,20 @@
             {
               "title": "Meta offers insights on individual platform growth",
               "link": "https://www.socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807/",
-              "summary": "Alongside its third-quarter earnings release, the company revealed usage notes and engagement data for Facebook, Instagram and Threads.",
+              "summary": "Alongside its third quarter earnings, the company revealed usage notes and engagement data for Facebook, Instagram and Threads.",
               "image": null,
               "date": "Thu, 22 Oct 2026 18:30:27 -0400"
             },
             {
               "title": "Snapchat says some AI users are willing to trade privacy for utility",
               "link": "https://www.socialmediatoday.com/news/snapchat-says-some-ai-users-are-willing-to-trade-privacy-for-utility/833803/",
-              "summary": "The company has released a new study examining the evolving attitudes about artificial intelligence tools and data collection.",
+              "summary": "A new study examines the evolving attitudes about artificial intelligence tools and data collection.",
               "image": null,
               "date": "Thu, 22 Oct 2026 17:22:19 -0400"
             },
             {
-              "title": "Meta hit with $25 billion fine over privacy breaches",
-              "link": "https://www.socialmediatoday.com/news/meta-hit-with-25-billion-fine-over-privacy-breaches/833798/",
+              "title": "Meta hit with $25B fine over privacy breaches",
+              "link": "https://www.socialmediatoday.com/news/meta-hit-with-25b-fine-over-privacy-breaches/833798/",
               "summary": "A New Mexico judge ordered the company to pay damages after a jury found Meta guilty of exposing user data, per Reuters.",
               "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp",
               "date": "Thu, 22 Oct 2026 16:56:07 -0400"
@@ -1680,13 +1680,6 @@
           },
           "top_stories": [
             {
-              "title": "Hilton offers loyalty members option to pay with points during digital checkout",
-              "link": "https://www.customerexperiencedive.com/news/hilton-loyalty-members-pay-with-points-digital-checkout/833728/",
-              "summary": "Pay with Points allows Hilton Honors members to apply loyalty points toward their bill during digital checkout, a first for a major hotel brand, Hilton said.",
-              "image": "https://imgproxy.divecdn.com/fNiUV4iWUO_4J57NPXKj42txeIlDJVlKcZggTYasB9s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db25yYWRfQXRoZW5zX1RoZV9JbGlzaWFuXy1fTG91bmdlX1RoZV9UcmF2ZWxfVHJ1c3RfRXF1YXRpb24uanBn.webp",
-              "date": "Fri, 23 Oct 2026 10:05:49 -0400"
-            },
-            {
               "title": "Southwest sets its sights on improving loyalty revenue",
               "link": "https://www.customerexperiencedive.com/news/southwest-airlines-improving-loyalty-revenue/833760/",
               "summary": "The carrier\u2019s bevy of loyalty advancements \u2014 from overhauling Rapid Rewards to adding international travel partners \u2014 are aimed at strengthening the airline\u2019s value proposition.",
@@ -1713,6 +1706,13 @@
               "summary": "The carrier is courting converged customers by \u201cremoving friction for consumers\u201d and \u201cconstructing plans built around simplicity, transparent value, and convergence,\u201d CEO John Stankey said.",
               "image": "https://imgproxy.divecdn.com/_LAiVh-L-60w2V_zdZEWXB-9TGdasrTx0oAZqG2Dnds/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE4NTA1MDYxLmpwZw==.webp",
               "date": "Thu, 22 Oct 2026 07:00:00 -0400"
+            },
+            {
+              "title": "United\u2019s loyalty strategy leans on Starlink",
+              "link": "https://www.customerexperiencedive.com/news/uniteds-loyalty-strategy-leans-on-starlink/833656/",
+              "summary": "The airline has \u201ca huge head start\u201d offering high-speed in-flight Wi-Fi, CEO Scott Kirby said. \u201cSo a lot of new customers are going to try us.\u201d",
+              "image": "https://imgproxy.divecdn.com/2yzO5tBA5Nj3GQ9u1vQIxShvxv8Rl4gWOZEyK8EtQqw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMxODY2NjQyLmpwZw==.webp",
+              "date": "Wed, 21 Oct 2026 16:11:00 -0400"
             }
           ]
         }
