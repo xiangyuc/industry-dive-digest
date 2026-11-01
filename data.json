@@ -1,6 +1,6 @@
 {
-  "date": "October 31, 2026",
-  "updated_at": "2026-10-31 01:19:58 UTC",
+  "date": "November 01, 2026",
+  "updated_at": "2026-11-01 00:36:28 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -162,13 +162,6 @@
           },
           "top_stories": [
             {
-              "title": "AI agents won\u2019t pay the way you do",
-              "link": "https://www.paymentsdive.com/news/ai-agents-wont-pay-same-ways-agentic-commerce-payments/873291/",
-              "summary": "Plaid\u2019s payments head explains how payment methods might shift as artificial intelligence begins choosing how to pay.",
-              "image": "https://imgproxy.divecdn.com/DLtuG5DywcW6r_JGk0bx4Vsll5sZA0t0R4JD-u2gmmU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg0MjMxOTI5LmpwZw==.webp",
-              "date": "Fri, 30 Oct 2026 09:31:52 -0400"
-            },
-            {
               "title": "FTC, states sue Toast over fees",
               "link": "https://www.paymentsdive.com/news/ftc-states-sue-toast-over-fees-restaurant-dining-online-food/873225/",
               "summary": "The agency and eight states allege that the point-of-sale services provider charges its restaurant clients and their customers hidden fees.",
@@ -195,6 +188,13 @@
               "summary": "Global payments are moving faster, but local settlement remains a pain point for many companies, according to speakers on a Money20/20 panel.",
               "image": "https://imgproxy.divecdn.com/Ktt2Bd2BtjgTnqEQzpgy5kd5gJBjBgrPRiMBXFK62_Y/g:nowe:702:60/c:2378:1344/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NMjAyMC1zaWduLmpwZw==.webp",
               "date": "Thu, 29 Oct 2026 09:12:24 -0400"
+            },
+            {
+              "title": "Visa adapts to tech innovations",
+              "link": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/",
+              "summary": "The card network\u2019s fiscal 2026 results show it\u2019s reaching beyond legacy payments paths to incorporate new technologies, offer new services and extend its global reach with more partners.",
+              "image": "https://imgproxy.divecdn.com/H4PMbKJWiZ--ofPmzPrRAF42Pmdqy2QJtyAnwSeFB4E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01Mjk3MjI1OC5qcGc=.webp",
+              "date": "Wed, 28 Oct 2026 10:58:00 -0400"
             }
           ]
         },
@@ -351,7 +351,7 @@
           "name": "Channel Dive",
           "url": "https://www.channeldive.com",
           "lead_story": {
-            "title": "Cognizant commits to US workforce expansion amid AI training push",
+            "title": "Cognizant commits to workforce expansion amid AI training push",
             "link": "https://www.channeldive.com/news/cognizant-us-workforce-expansion-ai-training-push/873321/",
             "summary": "The New Jersey-based IT consulting and services firm responded to Department of Labor sanctions with a pledge to hire 1,500 U.S. college graduates.",
             "image": "https://imgproxy.divecdn.com/-h0yKlUZ8BwvhbQ3aPHJg_IiYAosrbrZSc0LujACJ0E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU4MTI3Mjc0LmpwZw==.webp",
@@ -406,11 +406,18 @@
           "lead_story": {
             "title": "High-acuity strategy helped Tenet weather surgery, uninsured headwinds in Q3",
             "link": "https://www.healthcaredive.com/news/high-acuity-strategy-helped-tenet-weather-surgery-uninsured-headwinds-q3/873305/",
-            "summary": "The health system's push into high-acuity procedures like joint replacements and spinal fusions helped offset declining surgical volumes and payer-mix pressures tied to the ACA exchanges.",
+            "summary": "The health system's push into high-acuity procedures like joint replacements and spinal fusions helped offset declining surgical volumes and payer mix pressures tied to the ACA exchanges.",
             "image": "https://imgproxy.divecdn.com/H1PuxWCM41lVF5vutgAuxiFhO4G5Rt6or1j9bMlMkNQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yTTQyM0oxLmpwZw==.webp",
             "date": "Fri, 30 Oct 2026 10:23:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "Judge strikes down CMS \u2018medical frailty\u2019 policy for Medicaid work requirements",
+              "link": "https://www.healthcaredive.com/news/judge-strikes-down-cms-medical-frailty-policy-medicaid-work-requirements/873284/",
+              "summary": "It\u2019s a victory for more than two dozen states that had sued to block the definition, along with providers, consumer advocates and other critics that had opposed it. The CMS could still appeal the decision.",
+              "image": "https://imgproxy.divecdn.com/8tDp3FYimw6iTRRiXKf-eSGSrRz7cw3R4sIG7Xb0iAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDA3OTAwMjY2LmpwZw==.webp",
+              "date": "Fri, 30 Oct 2026 08:53:47 -0400"
+            },
             {
               "title": "Labor Department finalizes sweeping PBM disclosure rule",
               "link": "https://www.healthcaredive.com/news/pbm-transparency-final-rule-labor-department-employer/873089/",
@@ -421,7 +428,7 @@
             {
               "title": "Popular AI models get medication doses wrong, some dangerously: Doximity",
               "link": "https://www.healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/873207/",
-              "summary": "Research released by the clinical AI company shows that its dose verification tool outperformed general-use AI models, which it says are rife with errors. It\u2019s Doximity\u2019s latest play to stand out as major AI companies fo...",
+              "summary": "Research released by the clinical AI company shows that its dose verification tool outperformed general use AI models, which it says are rife with errors. It\u2019s Doximity\u2019s latest play to stand out as major AI companies fo...",
               "image": "https://imgproxy.divecdn.com/ES-1lYXCZKXcjsTy_FcRQiqWBq07Dr4gAOHYzuKj9l4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp",
               "date": "Thu, 29 Oct 2026 12:22:19 -0400"
             },
@@ -438,13 +445,6 @@
               "summary": "The Coalition Against Surprise Medical Billing and the ERISA Industry Committee are asking the CMS to stop approving arbiters until it implements more rigorous standards.",
               "image": "https://imgproxy.divecdn.com/hNCq4QiiSH5WvAsLwIbrnFPRhFIKQwGMfby8YqXAKVE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE2NTEyMzE2LmpwZw==.webp",
               "date": "Wed, 28 Oct 2026 15:06:53 -0400"
-            },
-            {
-              "title": "Zocdoc invites AI agents to book appointments on behalf of patients",
-              "link": "https://www.healthcaredive.com/news/zocdoc-invites-ai-agents-to-book-appointments-on-behalf-of-patients/873035/",
-              "summary": "It\u2019s a \u201ccontrarian move\u201d for the company as much of the industry remains wary of agentic AI, according to CEO Dr. Oliver Kharraz.",
-              "image": "https://imgproxy.divecdn.com/E149bJ76Vn-TVq35w9sufzhbXXaea8djrEX1OHSa6D0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
-              "date": "Wed, 28 Oct 2026 10:49:30 -0400"
             }
           ]
         },
@@ -745,13 +745,27 @@
           "name": "C-Store Dive",
           "url": "https://www.cstoredive.com",
           "lead_story": {
-            "title": "3 Big Numbers: Murphy\u2019s store growth challenges",
-            "link": "https://www.cstoredive.com/news/3-big-numbers-murphy-updates-store-development-plans/873226/",
-            "summary": "The company\u2019s merchandise sales declined and its store expansion is behind schedule, but an automated food kiosk test is showing early promise.",
-            "image": "https://imgproxy.divecdn.com/Y5X_FctrC0Uayu8aVSPUCkhwu-esO7XnHApk3_nd5S0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tdXJwaHlfb3V0c2lkZV9lbF9wYXNvX3N0b3JlLmpwZw==.webp",
+            "title": "Stewart\u2019s Shops names new category management and marketing lead",
+            "link": "https://www.cstoredive.com/news/stewarts-shops-names-new-category-management-and-marketing-lead/873261/",
+            "summary": "Ryan Faville, who has nearly two decades of experience at the Northeast chain, is tasked with growing the Stewart\u2019s brand and identifying ways to enhance its business.",
+            "image": null,
             "date": "Fri, 30 Oct 2026 10:00:00 -0400"
           },
           "top_stories": [
+            {
+              "title": "3 Big Numbers: Murphy\u2019s store growth challenges",
+              "link": "https://www.cstoredive.com/news/3-big-numbers-murphy-updates-store-development-plans/873226/",
+              "summary": "The company\u2019s merchandise sales declined and its store expansion is behind schedule, but an automated food kiosk test is showing early promise.",
+              "image": "https://imgproxy.divecdn.com/Y5X_FctrC0Uayu8aVSPUCkhwu-esO7XnHApk3_nd5S0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tdXJwaHlfb3V0c2lkZV9lbF9wYXNvX3N0b3JlLmpwZw==.webp",
+              "date": "Fri, 30 Oct 2026 10:00:00 -0400"
+            },
+            {
+              "title": "Green Trail Fuels makes 25-store acquisition",
+              "link": "https://www.cstoredive.com/news/green-trail-fuels-makes-25-store-acquisition/873259/",
+              "summary": "The joint venture, which began operating earlier this year, bought Littlefield Retail Group\u2019s c-store arm, with locations in Arkansas and Oklahoma.",
+              "image": null,
+              "date": "Fri, 30 Oct 2026 10:00:00 -0400"
+            },
             {
               "title": "C-stores focus on private label to soften sales declines",
               "link": "https://www.cstoredive.com/news/cstores-private-label-improve-weak-sales/873128/",
@@ -772,20 +786,6 @@
               "summary": "The retailer\u2019s Flavors of Korea menu introduces eight new items that feature regional flavors like gochujang, doenjang, ginger and Korean barbecue.",
               "image": "https://imgproxy.divecdn.com/lXybhX2eMDWju4EWXvJ5XD7BOzuYoeLrCVYN-zIX8Iw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS85MzY1OTUzLUZsYXZvci01LmpwZw==.webp",
               "date": "Thu, 29 Oct 2026 09:59:26 -0400"
-            },
-            {
-              "title": "How Sheetz is driving expansion and innovation in 2026",
-              "link": "https://www.cstoredive.com/news/how-sheetz-is-driving-expansion-and-innovation-in-2026/833349/",
-              "summary": "The retailer is growing its Midwest footprint and rolling out new food and beverage offerings amid ongoing customer traffic challenges in the industry.",
-              "image": null,
-              "date": "Wed, 28 Oct 2026 09:54:39 -0400"
-            },
-            {
-              "title": "Boston Beer CEO says hard sports drinks are alcohol\u2019s \u2018next big thing\u2019",
-              "link": "https://www.cstoredive.com/news/boston-beer-rally-dog-vodka-ade/872937/",
-              "summary": "The Sam Adams maker has entered the emerging vodka ade space, which has \u201cexploded faster\u201d than hard teas or seltzers, according to Jim Koch.",
-              "image": null,
-              "date": "Wed, 28 Oct 2026 09:45:32 -0400"
             }
           ]
         },
@@ -801,16 +801,9 @@
           },
           "top_stories": [
             {
-              "title": "Starbucks\u2019 strong comps driven by ticket growth",
-              "link": "https://www.restaurantdive.com/news/starbucks-ticket-traffic-merch-turnaround-becomes-growth/873299/",
-              "summary": "The chain is moving from a turnaround to a sustained growth plan, CEO Brian Niccol said, as traffic, mix, pricing and merch all contribute to sales growth.",
-              "image": "https://imgproxy.divecdn.com/2oGUaNCHEJxvfKKDpPr2lN15bWFe4jRITUOE4OiLMgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTcyOTk3NDc5X0lWcks3aHYuanBn.webp",
-              "date": "Fri, 30 Oct 2026 10:04:19 -0400"
-            },
-            {
               "title": "Dine Brands fights acquisition attempt with poison pill",
               "link": "https://www.restaurantdive.com/news/dine-brands-poison-pill-acquisition-offer-ihop-applebees/873213/",
-              "summary": "Pizza Hut. Wendy\u2019s. Now, Applebee\u2019s and IHOP? Buyers want to take chains private to avoid market pressure \u2014 but Dine Brands isn\u2019t ready yet.",
+              "summary": "Pizza Hut. Wendy\u2019s. Now, Applebee\u2019s and IHOP? Buyers are trying to take restaurants private to avoid market pressure \u2014 but Dine Brands isn\u2019t ready yet.",
               "image": "https://imgproxy.divecdn.com/kmc2uiWM1rF-aHr76CnoDSv82Xfq4QhZGim8w6WQavQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82MzkwMzgwNjI5NDkxNzAwMDAuanBn.webp",
               "date": "Fri, 30 Oct 2026 09:01:23 -0400"
             },
@@ -834,6 +827,13 @@
               "summary": "Popeyes\u2019 focus on the core menu has improved satisfaction, food quality and value scores \u2014 but not sales. Burger King\u2019s success sped up its refranchising.",
               "image": "https://imgproxy.divecdn.com/zBFKi1-Aq4o14PDjY4y8F4vByFxJcMUFjvj4B6hFirc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CdXJnZXJfS2luZ19XaG9wcGVyLmpwZw==.webp",
               "date": "Thu, 29 Oct 2026 10:00:59 -0400"
+            },
+            {
+              "title": "Chili\u2019s sales are up 52% over 3 years. Here\u2019s how it\u2019s serving diners.",
+              "link": "https://www.restaurantdive.com/news/chilis-traffic-surge-labor-operations-refinement/873067/",
+              "summary": "The chain shows no signs of slowing down as it laps multiple years of double-digit same-store sales growth and invests in training, equipment and staffing.",
+              "image": "https://imgproxy.divecdn.com/qSvLGGcFWkIG6yfzOkW1X5ji6Gzu3ea8fDdTK3GqHqM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaGlsaXNfQmlnX0NyaXNweV9DaGlja2VuX0xpbmV1cC5qcGc=.webp",
+              "date": "Thu, 29 Oct 2026 09:56:04 -0400"
             }
           ]
         },
@@ -1154,6 +1154,13 @@
               "date": "Fri, 30 Oct 2026 09:18:04 -0400"
             },
             {
+              "title": "Data center purchases of electrical equipment up 80% since 2025: Hubbell",
+              "link": "https://www.facilitiesdive.com/news/data-center-purchases-of-electrical-equipment-up-80-since-2025-hubbell/873229/",
+              "summary": "Demand from light industrial and other nonresidential markets remained strong as well, the electrical equipment supplier said on its third-quarter earnings call.",
+              "image": "https://imgproxy.divecdn.com/tU7OXrAGRq1BdVnSQdo680TO4JeM9gVb00AfSVhiQoU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyNjMwMDk5LmpwZw==.webp",
+              "date": "Fri, 30 Oct 2026 08:00:00 -0400"
+            },
+            {
               "title": "Market fundamentals remain strong despite economic uncertainty, JLL CEO says",
               "link": "https://www.facilitiesdive.com/news/market-fundamentals-remain-strong-despite-economic-uncertainty-jll-ceo-say/873102/",
               "summary": "The firm saw leasing growth across office, industrial and data centers and expects continued growth in its workplace management business as clients work to reduce their vendor count, CEO Christian Ulbrich said.",
@@ -1173,13 +1180,6 @@
               "summary": "Repairing, refurbishing, retrofitting and re-using LED systems nearing the end of their useful life isn\u2019t just about the environmental benefit, say UK and European researchers.",
               "image": "https://imgproxy.divecdn.com/Qk-R7WtDjCxQT_uH5eCSjmvpU9kxBxu7hd2w4wy-AYM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkxODM5Njc0LmpwZw==.webp",
               "date": "Thu, 29 Oct 2026 11:07:48 -0400"
-            },
-            {
-              "title": "Louisiana\u2019s public colleges face $4B deferred maintenance backlog",
-              "link": "https://www.facilitiesdive.com/news/louisianas-public-colleges-face-4b-deferred-maintenance-backlog/872910/",
-              "summary": "Across the college systems\u2019 33 institutions, 30% of facilities were between 25 and 50 years old and 30% were over 50 years old, putting them at higher risk of maintenance issues or failures.",
-              "image": null,
-              "date": "Wed, 28 Oct 2026 11:46:25 -0400"
             }
           ]
         },
@@ -1283,13 +1283,27 @@
           "name": "Smart Cities Dive",
           "url": "https://www.smartcitiesdive.com",
           "lead_story": {
-            "title": "How the 2028 Olympics are shaping downtown revitalization \u2014 in St. Louis",
+            "title": "How the 2028 Olympics is shaping downtown revitalization \u2014 in St. Louis",
             "link": "https://www.smartcitiesdive.com/news/2028-olympics-shaping-downtown-revitalization-st-louis/873312/",
             "summary": "The city is making the urban core a priority, betting on office-to-residential conversions, innovation zones and private-sector partnerships to tackle vacancies and blight and improve public safety.",
             "image": "https://imgproxy.divecdn.com/J0pIAVqviDvlCa4JoNYERBFW0T1gzoAV8-2RILNQqgc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2MDA0MTU0LmpwZw==.webp",
             "date": "Fri, 30 Oct 2026 10:31:58 -0400"
           },
           "top_stories": [
+            {
+              "title": "ROAD to Housing Act has 35 key provisions for cities, NLC says. Here\u2019s how to track them.",
+              "link": "https://www.smartcitiesdive.com/news/road-to-housing-act-provisions-cities-tracker-nlc/873307/",
+              "summary": "The landmark housing legislation has more than 120 implementation actions, most of them the responsibility of the U.S. Department of Housing and Urban Development.",
+              "image": "https://imgproxy.divecdn.com/UCUDRk4oslIBpGtDLMjeB6bsi-JsVT0SGW-taOCBR7I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODIzNjExNThfQXptVDNSZy5qcGc=.webp",
+              "date": "Fri, 30 Oct 2026 10:26:01 -0400"
+            },
+            {
+              "title": "With concerns about federal election interference, cities and counties prepare to protect their authority",
+              "link": "https://www.smartcitiesdive.com/news/federal-election-interference-cities-counties-prepare/873290/",
+              "summary": "Local officials are training poll workers, coordinating with civil rights groups and preparing legal strategies as concerns extend beyond Election Day to ballot counting and certification.",
+              "image": "https://imgproxy.divecdn.com/xQBkOBx6wEaCdopMXAHd0AMx0_X03wlzTGOPtDF9dG0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyNDY1MDU4LmpwZw==.webp",
+              "date": "Fri, 30 Oct 2026 09:36:18 -0400"
+            },
             {
               "title": "$130M FRA grant will upgrade Springfield, Massachusetts, train station",
               "link": "https://www.smartcitiesdive.com/news/130m-fra-grant-springfield-massachusetts-train-station/873101/",
@@ -1310,20 +1324,6 @@
               "summary": "Local ballot measures across 10 states will test support for restricting development, and the results could shape local authority and state policy in 2027.",
               "image": "https://imgproxy.divecdn.com/st2djLdku_D__J7ANzvlhbl0Lok9OU6QZWH0_ZK0nVw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwNzIyNjE3LmpwZw==.webp",
               "date": "Thu, 29 Oct 2026 10:52:30 -0400"
-            },
-            {
-              "title": "World Cup\u2019s lessons will help cities, transit agencies with the 2028 Olympics",
-              "link": "https://www.smartcitiesdive.com/news/world-cup-lessons-help-planning-2028-olympics/872993/",
-              "summary": "Transportation investments for mega-events can create \u201csustainable change in cities,\u201d a consultant said.",
-              "image": "https://imgproxy.divecdn.com/BeQz73lHYvevZkySvRJP74eJL7qx-33B-7I96Ih-a2w/g:nowe:0:254/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxODA3NzUxLmpwZw==.webp",
-              "date": "Wed, 28 Oct 2026 11:08:00 -0400"
-            },
-            {
-              "title": "2030 census proposal could put city funding, planning at risk: NLC",
-              "link": "https://www.smartcitiesdive.com/news/2030-census-proposal-could-put-city-funding-planning-at-risk-nlc/873015/",
-              "summary": "The Census Bureau\u2019s residency criteria and data-collection changes could hurt university communities, fast-growing cities and places with seasonal residents, the National League of Cities says.",
-              "image": "https://imgproxy.divecdn.com/P1c7IhgPv_KORRWAyKLbbZWFxh7TMnyy5x-_AsZ1cnU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjUzMDA4NjEwLmpwZw==.webp",
-              "date": "Wed, 28 Oct 2026 10:01:30 -0400"
             }
           ]
         }
@@ -1386,7 +1386,7 @@
           "lead_story": {
             "title": "Meta backs low-carbon cement with new Fortera deal",
             "link": "https://www.esgdive.com/news/meta-backs-low-carbon-cement-new-fortera-deal/873334/",
-            "summary": "The deal will give the social media conglomerate the equivalent of 200,000 tons of environmental attribute credits, along with access to low-carbon cement for building its projects.",
+            "summary": "The deal will give the social media conglomerate access to 200,000 environmental attribute credits and provide low-carbon cement for building its projects.",
             "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp",
             "date": "Fri, 30 Oct 2026 12:26:00 -0400"
           },
@@ -1434,7 +1434,7 @@
           "lead_story": {
             "title": "Q3 earnings results for major waste and recycling companies in 2026",
             "link": "https://www.wastedive.com/news/waste-recycling-earnings-results-q3-2026/873335/",
-            "summary": "Catch up with the latest results from Republic Services, Clean Harbors, Waste Connections, WM and GFL Environmental.",
+            "summary": "Catch up with the latest results from WM, Republic Services, Waste Connections, GFL Environmental and Clean Harbors.",
             "image": null,
             "date": "Fri, 30 Oct 2026 12:26:00 -0400"
           },
