@@ -1,6 +1,6 @@
 {
-  "date": "November 01, 2026",
-  "updated_at": "2026-11-01 00:36:28 UTC",
+  "date": "November 02, 2026",
+  "updated_at": "2026-11-02 01:09:59 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -162,6 +162,13 @@
           },
           "top_stories": [
             {
+              "title": "AI agents won\u2019t pay the way you do",
+              "link": "https://www.paymentsdive.com/news/ai-agents-wont-pay-same-ways-agentic-commerce-payments/873291/",
+              "summary": "Plaid\u2019s payments head explains how payment methods might shift as artificial intelligence begins choosing how to pay.",
+              "image": "https://imgproxy.divecdn.com/DLtuG5DywcW6r_JGk0bx4Vsll5sZA0t0R4JD-u2gmmU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg0MjMxOTI5LmpwZw==.webp",
+              "date": "Fri, 30 Oct 2026 09:31:52 -0400"
+            },
+            {
               "title": "FTC, states sue Toast over fees",
               "link": "https://www.paymentsdive.com/news/ftc-states-sue-toast-over-fees-restaurant-dining-online-food/873225/",
               "summary": "The agency and eight states allege that the point-of-sale services provider charges its restaurant clients and their customers hidden fees.",
@@ -188,13 +195,6 @@
               "summary": "Global payments are moving faster, but local settlement remains a pain point for many companies, according to speakers on a Money20/20 panel.",
               "image": "https://imgproxy.divecdn.com/Ktt2Bd2BtjgTnqEQzpgy5kd5gJBjBgrPRiMBXFK62_Y/g:nowe:702:60/c:2378:1344/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NMjAyMC1zaWduLmpwZw==.webp",
               "date": "Thu, 29 Oct 2026 09:12:24 -0400"
-            },
-            {
-              "title": "Visa adapts to tech innovations",
-              "link": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/",
-              "summary": "The card network\u2019s fiscal 2026 results show it\u2019s reaching beyond legacy payments paths to incorporate new technologies, offer new services and extend its global reach with more partners.",
-              "image": "https://imgproxy.divecdn.com/H4PMbKJWiZ--ofPmzPrRAF42Pmdqy2QJtyAnwSeFB4E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01Mjk3MjI1OC5qcGc=.webp",
-              "date": "Wed, 28 Oct 2026 10:58:00 -0400"
             }
           ]
         },
@@ -699,7 +699,7 @@
           "lead_story": {
             "title": "Grocery e-commerce and in-store sales head in opposite directions",
             "link": "https://www.grocerydive.com/news/food-beverage-sales-ecommerce-physical-stores-grocery-supermarkets/873303/",
-            "summary": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, according to Circana.",
+            "summary": "Online food and beverage sales rose more than 15% during the four weeks that ended Oct. 4, while physical store sales were down almost 3%, Circana said.",
             "image": "https://imgproxy.divecdn.com/rh4Oy_USvbS1Bq_uAqYlHqBKJW6NN-k1cohH4X7bCBk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctNzY1OS5qcGc=.webp",
             "date": "Fri, 30 Oct 2026 11:36:00 -0400"
           },
@@ -712,16 +712,16 @@
               "date": "Fri, 30 Oct 2026 11:06:00 -0400"
             },
             {
-              "title": "The Friday Checkout: Instacart dashes toward its next act",
+              "title": "The Friday Checkout: Instacart dashes toward the exit",
               "link": "https://www.grocerydive.com/news/the-friday-checkout-instacart-doordash-deal-raises-questions/873251/",
-              "summary": "The grocery technology company has agreed to sell itself to DoorDash. Together, can they take on e-commerce giants like Amazon and Walmart?",
+              "summary": "The grocery technology company has agreed to sell itself to DoorDash. Together, can they take a bigger swing at e-commerce giants like Amazon and Walmart?",
               "image": null,
               "date": "Fri, 30 Oct 2026 11:02:00 -0400"
             },
             {
               "title": "How grocery bakery departments can rake in more dough",
               "link": "https://www.grocerydive.com/news/fmi-power-of-in-store-bakery-report-food-offerings-grocery/873288/",
-              "summary": "Traditional grocery continues to be an in-store bakery destination, but there\u2019s more grocers can do to sweeten this department\u2019s offerings, according to a recent FMI report.",
+              "summary": "In-store bakeries remain a powerful draw for traditional grocers, but there\u2019s more retailers can do to sweeten the department\u2019s offerings, according to a recent FMI report.",
               "image": "https://imgproxy.divecdn.com/da89uwa1xTGUP_jbnfWZ2w7zLKrGIbP3cF0YXZdqops/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Cb2lzZV9Cd2F5X0Jha2VyeV92MS5qcGc=.webp",
               "date": "Fri, 30 Oct 2026 09:32:19 -0400"
             },
@@ -801,9 +801,16 @@
           },
           "top_stories": [
             {
+              "title": "Starbucks\u2019 strong comps driven by ticket growth",
+              "link": "https://www.restaurantdive.com/news/starbucks-ticket-traffic-merch-turnaround-becomes-growth/873299/",
+              "summary": "The chain is moving from a turnaround to a sustained growth plan, CEO Brian Niccol said, as traffic, mix, pricing and merch all contribute to sales growth.",
+              "image": "https://imgproxy.divecdn.com/2oGUaNCHEJxvfKKDpPr2lN15bWFe4jRITUOE4OiLMgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTcyOTk3NDc5X0lWcks3aHYuanBn.webp",
+              "date": "Fri, 30 Oct 2026 10:04:19 -0400"
+            },
+            {
               "title": "Dine Brands fights acquisition attempt with poison pill",
               "link": "https://www.restaurantdive.com/news/dine-brands-poison-pill-acquisition-offer-ihop-applebees/873213/",
-              "summary": "Pizza Hut. Wendy\u2019s. Now, Applebee\u2019s and IHOP? Buyers are trying to take restaurants private to avoid market pressure \u2014 but Dine Brands isn\u2019t ready yet.",
+              "summary": "Pizza Hut. Wendy\u2019s. Now, Applebee\u2019s and IHOP? Buyers want to take chains private to avoid market pressure \u2014 but Dine Brands isn\u2019t ready yet.",
               "image": "https://imgproxy.divecdn.com/kmc2uiWM1rF-aHr76CnoDSv82Xfq4QhZGim8w6WQavQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82MzkwMzgwNjI5NDkxNzAwMDAuanBn.webp",
               "date": "Fri, 30 Oct 2026 09:01:23 -0400"
             },
@@ -827,13 +834,6 @@
               "summary": "Popeyes\u2019 focus on the core menu has improved satisfaction, food quality and value scores \u2014 but not sales. Burger King\u2019s success sped up its refranchising.",
               "image": "https://imgproxy.divecdn.com/zBFKi1-Aq4o14PDjY4y8F4vByFxJcMUFjvj4B6hFirc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CdXJnZXJfS2luZ19XaG9wcGVyLmpwZw==.webp",
               "date": "Thu, 29 Oct 2026 10:00:59 -0400"
-            },
-            {
-              "title": "Chili\u2019s sales are up 52% over 3 years. Here\u2019s how it\u2019s serving diners.",
-              "link": "https://www.restaurantdive.com/news/chilis-traffic-surge-labor-operations-refinement/873067/",
-              "summary": "The chain shows no signs of slowing down as it laps multiple years of double-digit same-store sales growth and invests in training, equipment and staffing.",
-              "image": "https://imgproxy.divecdn.com/qSvLGGcFWkIG6yfzOkW1X5ji6Gzu3ea8fDdTK3GqHqM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaGlsaXNfQmlnX0NyaXNweV9DaGlja2VuX0xpbmV1cC5qcGc=.webp",
-              "date": "Thu, 29 Oct 2026 09:56:04 -0400"
             }
           ]
         },
@@ -1626,22 +1626,22 @@
           "lead_story": {
             "title": "Pinterest reports solid user growth in Q3",
             "link": "https://www.socialmediatoday.com/news/pinterest-reports-solid-user-growth-in-q3/873274/",
-            "summary": "The company\u2019s third-quarter 2026 earnings report showed more than 20 million new users since Q2, including 17 million in regions outside its core markets.",
+            "summary": "The company\u2019s third quarter earnings showed more than 20 million new users since Q2, including 17 million in regions outside its core markets.",
             "image": null,
             "date": "Thu, 29 Oct 2026 20:56:32 -0400"
           },
           "top_stories": [
             {
-              "title": "YouTube subscriptions are rising as more users turn to connected TV",
-              "link": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-connected-tv/873272/",
-              "summary": "Ad growth slowed in the third quarter of fiscal 2026 but still brought in more than $11 billion in revenue, according to parent company Alphabet.",
+              "title": "YouTube subscriptions are rising as more users turn to CTV",
+              "link": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-ctv/873272/",
+              "summary": "Ad growth slowed in the third quarter of 2026 but still brought in more than $11 billion in revenue, according to parent company Alphabet.",
               "image": null,
               "date": "Thu, 29 Oct 2026 19:59:56 -0400"
             },
             {
               "title": "Threads tests smaller group sharing option",
               "link": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
-              "summary": "The platform\u2019s Threads Friends group is similar to Instagram\u2019s Close Friends feature, and allows users to add up to 50 connections.",
+              "summary": "Threads Friends is similar to Instagram\u2019s Close Friends feature and allows users to add up to 50 connections.",
               "image": null,
               "date": "Thu, 29 Oct 2026 19:07:15 -0400"
             },
@@ -1655,7 +1655,7 @@
             {
               "title": "Threads launches custom like buttons",
               "link": "https://www.socialmediatoday.com/news/threads-launches-custom-like-buttons/873267/",
-              "summary": "Threads users will now be able to personalize reactions to their posts with images or animations.",
+              "summary": "Users will now be able to personalize reactions to their posts with images or animations.",
               "image": null,
               "date": "Thu, 29 Oct 2026 17:57:54 -0400"
             },
