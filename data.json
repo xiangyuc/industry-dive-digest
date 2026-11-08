@@ -1,6 +1,6 @@
 {
-  "date": "November 07, 2026",
-  "updated_at": "2026-11-07 01:29:38 UTC",
+  "date": "November 08, 2026",
+  "updated_at": "2026-11-08 00:59:43 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -1235,13 +1235,20 @@
           "name": "Multifamily Dive",
           "url": "https://www.multifamilydive.com",
           "lead_story": {
-            "title": "Continental Properties closes $480M refinancing for 10 properties",
-            "link": "https://www.multifamilydive.com/news/continental-properties-480-million-refinancing/873913/",
-            "summary": "The move allows the firm to retire construction debt and get capital back to its investors earlier, according to Chief Financial Officer Ed Madell.",
-            "image": null,
-            "date": "Thu, 05 Nov 2026 16:38:00 -0500"
+            "title": "Camden lowers guidance after September concession resurgence",
+            "link": "https://www.multifamilydive.com/news/camden-new-lease-rents-apartment-concessions/874058/",
+            "summary": "The REIT still saw improvement in expenses and new lease growth in Q3, though rising interest rates forced it to cancel property and land acquisitions.",
+            "image": "https://imgproxy.divecdn.com/MhPglCoHGYgQ5aa-2fYe-J0lu_Z8gCDxahP2ko9e7nM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MjYwNjk2MTRfQ3M1TzUzSC5qcGc=.webp",
+            "date": "Fri, 06 Nov 2026 16:37:51 -0500"
           },
           "top_stories": [
+            {
+              "title": "Continental Properties closes $480M refinancing for 10 properties",
+              "link": "https://www.multifamilydive.com/news/continental-properties-480-million-refinancing/873913/",
+              "summary": "The move allows the firm to retire construction debt and get capital back to its investors earlier, according to Chief Financial Officer Ed Madell.",
+              "image": null,
+              "date": "Thu, 05 Nov 2026 16:38:00 -0500"
+            },
             {
               "title": "Vivmark finds additional efficiencies after completing AVB-EQR merger",
               "link": "https://www.multifamilydive.com/news/vivmark-earnings-release-blended-rent-growth/873941/",
@@ -1269,13 +1276,6 @@
               "summary": "The loans can help qualify residents and cut delinquency, but they come with risks, according to multifamily professionals.",
               "image": "https://imgproxy.divecdn.com/74USCmK7tqYMBBnPipaDY1ogtfOOEglIW0NSVvvaWeA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDczODEwMDE1LmpwZw==.webp",
               "date": "Wed, 04 Nov 2026 15:28:56 -0500"
-            },
-            {
-              "title": "UDR beats Q3 estimates and raises guidance, after Apollo deal",
-              "link": "https://www.multifamilydive.com/news/udr-apollo-ffo-/873654/",
-              "summary": "The REIT\u2019s executives saw rents increasing, retention hitting record highs and San Francisco thriving at the end of Q3 as they continue making stock buybacks.",
-              "image": "https://imgproxy.divecdn.com/Ga533yxDU4DDr6eBP6Op6XzolfTSWc-t5EMtw7eTkZw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDg5Mzg1MTUyX1RLMmFRNkEuanBn.webp",
-              "date": "Tue, 03 Nov 2026 16:05:12 -0500"
             }
           ]
         },
