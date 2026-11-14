@@ -1,6 +1,6 @@
 {
-  "date": "November 13, 2026",
-  "updated_at": "2026-11-13 02:19:06 UTC",
+  "date": "November 14, 2026",
+  "updated_at": "2026-11-14 01:55:39 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -10,13 +10,20 @@
           "name": "Banking Dive",
           "url": "https://www.bankingdive.com",
           "lead_story": {
-            "title": "Ex-PNC employee faces 5 charges in $86K theft",
-            "link": "https://www.bankingdive.com/news/pnc-ex-employee-charged-86k-theft-gambling/874523/",
-            "summary": "Jacqueline Clinton allegedly misused her position to make 10 false credit adjustments between May and August. Investigators flagged ATM withdrawals at casinos and gambling websites after transactions.",
-            "image": "https://imgproxy.divecdn.com/HRVIu5aGLObagcUAuU3c2nCHl-_J7G_fdIHR0ipnhs4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxMzAxODUxLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 12:08:37 -0500"
+            "title": "U.S. Bank adding 60 middle-market roles",
+            "link": "https://www.bankingdive.com/news/us-bank-adding-60-middle-market-roles/874635/",
+            "summary": "Middle-market growth is part of the Minneapolis-based lender\u2019s national business banking ambitions, which it announced in August.",
+            "image": "https://imgproxy.divecdn.com/CywewUS989Z-jZoukc5PylK_7Hfg5ZOS_CRxnXuNRCk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWEUzWUU0LmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 12:05:41 -0500"
           },
           "top_stories": [
+            {
+              "title": "Ex-PNC employee faces 5 charges in $86K theft",
+              "link": "https://www.bankingdive.com/news/pnc-ex-employee-charged-86k-theft-gambling/874523/",
+              "summary": "Jacqueline Clinton allegedly misused her position to make 10 false credit adjustments between May and August. Investigators flagged ATM withdrawals at casinos and gambling websites after transactions.",
+              "image": "https://imgproxy.divecdn.com/HRVIu5aGLObagcUAuU3c2nCHl-_J7G_fdIHR0ipnhs4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxMzAxODUxLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 12:08:37 -0500"
+            },
             {
               "title": "Hancock Whitney to buy Trustmark in $3.2B deal",
               "link": "https://www.bankingdive.com/news/hancock-whitney-buy-trustmark-3b-deal-bank-acquisition/874522/",
@@ -44,13 +51,6 @@
               "summary": "Roughly 98.6% of voting investors supported a tie-up with fellow Black-owned Optus Bank despite a series of counterproposals. The deal, which needs regulator sign-off, is on track for a fourth-quarter close, M&F said.",
               "image": "https://imgproxy.divecdn.com/LJ1BLV0Ucv4HpmAFLTBtvi8ClIQR-xZ6pJfS-sub79Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TQ19TdGF0ZV9Ib3VzZV9hdF9ldmVuaW5nX1QzemM3bzIuanBn.webp",
               "date": "Wed, 11 Nov 2026 11:21:49 -0500"
-            },
-            {
-              "title": "North Dakota bank to buy Texas lender",
-              "link": "https://www.bankingdive.com/news/north-dakota-first-international-bank-buy-trust-dominion-dallas-texas-7-billion-assets-stenehjem/874368/",
-              "summary": "The deal will bring family-owned First International Bank & Trust, which started in 1910 with $15,000, to roughly $7 billion in assets.",
-              "image": "https://imgproxy.divecdn.com/dPel-EhfBJpfwA3G7iwkBy5W9NttS5euLh8ZkiJ_CFc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GSUJUUnVnYnktMTAyMy5qcGc=.webp",
-              "date": "Wed, 11 Nov 2026 09:46:19 -0500"
             }
           ]
         },
@@ -58,13 +58,27 @@
           "name": "CFO",
           "url": "https://www.cfo.com",
           "lead_story": {
-            "title": "CFO turnover hits an eight-year high in 2026",
-            "link": "https://www.cfo.com/news/cfo-turnover-hits-an-eight-year-high-in-2026/874289/",
-            "summary": "The rate of appointments within the S&P 500 climbed to 19% through September, well above the average of 14% since 2019.",
-            "image": "https://imgproxy.divecdn.com/WAzjphJlFikhnHwfchHTHgIwX9zLH6Z5PJ2BF73S_XU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1MzkzMzU4LmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 09:03:09 -0500"
+            "title": "CFOs On the Move: Week ending Nov. 13",
+            "link": "https://www.cfo.com/news/cfos-on-the-move-nov-13-Colette-Kress-Nvidia-Karen-Burgess-HubSpot-Chris-Koegel-Klarna/874531/",
+            "summary": "Nvidia\u2019s finance chief steps in as interim CEO, HubSpot names an Adobe exec as CFO and Klarna hires a new chief financial officer.",
+            "image": "https://imgproxy.divecdn.com/NPPm-CJpKK7LaizeUPi6RBxarESKESffYewt9LXR3hI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDY1MDUwMzUyLmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 09:24:36 -0500"
           },
           "top_stories": [
+            {
+              "title": "CFO job descriptions are outdated, experts say",
+              "link": "https://www.cfo.com/news/cfo-job-descriptions-are-outdated-experts-say/874432/",
+              "summary": "With finance chiefs handling a wider range of duties including tech rollouts, traditional job descriptions continue to fall short.",
+              "image": "https://imgproxy.divecdn.com/ChnEzdrD3w309yVEf3R1YFJ-bmS9YkxQnqR-f__Gow0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkxMzcxODczLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 09:00:00 -0500"
+            },
+            {
+              "title": "CFO turnover hits an eight-year high in 2026",
+              "link": "https://www.cfo.com/news/cfo-turnover-hits-an-eight-year-high-in-2026/874289/",
+              "summary": "The rate of appointments within the S&P 500 climbed to 19% through September, well above the average of 14% since 2019.",
+              "image": "https://imgproxy.divecdn.com/WAzjphJlFikhnHwfchHTHgIwX9zLH6Z5PJ2BF73S_XU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1MzkzMzU4LmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 09:03:09 -0500"
+            },
             {
               "title": "Azurium CFO on finding fulfillment as a founder",
               "link": "https://www.cfo.com/news/azurium-cfo-on-finding-fulfillment-as-a-founder/874285/",
@@ -85,20 +99,6 @@
               "summary": "The benchmark gives CFOs a starting point for identifying where automation can reduce work and where human judgment remains essential.",
               "image": "https://imgproxy.divecdn.com/YyJxoxWvj1KhxMRMHD8jBN_s4CDEQ045ZSxwXRg6RgA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzI0NTQ4MjcxLmpwZw==.webp",
               "date": "Wed, 11 Nov 2026 09:24:54 -0500"
-            },
-            {
-              "title": "Interest rates remain top of mind for finance chiefs at 2026\u2019s end",
-              "link": "https://www.cfo.com/news/interest-rates-remain-top-of-mind-for-finance-chiefs-at-2026s-end-sikich-survey/874300/",
-              "summary": "In a recent survey of 183 finance and accounting leaders in the U.S., concerns about interest rate fluctuations and working capital ranked as the biggest treasury concerns.",
-              "image": "https://imgproxy.divecdn.com/ky7OPK163Iqk9LNAIyYftJCTnwkISe2LDyRPJKnXLE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg4MTg3ODQ4LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 08:05:00 -0500"
-            },
-            {
-              "title": "Binance CFO exits days after $6.3B crypto hack",
-              "link": "https://www.cfo.com/news/binance-cfo-exits-days-after-63b-crypto-hack/874179/",
-              "summary": "Kaiser Ng is leaving the cryptocurrency exchange \u201cto pursue a new venture\u201d and will be replaced by Justin Yek, who was previously VP of finance at Airwallex.",
-              "image": "https://imgproxy.divecdn.com/Vth4a1FkZYbClZFS27aYTPsZHHfBgRvjaf-ieO4FrUs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyNjU5NDQ0X3pxR2RWRTAuanBn.webp",
-              "date": "Tue, 10 Nov 2026 09:00:00 -0500"
             }
           ]
         },
@@ -106,13 +106,34 @@
           "name": "CFO Dive",
           "url": "https://www.cfodive.com",
           "lead_story": {
-            "title": "Quote of the week: Jensen Huang",
-            "link": "https://www.cfodive.com/news/quote-the-week-jensen-huang-nvidia/874560/",
-            "summary": "The 200-plus word message from Nvidia\u2019s now-former CEO Jensen Huang preceded his resignation and led to the appointment of CFO Colette Kress as interim CEO.",
-            "image": "https://imgproxy.divecdn.com/2QEzgIiey24pT-PN-32c3IpURgFcue-Kr6kicc7URtE/g:nowe:0:0/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2NDQ0ODY0LmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 15:47:49 -0500"
+            "title": "Chicago\u2019s new CFO abruptly quits",
+            "link": "https://www.cfodive.com/news/city-chicagos-new-cfo-abruptly-quits-Brandon-Johnson/874690/",
+            "summary": "A spokesperson for Mayor Brandon Johnson said Ashlee Gabrysch\u2019s resignation was accepted Friday, effective immediately.",
+            "image": "https://imgproxy.divecdn.com/nAk94Lh_56THLuBwC_AGbNKQwjWkK256ekY2Yy0NEUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc0MDgxOTMyLmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 16:00:13 -0500"
           },
           "top_stories": [
+            {
+              "title": "Producer prices surge at 6.5% annual pace as Fed officials signal hike",
+              "link": "https://www.cfodive.com/news/producer-prices-surge-annual-pace-fed-officials-signal-hike-federal-reserve/874687/",
+              "summary": "\u201cWe're going to need to, in all likelihood, raise rates,\u201d Mary Daly, president of the Federal Reserve Bank of San Francisco, said during a webcast interview.",
+              "image": "https://imgproxy.divecdn.com/KPAZe0zKthGfmPlFgaF7ZlDq6dlcaN_OUv4w9GrE6Us/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4MTk4MzczLmpwZ19yZXNpemUuanBn.webp",
+              "date": "Fri, 13 Nov 2026 15:50:39 -0500"
+            },
+            {
+              "title": "QXO grants new finance chief $4.5M sign-on stock bonus",
+              "link": "https://www.cfodive.com/news/qxo-grants-new-finance-chief-45m-signon-stock-bonus-logistics/874666/",
+              "summary": "The company promoted Ihsan Essaid to an M&A-focused role and appointed Novelis CFO Dev Ahuja to its finance seat, both effective next January.",
+              "image": "https://imgproxy.divecdn.com/09yMrX-X0OHlwPmyx55hUiOUrmJVZuCExhK7sRzE_Ls/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1MjE0MzM2LmpwZ19yZXNpemUuanBn.webp",
+              "date": "Fri, 13 Nov 2026 14:47:49 -0500"
+            },
+            {
+              "title": "Quote of the week: Jensen Huang",
+              "link": "https://www.cfodive.com/news/quote-the-week-jensen-huang-nvidia/874560/",
+              "summary": "The 200-plus word message from Nvidia\u2019s now-former CEO Jensen Huang preceded his resignation and led to the appointment of CFO Colette Kress as interim CEO.",
+              "image": "https://imgproxy.divecdn.com/2QEzgIiey24pT-PN-32c3IpURgFcue-Kr6kicc7URtE/g:nowe:0:0/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2NDQ0ODY0LmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 15:47:49 -0500"
+            },
             {
               "title": "CFOs confront cash-flow risks as AI costs rise",
               "link": "https://www.cfodive.com/news/cfos-confront-cash-flow-risks-ai-costs-rise/874554/",
@@ -126,27 +147,6 @@
               "summary": "The SaaS company brought back its former CEO of 16 years and named an Adobe finance leader to its CFO chair as it navigates ongoing AI pressures.",
               "image": "https://imgproxy.divecdn.com/tc2cAnTHMut17bjGjzspp4THm31VEfk70fJ8Pc9MiEk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzNzI5NjA2LmpwZ19yZXNpemUuanBn.webp",
               "date": "Thu, 12 Nov 2026 14:28:19 -0500"
-            },
-            {
-              "title": "Nvidia CEO resigns amid scandal; CFO named interim",
-              "link": "https://www.cfodive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874479/",
-              "summary": "Jensen Huang resigned effective immediately, with the chipmaker naming its long-time CFO Colette Kress as interim CEO until a permanent successor is found, Nvidia announced Thursday.",
-              "image": "https://imgproxy.divecdn.com/F0KZ_t3vSV7XUlwg13_F5g6zsZ9EHYPxZINu-nt7PEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxMzI4MDE3LmpwZ19yZXNpemUuanBn.webp",
-              "date": "Thu, 12 Nov 2026 09:17:33 -0500"
-            },
-            {
-              "title": "Supreme Court asked to intervene in accountant\u2019s fight with PCAOB",
-              "link": "https://www.cfodive.com/news/high-court-asked-intervene-accountants-fight-pcaob-scotus-sec/874440/",
-              "summary": "The D.C. Circuit disregarded statutory confidentiality protections owed to an accountant challenging PCAOB proceedings, an advocacy group says.",
-              "image": "https://imgproxy.divecdn.com/6mTqhuUXpviagEjk3tDa3pMJ_c0plLwDxt9cViiW5UM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNDYwOC5qcGVn.webp",
-              "date": "Wed, 11 Nov 2026 15:09:33 -0500"
-            },
-            {
-              "title": "Sharp CFO on a monthly close win, COVID-19 and mentors",
-              "link": "https://www.cfodive.com/news/sharp-cfo-on-a-monthly-close-win-covid-19-and-mentors/874413/",
-              "summary": "Moonsun Park, CFO of Sharp Electronics since 2018, is a firm believer in the power of networking. Whatever that opportunity is, \u201cdon\u2019t let it get away,\u201d she advises.",
-              "image": null,
-              "date": "Wed, 11 Nov 2026 12:41:13 -0500"
             }
           ]
         },
@@ -154,13 +154,27 @@
           "name": "Payments Dive",
           "url": "https://www.paymentsdive.com",
           "lead_story": {
-            "title": "FTC aims to better fight scams",
-            "link": "https://www.paymentsdive.com/news/ftc-aims-to-better-fight-scams/874509/",
-            "summary": "To combat rising fraud, the Federal Trade Commission may update a rule that could make technology companies more liable when fraud occurs.",
-            "image": "https://imgproxy.divecdn.com/w3Piy-lmloR6czItV5jW4i5rm1gmxH3dnssI7fD0NHY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0Mzk5ODEyLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 10:58:50 -0500"
+            "title": "Stripe awaits payoff on Tempo chain",
+            "link": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
+            "summary": "The company sees its Tempo blockchain as a key digital infrastructure play for the growing use of stablecoin transactions.",
+            "image": "https://imgproxy.divecdn.com/0yH-9uDjVd0ghVlHKJhjjBAc7AXtlbuh1szqjySaUPE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQ4MTEzMzUwX2JPMjlrZ1AuanBn.webp",
+            "date": "Fri, 13 Nov 2026 10:57:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "Why PayPal wants to have a bank",
+              "link": "https://www.paymentsdive.com/news/why-paypal-wants-to-have-a-bank/874615/",
+              "summary": "The digital payments company would tap a bank subsidiary for lending to its merchants, but also to diversify its sources of capital.",
+              "image": "https://imgproxy.divecdn.com/wfGNeFyb8L3dMslWcItjWm0-P9HWhCtrt_xoqRJWZzM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Mb3Jlcy0xLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 10:25:00 -0500"
+            },
+            {
+              "title": "FTC aims to better fight scams",
+              "link": "https://www.paymentsdive.com/news/ftc-aims-to-better-fight-scams/874509/",
+              "summary": "To combat rising fraud, the Federal Trade Commission may update a rule that could make technology companies more liable when fraud occurs.",
+              "image": "https://imgproxy.divecdn.com/w3Piy-lmloR6czItV5jW4i5rm1gmxH3dnssI7fD0NHY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0Mzk5ODEyLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 10:58:50 -0500"
+            },
             {
               "title": "Merchants sue feds over Illinois card fee law",
               "link": "https://www.paymentsdive.com/news/merchants-sue-feds-over-illinois-card-fee-law/874494/",
@@ -181,20 +195,6 @@
               "summary": "The money transfer services company dropped its acquisition of the smaller rival after California regulators weighed in, but now a fight over the deal has ensued.",
               "image": "https://imgproxy.divecdn.com/7ArmdDfPlQULF7EdB95PitS0YVaYMYtiConkt58eKx0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIyMTAwMV8yMzIxMTkuanBn.webp",
               "date": "Wed, 11 Nov 2026 10:56:00 -0500"
-            },
-            {
-              "title": "Block\u2019s Cash App weaves payment tech into bandanas",
-              "link": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/",
-              "summary": "The peer-to-peer payment provider will soon begin selling its digital tags attached to bandanas.",
-              "image": "https://imgproxy.divecdn.com/mcGmLp-zl8p5bMcj65TG9u6JL1I29St-VYqMKvn3Rk0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Eb25pX05haG1pYXMuanBn.webp",
-              "date": "Tue, 10 Nov 2026 16:35:05 -0500"
-            },
-            {
-              "title": "States keep targeting card fee relief",
-              "link": "https://www.paymentsdive.com/news/states-keep-targeting-card-fee-relief/874260/",
-              "summary": "Despite legal challenges to the Illinois Interchange Fee Prohibition Act, more than 30 interchange relief bills have been introduced in statehouses this year.",
-              "image": "https://imgproxy.divecdn.com/Q_uTSv-715fbfIVtNBBmp2mGof7RMXu-RFLL8tzPw5c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTcxNzk2ODEuanBn.webp",
-              "date": "Tue, 10 Nov 2026 10:36:00 -0500"
             }
           ]
         },
@@ -202,19 +202,33 @@
           "name": "HR Dive",
           "url": "https://www.hrdive.com",
           "lead_story": {
-            "title": "\u2018Remote work\u2019 from the office? It\u2019s more common than you think.",
-            "link": "https://www.hrdive.com/news/working-remotely-at-the-office-federal-reserve-bank-new-york/874517/",
-            "summary": "Diffuse teams and a general submission to digital platforms are undermining employers\u2019 stated reasons for returning to the office, research from the Federal Reserve Bank of New York found.",
-            "image": "https://imgproxy.divecdn.com/qHocNyzjR8dKvwb_ID3KytPbou2M8wZg0TM_otXmkYA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg5NzE5NDE1LmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 15:27:00 -0500"
+            "title": "CFO job descriptions are outdated, experts say",
+            "link": "https://www.hrdive.com/news/cfo-job-descriptions-are-outdated-experts-say/874616/",
+            "summary": "With finance chiefs handling a wider range of duties, including tech rollouts, traditional job descriptions continue to fall short.",
+            "image": "https://imgproxy.divecdn.com/ChnEzdrD3w309yVEf3R1YFJ-bmS9YkxQnqR-f__Gow0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkxMzcxODczLmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 15:36:00 -0500"
           },
           "top_stories": [
             {
-              "title": "CEO exits due to misconduct have doubled compared to 2024",
-              "link": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/",
-              "summary": "\u201cIt\u2019s not just a question of romance or morality anymore. It\u2019s a question of judgment,\u201d said Andy Challenger, chief revenue officer for Challenger, Gray & Christmas.",
-              "image": "https://imgproxy.divecdn.com/F0KZ_t3vSV7XUlwg13_F5g6zsZ9EHYPxZINu-nt7PEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxMzI4MDE3LmpwZ19yZXNpemUuanBn.webp",
-              "date": "Thu, 12 Nov 2026 15:27:00 -0500"
+              "title": "Job applicants say they are using AI to discover, investigate companies",
+              "link": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/",
+              "summary": "More than half of candidates said they declined to apply for a job after learning about a company through artificial intelligence, per a new study.",
+              "image": "https://imgproxy.divecdn.com/9fyyXZHOD4sGYEQ_EFhnB00xqEFzOJ56pJ7lGq2RTms/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0NjQwNTQzLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 15:35:00 -0500"
+            },
+            {
+              "title": "Week in review: Can AI root out manager bias?",
+              "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
+              "summary": "We\u2019re rounding up last week\u2019s stories, including a single case\u2019s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
+              "image": "https://imgproxy.divecdn.com/e70Ziq9PipmvQ9MjjxB9KdqDXwVWwMyPj1WJRGaoGQE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgyODU0Mjk2LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 15:34:00 -0500"
+            },
+            {
+              "title": "Annual 401(k) limit pushed to $25,500 for 2027, IRS announces",
+              "link": "https://www.hrdive.com/news/annual-401k-limit-pushed-to-25500-for-2027-irs/874668/",
+              "summary": "The update comes days after the Trump administration advanced a final rule to expand access to alternative assets within workers\u2019 defined-contribution plans.",
+              "image": "https://imgproxy.divecdn.com/Hy1bv-D5bE-rKX52J3_VtPujMYbD1xfsoaUMH3aaOoc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk5NDUwMjAxX2tJZVVuQlouanBn.webp",
+              "date": "Fri, 13 Nov 2026 15:34:00 -0500"
             },
             {
               "title": "Many executives say they are worried about leading with empathy",
@@ -224,25 +238,11 @@
               "date": "Thu, 12 Nov 2026 15:27:00 -0500"
             },
             {
-              "title": "7 stories on benefits amid open enrollment",
-              "link": "https://www.hrdive.com/news/7-stories-on-benefits-amid-open-enrollment/874477/",
-              "summary": "As healthcare costs continue to spike, it seems no amount of planning is too much.",
-              "image": "https://imgproxy.divecdn.com/GUt9NgcTGIAd-J_eUpm4PpZM-Iv_gHoPSzdYR5dskmc/g:nowe:0:39/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MjE3OTcxODguanBn.webp",
-              "date": "Thu, 12 Nov 2026 10:10:00 -0500"
-            },
-            {
-              "title": "A wave of religious discrimination claims is coming, attorneys say",
-              "link": "https://www.hrdive.com/news/religious-discrimination-at-work-2027/874418/",
-              "summary": "Thanks to EEOC Chair Andrea Lucas\u2019 enforcement priorities, employers may need to be on the lookout for such claims, according to ABA LEL speakers.",
-              "image": "https://imgproxy.divecdn.com/Y1UGOxhJjOf7i7ty3ipDGlY5BXBrsdUCmC6gLcFM0kI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY5NjgwMDk4LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 15:55:00 -0500"
-            },
-            {
-              "title": "L&D leaders expect bigger budgets when their strategy is directly tied to business priorities",
-              "link": "https://www.hrdive.com/news/learning-leaders-expect-bigger-budgets-business-priority/874405/",
-              "summary": "As artificial intelligence changes the workplace, learning and development teams need to ensure their educational priorities are aligned with organizational goals, per a new study.",
-              "image": "https://imgproxy.divecdn.com/g_0n-t04VTsmbClD_EFPRVxhPOy_bEfS2dQ4DZbt_qU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc1MjMxOTY4LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 15:52:00 -0500"
+              "title": "CEO exits due to misconduct have doubled compared to 2024",
+              "link": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/",
+              "summary": "\u201cIt\u2019s not just a question of romance or morality anymore. It\u2019s a question of judgment,\u201d said Andy Challenger, chief revenue officer for Challenger, Gray & Christmas.",
+              "image": "https://imgproxy.divecdn.com/F0KZ_t3vSV7XUlwg13_F5g6zsZ9EHYPxZINu-nt7PEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxMzI4MDE3LmpwZ19yZXNpemUuanBn.webp",
+              "date": "Thu, 12 Nov 2026 15:27:00 -0500"
             }
           ]
         }
@@ -255,13 +255,34 @@
           "name": "CIO Dive",
           "url": "https://www.ciodive.com",
           "lead_story": {
-            "title": "Why do enterprises keep missing the mark on AI?",
-            "link": "https://www.ciodive.com/news/enterprise-AI-blockers-CIO-data-infrastructure/874552/",
-            "summary": "Technical acumen matters, but poor data foundations, infrastructure woes and runaway budgets plague CIOs.",
-            "image": "https://imgproxy.divecdn.com/OaEFG3hcLK5dzQUtOdyuJQU4vxM9TnT5_riglIocFxw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNDg4ODgyLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 15:11:18 -0500"
+            "title": "Microsoft 365 outage underscores enterprise resiliency issues",
+            "link": "https://www.ciodive.com/news/microsoft-outage-enterprise-resiliancy/874695/",
+            "summary": "CIOs should rely on a diversity of providers and bolster incident response as strain on compute threatens to bring future disruptions.",
+            "image": "https://imgproxy.divecdn.com/M9rbIcl9nDltxcDgDsors3_aPASxSGt67GgnMs4xdQE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMTg1ODI2LmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 16:19:35 -0500"
           },
           "top_stories": [
+            {
+              "title": "Companies struggle to know what normal looks like for AI agents",
+              "link": "https://www.ciodive.com/news/ai-agents-normal-baseline-security-governance/874676/",
+              "summary": "The inability to establish baselines is complicating the task of securing these autonomous tools, a report from security firm Abnormal AI found.",
+              "image": "https://imgproxy.divecdn.com/O3l_kgFFloXc_KXt7ZbLrsseB_Lqr2BsEBGEMARwk2g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzOTU5MTc3LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 15:58:00 -0500"
+            },
+            {
+              "title": "AI found widespread IoT flaws more quickly and cheaply than humans could",
+              "link": "https://www.ciodive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874562/",
+              "summary": "The newly discovered vulnerabilities show AI\u2019s growing power \u2014 as well as the continuing weaknesses in critical infrastructure.",
+              "image": "https://imgproxy.divecdn.com/rYFwoq2SbnkggLx26tFTc__vmJRJpr7fAAt3MBdnYnE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwNzY5NjEzLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 07:00:00 -0500"
+            },
+            {
+              "title": "Why do enterprises keep missing the mark on AI?",
+              "link": "https://www.ciodive.com/news/enterprise-AI-blockers-CIO-data-infrastructure/874552/",
+              "summary": "Technical acumen matters, but poor data foundations, infrastructure woes and runaway budgets plague CIOs.",
+              "image": "https://imgproxy.divecdn.com/OaEFG3hcLK5dzQUtOdyuJQU4vxM9TnT5_riglIocFxw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNDg4ODgyLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 15:11:18 -0500"
+            },
             {
               "title": "What Nvidia CEO Jensen Huang\u2019s exit means for CIOs",
               "link": "https://www.ciodive.com/news/what-nvidia-ceo-jensen-huang-exit-means-cio/874519/",
@@ -275,27 +296,6 @@
               "summary": "The Agent Name Service creates discoverability for agents operating across the internet and is backed by 11 companies including Cisco and Salesforce.",
               "image": "https://imgproxy.divecdn.com/tp5ao3khN4HZ6yQwuItrq0qkr_3jaBgfcstPyItc9d0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzU2MzY0MjY4XzEuanBn.webp",
               "date": "Thu, 12 Nov 2026 07:00:00 -0500"
-            },
-            {
-              "title": "AI will drive a 1.7M job boost, with big changes ahead for IT",
-              "link": "https://www.ciodive.com/news/Ai-jobs-boost-changes-IT/874452/",
-              "summary": "\u201cThe CIO will in fact need more employees to deal with AI than they have for just dealing with IT,\u201d Gartner Distinguished VP Analyst John Lovelock said.",
-              "image": "https://imgproxy.divecdn.com/A6CaOzsaPsXQHpD5aBrP_mXQRtCs6NAJ9OuFkIPL2fI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDc0NDM1NjY5LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 16:13:14 -0500"
-            },
-            {
-              "title": "Trump signals openness to AI guardrails after \u2018blue tsunami\u2019",
-              "link": "https://www.ciodive.com/news/trump-signals-openness-ai-guardrails-blue-tsunami/874437/",
-              "summary": "The shift in tone on AI comes after the midterm elections and as Nvidia CEO Jensen Huang grapples with ties to an alleged Chinese spy.",
-              "image": "https://imgproxy.divecdn.com/7BHMANhM4G3_Pq8WtgSCPg6s39IGGQVNrMN1ST40Hp4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU4OTU1NzI0LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 15:01:00 -0500"
-            },
-            {
-              "title": "Northern Trust leans on Microsoft FDEs to boost agentic buildout",
-              "link": "https://www.ciodive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874317/",
-              "summary": "The financial services firm cut analyst\u2019s data preparation time by 83% with the use of an onboarding agent, the companies said.",
-              "image": "https://imgproxy.divecdn.com/s0ZwDUmYuYfeX56NgGxEsKoSS5G_dW310CU-3OnX0hA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY3MzkzMjM5LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 07:00:00 -0500"
             }
           ]
         },
@@ -303,47 +303,47 @@
           "name": "Cybersecurity Dive",
           "url": "https://www.cybersecuritydive.com",
           "lead_story": {
-            "title": "AI found widespread IoT vulnerabilities more quickly and cheaply than humans could",
-            "link": "https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/",
-            "summary": "The newly discovered vulnerabilities illustrate AI\u2019s growing power \u2014 as well as critical infrastructure\u2019s continuing weaknesses.",
-            "image": "https://imgproxy.divecdn.com/rYFwoq2SbnkggLx26tFTc__vmJRJpr7fAAt3MBdnYnE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwNzY5NjEzLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 10:30:18 -0500"
+            "title": "White House task force says companies deserve liability relief for AI-fueled cyberattacks",
+            "link": "https://www.cybersecuritydive.com/news/ai-white-house-task-force-cybersecurity-regulation/874679/",
+            "summary": "Regulatory standards for cyber defenses are outdated in the AI era, the government working group said after its second meeting.",
+            "image": "https://imgproxy.divecdn.com/DdqEFpCeaMtT5w-qT-QRDOwz7tyYWnqBXC3DOvozg8Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk0MzExNDUuanBn.webp",
+            "date": "Fri, 13 Nov 2026 15:36:02 -0500"
           },
           "top_stories": [
+            {
+              "title": "US cracks down on North Korean cryptocurrency-theft scheme, recovers more Binance funds",
+              "link": "https://www.cybersecuritydive.com/news/north-korea-cyberattacks-cryptocurrency-seizure-seizure-facestealer-binance/874622/",
+              "summary": "Federal agents used court orders to chip away at North Korea\u2019s cyberattacks.",
+              "image": "https://imgproxy.divecdn.com/_UnezC--funFbVCU3E88sVmqPnql0LaCmWKfOlOtPWo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU5NTA4MDQwLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 10:54:13 -0500"
+            },
+            {
+              "title": "China-nexus actor uses AI tool in campaign targeting US defense, semiconductor industries",
+              "link": "https://www.cybersecuritydive.com/news/china-hacker-ai-tool-campaign-us-defense-semiconductor/874619/",
+              "summary": "A separate campaign used a pen-testing framework to steal AWS credentials.",
+              "image": "https://imgproxy.divecdn.com/pBVJIPKoJVTgHHWWdEijzgeyV1DjfTOZKO-WTriU-9Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzUzNDc1LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 10:38:10 -0500"
+            },
+            {
+              "title": "AI found widespread IoT vulnerabilities more quickly and cheaply than humans could",
+              "link": "https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/",
+              "summary": "The newly discovered vulnerabilities illustrate AI\u2019s growing power \u2014 as well as the continuing weaknesses in critical infrastructure.",
+              "image": "https://imgproxy.divecdn.com/rYFwoq2SbnkggLx26tFTc__vmJRJpr7fAAt3MBdnYnE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwNzY5NjEzLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 10:30:18 -0500"
+            },
+            {
+              "title": "ConnectWise disables third-party extensions as it probes cyberattack targeting ScreenConnect users",
+              "link": "https://www.cybersecuritydive.com/news/connectwise-disables-third-party-extensions-cyberattack-ScreenConnect/874490/",
+              "summary": "Researchers warn the platform is being abused to gain remote access and install malicious toolkits.",
+              "image": null,
+              "date": "Thu, 12 Nov 2026 10:17:54 -0500"
+            },
             {
               "title": "N-able issues hotfix after researcher dumps PoCs in disclosure spat",
               "link": "https://www.cybersecuritydive.com/news/n-able-hotfix-researcher-pocs-zero-days/874388/",
               "summary": "The company briefly disabled access to its RMM platform after an independent researcher warned of critical flaws.",
               "image": "https://imgproxy.divecdn.com/S2c89MyAuYfwQVUuxFHi2ADbiyHcNArQGnLt4GICEVY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcwMjk0OTQxLmpwZw==.webp",
               "date": "Wed, 11 Nov 2026 11:02:52 -0500"
-            },
-            {
-              "title": "CISA sets operational priorities for partnerships, risk assessments and systemic action",
-              "link": "https://www.cybersecuritydive.com/news/cisa-priorities-memo-risks-partnerships/874381/",
-              "summary": "An internal memo from CISA\u2019s acting chief instructs senior leaders to keep the new priorities in mind with every choice they make.",
-              "image": "https://imgproxy.divecdn.com/M4NWKOlWdwaUSK8auyjnvPrgDjv6n0xNS0WjHoKzcFk/g:nowe:0:508/c:3196:1806/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MDlfMTg0MTU3NDA5LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 10:28:39 -0500"
-            },
-            {
-              "title": "Trump picks Palantir cybersecurity executive to lead CISA",
-              "link": "https://www.cybersecuritydive.com/news/trump-cisa-director-nominee-michael-losapio/874256/",
-              "summary": "The nomination \u2014 Trump\u2019s second attempt to fill a post that has sat vacant for his entire second term \u2014 could face steep odds in the Senate.",
-              "image": "https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp",
-              "date": "Tue, 10 Nov 2026 10:44:42 -0500"
-            },
-            {
-              "title": "France attributes grocery hacks to Iran-backed threat actors",
-              "link": "https://www.cybersecuritydive.com/news/france-attributes-grocery-hacks-to-iran-backed-threat-actors/874252/",
-              "summary": "Attackers compromised hundreds of refrigerator components at supermarkets, agricultural facilities and local shops.",
-              "image": "https://imgproxy.divecdn.com/0UWyyPtdcTnHDxcXkCSbvdr8e2fM52bdGKqkvBgYilI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GcmVlemVyLUhhY2suanBn.webp",
-              "date": "Tue, 10 Nov 2026 10:33:42 -0500"
-            },
-            {
-              "title": "Truth or consequences: What your AI strategy is standing on",
-              "link": "https://www.cybersecuritydive.com/spons/truth-or-consequences-what-your-ai-strategy-is-standing-on/873999/",
-              "summary": "AI acts on bad asset data as confidently as good. Verify the foundation first.",
-              "image": null,
-              "date": "Tue, 10 Nov 2026 05:00:00 -0500"
             }
           ]
         },
@@ -351,13 +351,27 @@
           "name": "Channel Dive",
           "url": "https://www.channeldive.com",
           "lead_story": {
-            "title": "MSPs trim headcount as AI reshapes pricing models",
-            "link": "https://www.channeldive.com/news/msps-trim-headcount-as-ai-reshapes-pricing-models/874559/",
-            "summary": "Executives at the Canalys forum said AI is cutting support costs and squeezing per-user pricing, forcing a rethink on talent and contracts.",
-            "image": "https://imgproxy.divecdn.com/jr8uCFX7x2QvHreYbnKpupuqyWE1oRyg7dsTei45L5Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTE3My5qcGc=.webp",
-            "date": "Thu, 12 Nov 2026 15:32:15 -0500"
+            "title": "Global systems integrators face an existential crisis",
+            "link": "https://www.channeldive.com/news/global-systems-integrators-face-existential-crisis-omdia-peter-bryant/874650/",
+            "summary": "Smaller, regional SIs are gaining ground on the industry giants amid the rush to scale AI, according to the analyst firm Omdia.",
+            "image": "https://imgproxy.divecdn.com/sWrOChvEoOwp1_sU5ru0UdJtAFmmh8O8daTGORJQy5s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTY1MC5qcGc=.webp",
+            "date": "Fri, 13 Nov 2026 12:38:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "TD Synnex points partners toward outer space",
+              "link": "https://www.channeldive.com/news/td-synnex-channel-space-industry-initiative/874626/",
+              "summary": "The distributor\u2019s space tech initiative targets a market where, according to Omdia, channel partners already earned $23 billion last year.",
+              "image": "https://imgproxy.divecdn.com/F_jtDIXESXWD4iv3s0VOE_7osZFNEQSC-GM5gCcaHqk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk4MDc3OTkxLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 11:13:33 -0500"
+            },
+            {
+              "title": "MSPs trim headcount as AI reshapes pricing models",
+              "link": "https://www.channeldive.com/news/msps-trim-headcount-as-ai-reshapes-pricing-models/874559/",
+              "summary": "Executives at the Canalys forum said AI is cutting support costs and squeezing per-user pricing, forcing a rethink on talent and contracts.",
+              "image": "https://imgproxy.divecdn.com/jr8uCFX7x2QvHreYbnKpupuqyWE1oRyg7dsTei45L5Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTE3My5qcGc=.webp",
+              "date": "Thu, 12 Nov 2026 15:32:15 -0500"
+            },
             {
               "title": "A federated formula for AI adoption",
               "link": "https://www.channeldive.com/news/federated-ai-adoption-model-exl/874498/",
@@ -378,20 +392,6 @@
               "summary": "The three groups, revealed over the last 22 days, don't overlap, the company said. Close to 80% of the new Claude unit is already using Claude in client work.",
               "image": "https://imgproxy.divecdn.com/-h0yKlUZ8BwvhbQ3aPHJg_IiYAosrbrZSc0LujACJ0E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU4MTI3Mjc0LmpwZw==.webp",
               "date": "Wed, 11 Nov 2026 13:25:00 -0500"
-            },
-            {
-              "title": "Nearly all MSPs sell cybersecurity, but protection is still patchy",
-              "link": "https://www.channeldive.com/news/nearly-all-msps-sell-cybersecurity-but-protection-is-still-patchy-carolyn-april/874416/",
-              "summary": "Customers increasingly judge MSPs on security, and the GTIA\u2019s latest tracker finds that fewer than half deploy MFA, MDR or air-gapped backups across most of their customers.",
-              "image": "https://imgproxy.divecdn.com/j6r7-ZOF29EesGjWhxr5zrh9Vg85XE_1WiSSEn5zs28/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA3MjA1NDM0LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 13:24:00 -0500"
-            },
-            {
-              "title": "Channel partners are spending on AI faster than they can bill for it",
-              "link": "https://www.channeldive.com/news/channel-ai-spend-outpaces-revenue-returns-td-synnex/874343/",
-              "summary": "Two-thirds of partners are increasing AI investments, but only 21% get a meaningful returns, TD Synnex research found.",
-              "image": "https://imgproxy.divecdn.com/mTfeeolZ_NBNHCTATSgImkJeQoTDTlis9IvUbDFkWds/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1MTE4MDI1LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 11:59:00 -0500"
             }
           ]
         }
@@ -404,47 +404,47 @@
           "name": "Healthcare Dive",
           "url": "https://www.healthcaredive.com",
           "lead_story": {
-            "title": "Despite concerns, AI becomes daily fixture in physician workflows",
-            "link": "https://www.healthcaredive.com/news/despite-concerns-ai-becomes-daily-fixture-in-physician-workflows/874541/",
-            "summary": "AI use among physicians surged in 2026, with physicians using it for medical literature review and clinical decision support despite concerns about its accuracy and impact on newer physicians, according to a new survey.",
-            "image": "https://imgproxy.divecdn.com/75WMXUTbtRREmK0IBpEfQW9W9tVJmdKMKjrK2imHzeE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 13:46:46 -0500"
+            "title": "Medicare can\u2019t add new home health, hospice facilities for 6 more months",
+            "link": "https://www.healthcaredive.com/news/medicare-cant-add-new-home-health-hospice-facilities-for-6-more-months/874660/",
+            "summary": "The extended ban will prevent home health agencies and hospices from enrolling in the Medicare program for another six months amid ongoing concerns about fraud in the sector.",
+            "image": "https://imgproxy.divecdn.com/VqiWan_mkYrBI4f9V1kVB4YX0eeNBGyYVuPeq5HL0_8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTMxNjc2MzguanBn.webp",
+            "date": "Fri, 13 Nov 2026 14:20:32 -0500"
           },
           "top_stories": [
+            {
+              "title": "ONC invites orgs to test electronic prior authorization",
+              "link": "https://www.healthcaredive.com/news/onc-invites-orgs-to-test-electronic-prior-authorization/874625/",
+              "summary": "The agencies will provide a virtual environment for payers and providers to test their preapproval processes as a federal deadline looms.",
+              "image": "https://imgproxy.divecdn.com/JrV-zPGrKX6g24aX8aWTrCA5W3-MEfLuhCTT_sIBFXw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzMzc1OTI3LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 11:07:12 -0500"
+            },
+            {
+              "title": "Patient comfort with AI\u2019s clinical decisions tied to provider oversight: Gallup",
+              "link": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
+              "summary": "Patients are more open to AI making decisions about their care than providers assume. But human oversight is what sells AI for them, according to a new poll.",
+              "image": "https://imgproxy.divecdn.com/_5Cb9KfFrTcKwCoHT1Z-QFVc-6SDiTtlUCmGtJUXcG8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMDM5MjIwLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 10:39:35 -0500"
+            },
+            {
+              "title": "Cassidy aide pledges No Surprises fix coming soon",
+              "link": "https://www.healthcaredive.com/news/cassidy-aide-pledges-no-surprises-fix-coming-soon/874539/",
+              "summary": "The veteran health senator is prepping legislation to address some of the key issues with the law\u2019s dispute resolution process. It\u2019ll be a \u201ccommon sense, bipartisan approach,\u201d an aide said Thursday.",
+              "image": "https://imgproxy.divecdn.com/MzHUG_z02SmvrIjvnjYGHpOb4gwczAOWCq5wBMwZQ-s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1NzU0Nzk5LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 09:13:45 -0500"
+            },
+            {
+              "title": "Despite concerns, AI becomes daily fixture in physician workflows",
+              "link": "https://www.healthcaredive.com/news/despite-concerns-ai-becomes-daily-fixture-in-physician-workflows/874541/",
+              "summary": "AI use among physicians surged this year, with many using the tech to review medical literature and make clinical decisions despite concerns about its accuracy and impact on newer employees, according to a survey.",
+              "image": "https://imgproxy.divecdn.com/75WMXUTbtRREmK0IBpEfQW9W9tVJmdKMKjrK2imHzeE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMDY4MzEwLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 13:46:46 -0500"
+            },
             {
               "title": "UnitedHealth audit of insurer policies ducks question of denials",
               "link": "https://www.healthcaredive.com/news/unitedhealth-internal-review-medical-policies-gaps-denials/874454/",
               "summary": "The juggernaut\u2019s latest review found minor issues with how UnitedHealthcare develops medical policies, which inform whether care is approved or denied. But the audit didn\u2019t evaluate how the criteria is being applied.",
               "image": "https://imgproxy.divecdn.com/FuYoYneRa6jh2GHE3bBpeoUX-Ca1CAWyMducLJ1hDF0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KR0VQMUcuanBn.webp",
               "date": "Thu, 12 Nov 2026 12:09:50 -0500"
-            },
-            {
-              "title": "Novant COO tapped to lead system after CEO retires",
-              "link": "https://www.healthcaredive.com/news/novant-coo-tapped-to-lead-system-after-ceo-retires/874428/",
-              "summary": "Carl Armato is retiring after over a dozen years leading the North Carolina-based system. COO John Gizdic is taking the reins.",
-              "image": "https://imgproxy.divecdn.com/7-Gi6uS_kov9rVuIjzeoO9OrV2OiRbw9c69sKb7h0ew/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTkzNTc3NjkwLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 13:55:08 -0500"
-            },
-            {
-              "title": "Oura makes bet on AI in healthcare with $625M Counsel Health buy",
-              "link": "https://www.healthcaredive.com/news/oura-makes-bet-on-ai-in-healthcare-with-625m-counsel-health-buy/874401/",
-              "summary": "The planned acquisition comes as wearable firms push to up their healthcare offerings.",
-              "image": "https://imgproxy.divecdn.com/vq63lZVUrTbCUdvZjEYHb5Czu-0ZxFGzyzwjflBqnb0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PdXJhX1JpbmdfNV9MaWZlc3R5bGUtNF9EZWVwX1Jvc2UucG5n.webp",
-              "date": "Wed, 11 Nov 2026 11:38:51 -0500"
-            },
-            {
-              "title": "Google Cloud debuts Gemini for healthcare",
-              "link": "https://www.healthcaredive.com/news/google-cloud-debuts-gemini-for-healthcare/874371/",
-              "summary": "Google is the latest big tech company to launch a healthcare-specific agentic AI platform. The company touts the platform\u2019s ability to integrate with third-party tools and automate clinical and administrative tasks.",
-              "image": "https://imgproxy.divecdn.com/Xu9BW5pnvt9J4lj7Bd7eieQJ_WmN315ubRxRSDJyaUM/g:nowe:0:75/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY2NjcxNDgyLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 09:55:28 -0500"
-            },
-            {
-              "title": "UnitedHealth adds children\u2019s hospital executive to board",
-              "link": "https://www.healthcaredive.com/news/unitedhealth-board-adds-childrens-hospital-ceo-madeline-bell/874367/",
-              "summary": "It\u2019s the healthcare behemoth\u2019s second board appointment since launching a financial and operational turnaround under CEO Stephen Hemsley. Madeline Bell\u2019s experience adds an \u201cimportant perspective,\u201d Hemsley said.",
-              "image": "https://imgproxy.divecdn.com/Wrdm6nhOueqkB2t5QKxZDKYyJBv-EFaLWx6rYw3Xg5A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS91bml0ZWRfaGVhbHRoX2dyb3VwLmpwZWc=.webp",
-              "date": "Wed, 11 Nov 2026 09:24:11 -0500"
             }
           ]
         },
@@ -452,13 +452,27 @@
           "name": "BioPharma Dive",
           "url": "https://www.biopharmadive.com",
           "lead_story": {
-            "title": "Windward prices $175M IPO to advance China-licensed lung drugs",
-            "link": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
-            "summary": "The Swiss biotech has two prospects it sees as having the potential to outcompete AstraZeneca and Amgen's blockbuster asthma treatment Tezspire.",
-            "image": "https://imgproxy.divecdn.com/JGibkSZi7lGSCus7wKTH8VTCkiXHlYuFKNE-rH0qpgY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uYXNkYXEtYmlvdGVjaC1pcG9zLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 20:22:00 -0500"
+            "title": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties",
+            "link": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
+            "summary": "Novo views the medicine, acquired in a billion-dollar deal, as a future blockbuster. Meanwhile, a pair of startups forged an RNA editing pact and Astellas lined up two new trials in pancreatic cancer.",
+            "image": "https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 09:36:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "This week in charts: Brain drugs are back on venture capitalists\u2019 minds",
+              "link": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
+              "summary": "Five neurology-focused startups have together raised around $450 million in the last few weeks. Elsewhere, investors had a muted response to the latest cell therapy research.",
+              "image": "https://imgproxy.divecdn.com/noY6Oanv5v-_yDQZKEqBBDkEKvecYGoj9vaCkgyW_q0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyX20yY2w4SnouanBn.webp",
+              "date": "Fri, 13 Nov 2026 09:00:00 -0500"
+            },
+            {
+              "title": "Windward prices $175M IPO to advance China-licensed lung drugs",
+              "link": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
+              "summary": "The Swiss biotech, which pocketed another $50 million through a concurrent private share sale to Sanofi, is developing a potential competitor to the blockbuster asthma treatment Tezspire.",
+              "image": "https://imgproxy.divecdn.com/JGibkSZi7lGSCus7wKTH8VTCkiXHlYuFKNE-rH0qpgY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uYXNkYXEtYmlvdGVjaC1pcG9zLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 20:22:00 -0500"
+            },
             {
               "title": "Blackstone bets $1.5B on Pfizer\u2019s obesity drug",
               "link": "https://www.biopharmadive.com/news/blackstone-pfizer-berobenatide-deal/874483/",
@@ -479,20 +493,6 @@
               "summary": "The agency is still recovering from a mass staff exodus last year that left it shorthanded. Here\u2019s what it means for the industry.",
               "image": "https://imgproxy.divecdn.com/M_BApEps17v_s4qekgl3PRqvD1nnmKZFb0-ht_fOXok/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZGEtam9iLXZhY2FuY2llcy5qcGc=.webp",
               "date": "Thu, 12 Nov 2026 09:38:00 -0500"
-            },
-            {
-              "title": "Drug price hikes in Germany could push US costs higher, study says",
-              "link": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
-              "summary": "The report comes amid escalating tensions between the U.S. and Germany over drug prices, with several large pharmaceutical companies responding by scaling back investments in the country.",
-              "image": "https://imgproxy.divecdn.com/fsVXkaP6lfXOr_b_2UNGpcqvHYBbCHZhUMOdhB6Yn4E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk3OTY1NTcyLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 11:11:00 -0500"
-            },
-            {
-              "title": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
-              "link": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
-              "summary": "The deal gives AstraZeneca a simpler way to make conjugate vaccines. Elsewhere, a psychedelic depression drug was submitted to the FDA and an autoimmune disease-focused biotech\u2019s shares collapsed.",
-              "image": "https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 08:42:00 -0500"
             }
           ]
         },
@@ -500,13 +500,27 @@
           "name": "MedTech Dive",
           "url": "https://www.medtechdive.com",
           "lead_story": {
-            "title": "Abbott\u2019s defibrillation lead lands FDA approval and CE mark",
-            "link": "https://www.medtechdive.com/news/abbotts-defibrillation-lead-lands-fda-approval-and-ce-mark/874474/",
-            "summary": "The authorizations position Abbott to launch a purpose-built lead for left bundle branch area pacing in the U.S. and Europe.",
-            "image": "https://imgproxy.divecdn.com/otXKWk5IW410v1ZEZBVedv94wFthlU3Q4SfgVjYEJaQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XQkE4ODEuanBn.webp",
-            "date": "Thu, 12 Nov 2026 10:39:00 -0500"
+            "title": "FDA posts early alerts for two product removals",
+            "link": "https://www.medtechdive.com/news/fda-posts-early-alerts-for-two-product-removals/874629/",
+            "summary": "Intersurgical told customers to immediately stop using affected devices, while Arrow International instructed users to quarantine and return certain products.",
+            "image": "https://imgproxy.divecdn.com/d2JyuXgmLsPVrlZlLVlPLECICsiII5W1r34tQBQf49c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTIwX0w2OGs1OEwuanBn.webp",
+            "date": "Fri, 13 Nov 2026 11:50:09 -0500"
           },
           "top_stories": [
+            {
+              "title": "Bipartisan push possible to curb Trump tariffs",
+              "link": "https://www.medtechdive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874520/",
+              "summary": "Three bills in Congress would significantly restrict presidential tariff power if they become law, and experts say there's appetite for change in trade policy.",
+              "image": "https://imgproxy.divecdn.com/B5K32mxvlqvgeoWeqtwBEmM0K_6f9uMKpROSG_9hJZ4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDYyNTEzX1ExQzJwdUguanBn.webp",
+              "date": "Fri, 13 Nov 2026 09:36:00 -0500"
+            },
+            {
+              "title": "Abbott\u2019s defibrillation lead lands FDA approval and CE mark",
+              "link": "https://www.medtechdive.com/news/abbotts-defibrillation-lead-lands-fda-approval-and-ce-mark/874474/",
+              "summary": "The authorizations position Abbott to launch a purpose-built lead for left bundle branch area pacing in the U.S. and Europe.",
+              "image": "https://imgproxy.divecdn.com/otXKWk5IW410v1ZEZBVedv94wFthlU3Q4SfgVjYEJaQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XQkE4ODEuanBn.webp",
+              "date": "Thu, 12 Nov 2026 10:39:00 -0500"
+            },
             {
               "title": "J&J leads Francis Medical investment to fund prostate cancer device",
               "link": "https://www.medtechdive.com/news/jj-leads-francis-medical-investment-to-fund-prostate-cancer-device/874352/",
@@ -527,20 +541,6 @@
               "summary": "The job cuts at Danaher\u2019s molecular diagnostics subsidiary will take place by the end of the year and affect mostly scientists and engineers, according to a state filing.",
               "image": null,
               "date": "Wed, 11 Nov 2026 10:57:20 -0500"
-            },
-            {
-              "title": "Tandem recalls Mobi insulin pump, reports 230 adverse events",
-              "link": "https://www.medtechdive.com/news/tandem-recalls-mobi-insulin-pump-reports-230-adverse-events/874386/",
-              "summary": "A problem with a false occlusion alarm could interrupt insulin delivery for users, according to an entry in the FDA\u2019s recall database.",
-              "image": "https://imgproxy.divecdn.com/xQjHzblulBad-blKKJFU_yYCQjAetKLxHDSBZ1Zq9E4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYW5kZW1fbW9iaS5qcGc=.webp",
-              "date": "Wed, 11 Nov 2026 10:54:22 -0500"
-            },
-            {
-              "title": "Virtuoso robot wins FDA nod for bladder tumor removal",
-              "link": "https://www.medtechdive.com/news/virtuoso-robot-wins-fda-nod-for-bladder-tumor-removal/874261/",
-              "summary": "Virtuoso Surgical\u2019s robotic system can remove lesions in one piece in a minimally invasive procedure designed to improve cancer diagnosis and staging.",
-              "image": "https://imgproxy.divecdn.com/DsaQrkHPSrelJRP74y3vQcCIOY54vsbWnH56P0I_Ogc/g:nowe:90:3/c:1398:789/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9WaXJ0dW9zb19yb2JvdC5qcGc=.webp",
-              "date": "Tue, 10 Nov 2026 11:05:51 -0500"
             }
           ]
         },
@@ -548,13 +548,27 @@
           "name": "PharmaVoice",
           "url": "https://www.pharmavoice.com",
           "lead_story": {
-            "title": "How Nasdaq became biotech\u2019s default exchange \u2014 and why the IPO comeback is testing its value",
-            "link": "https://www.pharmavoice.com/news/why-biotech-companies-list-on-nasdaq/874486/",
-            "summary": "Nearly every U.S. biotech IPO lands on Nasdaq. As offerings rebound, the industry\u2019s loyalty raises a harder question: What does the exchange actually deliver?",
-            "image": "https://imgproxy.divecdn.com/JGibkSZi7lGSCus7wKTH8VTCkiXHlYuFKNE-rH0qpgY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uYXNkYXEtYmlvdGVjaC1pcG9zLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 10:18:20 -0500"
+            "title": "Overton\u2019s iffy FDA confirmation; a slashed US IPO",
+            "link": "https://www.pharmavoice.com/news/overton-fda-confirmation-biotech-nasdaq-pfizer/874558/",
+            "summary": "The clock is ticking on Dr. Heidi Overton\u2019s confirmation as FDA commissioner; investors didn\u2019t give a Swiss dental health company the deal it wanted.",
+            "image": "https://imgproxy.divecdn.com/Dw-WshLW8i8lenCpirdgG0hVSLytSUWD9TYu5GY2bek/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2OTM3MDAzLmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 08:51:22 -0500"
           },
           "top_stories": [
+            {
+              "title": "3 quotes that show why MAHA is cheering Stephen Miller\u2019s ascension",
+              "link": "https://www.pharmavoice.com/news/maha-stephen-miller-rfk-fda-pharma-drug/874546/",
+              "summary": "Miller is no friend of pharma\u2019s and he just landed one of the most powerful roles in Washington.",
+              "image": "https://imgproxy.divecdn.com/OZrBKB0G-YKEXI-5XYnT4cJO5_xQS2A3A-0Ch2wGskk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg2Mzg3ODY2LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 08:51:13 -0500"
+            },
+            {
+              "title": "How Nasdaq became biotech\u2019s default exchange \u2014 and why the IPO comeback is testing its value",
+              "link": "https://www.pharmavoice.com/news/why-biotech-companies-list-on-nasdaq/874486/",
+              "summary": "Nearly every U.S. biotech IPO lands on Nasdaq. As offerings rebound, the industry\u2019s loyalty raises a harder question: What does the exchange actually deliver?",
+              "image": "https://imgproxy.divecdn.com/JGibkSZi7lGSCus7wKTH8VTCkiXHlYuFKNE-rH0qpgY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9uYXNkYXEtYmlvdGVjaC1pcG9zLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 10:18:20 -0500"
+            },
             {
               "title": "The FDA has over 1k open jobs \u2014 and the staffing shortage is hitting pharma",
               "link": "https://www.pharmavoice.com/news/fda-staffing-shortages-drug-reviews-pharma/874293/",
@@ -575,20 +589,6 @@
               "summary": "Cecile Guegan just became Pfizer\u2019s first permanent female CFO as the large pharma navigates its major pipeline bets in obesity.",
               "image": "https://imgproxy.divecdn.com/wqSGfD7JtXNaqIRyqCambfdDTKtMWhZz7Mb4p7EGfio/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzM5NzQ1LmpwZw==.webp",
               "date": "Tue, 10 Nov 2026 09:09:31 -0500"
-            },
-            {
-              "title": "Could new US rules on China biotech investments give Europe an edge?",
-              "link": "https://www.pharmavoice.com/news/coins-act-china-biotech-investment-europe-newco/874095/",
-              "summary": "Treasury\u2019s proposed COINS Act regulations could complicate U.S.-backed NewCos, potentially giving European drugmakers more room to pursue Chinese assets.",
-              "image": "https://imgproxy.divecdn.com/BhRAL248svBCZrhNLPj7gOCnFuS1ung0em_QpUB6bsk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkxNjc2Mjc2LmpwZw==.webp",
-              "date": "Mon, 09 Nov 2026 10:00:00 -0500"
-            },
-            {
-              "title": "How can we build trust in model-driven manufacturing?",
-              "link": "https://www.pharmavoice.com/spons/how-can-we-build-trust-in-model-driven-manufacturing/873544/",
-              "summary": "Predict, optimize and act sooner with model-driven bioprocessing.",
-              "image": null,
-              "date": "Mon, 09 Nov 2026 05:00:00 -0500"
             }
           ]
         }
@@ -601,13 +601,34 @@
           "name": "Retail Dive",
           "url": "https://www.retaildive.com",
           "lead_story": {
-            "title": "BNPL bolsters holiday budgets",
-            "link": "https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
-            "summary": "Younger shoppers favor buy now, pay later more than older generations, but BNPL companies draw consumers across income brackets, a survey finds.",
-            "image": "https://imgproxy.divecdn.com/n4N2Sj9Ed-n7pF8szbSN0qjNboiF3IaDbBR6Xpw3_rA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ0NzkzNzc5LmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 12:36:02 -0500"
+            "title": "Family Dollar will pay $63M to settle unfair-pricing claims from state, federal regulators",
+            "link": "https://www.retaildive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874605/",
+            "summary": "The discounter said it\u2019s cooperating and \u201cfocused on strengthening pricing accuracy across our stores and maintaining our customers' trust.\u201d",
+            "image": "https://imgproxy.divecdn.com/wSLn1xqW1YY71nyE2gCqANNNYNhvbodF7jZsuWouUQw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yV0s2QTNELmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 11:43:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "The Weekly Closeout: Target names a new board member and Centric Brands sells itself to CEO",
+              "link": "https://www.retaildive.com/news/target-board-member-centric-brands-ceo-fossil-turnaround/874550/",
+              "summary": "The big-box retailer appointed Sally Grimes as an independent director. Meanwhile, Jason Rabin took ownership of the conglomerate.",
+              "image": "https://imgproxy.divecdn.com/YqlLWzPJnXm145uP8X-f4IoEmAlgLKMuDMwh2uWJ0ds/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJxdWVlX1RhcmdldF9Tb0hvX2ZSUmZRMmouanBn.webp",
+              "date": "Fri, 13 Nov 2026 10:43:00 -0500"
+            },
+            {
+              "title": "Sally Beauty to expand refreshed store model in 2027",
+              "link": "https://www.retaildive.com/news/sally-beauty-expand-refreshed-store-model/874547/",
+              "summary": "The beauty supply retailer will grow the Sally Ignited store concept and has long-term plans to refresh two-thirds of its overall store fleet.",
+              "image": null,
+              "date": "Fri, 13 Nov 2026 10:09:00 -0500"
+            },
+            {
+              "title": "BNPL bolsters holiday budgets",
+              "link": "https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
+              "summary": "Younger shoppers favor buy now, pay later more than older generations, but BNPL companies draw consumers across income brackets, a survey finds.",
+              "image": "https://imgproxy.divecdn.com/n4N2Sj9Ed-n7pF8szbSN0qjNboiF3IaDbBR6Xpw3_rA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ0NzkzNzc5LmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 12:36:02 -0500"
+            },
             {
               "title": "Michaels encourages a screen-free holiday season",
               "link": "https://www.retaildive.com/news/michaels-holiday-black-friday-cyber-monday/874500/",
@@ -621,27 +642,6 @@
               "summary": "An expansion with drone operator Zipline will allow the retailer to make rapid air delivery available to customers nationwide over the next several years.",
               "image": "https://imgproxy.divecdn.com/nY3KSNhDhV3iPdCZTGXgwzZCH-DYQiguovdjkXZM3w8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GYW1pbHktUmVjZWl2aW5nLURyb25lLURlbGl2ZXJ5LVBhY2thZ2Uud2VicA==.webp",
               "date": "Thu, 12 Nov 2026 11:46:00 -0500"
-            },
-            {
-              "title": "TikTok Shop pilots paid membership",
-              "link": "https://www.retaildive.com/news/tiktok-shop-plus-paid-membership/874451/",
-              "summary": "The company recently rolled out a paid tier to 1 million shoppers. With membership, consumers get free shipping and exclusive discounts.",
-              "image": "https://imgproxy.divecdn.com/OJVNXlP787U4YRgkNw0qg9SrdXqtugtlwIOykeIx10Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMTFfMTYxMzE1LnBuZw==.webp",
-              "date": "Thu, 12 Nov 2026 11:27:00 -0500"
-            },
-            {
-              "title": "Calvin Klein, Tommy Hilfiger owner to cut 4% of workforce",
-              "link": "https://www.retaildive.com/news/calvin-klein-tommy-hilfiger-owner-to-cut-4-of-workforce/874492/",
-              "summary": "PVH Corp.'s enterprisewide initiative aims to improve productivity and long-term profitability, with a goal of achieving $100 million in cost savings during fiscal 2027.",
-              "image": "https://imgproxy.divecdn.com/X09sdCZ3lfBjj7oTWvYGBPY5FciHSaDQQsoYND6-q0Q/g:nowe:0:141/c:4032:2277/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNjc3MS5qcGc=.webp",
-              "date": "Thu, 12 Nov 2026 11:16:00 -0500"
-            },
-            {
-              "title": "Dick\u2019s Sporting Goods signs Caitlin Clark",
-              "link": "https://www.retaildive.com/news/dicks-sporting-goods-foot-locker-signs-caitlin-clark/874141/",
-              "summary": "The exclusive deal includes both Dick\u2019s and Foot Locker, and is the first time either company has signed an athlete as a brand partner.",
-              "image": "https://imgproxy.divecdn.com/kBXOsliqUKhlaP8kMOL2jh2gY8uFwmuXyDV4QdbA9WU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYWl0bGluX0NsYXJrLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 12:20:00 -0500"
             }
           ]
         },
@@ -649,13 +649,27 @@
           "name": "Food Dive",
           "url": "https://www.fooddive.com",
           "lead_story": {
-            "title": "FDA revokes authorization of some chemicals used in food dye production",
-            "link": "https://www.fooddive.com/news/fda-revoke-food-dye-chemicals-methylene-chloride/874542/",
-            "summary": "The department is banning the use of three solvents, but consumer groups say technicalities leave the door open for carcinogens to enter the food supply.",
-            "image": "https://imgproxy.divecdn.com/d2JyuXgmLsPVrlZlLVlPLECICsiII5W1r34tQBQf49c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTIwX0w2OGs1OEwuanBn.webp",
-            "date": "Thu, 12 Nov 2026 14:08:00 -0500"
+            "title": "Kraft Heinz expects return to growth in 2027 as innovation investments pay off",
+            "link": "https://www.fooddive.com/news/kraft-heinz-return-to-growth-innovation-investments-payoff/874643/",
+            "summary": "Recent launches, including ketchup with lower sugar and gluten-free cream cheese, are helping grow market share and volume.",
+            "image": "https://imgproxy.divecdn.com/mTNx4W0SOkJvFeqKR915VHaN-bu4G9DDex19Jxul34Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb3dlck1hY19IZXJvX0tleV9WaXN1YWwuanBn.webp",
+            "date": "Fri, 13 Nov 2026 16:00:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "Leftovers: Hershey bakes Reese\u2019s pie for Thanksgiving | Tostitos adds zesty twist to Scoops",
+              "link": "https://www.fooddive.com/news/leftovers-pepsico-hint-of-lime-scoops-reeses-3-pound-pie-cutwater-white-russian/874620/",
+              "summary": "The sweets giant is introducing a 3-pound peanut butter cup for holiday hosting, while Cutwater gets festive with a Gingerbread White Russian.",
+              "image": "https://imgproxy.divecdn.com/qgx-UtRLUeUdcgd-nr3rvqq8Dto_pn0hvI5_hakgHLQ/g:nowe:9:0/c:1270:717/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZWVzZXNQaWVfVGFibGVzY2FwZV9WMV80eDUuanBn.webp",
+              "date": "Fri, 13 Nov 2026 10:45:00 -0500"
+            },
+            {
+              "title": "FDA revokes authorization of some chemicals used in food dye production",
+              "link": "https://www.fooddive.com/news/fda-revoke-food-dye-chemicals-methylene-chloride/874542/",
+              "summary": "The department is banning the use of three solvents, but consumer groups say technicalities leave the door open for carcinogens to enter the food supply.",
+              "image": "https://imgproxy.divecdn.com/d2JyuXgmLsPVrlZlLVlPLECICsiII5W1r34tQBQf49c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTIwX0w2OGs1OEwuanBn.webp",
+              "date": "Thu, 12 Nov 2026 14:08:00 -0500"
+            },
             {
               "title": "Conagra Brands to close Missouri ingredients plant",
               "link": "https://www.fooddive.com/news/conagra-brands-closing-missouri-plant-jobs-losses/874504/",
@@ -676,20 +690,6 @@
               "summary": "Premium offerings, hard teas and long drinks are shaking up the RTD space as the category matures, according to IWSR.",
               "image": "https://imgproxy.divecdn.com/ce4a8zuf9n2f2UMLcpndnmA_rH5FfhyNzaDiwsSMuPM/g:nowe:0:0/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ3MDE4OTU2LmpwZw==.webp",
               "date": "Thu, 12 Nov 2026 11:11:00 -0500"
-            },
-            {
-              "title": "TikTok and YouTube fuel rise in junk food advertising to kids",
-              "link": "https://www.fooddive.com/news/kids-junk-food-advertising-study-ultraprocessed-foods/874510/",
-              "summary": "A study in JAMA Pediatrics claims to be the first in the U.S. to examine youth exposure to food marketing across digital media platforms.",
-              "image": "https://imgproxy.divecdn.com/E_Z8q07RFR66R3lnKt7ES3u8vpPu69LomtgTU6THs6M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUwNDU2ODY0LmpwZw==.webp",
-              "date": "Thu, 12 Nov 2026 11:02:00 -0500"
-            },
-            {
-              "title": "How meat delivery companies use innovation to keep beef prices down",
-              "link": "https://www.fooddive.com/news/online-meat-dtc-butcherbox-omaha-steaks-beef-prices/830209/",
-              "summary": "Omaha Steaks and ButcherBox protect consumers from sticker shock with transparent pricing models and creative alternatives to premium cuts of steak.",
-              "image": "https://imgproxy.divecdn.com/AWRVGmsgMVimtjqvJjVBDSrJg0qVCVpQN3iXPP4d2TY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UT1BfU0lSTE9JTl9GSUxFVC5qcGc=.webp",
-              "date": "Thu, 12 Nov 2026 10:24:00 -0500"
             }
           ]
         },
@@ -697,13 +697,27 @@
           "name": "Grocery Dive",
           "url": "https://www.grocerydive.com",
           "lead_story": {
-            "title": "Rounding up grocers\u2019 2026 Thanksgiving meal deals",
-            "link": "https://www.grocerydive.com/news/thanksgiving-meals-grocery-walmart-target-lidl-aldi-2026/874455/",
-            "summary": "Several major retailers\u2019 bundles feed 10 for under $40 this year, according to a Grocery Dive review of more than a dozen companies\u2019 offerings.",
-            "image": "https://imgproxy.divecdn.com/iorNwveW0c7ThEl0JAqhlzfNdbg3x8GpFjLBhDFPD5w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDU1MTMwMTk4LmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 11:37:41 -0500"
+            "title": "Merchants sue feds over Illinois card fee law",
+            "link": "https://www.grocerydive.com/news/merchants-sue-federal-government-illinois-card-fee-law/874601/",
+            "summary": "Trade groups including FMI and NGA filed lawsuits against bank and credit union regulators over a preemption of a state law that bans swipe fees for taxes and tips.",
+            "image": "https://imgproxy.divecdn.com/E3hwPosihlbE30E54M-dsboUm7NZ6OIXDUpj6Y6DtFQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY2ODA4NDY3LmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 10:55:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "Instacart starts stocking up bars",
+              "link": "https://www.grocerydive.com/news/instacart-provi-restaurants-bar-delivery/874540/",
+              "summary": "The grocery technology company partnered with digital platform Provi to let bars and restaurants order non-alcoholic items.",
+              "image": "https://imgproxy.divecdn.com/NtDYvUR88nzY_Pc5mKi2A7-qoYiElor3CtgSaKV4rSw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjQ0NTk5ODIxXzEuanBn.webp",
+              "date": "Fri, 13 Nov 2026 10:00:00 -0500"
+            },
+            {
+              "title": "Rounding up grocers\u2019 Thanksgiving meal deals for 2026",
+              "link": "https://www.grocerydive.com/news/thanksgiving-meals-grocery-walmart-target-lidl-aldi-2026/874455/",
+              "summary": "Several major retailers\u2019 bundles feed 10 for under $40 this year, according to a Grocery Dive review of more than a dozen companies\u2019 offerings.",
+              "image": "https://imgproxy.divecdn.com/iorNwveW0c7ThEl0JAqhlzfNdbg3x8GpFjLBhDFPD5w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDU1MTMwMTk4LmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 11:37:41 -0500"
+            },
             {
               "title": "Grocery inflation rises, driven by produce and meat",
               "link": "https://www.grocerydive.com/news/grocery-inflation-october-2026-meat-produce-coffee/874458/",
@@ -724,20 +738,6 @@
               "summary": "After three consecutive quarters of negative comparable-store sales, the discounter turned the metric positive with higher traffic and changes to its assortment.",
               "image": "https://imgproxy.divecdn.com/_F25yram_S2fldgiBF4NJlkdyUIJFoIWo4ADD6XXewM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZXJtdWRhX0R1bmVzXzFfMS5qcGc=.webp",
               "date": "Wed, 11 Nov 2026 11:14:00 -0500"
-            },
-            {
-              "title": "Albertsons names new CFO",
-              "link": "https://www.grocerydive.com/news/albertsons-cfo-andrew-murray-grocery-supermarkets/874342/",
-              "summary": "Andrew Murray, currently finance chief of New Zealand dairy exporter Fonterra Co-Operative Group, will join the struggling supermarket chain in January 2027.",
-              "image": "https://imgproxy.divecdn.com/aiPfCQOCOw_S7zzHEMiN2NYg2YtWKznW29FY-aUK4zw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDQxODQyNjgwXzEuanBn.webp",
-              "date": "Wed, 11 Nov 2026 10:59:00 -0500"
-            },
-            {
-              "title": "DoorDash-Instacart combination shines a spotlight on e-commerce pricing",
-              "link": "https://www.grocerydive.com/news/doordash-instacart-merger-pricing-grocery-ecommerce/874318/",
-              "summary": "Their proposed deal places newfound emphasis on how to make online grocery shopping more affordable for shoppers and economically viable for retailers.",
-              "image": "https://imgproxy.divecdn.com/PtUoyejnuKnKZanWAfLqL0Yu6m-pv8hL63Suq4eZ5Ck/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUzNDU4OTU0LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 10:30:00 -0500"
             }
           ]
         },
@@ -745,13 +745,27 @@
           "name": "C-Store Dive",
           "url": "https://www.cstoredive.com",
           "lead_story": {
-            "title": "7-Eleven International chief executive to retire",
-            "link": "https://www.cstoredive.com/news/7-eleven-international-chief-executive-to-retire/874443/",
-            "summary": "Ken Wakabayashi will end his 30-year career with the convenience retailer at the end of this year.",
-            "image": null,
-            "date": "Thu, 12 Nov 2026 09:39:28 -0500"
+            "title": "3 Big Numbers: C-store M&A sees a Q3 uptick",
+            "link": "https://www.cstoredive.com/news/3-big-numbers-c-store-ma-sees-a-q3-uptick/874536/",
+            "summary": "A report from Corner Capital examined key trends and developments in the downstream energy M&A market, which includes c-stores.",
+            "image": "https://imgproxy.divecdn.com/-2S8_pxVPiUkbHN2jaCqBHv7A6LzQ-WHhZyD1dnerww/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdW5vY29fYy1zdG9yZS5KUEc=.webp",
+            "date": "Fri, 13 Nov 2026 10:00:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "Mountain Express trustee reaches settlement with former co-CEO",
+              "link": "https://www.cstoredive.com/news/mountain-express-trustee-reaches-settlement-with-former-co-ceo/874551/",
+              "summary": "Lamar Frady must pay $1.7 million for all claims against him and his associated entities to be dismissed. Claims against his former co-CEO, Turjo Wadud, remain open.",
+              "image": "https://imgproxy.divecdn.com/tLZphNQFRWwX4MXaTPE-9IiM0U-41xOePxuakH8ssWM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tb3VudGFpbl9leHByZXNzX2NvLUNFT3MuSlBH.webp",
+              "date": "Fri, 13 Nov 2026 09:05:38 -0500"
+            },
+            {
+              "title": "7-Eleven International chief executive to retire",
+              "link": "https://www.cstoredive.com/news/7-eleven-international-chief-executive-to-retire/874443/",
+              "summary": "Ken Wakabayashi will end his 30-year career with the convenience retailer at the end of this year.",
+              "image": null,
+              "date": "Thu, 12 Nov 2026 09:39:28 -0500"
+            },
             {
               "title": "Parker\u2019s opens first Florida c-store",
               "link": "https://www.cstoredive.com/news/parkers-opens-first-florida-c-store/874435/",
@@ -767,25 +781,11 @@
               "date": "Thu, 12 Nov 2026 08:38:00 -0500"
             },
             {
-              "title": "Sunoco moves to new loyalty platform",
-              "link": "https://www.cstoredive.com/news/sunoco-moves-to-new-loyalty-platform/874320/",
-              "summary": "The fuel company\u2019s Sunoco Go rewards program, along with Parkland\u2019s Journie Rewards, will be unified on Velocity Logic Group\u2019s technology.",
-              "image": "https://imgproxy.divecdn.com/nFRbHkNOMWSuZfw6KZ-jH3uIwj6l9BxJekJqleLGImY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jcmVkaXQtb25lLWJhbmstYW5kLXN1bm9jby5qcGVn.webp",
-              "date": "Wed, 11 Nov 2026 10:00:00 -0500"
-            },
-            {
               "title": "Mauricio Leyva puts his stamp on 7-Eleven\u2019s store transformation strategy",
               "link": "https://www.cstoredive.com/news/mauricio-leyva-puts-his-stamp-on-7-elevens-store-transformation-strategy/874332/",
               "summary": "At the retailer\u2019s November investor day, the newly appointed CEO detailed a more targeted approach to executing the company\u2019s North Star plan.",
               "image": "https://imgproxy.divecdn.com/prLI76tSrPvKIxQZAEAQqeoJslYslJvNrrg3NMTooOM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83RV9uZXdfc3RhbmRhcmRfb3V0X2Zyb250LmpwZw==.webp",
               "date": "Wed, 11 Nov 2026 10:00:00 -0500"
-            },
-            {
-              "title": "InConvenience unveils loyalty app",
-              "link": "https://www.cstoredive.com/news/inconvenience-unveils-loyalty-app/874335/",
-              "summary": "G Club members can earn points on fuel and in-store purchases and access digital punch cards, while the retailer gets more information about customer preferences.",
-              "image": "https://imgproxy.divecdn.com/nRrRreMyP_uBan0kZyYWzRD63ufbUwkYAtI74zdl14U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Hcm91cC1TaG90X0FwcC1MYXVuY2hfMl9Dcm9wLTEyODB4NzI2LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 09:51:57 -0500"
             }
           ]
         },
@@ -793,47 +793,47 @@
           "name": "Restaurant Dive",
           "url": "https://www.restaurantdive.com",
           "lead_story": {
-            "title": "How 9 restaurants are using menu innovation to wean diners off value",
-            "link": "https://www.restaurantdive.com/news/restaurant-value-war-over-quality-war-begins-mcdonalds-taco-bell-outback/872953/",
-            "summary": "Food quality, quick follow-ups on buzzy LTOs and trial balloons for new dayparts are helping major restaurant chains move beyond the recent value war.",
-            "image": "https://imgproxy.divecdn.com/_ssyE7exd7eELyhb4C444L7QhtUyKY2SGeEOFXmSRpg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb3BleWVzX2hvbmV5X2NoaWNrZW5fYmlzY3VpdC5qcGc=.webp",
-            "date": "Thu, 12 Nov 2026 09:36:00 -0500"
+            "title": "The beverage boom is here to stay",
+            "link": "https://www.restaurantdive.com/news/beverage-boom-restaurant-finance-continuing-trends/874571/",
+            "summary": "A widening consumer base, traffic at unconventional times and strong food attachment mean the brands benefiting from beverage have a bright future.",
+            "image": "https://imgproxy.divecdn.com/iZSVuBTyJwkcQgI4MNexmR0HRYOoLqPY56cyPYvw-NI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NY0RvbmFsZHNfVVNBX0ZpcnN0X0V2ZXJfTGluZXVwX29mX1JlZnJlc2hlcnNfYW5kX0NyYWZ0ZWRfU29kYXMuanBn.webp",
+            "date": "Fri, 13 Nov 2026 11:05:32 -0500"
           },
           "top_stories": [
             {
+              "title": "Papa Johns franchisee declares bankruptcy",
+              "link": "https://www.restaurantdive.com/news/papa-johns-franchisee-papazhs-files-chapter-11-bankruptcy/874612/",
+              "summary": "Papa ZHS, which opened the chain\u2019s 6,000th restaurant in 2025, is the latest operator to seek court-supervised restructuring amid brand\u2019s sales troubles.",
+              "image": "https://imgproxy.divecdn.com/8YnTlUCdwfnbrMcAXSP6BdaWM6PUi3BdFmdBam4Oqas/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05OTY1MTEyMzAuanBn.webp",
+              "date": "Fri, 13 Nov 2026 10:45:00 -0500"
+            },
+            {
+              "title": "Starbucks brings extra personalization, delivery to app",
+              "link": "https://www.restaurantdive.com/news/starbucks-digital-personalization-app-update/874610/",
+              "summary": "The coffee giant will personalize recommendations for consumers as it plans to grow its presence in conversational product discovery.",
+              "image": "https://imgproxy.divecdn.com/Dnm_aXVWQOd88Dmue0XiOzpXVa8kCFTUEPs3YhcJajE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdGFyYnVja3MtRGlnaXRhbC0yLnBuZw==.webp",
+              "date": "Fri, 13 Nov 2026 09:58:21 -0500"
+            },
+            {
+              "title": "How 9 restaurants are using menu innovation to wean diners off value",
+              "link": "https://www.restaurantdive.com/news/restaurant-value-war-over-quality-war-begins-mcdonalds-taco-bell-outback/872953/",
+              "summary": "Food quality, quick follow-ups on buzzy LTOs and tests for new dayparts are helping major restaurant chains move beyond the recent value war.",
+              "image": "https://imgproxy.divecdn.com/_ssyE7exd7eELyhb4C444L7QhtUyKY2SGeEOFXmSRpg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb3BleWVzX2hvbmV5X2NoaWNrZW5fYmlzY3VpdC5qcGc=.webp",
+              "date": "Thu, 12 Nov 2026 09:36:00 -0500"
+            },
+            {
               "title": "What it takes to make franchising profitable",
               "link": "https://www.restaurantdive.com/news/making-franchising-growth-profitable/832046/",
-              "summary": "From picking the right partners to keeping the lines of communication, various strategies need to be in place to ensure franchising can be successful for expansion.",
+              "summary": "From picking the right partners to maintaining good lines of communication, multiple strategies are needed to ensure successful franchised expansion.",
               "image": null,
               "date": "Thu, 12 Nov 2026 08:55:00 -0500"
             },
             {
-              "title": "Cava\u2019s hospitality contest to inform its CX strategy",
+              "title": "Cava\u2019s hospitality contest will inform its CX strategy",
               "link": "https://www.restaurantdive.com/news/cavas-hospitality-contest-to-inform-cx-strategy/874101/",
               "summary": "About two-thirds of locations saw a bump in guest experience metrics during the contest, and the practices are now scaling across the system, CEO Brett Schulman said.",
               "image": "https://imgproxy.divecdn.com/9N5Kel8m8SSrPUgnEd7ANkcK-trz1zS456sqTtZZMQ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DQVZBX0VYVEVSSU9SXzcuanBn.webp",
               "date": "Thu, 12 Nov 2026 08:28:00 -0500"
-            },
-            {
-              "title": "Bojangles bets breakfast, boneless chicken will spur national growth",
-              "link": "https://www.restaurantdive.com/news/bojangles-national-expansion-breakfast-daypart/874348/",
-              "summary": "The regional poultry powerhouse is looking to build up its presence in recent market entries and establish a durable customer base.",
-              "image": "https://imgproxy.divecdn.com/wd9FeGJLi8RviZUju7w7QqUHRwJ2kl_zPYwvN8ZCUk0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIyXzA1LWdlbmVzaXMtc3RvcmUtMi5qcGc=.webp",
-              "date": "Wed, 11 Nov 2026 11:19:30 -0500"
-            },
-            {
-              "title": "GoTo Foods hires TGI Fridays vet as Deli Brands president",
-              "link": "https://www.restaurantdive.com/news/goto-foods-hires-brandon-coleman-president-mcalisters-deli/874259/",
-              "summary": "Brandon Coleman will oversee the next phase of growth at McAlister\u2019s Deli and Schlotzsky\u2019s Deli.",
-              "image": "https://imgproxy.divecdn.com/EO9mOLt0Dw3DjxUA9bh0t2fG202pLRr5VtjGi2nGQgo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY2NzE5NzEzLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 11:08:00 -0500"
-            },
-            {
-              "title": "How Applebee\u2019s menu innovation pipeline is boosting traffic and spend",
-              "link": "https://www.restaurantdive.com/news/dine-brands-applebees-ihop-menu-innovation-strategy/874031/",
-              "summary": "The chain has eight quarters of menu innovation ready in advance, allowing the brand to offer a new item every three months.",
-              "image": "https://imgproxy.divecdn.com/bEHui7B6JsbZmVp5BZon5OHjXxLT0qdlzI2OPVENryg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CYWNvbl9DaGVlc2VidXJnZXJfV29udG9uX1RhY29zX0FQUEIuanBn.webp",
-              "date": "Wed, 11 Nov 2026 10:26:18 -0500"
             }
           ]
         },
@@ -841,13 +841,27 @@
           "name": "Packaging Dive",
           "url": "https://www.packagingdive.com",
           "lead_story": {
-            "title": "\u2018We need to separate this\u2019: IP CEO unfolds DS Smith spinoff decision",
-            "link": "https://www.packagingdive.com/news/we-need-to-separate-this-ip-ceo-unfolds-ds-smith-spinoff-decision/874444/",
-            "summary": "International Paper CEO Andy Silvernail explained how his extensive time in Europe last year led to the shocking separation announcement. Separately, he predicts that 2027 will be \u201ca slog.\u201d",
-            "image": "https://imgproxy.divecdn.com/_fFKRt5uVxOO52TOxtl5fDZRn0Gc6pAJY6HmopXmvEA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV9mcm9tX2lPU18xXzEuanBn.webp",
-            "date": "Thu, 12 Nov 2026 12:34:00 -0500"
+            "title": "Sonoco CEO explains how \u2018looking in the mirror\u2019 drove changes",
+            "link": "https://www.packagingdive.com/news/sonoco-ceo-explains-how-looking-in-the-mirror-drove-changes/874584/",
+            "summary": "Howard Coker discussed during an industry event what realizations he had upon becoming CEO in 2020 that resulted in years of transformation for Sonoco, including restructurings, M&A and leadership changes.",
+            "image": null,
+            "date": "Fri, 13 Nov 2026 12:53:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "Georgia-Pacific, Sonoco, ePac announce expansion investments",
+              "link": "https://www.packagingdive.com/news/georgia-pacific-sonoco-epac-announce-packaging-manufacturing-expansions/874602/",
+              "summary": "Dominion Packaging, Millcraft, Paragon Films and others are also growing in North America.",
+              "image": "https://imgproxy.divecdn.com/k3JzpuJex70QejizHd906yWaK55NRVEFPmif0wTsA70/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waG9lbml4LXJpYmJvbi1jdXR0aW5nLmpwZWc=.webp",
+              "date": "Fri, 13 Nov 2026 12:00:00 -0500"
+            },
+            {
+              "title": "\u2018We need to separate this\u2019: IP CEO unfolds DS Smith spinoff decision",
+              "link": "https://www.packagingdive.com/news/we-need-to-separate-this-ip-ceo-unfolds-ds-smith-spinoff-decision/874444/",
+              "summary": "International Paper CEO Andy Silvernail explained how his extensive time in Europe last year led to the shocking separation announcement. Separately, he predicts that 2027 will be \u201ca slog.\u201d",
+              "image": "https://imgproxy.divecdn.com/_fFKRt5uVxOO52TOxtl5fDZRn0Gc6pAJY6HmopXmvEA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV9mcm9tX2lPU18xXzEuanBn.webp",
+              "date": "Thu, 12 Nov 2026 12:34:00 -0500"
+            },
             {
               "title": "PCR possibilities with different polymers, end uses and ecomodulation",
               "link": "https://www.packagingdive.com/news/pcr-smithers-flexible-packaging-association-napcor-us-plastics-pact/874375/",
@@ -868,20 +882,6 @@
               "summary": "Cascades quantified tariff impacts, Greif broke down mill operating rates, Elopak discussed the impact from disruption at Nippon Dynawave and more.",
               "image": "https://imgproxy.divecdn.com/ogX9A8FeE7_zVMo9zrD2xlip1u9zK3erKecLIAMce7c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzM1Njg2NzgwX0haVWpUcFMuanBn.webp",
               "date": "Wed, 11 Nov 2026 11:00:00 -0500"
-            },
-            {
-              "title": "Folding carton maker MM Packaging being sold to private equity",
-              "link": "https://www.packagingdive.com/news/mm-packaging-kps-private-equity-acquisition/874240/",
-              "summary": "KPS Capital Partners, which previously held Eviosys and Anchor Glass, announced an agreement worth 2.4 billion euros to take a 70% stake in MM Group\u2019s packaging business, making it a standalone company.",
-              "image": "https://imgproxy.divecdn.com/vtwbamoZuidzI88Ce8kx2ZLUcUyFzoc6C2s9I_0vbDo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZWRpYS0xLUthcnRvbnJvbGxlbi5qcGc=.webp",
-              "date": "Tue, 10 Nov 2026 11:59:52 -0500"
-            },
-            {
-              "title": "Unpacking the DOJ\u2019s investigation of containerboard producers",
-              "link": "https://www.packagingdive.com/news/doj-investigation-containerboard-producers-pricing-criminal-civil-lawsuit-parallel/874227/",
-              "summary": "The grand jury investigation \u2014 including into International Paper, Packaging Corporation of America and Smurfit Westrock \u2014 and a parallel civil case suggest the price-fixing allegations aren\u2019t frivolous, says a legal exp...",
-              "image": "https://imgproxy.divecdn.com/yOrI8T-8Bea_0Xmt9oP_wj2eCoe6eNYQqvSAdljcP74/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjk0MjUzMzA4LmpwZw==.webp",
-              "date": "Tue, 10 Nov 2026 11:48:00 -0500"
             }
           ]
         }
@@ -894,47 +894,47 @@
           "name": "Supply Chain Dive",
           "url": "https://www.supplychaindive.com",
           "lead_story": {
-            "title": "Trump threatens to double Mexico tariffs over migrant caravans",
-            "link": "https://www.supplychaindive.com/news/trump-threatens-to-double-mexico-tariffs-over-migrant-caravans/874534/",
-            "summary": "The levies would be effective immediately if the country does not halt the movement of caravans into the U.S., the president said.",
-            "image": "https://imgproxy.divecdn.com/8lvdcJocRBdFytOeR28IJ25uVTc77sXLxLGpwRHe3Fc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0MjQxMjE1LmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 13:03:58 -0500"
+            "title": "Port of Los Angeles grapples with elevated rail dwell times",
+            "link": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
+            "summary": "Wait times for idle containers set for rail transport have reached over nine days, Executive Director Gene Seroka said.",
+            "image": "https://imgproxy.divecdn.com/k6RYaJYCWhnkm1ekje92OcAZSL9rSFuLHkTzEz8-es0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwMjIzMzE1LmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 11:04:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "JD Sports leverages tech for faster replenishment",
+              "link": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/",
+              "summary": "The sportswear retailer is partnering with Zebra to gain real-time inventory visibility across its omnichannel operations, citing 98% on-shelf availability.",
+              "image": "https://imgproxy.divecdn.com/cgGM-XiT9sx63CxfI0YegNX6sDDoCX6mDbq8ylxRRj0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KRF9MYXNfVmVnYXNfMl9jb3B5LmpwZWc=.webp",
+              "date": "Fri, 13 Nov 2026 10:55:00 -0500"
+            },
+            {
+              "title": "Walmart more than doubles planned drone delivery sites",
+              "link": "https://www.supplychaindive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites/874580/",
+              "summary": "An expansion with drone operator Zipline will allow the retailer to make rapid air delivery available to customers nationwide over the next several years.",
+              "image": "https://imgproxy.divecdn.com/nY3KSNhDhV3iPdCZTGXgwzZCH-DYQiguovdjkXZM3w8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GYW1pbHktUmVjZWl2aW5nLURyb25lLURlbGl2ZXJ5LVBhY2thZ2Uud2VicA==.webp",
+              "date": "Fri, 13 Nov 2026 09:37:21 -0500"
+            },
+            {
+              "title": "USPS readies 2027 rate increase, permanent fuel surcharge",
+              "link": "https://www.supplychaindive.com/news/usps-readies-2027-rate-increase-permanent-fuel-surcharge/874524/",
+              "summary": "The agency plans to increase prices by 5.9% on average for services like USPS Ground Advantage and Priority Mail in January.",
+              "image": "https://imgproxy.divecdn.com/e2IXKBbdhfpT7IL7BzkezqikXqx47Pghty7VFKEyKt0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY3NDQwMDU2LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 09:26:13 -0500"
+            },
+            {
+              "title": "Trump threatens to double Mexico tariffs over migrant caravans",
+              "link": "https://www.supplychaindive.com/news/trump-threatens-to-double-mexico-tariffs-over-migrant-caravans/874534/",
+              "summary": "The levies would be effective immediately if the country does not halt the movement of caravans into the U.S., the president said.",
+              "image": "https://imgproxy.divecdn.com/8lvdcJocRBdFytOeR28IJ25uVTc77sXLxLGpwRHe3Fc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg0MjQxMjE1LmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 13:03:58 -0500"
+            },
             {
               "title": "Manufacturing advocates make case for tariffs following midterm results",
               "link": "https://www.supplychaindive.com/news/manufacturing-advocates-make-case-for-tariffs-following-midterm-results/874456/",
               "summary": "Although polls show the public is tired of import taxes, rolling back trade enforcement would be a \u201cserious mistake,\u201d per an Alliance for American Manufacturing report.",
               "image": "https://imgproxy.divecdn.com/tdzbT6QKbXNwmq41zahyN6zhXPRKaszPN-OyRN5QiNE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg4OTI0OTY2LmpwZw==.webp",
               "date": "Thu, 12 Nov 2026 11:08:17 -0500"
-            },
-            {
-              "title": "UPS\u2019 Teamsters contract expires in 2028. Shippers should prepare now.",
-              "link": "https://www.supplychaindive.com/news/ups-teamsters-contract-expires-in-2028-shippers-should-prepare-now/874374/",
-              "summary": "Even with a potential clash a ways out, shippers should ensure they have other established carrier relationships to mitigate strike risk, experts say.",
-              "image": "https://imgproxy.divecdn.com/e9ieXX2vsVmK9H8k2hkStHzALh0idB_ba397EySOCeA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTY4MTczOTg1XzEuanBn.webp",
-              "date": "Thu, 12 Nov 2026 10:34:00 -0500"
-            },
-            {
-              "title": "Bipartisan push possible to curb Trump tariffs",
-              "link": "https://www.supplychaindive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874347/",
-              "summary": "Three bills in Congress would significantly restrict presidential tariff power if they become law, and experts say there's appetite for change in trade policy.",
-              "image": "https://imgproxy.divecdn.com/B5K32mxvlqvgeoWeqtwBEmM0K_6f9uMKpROSG_9hJZ4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDYyNTEzX1ExQzJwdUguanBn.webp",
-              "date": "Thu, 12 Nov 2026 07:25:00 -0500"
-            },
-            {
-              "title": "Air cargo\u2019s hopes for end-of-year volume surge dwindle",
-              "link": "https://www.supplychaindive.com/news/air-cargos-hopes-for-end-of-year-volume-surge-dwindle/874430/",
-              "summary": "Market growth remains steady, but pressured capacity and other traditional signals of a late burst in demand were lacking in October, Xeneta reported.",
-              "image": "https://imgproxy.divecdn.com/JnP0ocgD61ZbB_POHqdXVwsa_MIpB46LyeMnGHV82LY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TaGFuZ2hhaV9mbGlnaHRfcmVzdGFydC5qcGc=.webp",
-              "date": "Wed, 11 Nov 2026 13:55:52 -0500"
-            },
-            {
-              "title": "BMW announces new battery supply deals for the US, Europe",
-              "link": "https://www.supplychaindive.com/news/bmw-announces-new-battery-supply-deals-for-the-us-europe/874409/",
-              "summary": "The automaker contracted with battery cell manufacturers Samsung SDI and LG Energy Solution as it aims for a more localized supply chain for future electric vehicles.",
-              "image": "https://imgproxy.divecdn.com/t20mcJ7JRoa_GIKeoaG8loCqTQJIPogEgPTFJNcKmlE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOTIwX1A5MDY1NzUyMF9oaWdoUmVzX2Fzc2VtYmx5LW9mLWhpZ2gtdm9sLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 12:15:00 -0500"
             }
           ]
         },
@@ -942,47 +942,47 @@
           "name": "Manufacturing Dive",
           "url": "https://www.manufacturingdive.com",
           "lead_story": {
-            "title": "Anthropic launches \u2018Claude for Manufacturing\u2019",
-            "link": "https://www.manufacturingdive.com/news/anthropic-launches-claude-for-manufacturing/874303/",
-            "summary": "The new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports and supplier requests from the systems they already run, the company said.",
-            "image": "https://imgproxy.divecdn.com/pDxKQKtWTVPDKdaN4msiFVHiIDZ8DBxQF3_SI1mqeQM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1NTY2OTExLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 12:09:44 -0500"
+            "title": "Monthly manufacturing tech orders reach $1B; GE Vernova expands and more",
+            "link": "https://www.manufacturingdive.com/news/manufacturing-technology-orders-reached-1b-september-kopin-ge-vernova/874607/",
+            "summary": "Additionally, companies such as Honda, Kopin and ATP Adhesive announced openings or expansion projects this week.",
+            "image": "https://imgproxy.divecdn.com/-M2TEPYkeBmLfvjvWrlW_oPu0Dh4bnoRSbovIr8kZzA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbXRzMjAyNi5qcGc=.webp",
+            "date": "Fri, 13 Nov 2026 12:09:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "BASF opens $1B MDI production facility in Louisiana",
+              "link": "https://www.manufacturingdive.com/news/basf-verbund-mdi-facility-polyurethanes-geismar-louisiana/874549/",
+              "summary": "The Geismar site is the Germany-based entity\u2019s largest single investment to date in the United States and **, making it its most significant** MDI producer in North America.",
+              "image": "https://imgproxy.divecdn.com/YzRL8AXe4HFMMpVGHJdQZ7KGS_y3FETJyiVtvRP2SwY/g:nowe:0:255/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CQVNGLU1ESTMtR2Vpc21hci1SaWJib25DdXR0aW5nLU5vdjExMjAyNl8wMDIxLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 11:50:00 -0500"
+            },
+            {
+              "title": "Automakers using advanced tech to cut waste and costs, boost flexibility",
+              "link": "https://www.manufacturingdive.com/news/automakers-ai-reduce-waste-cut-costs-boost-flexibility/874543/",
+              "summary": "Artificial intelligence can help companies enhance connectivity on the factory floor and optimize supply chains, experts said at the State of Automotive Manufacturing virtual event.",
+              "image": "https://imgproxy.divecdn.com/OC-HmialRt5xQSFzPvlP2G4n1zCJbOqNNztoxZokRig/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMTNfMTExNTM1LnBuZw==.webp",
+              "date": "Fri, 13 Nov 2026 11:48:52 -0500"
+            },
+            {
+              "title": "Nvidia CEO resigns amid scandal; CFO named interim",
+              "link": "https://www.manufacturingdive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874515/",
+              "summary": "Jensen Huang resigned effective immediately, with the chipmaker naming its long-time CFO Colette Kress as interim CEO until a permanent successor is found, Nvidia announced Thursday.",
+              "image": "https://imgproxy.divecdn.com/F0KZ_t3vSV7XUlwg13_F5g6zsZ9EHYPxZINu-nt7PEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAxMzI4MDE3LmpwZ19yZXNpemUuanBn.webp",
+              "date": "Fri, 13 Nov 2026 09:17:33 -0500"
+            },
+            {
+              "title": "Anthropic launches \u2018Claude for Manufacturing\u2019",
+              "link": "https://www.manufacturingdive.com/news/anthropic-launches-claude-for-manufacturing/874303/",
+              "summary": "The new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports and supplier requests from the systems they already run, the company said.",
+              "image": "https://imgproxy.divecdn.com/pDxKQKtWTVPDKdaN4msiFVHiIDZ8DBxQF3_SI1mqeQM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1NTY2OTExLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 12:09:44 -0500"
+            },
             {
               "title": "CNH to sell 70% stake in construction equipment business",
               "link": "https://www.manufacturingdive.com/news/cnh-sell-70-percent-stake-construction-equipment-business-kobelco/874497/",
               "summary": "The heavy machinery maker plans to offload a majority stake to Kobelco for $700 million and focus solely on its agriculture business.",
               "image": null,
               "date": "Thu, 12 Nov 2026 11:48:00 -0500"
-            },
-            {
-              "title": "Bipartisan push possible to curb Trump tariffs",
-              "link": "https://www.manufacturingdive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874502/",
-              "summary": "Three bills in Congress would significantly restrict presidential tariff power if they become law, and experts say there's appetite for change in trade policy.",
-              "image": "https://imgproxy.divecdn.com/B5K32mxvlqvgeoWeqtwBEmM0K_6f9uMKpROSG_9hJZ4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDYyNTEzX1ExQzJwdUguanBn.webp",
-              "date": "Thu, 12 Nov 2026 07:25:00 -0500"
-            },
-            {
-              "title": "Manufacturing advocates make case for tariffs following midterm results",
-              "link": "https://www.manufacturingdive.com/news/manufacturing-advocates-make-case-tariffs-following-mid-term-results/874379/",
-              "summary": "Although polls show the public is tired of import taxes, rolling back trade enforcement would be a \u201cserious mistake,\u201d according to a report from the Alliance for American Manufacturing.",
-              "image": "https://imgproxy.divecdn.com/tdzbT6QKbXNwmq41zahyN6zhXPRKaszPN-OyRN5QiNE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg4OTI0OTY2LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 12:02:00 -0500"
-            },
-            {
-              "title": "Mars to invest $1.4B in US manufacturing, operations in 2027",
-              "link": "https://www.manufacturingdive.com/news/mars-invest-us-manufacturing-operations-snacking-kellanova-acquisition/874403/",
-              "summary": "The investment, the largest made by the M&Ms maker in a single year, will help grow its snacking portfolio following its $36 billion acquisition of Kellanova.",
-              "image": "https://imgproxy.divecdn.com/Cvb-tJIAKSom1fuvdBHQuxaY5YoFQmxOeiDwKIPs1P8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJzX0luY29ycG9yYXRlZF9DaGVlel9JdF9Jbm5vdmF0aW9uc19fX0dsdXRlbl9GcmVlLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 11:00:00 -0500"
-            },
-            {
-              "title": "Softbank and ABB reenter talks after China blocked acquisition",
-              "link": "https://www.manufacturingdive.com/news/softbank-abb-reenter-talks-after-china-blocked-robotics-acquisition-5b-deal/874244/",
-              "summary": "The decision could result in a carve-out of the $5.4 billion deal, a new buyer or a potential spin-off.",
-              "image": "https://imgproxy.divecdn.com/lOGcAx0Nk9tgpp4SKZ3_khHPcRGsYl7eKqyPkPfRDVs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Sb2JvdGljVmVoaWNsZVByb2R1Y3Rpb24uanBn.webp",
-              "date": "Tue, 10 Nov 2026 12:06:00 -0500"
             }
           ]
         },
@@ -990,13 +990,27 @@
           "name": "Trucking Dive",
           "url": "https://www.truckingdive.com",
           "lead_story": {
-            "title": "Forward Air Q3 operating income nearly triples YoY to $44M",
-            "link": "https://www.truckingdive.com/news/forward-air-q3-operating-income-nearly-triples-yoy-to-44m/874063/",
-            "summary": "The company expects more momentum from a new two-year deal with a major longstanding client, CEO Shawn Stewart said.",
-            "image": null,
-            "date": "Thu, 12 Nov 2026 09:31:00 -0500"
+            "title": "3 trucking businesses go bankrupt in California, Illinois and Maryland",
+            "link": "https://www.truckingdive.com/news/3-trucking-businesses-go-bankrupt-in-california-illinois-and-maryland/874391/",
+            "summary": "Road King Transport, Jared Lyons Trucking and Silk Route Transportation all reported repayment issues with equipment lenders.",
+            "image": "https://imgproxy.divecdn.com/vJBXW_c1_CTP9GseCnzu7WCBpcrrsNl_DHVOrVJELH4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQyMjk0NTMwLmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 10:02:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "Nussbaum Transportation finds next CEO from within",
+              "link": "https://www.truckingdive.com/news/nussbaum-transportation-finds-next-ceo-from-within/833268/",
+              "summary": "Brent Nussbaum, who has led the company since 2000, is handing the reins to longtime executive Bill Wettstein on Jan. 1",
+              "image": null,
+              "date": "Fri, 13 Nov 2026 09:52:00 -0500"
+            },
+            {
+              "title": "Forward Air Q3 operating income nearly triples YoY to $44M",
+              "link": "https://www.truckingdive.com/news/forward-air-q3-operating-income-nearly-triples-yoy-to-44m/874063/",
+              "summary": "The company expects more momentum from a new two-year deal with a major longstanding client, CEO Shawn Stewart said.",
+              "image": null,
+              "date": "Thu, 12 Nov 2026 09:31:00 -0500"
+            },
             {
               "title": "7 trucking execs weigh in on 2027 market and business conditions",
               "link": "https://www.truckingdive.com/news/7-trucking-execs-weigh-in-on-2027-market-and-business-conditions/874201/",
@@ -1017,20 +1031,6 @@
               "summary": "Partner Janus Electric, which repurposes traditional tractors with swappable setups, is using the partnership to help move into North American markets.",
               "image": null,
               "date": "Wed, 11 Nov 2026 09:36:00 -0500"
-            },
-            {
-              "title": "[Podcast] The Long Haul",
-              "link": "https://www.truckingdive.com/spons/podcast-the-long-haul/831206/",
-              "summary": "This three-part podcast is for the people who actually get behind the wheel and do the job.",
-              "image": "https://imgproxy.divecdn.com/5N0EcrGOab11p518J_xJFOA3tHoylufLfbeSahaH6FY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XZXJuZXJFbnRlcnByaXNlc0luY19UcnVja2luZ0RpdmVfUG9kY2FzdEltYWdlXzEwMjkyNl9maW5hbF9Db3ZlckltYWdlLnBuZw==.webp",
-              "date": "Wed, 11 Nov 2026 08:00:00 -0500"
-            },
-            {
-              "title": "Marten reports fewer trucking miles but notches 14% TL rate gain",
-              "link": "https://www.truckingdive.com/news/marten-reports-fewer-trucking-miles-but-notches-14-tl-rate-gain/874114/",
-              "summary": "Operating income in its dedicated segment nosedived in Q3 while its TL segment reduced the severity of an operating loss.",
-              "image": "https://imgproxy.divecdn.com/kQle0BMv_1OgrR4LVjrNRJOlhWWnOJZOSpUSkrxGKdw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDE5ODY5OTM2LmpwZw==.webp",
-              "date": "Tue, 10 Nov 2026 10:25:00 -0500"
             }
           ]
         },
@@ -1038,47 +1038,47 @@
           "name": "WardsAuto",
           "url": "https://www.wardsauto.com",
           "lead_story": {
-            "title": "Lexus\u2019 top US executive sees growth despite headwinds",
-            "link": "https://www.wardsauto.com/news/lexus-top-us-executive-sees-growth-despite-headwinds/873948/",
-            "summary": "In a Q&A with WardsAuto, Dejuan Ross underscored a diversified yet electrified lineup \u2014 and wants to keep giving its customers \"a value story\" amid challenges from tariffs.",
-            "image": "https://imgproxy.divecdn.com/IrtPKKIo-Dili5XH1OVNeFdmc3skEbaFsvREuNWZ-8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI3X0xleHVzX05YXzM1MGhfRl9TUE9SVF9JbmNvZ25pdG9fMDA5LTE1MDB4MTAwMC5qcGc=.webp",
-            "date": "Thu, 12 Nov 2026 12:37:40 -0500"
+            "title": "Stellantis faces lawsuit from Canadian government over Brampton plant sale",
+            "link": "https://www.wardsauto.com/news/stellantis-faces-lawsuit-from-canadian-government-over-brampton-plant-sale/874647/",
+            "summary": "Although the time to stop the deal has passed, Canada hasn\u2019t forgotten about the CA$529 million it committed to Stellantis for a lasting presence there.",
+            "image": "https://imgproxy.divecdn.com/67_RR6PcrsFc3ob0HfZp9gkUoGkvk6CSGBLO2kwMehU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSDAyNV8wMzRQRi5qcGc=.webp",
+            "date": "Fri, 13 Nov 2026 14:40:00 -0500"
           },
           "top_stories": [
             {
-              "title": "BMW launching Level 2 urban automated driving in Germany in 2027",
-              "link": "https://www.wardsauto.com/news/bmw-launching-level-2-urban-automated-driving-in-germany-in-2027/873711/",
+              "title": "Automakers using advanced tech to cut waste and costs, boost flexibility",
+              "link": "https://www.wardsauto.com/news/automakers-using-advanced-tech-to-cut-waste-and-costs-boost-flexibility/874649/",
+              "summary": "Artificial intelligence can help companies enhance connectivity on the factory floor and optimize supply chains, experts said at the State of Automotive Manufacturing virtual event.",
+              "image": "https://imgproxy.divecdn.com/OC-HmialRt5xQSFzPvlP2G4n1zCJbOqNNztoxZokRig/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMTNfMTExNTM1LnBuZw==.webp",
+              "date": "Fri, 13 Nov 2026 12:39:00 -0500"
+            },
+            {
+              "title": "2028 Honda CR-V will go all-hybrid with new platform",
+              "link": "https://www.wardsauto.com/news/2028-honda-cr-v-will-go-all-hybrid-with-new-platform/874576/",
+              "summary": "The compact SUV is the company\u2019s best-selling U.S. model, and the redesigned, seventh-generation will be powered exclusively by a new two-motor Honda Hybrid system.",
+              "image": "https://imgproxy.divecdn.com/p6373mrJkVuh1W19caPfY_WygMdILhIyKzzK_ImIKUc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI4X0hvbmRhX0NSLVZfVGVhc2VyLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 11:08:00 -0500"
+            },
+            {
+              "title": "Polestar unveils performance Formula 2030 concept",
+              "link": "https://www.wardsauto.com/news/polestar-unveils-performance-formula-2030-concept/874223/",
+              "summary": "The model blends sedan and hatchback design cues with lidar-powered autonomous driving capabilities.",
+              "image": "https://imgproxy.divecdn.com/sZtmwi0WJwVGCDeHQw_kSh5CJ_8xO1rHLKw_pHCjhxg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb2xlc3RhckZvcm11bGEyMDMwQ29uY2VwdDIwMjYuanBn.webp",
+              "date": "Fri, 13 Nov 2026 10:40:41 -0500"
+            },
+            {
+              "title": "Lexus\u2019 top US executive sees growth despite headwinds",
+              "link": "https://www.wardsauto.com/news/lexus-top-us-executive-sees-growth-despite-headwinds/873948/",
+              "summary": "In a Q&A with WardsAuto, Dejuan Ross underscored a diversified yet electrified lineup \u2014 and why the automaker wants to keep giving its customers \"a value story\" amid challenges from tariffs.",
+              "image": "https://imgproxy.divecdn.com/IrtPKKIo-Dili5XH1OVNeFdmc3skEbaFsvREuNWZ-8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI3X0xleHVzX05YXzM1MGhfRl9TUE9SVF9JbmNvZ25pdG9fMDA5LTE1MDB4MTAwMC5qcGc=.webp",
+              "date": "Thu, 12 Nov 2026 12:37:40 -0500"
+            },
+            {
+              "title": "BMW to launch Level 2 urban automated driving in Germany in 2027",
+              "link": "https://www.wardsauto.com/news/bmw-to-launch-level-2-urban-automated-driving-in-germany-in-2027/873711/",
               "summary": "The automaker\u2019s active route guidance technology can assist urban drivers turns, lane changes, right-of-way situations and roundabouts.",
               "image": "https://imgproxy.divecdn.com/RcCt9XDCjBa5_wxeyhm8SY_9X4wU0UllJsVhQ9w3u7Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOTIwX0RJMjZfMDAwNDYxNDIwLmpwZw==.webp",
               "date": "Thu, 12 Nov 2026 12:28:00 -0500"
-            },
-            {
-              "title": "Ford names new VP of vehicle programs",
-              "link": "https://www.wardsauto.com/news/ford-names-new-vp-of-vehicle-programs/874402/",
-              "summary": "Marissa West, former president of General Motors North America, is joining the company effective Nov. 16, and will support vehicle development and global product programs.",
-              "image": "https://imgproxy.divecdn.com/LbbZju0LRvPLEQwBF0m2JCOZ1vJQ-mNrFTPtKBWY5F4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMTFfYXRfMTAuNDkuMjNBTS5wbmc=.webp",
-              "date": "Thu, 12 Nov 2026 11:27:00 -0500"
-            },
-            {
-              "title": "BMW announces new battery supply deals for US, Europe",
-              "link": "https://www.wardsauto.com/news/bmw-announces-new-battery-supply-deals-for-us-europe/874176/",
-              "summary": "The automaker contracted with battery cell manufacturers Samsung SDI and LG Energy Solution as it aims for a more localized supply chain for future electric vehicles.",
-              "image": "https://imgproxy.divecdn.com/t20mcJ7JRoa_GIKeoaG8loCqTQJIPogEgPTFJNcKmlE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOTIwX1A5MDY1NzUyMF9oaWdoUmVzX2Fzc2VtYmx5LW9mLWhpZ2gtdm9sLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 12:10:00 -0500"
-            },
-            {
-              "title": "SDV cybersecurity risks a top fear of developers",
-              "link": "https://www.wardsauto.com/news/sdv-cybersecurity-risks-a-top-fear-of-developers/873559/",
-              "summary": "QNX\u2019s second annual survey shines a light on the industry\u2019s challenges and opportunities for the connected car.",
-              "image": "https://imgproxy.divecdn.com/rqvPUoZwrunAhfV2x_DUHjJO8Obl9eaKPiz7ea6nxjY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Wb2xrc3dhZ2VuR3JvdXBTb2Z0d2FyZURlZmluZWRWZWhpY2xlVGVjaC5qcGc=.webp",
-              "date": "Wed, 11 Nov 2026 12:07:00 -0500"
-            },
-            {
-              "title": "Pressure builds to include UK autos, parts in \u2018Made in EU\u2019 rules",
-              "link": "https://www.wardsauto.com/news/pressure-builds-to-include-uk-autos-parts-in-made-in-eu-rules/873836/",
-              "summary": "An academic report suggests European automakers could lose their competitive edge to China-based auto brands without the U.K.",
-              "image": "https://imgproxy.divecdn.com/bd32Qnktx-K1U_J2bxE0NeAyOh0Yk4BEa5ujEZOxnBc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Ub3lvdGFDb3JvbGxhQ2FyaW5hUHJvZHVjdGlvbkJ1cm5hc3RvblVLLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 12:04:00 -0500"
             }
           ]
         }
@@ -1091,13 +1091,34 @@
           "name": "Construction Dive",
           "url": "https://www.constructiondive.com",
           "lead_story": {
-            "title": "Clark, AECOM JV selected for $3B Kansas City Chiefs stadium",
-            "link": "https://www.constructiondive.com/news/clark-aecom-jv-kansas-city-chiefs-stadium/874555/",
-            "summary": "The 70,000-seat venue will anchor a larger $4.5 billion capital investment plan in Kansas, including a $300 million practice facility and $1.2 billion in adjacent projects.",
-            "image": "https://imgproxy.divecdn.com/Tme9G3yvnA-HdCBtQBKEjqQule_q5en-7Hla9ent4yM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hYjNnMjNybnBrcTN5ejMzd2ZoMS5qcGVn.webp",
-            "date": "Thu, 12 Nov 2026 15:41:15 -0500"
+            "title": "Ferrovial wins $538M Texas water project",
+            "link": "https://www.constructiondive.com/news/ferrovial-wins-538m-texas-water-project/874640/",
+            "summary": "The reclamation work in Fort Worth, to be delivered by subsidiary Webber, is the firm\u2019s largest water infrastructure project in the U.S. to date.",
+            "image": "https://imgproxy.divecdn.com/eJY8NQajAs72-TbxuvIE3SlXCpCk6KwvDNgs4Q3l220/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYXJ5cy1jcmVlay13YXRlci1yZWNsYW1hdGlvbi1wbGFudC1yZW5kZXIucG5n.webp",
+            "date": "Fri, 13 Nov 2026 12:08:16 -0500"
           },
           "top_stories": [
+            {
+              "title": "As data center backlash grows, a model law aims to give cities more control",
+              "link": "https://www.constructiondive.com/news/data-center-backlash-model-law-aims-to-give-cities-more-control/874600/",
+              "summary": "Data centers \u201care moving faster and at a larger scale than most local codes were built to handle,\u201d Climate Mayors\u2019 executive director said. Its model local law offers a framework for siting, permitting, transparency and ...",
+              "image": "https://imgproxy.divecdn.com/W_9P5s3E-Fuo1H449GgMo7JIH9JFwbemVzj3c3sOEtA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwODE0ODQ0LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 09:25:00 -0500"
+            },
+            {
+              "title": "Punch List: Fortis Construction launches in Texas, Hensel Phelps\u2019 build wins DBIA award",
+              "link": "https://www.constructiondive.com/news/punch-list-fortis-construction-texas-hensel-phelps-dbia-award/874597/",
+              "summary": "Plus, Manhattan makes an executive move, Rosie the Riveter Trust opens awards season and a FlatironDragados-Stacy Witbeck JV marks progress on Los Angeles\u2019 G Line.",
+              "image": "https://imgproxy.divecdn.com/S2pM6QagjFJqB_pgRq5NghMBJkM2cOJ2lW36cGhDxZo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90cmFuc2l0LWctbGluZS1pbXByb3ZlbWVudHMtaW4tbGEtY291bnR5LWFsdC1pbWFnZS0xLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 09:23:00 -0500"
+            },
+            {
+              "title": "Clark, AECOM JV selected for $3B Kansas City Chiefs stadium",
+              "link": "https://www.constructiondive.com/news/clark-aecom-jv-kansas-city-chiefs-stadium/874555/",
+              "summary": "The 70,000-seat venue will anchor a larger $4.5 billion capital investment plan in Kansas, including a $300 million practice facility and $1.2 billion in adjacent projects.",
+              "image": "https://imgproxy.divecdn.com/Tme9G3yvnA-HdCBtQBKEjqQule_q5en-7Hla9ent4yM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hYjNnMjNybnBrcTN5ejMzd2ZoMS5qcGVn.webp",
+              "date": "Thu, 12 Nov 2026 15:41:15 -0500"
+            },
             {
               "title": "Construction site next to fatal Brooklyn collapse previously violated stop-work order: DOB",
               "link": "https://www.constructiondive.com/news/project-fatal-brooklyn-collapse-stop-work-order/874545/",
@@ -1111,27 +1132,6 @@
               "summary": "The DOB has issued a stop-work order in response to \u201cunsafe construction operations\u201d that led to multiple deaths and hospitalizations. The exact cause of the collapse is under investigation.",
               "image": "https://imgproxy.divecdn.com/B7ylG-fSga6ZJ4QLi6-nbPWuqCznEWG8G1OapAv9gGg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NzcwMDM0LmpwZw==.webp",
               "date": "Thu, 12 Nov 2026 09:58:51 -0500"
-            },
-            {
-              "title": "Federal permitting bill that could speed apartment construction advances in Senate",
-              "link": "https://www.constructiondive.com/news/baaja-permitting-bill-speed-apartment-construction-advances-in/874482/",
-              "summary": "Bipartisan American Affordability and Jobs Act of 2026 measures could streamline permitting processes and development programs for multifamily, according to housing industry groups.",
-              "image": "https://imgproxy.divecdn.com/DAzdM5U0RbmurXsIiWajrfadmeYPB5qVjDuOqI8KJJg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg0OTU5NTg5X0kwN1hOTjcuanBn.webp",
-              "date": "Thu, 12 Nov 2026 09:46:00 -0500"
-            },
-            {
-              "title": "Gilbane wins $114M Alaska Coast Guard water infrastructure project",
-              "link": "https://www.constructiondive.com/news/gilbane-alaska-kodiak-coast-guard-water/874438/",
-              "summary": "As part of the scope of work, the contractor will replace more than 8 miles of water distribution lines across Base Kodiak and upgrade four storage tanks.",
-              "image": "https://imgproxy.divecdn.com/Je9zr-vNroU0lomaoeOnWqV_pSnTl13yU5j7j4gEE0k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb2FzdF9ndWFyZF9rb2RpYWsuanBlZw==.webp",
-              "date": "Wed, 11 Nov 2026 15:34:00 -0500"
-            },
-            {
-              "title": "New Mycon CIO will focus on cybersecurity, AI",
-              "link": "https://www.constructiondive.com/news/new-mycon-cio-cybersecurity-ai/874412/",
-              "summary": "The firm appointed Michael Shepherd as its CIO this month, following other builders\u2019 moves to prioritize the evolving tech landscape in the C-suite.",
-              "image": "https://imgproxy.divecdn.com/rlpwIiexdLwP3weCufGdOUgo4hrfBLAeOPGMkLX3BaQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjczNTk1MTAxLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 12:44:00 -0500"
             }
           ]
         },
@@ -1139,13 +1139,27 @@
           "name": "Facilities Dive",
           "url": "https://www.facilitiesdive.com",
           "lead_story": {
-            "title": "More than 180 companies want electrification fast-tracked",
-            "link": "https://www.facilitiesdive.com/news/over-180-companies-call-on-cop31-presidency-to-fix-electrification-bottleneck/874288/",
-            "summary": "Companies including Schneider Electric, H&M Group, Danone, Ikea and Uber reaffirmed their commitment to electrification and are looking for a United Nations group to lead the way.",
-            "image": "https://imgproxy.divecdn.com/bDnxYorOzL4l8Xd7HGv5eVTvDCbsNgGaX6grTJVe1Sk/g:nowe:0:9/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0MjQ3NDQzLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 12:38:23 -0500"
+            "title": "New Ring roving surveillance camera won\u2019t capture everything",
+            "link": "https://www.facilitiesdive.com/news/new-ring-roving-surveillance-camera-wont-capture-everything/874572/",
+            "summary": "Sensor compatibility and mobility issues could limit its usefulness, according to reviews.",
+            "image": "https://imgproxy.divecdn.com/TnA8WlmHSXUXjcggQE52rTyh113H8QruqINX1LTFR7s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SaW5nLmpmaWY=.webp",
+            "date": "Fri, 13 Nov 2026 12:21:37 -0500"
           },
           "top_stories": [
+            {
+              "title": "Kastle-Bilt deal creates employee workplace incentives",
+              "link": "https://www.facilitiesdive.com/news/kastle-bilt-deal-creates-employee-workplace-incentives/874641/",
+              "summary": "As employees use their building access credentials, they get local-business rewards. That gives building operators incentives for attracting and retaining talent, the companies say.",
+              "image": "https://imgproxy.divecdn.com/DOkSPQz1isJLkRp7BbiiG-DJkVT5quyiLQx-AtIPGHM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc2NTkxNTkyLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 12:08:26 -0500"
+            },
+            {
+              "title": "More than 180 companies want electrification fast-tracked",
+              "link": "https://www.facilitiesdive.com/news/over-180-companies-call-on-cop31-presidency-to-fix-electrification-bottleneck/874288/",
+              "summary": "Companies including Schneider Electric, H&M Group, Danone, Ikea and Uber reaffirmed their commitment to electrification and are looking for a United Nations group to lead the way.",
+              "image": "https://imgproxy.divecdn.com/bDnxYorOzL4l8Xd7HGv5eVTvDCbsNgGaX6grTJVe1Sk/g:nowe:0:9/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0MjQ3NDQzLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 12:38:23 -0500"
+            },
             {
               "title": "The AI boom could shift diesel generators from backup to everyday use",
               "link": "https://www.facilitiesdive.com/news/ai-boom-could-shift-diesel-generators-backup-everyday-use/874283/",
@@ -1163,23 +1177,9 @@
             {
               "title": "Commercial services firms hopeful despite economic uncertainty, data center backlash",
               "link": "https://www.facilitiesdive.com/news/commercial-services-firms-hopeful-despite-economic-uncertainty-data-center/874488/",
-              "summary": "Some leasing and outsourcing deals have slowed, but demand for facilities management services remains strong, the heads of CBRE, JLL and other real estate companies say.",
+              "summary": "Leasing and outsourcing deals have slowed, but demand for facilities management services remains strong, the heads of CBRE, JLL and other real estate companies say.",
               "image": "https://imgproxy.divecdn.com/pLlkxfrAYlWh8X2bUDyHkLP80IYyOD5YYDzqufNK94w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUxMDI2MDQ5XzEuanBn.webp",
               "date": "Thu, 12 Nov 2026 10:01:27 -0500"
-            },
-            {
-              "title": "Honeywell boosts Forge capabilities, says other AI enhancements coming",
-              "link": "https://www.facilitiesdive.com/news/honeywell-boosts-forge-capabilities-says-other-ai-enhancements-coming/874394/",
-              "summary": "The company added several enhancements to its master systems integration platform and said it will release upgrades to its LenelS2 fire and life safety suite and Niagara framework in early 2027.",
-              "image": "https://imgproxy.divecdn.com/suPBdC9wIFrXuXbYwTT_YCeOELIQ8TkAQ81HmZIzzMc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzMwNDM0NDUzLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 11:27:33 -0500"
-            },
-            {
-              "title": "Safer batteries are helping to support on-site storage trend",
-              "link": "https://www.facilitiesdive.com/news/safer-batteries-are-helping-to-support-on-site-storage-trend/874295/",
-              "summary": "Manufacturers have made improvements to multiple tiers of protection to reduce the chance of an explosion or thermal runaway event, a battery researcher says.",
-              "image": "https://imgproxy.divecdn.com/o-9opBNSJDDaKzBQTPG85_YjgdeZC9ModMYcIhSuKcA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEzNzI2ODI5XzEuanBn.webp",
-              "date": "Wed, 11 Nov 2026 11:17:40 -0500"
             }
           ]
         },
@@ -1187,13 +1187,20 @@
           "name": "Hotel Dive",
           "url": "https://www.hoteldive.com",
           "lead_story": {
-            "title": "Manhattan\u2019s Elys\u00e9e New York set to reopen after monthslong renovation",
-            "link": "https://www.hoteldive.com/news/elysee-new-york-reopens-after-renovation/874557/",
-            "summary": "The historic hotel will remain home to Monkey Bar and offer new culinary and wellness amenities as the flagship property of Hera Hospitality Group\u2019s Wunderkind Hotels & Resorts.",
-            "image": "https://imgproxy.divecdn.com/dm31cDU1_RqX17jFxcLTU1J85cFpaX5EiP5ddsyt7H0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81X0F1dENhbXQuanBn.webp",
-            "date": "Thu, 12 Nov 2026 15:31:26 -0500"
+            "title": "Lodging Lowdown: Hyatt opens lifestyle JdV hotel in Pacific Northwest, AI Hospitality Group adds 3 execs",
+            "link": "https://www.hoteldive.com/news/hyatt-opens-lifestyle-jdv-hotel-pnw-aihg-names-execs/874611/",
+            "summary": "Plus, Avion Hospitality expands its luxury portfolio with the 138-room Cameo Beverly Hills, LXR Hotels & Resorts in California, owned by Braemar Hotels & Resorts.",
+            "image": "https://imgproxy.divecdn.com/IaDnu59ivv13eBOPTx47_ybuZX0ufg2SUauDPsJ0Dwg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zamNhbS1oZWF0ZWQtb3V0ZG9vci1wb29sLTM2OTYuanBn.webp",
+            "date": "Fri, 13 Nov 2026 09:39:46 -0500"
           },
           "top_stories": [
+            {
+              "title": "Manhattan\u2019s Elys\u00e9e New York set to reopen after monthslong renovation",
+              "link": "https://www.hoteldive.com/news/elysee-new-york-reopens-after-renovation/874557/",
+              "summary": "The historic hotel will remain home to Monkey Bar and offer new culinary and wellness amenities as the flagship property of Hera Hospitality Group\u2019s Wunderkind Hotels & Resorts.",
+              "image": "https://imgproxy.divecdn.com/dm31cDU1_RqX17jFxcLTU1J85cFpaX5EiP5ddsyt7H0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81X0F1dENhbXQuanBn.webp",
+              "date": "Thu, 12 Nov 2026 15:31:26 -0500"
+            },
             {
               "title": "US hotels saw 11% RevPAR uptick in September, highest increase since 2023: CoStar",
               "link": "https://www.hoteldive.com/news/us-hotels-september-revpar-highest-increase-since-2023/874487/",
@@ -1221,13 +1228,6 @@
               "summary": "International inbound travelers are expected to spend 6.3% less this year compared to 2025, presenting a risk to tourist-serving businesses such as hotels, per the U.S. Travel Association.",
               "image": "https://imgproxy.divecdn.com/qa9fNBnRZYUjsleOMfY6gky1koG8q8z0UyUHUqaea2s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjUxMzQxMTAwLmpwZw==.webp",
               "date": "Wed, 11 Nov 2026 09:09:05 -0500"
-            },
-            {
-              "title": "Accor, Hard Rock enter partnership on loyalty, distribution",
-              "link": "https://www.hoteldive.com/news/accor-hard-rock-enter-partnership-loyalty-distribution/874251/",
-              "summary": "The agreement will expand Hard Rock\u2019s distribution network and accelerate its global development, while enhancing both companies\u2019 loyalty programs.",
-              "image": "https://imgproxy.divecdn.com/IS8PdtFLpjypvj-lOWlVlV2crbkaaJvSqfg7peHW77s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8zX0hhcmRfUm9ja19Ib3RlbF9OZXdfWW9ya19Mb2JieS5qcGVn.webp",
-              "date": "Tue, 10 Nov 2026 10:21:56 -0500"
             }
           ]
         },
@@ -1235,13 +1235,20 @@
           "name": "Multifamily Dive",
           "url": "https://www.multifamilydive.com",
           "lead_story": {
-            "title": "Construction site next to fatal Brooklyn collapse previously violated stop-work order: DOB",
-            "link": "https://www.multifamilydive.com/news/project-fatal-brooklyn-collapse-stop-work-order/874574/",
-            "summary": "The Wednesday incident killed eight people, including two construction workers, said New York City Mayor Zohran Mamdani. He vowed the city would hold the responsible parties accountable.",
-            "image": "https://imgproxy.divecdn.com/uKZgVQtlk-L3yJ_Iu1r96b5qBEhV3lJTnfZyxULVQVQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0Nzc3MjQzLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 16:33:00 -0500"
+            "title": "Why EAH Housing moved into Oregon to buy 1K affordable units",
+            "link": "https://www.multifamilydive.com/news/affordable-apartment-supportive-housing-multifamily-transaction/874680/",
+            "summary": "The California-based developer acquired 19 properties from Catholic Charities of Oregon and opened a new affordable community in Sacramento.",
+            "image": null,
+            "date": "Fri, 13 Nov 2026 15:40:03 -0500"
           },
           "top_stories": [
+            {
+              "title": "Construction site next to fatal Brooklyn collapse previously violated stop-work order: DOB",
+              "link": "https://www.multifamilydive.com/news/project-fatal-brooklyn-collapse-stop-work-order/874574/",
+              "summary": "The Wednesday incident killed eight people, including two construction workers, said New York City Mayor Zohran Mamdani. He vowed the city would hold the responsible parties accountable.",
+              "image": "https://imgproxy.divecdn.com/uKZgVQtlk-L3yJ_Iu1r96b5qBEhV3lJTnfZyxULVQVQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0Nzc3MjQzLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 16:33:00 -0500"
+            },
             {
               "title": "A look at how apartment REITs did in Q3",
               "link": "https://www.multifamilydive.com/news/reits-concessions-rent-growth-acquisitions-dispositions/874382/",
@@ -1269,13 +1276,6 @@
               "summary": "Bipartisan American Affordability and Jobs Act of 2026 measures could streamline permitting processes and development programs for multifamily, according to housing industry groups.",
               "image": "https://imgproxy.divecdn.com/DAzdM5U0RbmurXsIiWajrfadmeYPB5qVjDuOqI8KJJg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg0OTU5NTg5X0kwN1hOTjcuanBn.webp",
               "date": "Wed, 11 Nov 2026 16:22:00 -0500"
-            },
-            {
-              "title": "BNPL for rent seeks a market",
-              "link": "https://www.multifamilydive.com/news/bnpl-for-rent-seeks-a-market/874446/",
-              "summary": "A new crop of fintechs is exploring growth opportunities in pay-later lending for monthly rent payments as inflation pinches consumers.",
-              "image": "https://imgproxy.divecdn.com/0LdBCuL4_vMYuwTg2UHZaRsSEpHFfLiNYPpx3Xsr17o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk1OTgxODEwLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 15:48:00 -0500"
             }
           ]
         },
@@ -1283,47 +1283,47 @@
           "name": "Smart Cities Dive",
           "url": "https://www.smartcitiesdive.com",
           "lead_story": {
-            "title": "DOJ sues Lyft for alleged discrimination against passengers with wheelchairs, guide dogs",
-            "link": "https://www.smartcitiesdive.com/news/justice-department-sues-lyft-ada-compliance/874448/",
-            "summary": "\u201cLyft denies service to hundreds, and likely thousands,\u201d of people with disabilities, the lawsuit alleges.",
-            "image": "https://imgproxy.divecdn.com/yqIarPmFi-tNOMBDakJ-sK8sEt7oLV0tGvSA5LcHIhE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg2MDg1MjU2XzBqWVFocnouanBn.webp",
-            "date": "Thu, 12 Nov 2026 11:14:00 -0500"
+            "title": "The best large US cities for biking in 2026: PeopleForBikes",
+            "link": "https://www.smartcitiesdive.com/news/peopleforbikes-best-large-us-cities-for-biking-2026/874595/",
+            "summary": "The report named Minneapolis, Seattle and New York City\u2019s Brooklyn borough the three best large cities for bicycling in 2026.",
+            "image": "https://imgproxy.divecdn.com/CktPrTLC0R5YhR9TWZeoM829bfsYUWONmCoyjEHdMIE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODMxMTUxMTUuanBn.webp",
+            "date": "Fri, 13 Nov 2026 11:43:00 -0500"
           },
           "top_stories": [
             {
-              "title": "Technology upgrades yield positive ROI for local governments: report",
+              "title": "Mayors call for federal housing funding \u2014 and guardrails to ensure it\u2019s administered",
+              "link": "https://www.smartcitiesdive.com/news/mayors-federal-funding-road-to-housing-act-uscm/874624/",
+              "summary": "Congress\u2019 continuing resolution to fund the federal government expires Dec. 11.",
+              "image": "https://imgproxy.divecdn.com/5bxJY_5W-d2eo7vOy6BnOAuY_Mt0eJ2x8EZpu-rzTnk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk3NDU4OTQyX3R1T3pCaEkuanBn.webp",
+              "date": "Fri, 13 Nov 2026 10:56:53 -0500"
+            },
+            {
+              "title": "LA wildfires highlight cities\u2019 need for financial recovery plan: report",
+              "link": "https://www.smartcitiesdive.com/news/la-wildfires-highlight-cities-need-for-financial-recovery-plan-forge-la/874621/",
+              "summary": "A new playbook urges cities to establish partnerships with community development financial institutions, secure dedicated recovery funding and remove policy barriers that slow rebuilding.",
+              "image": "https://imgproxy.divecdn.com/kNR3OPpdoCxSfeh9d4tyU3BNQL0QyimXFcrij5xBfF0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc0NTcyNjQ5LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 10:45:20 -0500"
+            },
+            {
+              "title": "DOJ sues Lyft for alleged discrimination against passengers with wheelchairs, guide dogs",
+              "link": "https://www.smartcitiesdive.com/news/justice-department-sues-lyft-ada-compliance/874448/",
+              "summary": "\u201cLyft denies service to hundreds, and likely thousands,\u201d of people with disabilities, the government\u2019s lawsuit alleges.",
+              "image": "https://imgproxy.divecdn.com/yqIarPmFi-tNOMBDakJ-sK8sEt7oLV0tGvSA5LcHIhE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg2MDg1MjU2XzBqWVFocnouanBn.webp",
+              "date": "Thu, 12 Nov 2026 11:14:00 -0500"
+            },
+            {
+              "title": "Tech upgrades boost ROI for local governments: report",
               "link": "https://www.smartcitiesdive.com/news/technology-upgrades-yield-positive-roi-for-local-governments-report/874501/",
               "summary": "While most governments have a technology modernization road map, concerns about talent retention and budget cuts are widespread, an Ernst & Young survey found.",
               "image": "https://imgproxy.divecdn.com/k0741MKVdIEgGXv9JzepZNdJf8FtUzo52Gh4XjEgDJc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDg5MDUwNzQwLmpwZw==.webp",
               "date": "Thu, 12 Nov 2026 10:36:54 -0500"
             },
             {
-              "title": "As data center backlash grows, model law aims to give cities more control",
+              "title": "As data center backlash grows, a model law aims to give cities more control",
               "link": "https://www.smartcitiesdive.com/news/data-center-backlash-model-law-aims-to-give-cities-more-control/874485/",
               "summary": "Data centers \u201care moving faster and at a larger scale than most local codes were built to handle,\u201d Climate Mayors\u2019 executive director said. Its model local law offers a framework for siting, permitting, transparency and ...",
               "image": "https://imgproxy.divecdn.com/W_9P5s3E-Fuo1H449GgMo7JIH9JFwbemVzj3c3sOEtA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwODE0ODQ0LmpwZw==.webp",
               "date": "Thu, 12 Nov 2026 09:48:57 -0500"
-            },
-            {
-              "title": "New public transit, safer streets advocacy group aims to bring \u2018national political firepower\u2019",
-              "link": "https://www.smartcitiesdive.com/news/center-for-american-mobility-shelley-brindle-transit-safe-streets/874319/",
-              "summary": "The Center for American Mobility and a sister research and education fund aim to support transportation issues and empower local advocates, its CEO said.",
-              "image": null,
-              "date": "Wed, 11 Nov 2026 11:34:00 -0500"
-            },
-            {
-              "title": "Voters\u2019 tax and spending decisions may narrow cities\u2019 fiscal options",
-              "link": "https://www.smartcitiesdive.com/news/voters-tax-spending-decisions-may-narrow-cities-fiscal-options/874383/",
-              "summary": "Midterm ballot measure results could affect local government autonomy, according to an S&P report. They also reveal \u201ca central theme on affordability and accountability,\u201d an analyst said.",
-              "image": "https://imgproxy.divecdn.com/SR3NwKuXInZLSS_MJo5Uy_CN4XorZPJFGCxwRdCbAz8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyODc4MjYwLmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 10:32:14 -0500"
-            },
-            {
-              "title": "Commercial air taxi flights planned for these 5 US regions",
-              "link": "https://www.smartcitiesdive.com/news/archer-joby-beta-prepare-air-taxi-commercial-flights/874131/",
-              "summary": "Archer Aviation, Beta Technologies and Joby Aviation are preparing for passenger operations with test flights in New York City, Los Angeles, the San Francisco Bay Area, Florida and Texas.",
-              "image": "https://imgproxy.divecdn.com/gX7hUnPjzyC93nzeJHSK2vSQOrR14U6khq-hrZGPPSs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcmNoZXJfQmF5X0FyZWFfTm9fUm9hZHNfVG91cl9TdGlsbC5qcGc=.webp",
-              "date": "Tue, 10 Nov 2026 11:13:00 -0500"
             }
           ]
         }
@@ -1336,13 +1336,27 @@
           "name": "Utility Dive",
           "url": "https://www.utilitydive.com",
           "lead_story": {
-            "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
-            "link": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
-            "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base expected to supply almost a quarter of 2027 consumption, EIA said.",
-            "image": "https://imgproxy.divecdn.com/UUCREs9YO8vHZYESd1yTG-MaZo89Cj6_a_ZuPGmTopw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MYW5jYXN0ZXJfQ2FsaWZvcm5pYV9zb2xhcl9hcnJheXMuanBn.webp",
-            "date": "Thu, 12 Nov 2026 13:25:33 -0500"
+            "title": "Utility, tech officials see opportunities to increase grid utilization",
+            "link": "https://www.utilitydive.com/news/utility-tech-officials-see-opportunities-to-increase-grid-utilization/874644/",
+            "summary": "Specialized AI models and grid-enhancing technologies could help, but the industry already has the basic planning and tools to make the grid more flexible, panelists said at the BNEF Houston Summit.",
+            "image": "https://imgproxy.divecdn.com/jkcI96EdHkmymR9p4YAMoRj3al063X9LARPYnfx-2AI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90cmFuc21pc3Npb25fbW9vZHkuanBn.webp",
+            "date": "Fri, 13 Nov 2026 12:26:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "What\u2019s next for California\u2019s climate laws following an appeals court split decision",
+              "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
+              "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+              "image": "https://imgproxy.divecdn.com/9e32dkKyICSv1Akrf-yylKpJv7mhT_s2E9XRqqp-1LU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3MTc2MTE0LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 12:00:00 -0500"
+            },
+            {
+              "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
+              "link": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
+              "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base that is expected to supply almost a quarter of 2027 consumption, EIA said.",
+              "image": "https://imgproxy.divecdn.com/UUCREs9YO8vHZYESd1yTG-MaZo89Cj6_a_ZuPGmTopw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MYW5jYXN0ZXJfQ2FsaWZvcm5pYV9zb2xhcl9hcnJheXMuanBn.webp",
+              "date": "Thu, 12 Nov 2026 13:25:33 -0500"
+            },
             {
               "title": "ConEd joins utilities seeking to loosen New York restrictions on owning generation",
               "link": "https://www.utilitydive.com/news/coned-says-resource-adequacy-environmental-compliance-drive-planning/874511/",
@@ -1351,32 +1365,18 @@
               "date": "Thu, 12 Nov 2026 11:05:13 -0500"
             },
             {
+              "title": "Around 400 onshore wind projects await DOD action, official tells court",
+              "link": "https://www.utilitydive.com/news/around-400-onshore-wind-projects-await-dod-action-official-says-in-court/874521/",
+              "summary": "Assistant Secretary of Defense Dale Marks told a federal court that the Pentagon doesn\u2019t have enough staff to review permits. A coalition suing DOD says the process ground \u201cto a halt\u201d after Marks was confirmed.",
+              "image": "https://imgproxy.divecdn.com/kwMy2PcJ3OkQO08Ay_BvEIG-7R-LvvxDovIfJqPss7k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0NDM3MDc1LmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 10:48:08 -0500"
+            },
+            {
               "title": "Data centers could lower your electricity bill. Will utilities let them?",
               "link": "https://www.utilitydive.com/news/data-centers-could-lower-your-electricity-bill-but-will-utilities-let-them/873144/",
               "summary": "When sales increase more than costs, rates should decline. But some utilities are using lower historical sales data with updated cost assumptions to try and \u201clock in\u201d higher rates, writes Edward Burgess of Current Energy...",
               "image": "https://imgproxy.divecdn.com/YH5i5RjT0gv0LbeujalYm5MiE5o6godbK5WMqeP8lPA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1MjgzNjk0X08xT2ZDVTMuanBn.webp",
               "date": "Thu, 12 Nov 2026 08:22:25 -0500"
-            },
-            {
-              "title": "Constellation pursues hybrid capacity contracts alongside nuclear uprates",
-              "link": "https://www.utilitydive.com/news/constellation-pursues-hybrid-nuclearcapacity-contracts-alongside-uprates/874408/",
-              "summary": "The offering gives Constellation \u201ca new way to pair the existing fleet with incremental capacity\u201d by adding batteries, generation and demand response, CEO Joe Dominguez said.",
-              "image": "https://imgproxy.divecdn.com/sh7S8Yd8mT7JsvEOS2eBrMI-gAui5wpd1Oz_xtUF_gM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UaHJlZV9NaWxlX0lzbGFuZF9hdF9uaWdodC5qcGc=.webp",
-              "date": "Wed, 11 Nov 2026 12:07:19 -0500"
-            },
-            {
-              "title": "No home left behind: Scaling VPP participation while maintaining customer control",
-              "link": "https://www.utilitydive.com/news/no-home-left-behind-scaling-vpp-participation-while-maintaining-customer-c/873474/",
-              "summary": "Utilities that redesign demand response and virtual power plant programs around how customers actually behave will be the ones to boost participation and system flexibility, writes Uplight\u2019s Gisela Glandt.",
-              "image": "https://imgproxy.divecdn.com/bD7iRB4p2z9MW7YqjmwwUzcI0X81qkyaqZacwStDPHo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTMxNTI1NTg2XzEuanBn.webp",
-              "date": "Wed, 11 Nov 2026 11:07:19 -0500"
-            },
-            {
-              "title": "California orders utilities to develop joint DER orchestration framework",
-              "link": "https://www.utilitydive.com/news/california-orders-utilities-to-develop-joint-der-orchestration-framework/874355/",
-              "summary": "The October order also directed PG&E, SCE and SDG&E to \u201cmore explicitly\u201d consider flexible demand, a move one regulator said could reduce interconnection delays.",
-              "image": "https://imgproxy.divecdn.com/SUkKiA-fFMKL5oUQy8GWqqNVD70Ph1fvPfgm41Jxglk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS93YXltb19lbGVjdHJpY19jaGFyZ2luZy5qcGc=.webp",
-              "date": "Wed, 11 Nov 2026 07:47:25 -0500"
             }
           ]
         },
@@ -1384,13 +1384,20 @@
           "name": "ESG Dive",
           "url": "https://www.esgdive.com",
           "lead_story": {
-            "title": "What\u2019s next for California\u2019s climate laws following an appeals court split decision",
-            "link": "https://www.esgdive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874578/",
-            "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
-            "image": "https://imgproxy.divecdn.com/9e32dkKyICSv1Akrf-yylKpJv7mhT_s2E9XRqqp-1LU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3MTc2MTE0LmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 16:43:32 -0500"
+            "title": "As data center backlash grows, a model law aims to give cities more control",
+            "link": "https://www.esgdive.com/news/data-center-backlash-model-law-aims-to-give-cities-more-control/874608/",
+            "summary": "Data centers \u201care moving faster and at a larger scale than most local codes were built to handle,\u201d Climate Mayors\u2019 executive director said. Its model local law offers a framework for siting, permitting, transparency and ...",
+            "image": "https://imgproxy.divecdn.com/W_9P5s3E-Fuo1H449GgMo7JIH9JFwbemVzj3c3sOEtA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAwODE0ODQ0LmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 10:13:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "What\u2019s next for California\u2019s climate laws following an appeals court split decision",
+              "link": "https://www.esgdive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874578/",
+              "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+              "image": "https://imgproxy.divecdn.com/9e32dkKyICSv1Akrf-yylKpJv7mhT_s2E9XRqqp-1LU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3MTc2MTE0LmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 16:43:32 -0500"
+            },
             {
               "title": "Platform launched at COP31 aims to scale transition capital in emerging markets",
               "link": "https://www.esgdive.com/news/platform-launched-at-cop31-aims-to-scale-transition-capital-in-emerging-mar/874527/",
@@ -1418,13 +1425,6 @@
               "summary": "The downshift in newly appointed female CFOs came as the pace of the turnover in the seat ticked up this year, according to Russell Reynolds Associates.",
               "image": null,
               "date": "Wed, 11 Nov 2026 10:09:00 -0500"
-            },
-            {
-              "title": "Over 180 companies call on COP31 presidency to fix electrification bottleneck",
-              "link": "https://www.esgdive.com/news/over-180-companies-call-on-cop31-presidency-to-fix-electrification-bottleneck/874278/",
-              "summary": "Companies including H&M Group, Danone, Ikea, and Uber are calling for the annual climate change conference to focus on accelerating electrification.",
-              "image": "https://imgproxy.divecdn.com/bDnxYorOzL4l8Xd7HGv5eVTvDCbsNgGaX6grTJVe1Sk/g:nowe:0:9/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA0MjQ3NDQzLmpwZw==.webp",
-              "date": "Tue, 10 Nov 2026 12:38:23 -0500"
             }
           ]
         },
@@ -1432,13 +1432,27 @@
           "name": "Waste Dive",
           "url": "https://www.wastedive.com",
           "lead_story": {
-            "title": "New York City plans to charge fee as containerization rollout expands",
-            "link": "https://www.wastedive.com/news/new-york-city-plans-to-charge-fee-as-containerization-rollout-expands/874489/",
-            "summary": "The city\u2019s Department of Sanitation is proposing to charge building owners up to $55 per unit in order to cover installation and maintenance costs. It\u2019s also expanding use of the bins to more neighborhoods.",
-            "image": null,
-            "date": "Thu, 12 Nov 2026 11:54:21 -0500"
+            "title": "Rumpke opens Illinois landfill; judge dismisses part of Seneca Meadows suit",
+            "link": "https://www.wastedive.com/news/landfill-waste-connections-seneca-meadows-emissions-new-york/874593/",
+            "summary": "Plus, Full Circle Future advocates for stricter New York landfill gas regulations and landfills in Minnesota and Alabama face fines.",
+            "image": "https://imgproxy.divecdn.com/NG-euAPYF4UnRYndmcDzYWUR75hpEw0yzw6PY9pv2Uo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV82X1J1bXBrZV9FQ0xGX0ZpcnN0TG9hZC5qcGc=.webp",
+            "date": "Fri, 13 Nov 2026 08:16:14 -0500"
           },
           "top_stories": [
+            {
+              "title": "New York City plans to charge fee as containerization rollout expands",
+              "link": "https://www.wastedive.com/news/new-york-city-plans-to-charge-fee-as-containerization-rollout-expands/874489/",
+              "summary": "The city\u2019s Department of Sanitation is proposing to charge building owners up to $55 per unit in order to cover installation and maintenance costs. It\u2019s also expanding use of the bins to more neighborhoods.",
+              "image": null,
+              "date": "Thu, 12 Nov 2026 11:54:21 -0500"
+            },
+            {
+              "title": "Waste and recycling bills left to watch as the 119th Congress wraps up",
+              "link": "https://www.wastedive.com/news/waste-recycling-bills-to-watch-2026-congress/874505/",
+              "summary": "Bills related to recycling initiatives for critical minerals have passed the House, but other recycling-related bills are still in committee. Notable sponsor Rep. Marianette Miller-Meeks, R-Iowa, lost her reelection.",
+              "image": "https://imgproxy.divecdn.com/o829JUDzwfQ3zSa1FFoMdgIZZdLI1hVibAN02LUUod0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzUxNC5qcGc=.webp",
+              "date": "Thu, 12 Nov 2026 10:45:25 -0500"
+            },
             {
               "title": "Major waste companies spent $1.2B on Q3 M&A, driven by GFL",
               "link": "https://www.wastedive.com/news/major-waste-companies-spent-12b-on-q3-ma-driven-by-gfl/874380/",
@@ -1459,20 +1473,6 @@
               "summary": "Casella\u2019s plan, a potential response to activist investor Jana Partners, included layoffs and operational updates in the mid-Atlantic. Casella also logged a $13.6 million write-off for abandoning a greenfield landfill pl...",
               "image": "https://imgproxy.divecdn.com/Thma0yJT77m-sCL6yNzUAHEObLr1NgZCsTOv4PVrB2o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DQVNFTExBLmpwZw==.webp",
               "date": "Tue, 10 Nov 2026 13:30:00 -0500"
-            },
-            {
-              "title": "Coalition forms to protect organic compost from packaging push",
-              "link": "https://www.wastedive.com/news/safer-soils-coalition-bpi-compostable-products-petition-national-organics/874274/",
-              "summary": "The Safer Soils for All coalition, composed of the California Compost Coalition, WM, Republic Services, Recology and others, opposes a petition to USDA seeking to allow compostable products in organic agriculture.",
-              "image": "https://imgproxy.divecdn.com/bjUhFk9_Q_5MEl6s6CkQyi3tmuwDBe1BH5iRjDpJCG4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yZWNvbG9neV9vc3Ryb20uamZpZg==.webp",
-              "date": "Tue, 10 Nov 2026 13:15:00 -0500"
-            },
-            {
-              "title": "EPA\u2019s new PFAS strategy reveals focus on downstream cleanup",
-              "link": "https://www.wastedive.com/news/epas-new-pfas-strategy-reveals-focus-on-downstream-cleanup/874123/",
-              "summary": "The U.S. EPA\u2019s newly announced strategy emphasizes technology partnerships for Superfund sites and downstream water contamination, even as the agency has been criticized for being slow to address upstream sources.",
-              "image": "https://imgproxy.divecdn.com/W4LQULlU1JikHGaWxbPwgY0loSlU50xNqoXQpLDY4tQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00Njg5MzgyNjIuanBn.webp",
-              "date": "Mon, 09 Nov 2026 12:42:00 -0500"
             }
           ]
         },
@@ -1528,18 +1528,32 @@
           "name": "K-12 Dive",
           "url": "https://www.k12dive.com",
           "lead_story": {
-            "title": "Proposed SNAP rule would threaten nearly 2M children\u2019s school meal access",
-            "link": "https://www.k12dive.com/news/proposed-snap-rule-would-threaten-nearly-2m-childrens-school-meal-access/874573/",
-            "summary": "While 97% of those children would still qualify for free school meals, USDA says their eligibility would have to be certified through a different process.",
-            "image": "https://imgproxy.divecdn.com/wAwqN6Z3-jahlBsGYocmxTQson1G7lfHHPq8kKzCIg4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDE5NDQ5NDVfbkRFbnRROS5qcGc=.webp",
-            "date": "Thu, 12 Nov 2026 16:43:00 -0500"
+            "title": "Trump administration puts end to mandated boost in Head Start pay",
+            "link": "https://www.k12dive.com/news/hhs-rule-rolls-back-head-start-wage-and-benefit-requirements/874689/",
+            "summary": "In a new final rule, HHS is rolling back a Biden-era effort to keep salaries competitive and reduce high staff turnover in the early education program.",
+            "image": "https://imgproxy.divecdn.com/zt0u2F0a3JqPcmtFnMU07MeLC49cBR4s7oUWTFwHIhI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY1ODQxMjY5LmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 15:56:29 -0500"
           },
           "top_stories": [
+            {
+              "title": "Test yourself on the past week\u2019s K-12 news",
+              "link": "https://www.k12dive.com/news/pop-quiz-test-k-12-news-november-13-2026/874632/",
+              "summary": "From the impact of school choice programs to AI privacy agreements, what did you learn from our recent stories?",
+              "image": null,
+              "date": "Fri, 13 Nov 2026 11:56:54 -0500"
+            },
             {
               "title": "St. Louis school board votes to close 9 schools",
               "link": "https://www.k12dive.com/news/st-louis-school-board-votes-to-close-9-schools/874530/",
               "summary": "The move comes as the Missouri district, like so many others across the country, is staring down declining enrollment and underutilized schools.",
               "image": "https://imgproxy.divecdn.com/eX8TSTpykBpkKyuvuEVJHFabX5bXZJBqmiuRIOQ8P7E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY4NDU1MjUzLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 16:43:00 -0500"
+            },
+            {
+              "title": "Proposed SNAP rule would threaten nearly 2M children\u2019s school meal access",
+              "link": "https://www.k12dive.com/news/proposed-snap-rule-would-threaten-nearly-2m-childrens-school-meal-access/874573/",
+              "summary": "While 97% of those children would still qualify for free school meals, USDA says their eligibility would have to be certified through a different process.",
+              "image": "https://imgproxy.divecdn.com/wAwqN6Z3-jahlBsGYocmxTQson1G7lfHHPq8kKzCIg4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDE5NDQ5NDVfbkRFbnRROS5qcGc=.webp",
               "date": "Thu, 12 Nov 2026 16:43:00 -0500"
             },
             {
@@ -1550,25 +1564,11 @@
               "date": "Wed, 11 Nov 2026 17:48:20 -0500"
             },
             {
-              "title": "Rigorous course participation rose after 2021 law, University of Illinois report finds",
-              "link": "https://www.k12dive.com/news/rigorous-course-participation-rose-in-illinois-after-2021-law-report-finds/874356/",
-              "summary": "The increases in dual credit and Advanced Placement participation in Illinois were particularly notable for Black students and students with disabilities.",
-              "image": "https://imgproxy.divecdn.com/5mNdPV-uwGPcu4A5vioNvRGk9kSX9TlYWdlGdNH8bDQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzU0NTQ2ODYuanBn.webp",
-              "date": "Wed, 11 Nov 2026 14:00:00 -0500"
-            },
-            {
               "title": "Normalizing \u2018productive struggle\u2019 could curb science anxiety",
               "link": "https://www.k12dive.com/news/normalizing-productive-struggle-can-curb-science-anxiety/874358/",
               "summary": "Students can become too focused on finding \u201cone right answer\u201d when science is ultimately about experimentation and exploration, one educator says.",
               "image": "https://imgproxy.divecdn.com/IH6csYzkS1Mn6tHG0YKsKT5QhTEeWNt3Bu8DZMqIIv0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00OTExMjA4NzYuanBn.webp",
               "date": "Wed, 11 Nov 2026 14:00:00 -0500"
-            },
-            {
-              "title": "Is private school choice a \u2018tipping point\u2019 for school closures?",
-              "link": "https://www.k12dive.com/news/is-private-school-choice-a-tipping-point-for-school-closures/873616/",
-              "summary": "As declining birth rates drive enrollment challenges, district leaders and public school advocates worry school choice programs will further strain budgets.",
-              "image": null,
-              "date": "Wed, 11 Nov 2026 05:00:00 -0500"
             }
           ]
         },
@@ -1576,13 +1576,27 @@
           "name": "Marketing Dive",
           "url": "https://www.marketingdive.com",
           "lead_story": {
-            "title": "Welch\u2019s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
-            "link": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
-            "summary": "\u201cBefore the Toast\u201d shows off the brand\u2019s line of sparkling juices and is part of a larger social-forward campaign which includes an Instacart integration.",
-            "image": "https://imgproxy.divecdn.com/pNpMj3H_DjdBYdAQ0HmB0uy-WfDi9hWbMfL4ffQqWks/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDMwMTk1XzAwMDAwMV9XZWxjaC1zLUhlcm8tSW1hZ2UtVGhhdC1zLVdvcnRoLUEtVG9hc3QuanBn.webp",
-            "date": "Thu, 12 Nov 2026 12:36:00 -0500"
+            "title": "Twitch debuts shoppable, skippable ads as TwitchCon feels growing pains",
+            "link": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
+            "summary": "A pair of new ad products unveiled around the gathering are meant to shore up the livestreaming service\u2019s ability to meet full-funnel marketing needs.",
+            "image": "https://imgproxy.divecdn.com/PHELiGd-YLGp24FB8E6s1XD5gY5-IelBCHvXUS11el8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUwNDU2ODczLmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 10:14:27 -0500"
           },
           "top_stories": [
+            {
+              "title": "AI-derived audience insights hurt results: What the numbers say",
+              "link": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+              "summary": "Over 80% of industry leaders have experienced at least one negative business outcome due to inaccurate AI outputs, per a recent report.",
+              "image": "https://imgproxy.divecdn.com/r4rRq3XlJ0l-Na3RPLs1jsxsONrBNrP7qVIsiLCZ9ko/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTkzNzY0OTQzLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 09:21:00 -0500"
+            },
+            {
+              "title": "Welch\u2019s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
+              "link": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
+              "summary": "\u201cBefore the Toast\u201d shows off the brand\u2019s line of sparkling juices and is part of a larger social-forward campaign which includes an Instacart integration.",
+              "image": "https://imgproxy.divecdn.com/pNpMj3H_DjdBYdAQ0HmB0uy-WfDi9hWbMfL4ffQqWks/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDMwMTk1XzAwMDAwMV9XZWxjaC1zLUhlcm8tSW1hZ2UtVGhhdC1zLVdvcnRoLUEtVG9hc3QuanBn.webp",
+              "date": "Thu, 12 Nov 2026 12:36:00 -0500"
+            },
             {
               "title": "Sociable: Meta\u2019s AI ads included unapproved discounts",
               "link": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
@@ -1593,7 +1607,7 @@
             {
               "title": "Oreo refreshes holiday creative with spin on Santa\u2019s milk and cookies",
               "link": "https://www.marketingdive.com/news/oreo-refreshes-holiday-creative-with-spin-on-santas-milk-and-cookies/874493/",
-              "summary": "Saint Nick takes revenge on a dad who sneaks a bite of his Oreos in the brand\u2019s first new seasonal work in five years.",
+              "summary": "The Mondel\u0113z brand worked with No Notes, Colin Jost\u2019s content studio, along with Dentsu on socials and Publicis Production as a consulting agency.",
               "image": null,
               "date": "Thu, 12 Nov 2026 10:20:14 -0500"
             },
@@ -1603,20 +1617,6 @@
               "summary": "The company offered insight into its marketing model after announcing plans to reorganize around a \u201cglobal strategy, local execution\u201d principle.",
               "image": "https://imgproxy.divecdn.com/g7OKThQBVQHmIsiA8HXTNi4qSPyG7H8iZZwoi_p9iuI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS91bmlsZXZlcl9WbzVEMVo1LmpwZw==.webp",
               "date": "Thu, 12 Nov 2026 09:46:00 -0500"
-            },
-            {
-              "title": "Fetch trades views for rewards with brand-backed holiday microseries",
-              "link": "https://www.marketingdive.com/news/fetch-trades-views-for-rewards-with-brand-backed-holiday-microseries/874424/",
-              "summary": "\u201cThe Receipt\u201d features brands like Dove, Breyer\u2019s and Olipop and offers consumers points for viewing that can be redeemed for gift cards.",
-              "image": "https://imgproxy.divecdn.com/XfaK51ptO0nqEtHFMjRW8WuYrteXbFHncSh9DE_KaJ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UaGVfUmVjZWlwdF9DYXN0LmpwZw==.webp",
-              "date": "Thu, 12 Nov 2026 08:00:00 -0500"
-            },
-            {
-              "title": "Maybelline updates \u2018Maybe\u2019 tagline as beauty perceptions evolve",
-              "link": "https://www.marketingdive.com/news/maybelline-updates-maybe-tagline-as-beauty-perceptions-evolve/874376/",
-              "summary": "Tweaks to punctuation and phrasing are intended to feel more inclusive and empowering, a spirit captured in ads with Miley Cyrus.",
-              "image": null,
-              "date": "Wed, 11 Nov 2026 10:39:00 -0500"
             }
           ]
         },
@@ -1624,47 +1624,47 @@
           "name": "Social Media Today",
           "url": "https://www.socialmediatoday.com",
           "lead_story": {
-            "title": "Thought leadership remains highly valuable for B2B buyers",
-            "link": "https://www.socialmediatoday.com/news/thought-leadership-remains-highly-valuable-for-b2b-buyers/874464/",
-            "summary": "A new report from Edelman examining content on LinkedIn found that brands value professional insight and experience from other professionals.",
+            "title": "Edits app gets speed curves and auto audio balancing",
+            "link": "https://www.socialmediatoday.com/news/edits-app-gets-speed-curves-and-auto-audio-balancing/874586/",
+            "summary": "The new features will enable creators to change the playback speed of their videos and ensure better audio experiences.",
             "image": null,
-            "date": "Wed, 11 Nov 2026 18:39:39 -0500"
+            "date": "Thu, 12 Nov 2026 17:27:56 -0500"
           },
           "top_stories": [
             {
-              "title": "LinkedIn tests frequent viewer feature",
-              "link": "https://www.socialmediatoday.com/news/linkedin-tests-frequent-viewer-feature/874463/",
-              "summary": "Premium users already see who views their profile, but the platform may also soon show how often someone stops by, according to Wired.",
+              "title": "Instagram experiments with sports feature",
+              "link": "https://www.socialmediatoday.com/news/instagram-experiments-with-sports-feature/874585/",
+              "summary": "The app is seemingly experimenting with a new, dedicated sports engagement option.",
               "image": null,
-              "date": "Wed, 11 Nov 2026 18:17:02 -0500"
+              "date": "Thu, 12 Nov 2026 17:20:57 -0500"
             },
             {
-              "title": "Elon Musk\u2019s Grok AI faces legal challenges over nudification",
-              "link": "https://www.socialmediatoday.com/news/x-formerly-twitter-faces-legal-battles-nudification-grok/874462/",
-              "summary": "Multiple plaintiffs allege that the chatbot is directly responsible for creating naked images based on photos taken of them as children, per Bloomberg.",
+              "title": "YouTube announces GTA VI activations",
+              "link": "https://www.socialmediatoday.com/news/youtube-announces-gta-vi-activations/874583/",
+              "summary": "The platform will host a 24-hour global gaming livestream event on the day the video game launches and offer limited-edition digital gifts.",
               "image": null,
-              "date": "Wed, 11 Nov 2026 17:42:12 -0500"
+              "date": "Thu, 12 Nov 2026 17:18:35 -0500"
             },
             {
-              "title": "X experiments with expanded AI transparency labels",
-              "link": "https://www.socialmediatoday.com/news/x-experiments-with-expanded-ai-transparency-labels/874461/",
-              "summary": "The company is testing an automated way to detect and tag posts that may have been generated using artificial intelligence.",
+              "title": "LinkedIn launches CTV ads in the UK",
+              "link": "https://www.socialmediatoday.com/news/linkedin-launches-ctv-ads-in-the-uk/874581/",
+              "summary": "The company said that its connected TV ads are 2.6 times more likely to reach B2B audiences than other CTV options.",
               "image": null,
-              "date": "Wed, 11 Nov 2026 17:40:36 -0500"
+              "date": "Thu, 12 Nov 2026 17:15:43 -0500"
             },
             {
-              "title": "Meta publishes explainer on Your Algorithm controls",
-              "link": "https://www.socialmediatoday.com/news/meta-publishes-explainer-on-your-algorithm-controls/874460/",
-              "summary": "The feature enables users to opt in or out of certain topics and customize their feeds based on personal preferences.",
-              "image": "https://imgproxy.divecdn.com/MiMmsqjaZMQWyTlCjvbudGUmdsVUFxa3yRdqUYP01zk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95b3VyX2FsZ29yaXRobS5wbmc=.webp",
-              "date": "Wed, 11 Nov 2026 14:44:52 -0500"
+              "title": "Pinterest adds holiday shopping tools",
+              "link": "https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/",
+              "summary": "The platform updated its chatbot with trending gift guides and introduced product comparison tools and wishlists.",
+              "image": "https://imgproxy.divecdn.com/5XczC8S7ywR0aqo95CnXTuJEXNtM9Oop6QR9PwTPwA0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9saWRheV9zZWFzb24ucG5n.webp",
+              "date": "Thu, 12 Nov 2026 14:19:33 -0500"
             },
             {
-              "title": "X adds video clipping",
-              "link": "https://www.socialmediatoday.com/news/x-adds-video-clipping/874341/",
-              "summary": "The option allows users to share shorter snippets of creator content while still giving credit and allowing both posters to earn monetary rewards.",
+              "title": "Thought leadership remains highly valuable for B2B buyers",
+              "link": "https://www.socialmediatoday.com/news/thought-leadership-remains-highly-valuable-for-b2b-buyers/874464/",
+              "summary": "A new survey report from Edelman and LinkedIn found that brands value professional insight and experience from other professionals.",
               "image": null,
-              "date": "Tue, 10 Nov 2026 18:24:39 -0500"
+              "date": "Wed, 11 Nov 2026 18:39:39 -0500"
             }
           ]
         },
@@ -1672,47 +1672,47 @@
           "name": "Customer Experience Dive",
           "url": "https://www.customerexperiencedive.com",
           "lead_story": {
-            "title": "How brands can welcome AI users onto their sites this holiday season",
-            "link": "https://www.customerexperiencedive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874445/",
-            "summary": "Customers are experimenting with AI and taking care with spending. The experience needs to feel easy and encourage customers to complete their purchase.",
-            "image": "https://imgproxy.divecdn.com/UDnTBozrglIMubBnWICp1Z1RG0-1p0v9Evq4mXkJBlw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUxNTQyMTkwLmpwZw==.webp",
-            "date": "Thu, 12 Nov 2026 07:00:00 -0500"
+            "title": "Family Dollar will pay $63M to settle unfair-pricing claims from state, federal regulators",
+            "link": "https://www.customerexperiencedive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874637/",
+            "summary": "The discounter said it\u2019s cooperating and \u201cfocused on strengthening pricing accuracy across our stores and maintaining our customers' trust.\u201d",
+            "image": "https://imgproxy.divecdn.com/wSLn1xqW1YY71nyE2gCqANNNYNhvbodF7jZsuWouUQw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yV0s2QTNELmpwZw==.webp",
+            "date": "Fri, 13 Nov 2026 14:52:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "Microsoft\u2019s outage wasn\u2019t in any brand\u2019s control. Handling the CX aftermath is.",
+              "link": "https://www.customerexperiencedive.com/news/microsofts-outage-wasnt-in-any-brands-control-handling-the-cx-aftermath/874664/",
+              "summary": "Businesses need to communicate to consumers about the outage and its causes, and once services are restored, consider next steps to make it up to customers, experts told CX Dive.",
+              "image": "https://imgproxy.divecdn.com/cVtBcmZIk5WyuwPLAeCqCACC4ATTcnoNpgQbrUzbKps/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYyMDMwNzI0X2JsOTliWEwuanBn.webp",
+              "date": "Fri, 13 Nov 2026 14:51:00 -0500"
+            },
+            {
+              "title": "Loyalty members seek rewards of all sizes",
+              "link": "https://www.customerexperiencedive.com/news/loyalty-members-seek-rewards-of-all-sizes/874568/",
+              "summary": "Rewards that don\u2019t feel valuable or are too hard to earn are loyalty programs\u2019 biggest shortcomings, an Arrivia survey found.",
+              "image": "https://imgproxy.divecdn.com/aIZQhKSGct8xuLmOk6-mKZmXEooQVrW0fQ-cyycWNCs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU3MjE2ODczLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 07:00:00 -0500"
+            },
+            {
+              "title": "How a healthcare clinic chain uses conversational AI to improve patient experience",
+              "link": "https://www.customerexperiencedive.com/news/how-a-healthcare-clinic-chain-uses-conversational-ai-to-improve-patient-exp/874561/",
+              "summary": "American Family Care rolled out conversational voice AI to answer calls and handle patients\u2019 routine questions and tasks, allowing front desk staff to focus on patients already in the clinic.",
+              "image": "https://imgproxy.divecdn.com/A88locgW518qfp8inYDMiJYaojIuqRuykwQXSSYowDE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1NzA2MDc2LmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 07:00:00 -0500"
+            },
+            {
+              "title": "How brands can welcome AI users onto their sites this holiday season",
+              "link": "https://www.customerexperiencedive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874445/",
+              "summary": "Customers are experimenting with AI and taking care with spending. The experience needs to feel easy and encourage customers to complete their purchase.",
+              "image": "https://imgproxy.divecdn.com/UDnTBozrglIMubBnWICp1Z1RG0-1p0v9Evq4mXkJBlw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUxNTQyMTkwLmpwZw==.webp",
+              "date": "Thu, 12 Nov 2026 07:00:00 -0500"
+            },
             {
               "title": "Consumers want helpful, practical app experiences",
               "link": "https://www.customerexperiencedive.com/news/consumers-want-helpful-practical-app-experiences/874447/",
               "summary": "Apps rarely win due to one standout feature, according to Yodel Mobile. Instead, consumers value experiences that save time and add convenience to their routine.",
               "image": "https://imgproxy.divecdn.com/-S-oYC1gE0F9EjjhwXejxvtPfdf3mocK1U7AdES-INg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTQ4ODA5MjUwLmpwZw==.webp",
               "date": "Wed, 11 Nov 2026 15:42:07 -0500"
-            },
-            {
-              "title": "CX vendor consolidation: A wake-up call for CX leaders",
-              "link": "https://www.customerexperiencedive.com/news/cx-vendor-consolidation-wake-up-call-cx-leaders/874304/",
-              "summary": "Salesforce, Dialpad and Five9 each bought an AI vendor last week. Whether or not they were directly impacted, CX leaders should reevaluate their supplier contracts.",
-              "image": "https://imgproxy.divecdn.com/pHU1jiojYlQ6_5GRVjs0Jgu98Nuq2mv2V5wMbWzGsRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUxOTE0MTQ0LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 07:00:00 -0500"
-            },
-            {
-              "title": "Airbnb reduces customer support cost per booking 17%",
-              "link": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307/",
-              "summary": "CEO Brian Chesky said the year-over-year cost savings were driven by improvements to its AI assistant.",
-              "image": "https://imgproxy.divecdn.com/T7ivd7aK22Kwv_HzKjWXRdthYhrSTd2AgVchMBJJgec/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDA4NTY5NjcwLmpwZw==.webp",
-              "date": "Tue, 10 Nov 2026 16:55:00 -0500"
-            },
-            {
-              "title": "Retailers hired fewer holiday staff this year. How will that impact in-store CX?",
-              "link": "https://www.customerexperiencedive.com/news/retailers-hired-fewer-holiday-staff-this-year-impact-in-store-cx/874144/",
-              "summary": "Full-time retail associates will need to operate with less support this year as they work to keep the holiday spirit alive in stores.",
-              "image": "https://imgproxy.divecdn.com/4nOUosW7sPSDeY1xDc2tg-vDfEeC-IcoqfubAHk6R_w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ4MzMwMDg4LmpwZw==.webp",
-              "date": "Tue, 10 Nov 2026 07:00:00 -0500"
-            },
-            {
-              "title": "Want real AI results in CX? Make someone accountable \u2014 and give them real authority",
-              "link": "https://www.customerexperiencedive.com/news/real-ai-results-cx-make-someone-accountable-real-authority/874145/",
-              "summary": "Few organizations give ownership for AI\u2019s business outcomes to a leader, all too often resulting in failed pilots or deployments that go nowhere.",
-              "image": "https://imgproxy.divecdn.com/96xMA5BJ7Rn05MCEMF2AqT8ifvkGyfIqMgTZxGPCuX4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY3Mjg5ODM2LmpwZw==.webp",
-              "date": "Tue, 10 Nov 2026 07:00:00 -0500"
             }
           ]
         }
