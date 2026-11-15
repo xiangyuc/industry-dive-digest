@@ -1,6 +1,6 @@
 {
-  "date": "November 14, 2026",
-  "updated_at": "2026-11-14 01:55:39 UTC",
+  "date": "November 15, 2026",
+  "updated_at": "2026-11-15 01:28:38 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -217,17 +217,17 @@
               "date": "Fri, 13 Nov 2026 15:35:00 -0500"
             },
             {
-              "title": "Week in review: Can AI root out manager bias?",
-              "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
-              "summary": "We\u2019re rounding up last week\u2019s stories, including a single case\u2019s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
-              "image": "https://imgproxy.divecdn.com/e70Ziq9PipmvQ9MjjxB9KdqDXwVWwMyPj1WJRGaoGQE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgyODU0Mjk2LmpwZw==.webp",
-              "date": "Fri, 13 Nov 2026 15:34:00 -0500"
-            },
-            {
               "title": "Annual 401(k) limit pushed to $25,500 for 2027, IRS announces",
               "link": "https://www.hrdive.com/news/annual-401k-limit-pushed-to-25500-for-2027-irs/874668/",
               "summary": "The update comes days after the Trump administration advanced a final rule to expand access to alternative assets within workers\u2019 defined-contribution plans.",
               "image": "https://imgproxy.divecdn.com/Hy1bv-D5bE-rKX52J3_VtPujMYbD1xfsoaUMH3aaOoc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk5NDUwMjAxX2tJZVVuQlouanBn.webp",
+              "date": "Fri, 13 Nov 2026 15:34:00 -0500"
+            },
+            {
+              "title": "Week in review: Can AI root out manager bias?",
+              "link": "https://www.hrdive.com/news/can-ai-root-out-manager-bias/874657/",
+              "summary": "We\u2019re rounding up last week\u2019s stories, including a single case\u2019s effect on diversity and inclusion programming and how artificial intelligence is deferring jobs.",
+              "image": "https://imgproxy.divecdn.com/e70Ziq9PipmvQ9MjjxB9KdqDXwVWwMyPj1WJRGaoGQE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgyODU0Mjk2LmpwZw==.webp",
               "date": "Fri, 13 Nov 2026 15:34:00 -0500"
             },
             {
@@ -353,7 +353,7 @@
           "lead_story": {
             "title": "Global systems integrators face an existential crisis",
             "link": "https://www.channeldive.com/news/global-systems-integrators-face-existential-crisis-omdia-peter-bryant/874650/",
-            "summary": "Smaller, regional SIs are gaining ground on the industry giants amid the rush to scale AI, according to the analyst firm Omdia.",
+            "summary": "Smaller, regional SIs are gaining ground on the industry giants amid the rush to scale AI, according to analyst firm Omdia.",
             "image": "https://imgproxy.divecdn.com/sWrOChvEoOwp1_sU5ru0UdJtAFmmh8O8daTGORJQy5s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTY1MC5qcGc=.webp",
             "date": "Fri, 13 Nov 2026 12:38:00 -0500"
           },
@@ -753,6 +753,13 @@
           },
           "top_stories": [
             {
+              "title": "As RaceTrac debuts in Memphis, more expansion opportunities emerge",
+              "link": "https://www.cstoredive.com/news/as-racetrac-debuts-in-memphis-more-midwest-whitespace-emerges/874582/",
+              "summary": "The retailer opened its 37th and westernmost location in Tennessee, while nearly all of the other sites are in either the Nashville or Chattanooga areas.",
+              "image": "https://imgproxy.divecdn.com/VnnZC39ll2D-5Fcs7HWjG97OOExgDks1NHWuc4pCTY8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yYWNldHJhY19tZW1waGlzLmpwZw==.webp",
+              "date": "Fri, 13 Nov 2026 10:00:00 -0500"
+            },
+            {
               "title": "Mountain Express trustee reaches settlement with former co-CEO",
               "link": "https://www.cstoredive.com/news/mountain-express-trustee-reaches-settlement-with-former-co-ceo/874551/",
               "summary": "Lamar Frady must pay $1.7 million for all claims against him and his associated entities to be dismissed. Claims against his former co-CEO, Turjo Wadud, remain open.",
@@ -779,13 +786,6 @@
               "summary": "The retailer acquired land in Wichita, though it has not finalized any plans to develop the property, said President Laura Aufleger.",
               "image": "https://imgproxy.divecdn.com/TR6caHzOoko1DcQv04RoRuA7S2OLXLxL2k5Rnw9k3IU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PbkN1ZS0yLmpwZw==.webp",
               "date": "Thu, 12 Nov 2026 08:38:00 -0500"
-            },
-            {
-              "title": "Mauricio Leyva puts his stamp on 7-Eleven\u2019s store transformation strategy",
-              "link": "https://www.cstoredive.com/news/mauricio-leyva-puts-his-stamp-on-7-elevens-store-transformation-strategy/874332/",
-              "summary": "At the retailer\u2019s November investor day, the newly appointed CEO detailed a more targeted approach to executing the company\u2019s North Star plan.",
-              "image": "https://imgproxy.divecdn.com/prLI76tSrPvKIxQZAEAQqeoJslYslJvNrrg3NMTooOM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83RV9uZXdfc3RhbmRhcmRfb3V0X2Zyb250LmpwZw==.webp",
-              "date": "Wed, 11 Nov 2026 10:00:00 -0500"
             }
           ]
         },
@@ -803,7 +803,7 @@
             {
               "title": "Papa Johns franchisee declares bankruptcy",
               "link": "https://www.restaurantdive.com/news/papa-johns-franchisee-papazhs-files-chapter-11-bankruptcy/874612/",
-              "summary": "Papa ZHS, which opened the chain\u2019s 6,000th restaurant in 2025, is the latest operator to seek court-supervised restructuring amid brand\u2019s sales troubles.",
+              "summary": "Papa ZHS, which opened the chain\u2019s 6,000th restaurant in 2025, is the latest operator to seek court-supervised restructuring as the brand\u2019s sales troubles continue.",
               "image": "https://imgproxy.divecdn.com/8YnTlUCdwfnbrMcAXSP6BdaWM6PUi3BdFmdBam4Oqas/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05OTY1MTEyMzAuanBn.webp",
               "date": "Fri, 13 Nov 2026 10:45:00 -0500"
             },
@@ -1139,7 +1139,7 @@
           "name": "Facilities Dive",
           "url": "https://www.facilitiesdive.com",
           "lead_story": {
-            "title": "New Ring roving surveillance camera won\u2019t capture everything",
+            "title": "Here\u2019s what Ring\u2019s new roving surveillance camera can \u2014 and can\u2019t \u2014 do",
             "link": "https://www.facilitiesdive.com/news/new-ring-roving-surveillance-camera-wont-capture-everything/874572/",
             "summary": "Sensor compatibility and mobility issues could limit its usefulness, according to reviews.",
             "image": "https://imgproxy.divecdn.com/TnA8WlmHSXUXjcggQE52rTyh113H8QruqINX1LTFR7s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SaW5nLmpmaWY=.webp",
@@ -1187,9 +1187,9 @@
           "name": "Hotel Dive",
           "url": "https://www.hoteldive.com",
           "lead_story": {
-            "title": "Lodging Lowdown: Hyatt opens lifestyle JdV hotel in Pacific Northwest, AI Hospitality Group adds 3 execs",
+            "title": "Lodging Lowdown: Hyatt opens lifestyle JdV hotel in Pacific Northwest",
             "link": "https://www.hoteldive.com/news/hyatt-opens-lifestyle-jdv-hotel-pnw-aihg-names-execs/874611/",
-            "summary": "Plus, Avion Hospitality expands its luxury portfolio with the 138-room Cameo Beverly Hills, LXR Hotels & Resorts in California, owned by Braemar Hotels & Resorts.",
+            "summary": "Plus, Avion Hospitality expands its luxury portfolio with the Cameo Beverly Hills, LXR Hotels & Resorts in California, owned by Braemar Hotels & Resorts.",
             "image": "https://imgproxy.divecdn.com/IaDnu59ivv13eBOPTx47_ybuZX0ufg2SUauDPsJ0Dwg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zamNhbS1oZWF0ZWQtb3V0ZG9vci1wb29sLTM2OTYuanBn.webp",
             "date": "Fri, 13 Nov 2026 09:39:46 -0500"
           },
@@ -1197,7 +1197,7 @@
             {
               "title": "Manhattan\u2019s Elys\u00e9e New York set to reopen after monthslong renovation",
               "link": "https://www.hoteldive.com/news/elysee-new-york-reopens-after-renovation/874557/",
-              "summary": "The historic hotel will remain home to Monkey Bar and offer new culinary and wellness amenities as the flagship property of Hera Hospitality Group\u2019s Wunderkind Hotels & Resorts.",
+              "summary": "The historic hotel will remain home to Monkey Bar and offer new culinary and wellness amenities as the flagship property of Wunderkind Hotels & Resorts.",
               "image": "https://imgproxy.divecdn.com/dm31cDU1_RqX17jFxcLTU1J85cFpaX5EiP5ddsyt7H0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81X0F1dENhbXQuanBn.webp",
               "date": "Thu, 12 Nov 2026 15:31:26 -0500"
             },
@@ -1285,7 +1285,7 @@
           "lead_story": {
             "title": "The best large US cities for biking in 2026: PeopleForBikes",
             "link": "https://www.smartcitiesdive.com/news/peopleforbikes-best-large-us-cities-for-biking-2026/874595/",
-            "summary": "The report named Minneapolis, Seattle and New York City\u2019s Brooklyn borough the three best large cities for bicycling in 2026.",
+            "summary": "The scores measure how well bike riders can connect to jobs, schools, healthcare, shopping, recreation and other destinations.",
             "image": "https://imgproxy.divecdn.com/CktPrTLC0R5YhR9TWZeoM829bfsYUWONmCoyjEHdMIE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODMxMTUxMTUuanBn.webp",
             "date": "Fri, 13 Nov 2026 11:43:00 -0500"
           },
@@ -1607,7 +1607,7 @@
             {
               "title": "Oreo refreshes holiday creative with spin on Santa\u2019s milk and cookies",
               "link": "https://www.marketingdive.com/news/oreo-refreshes-holiday-creative-with-spin-on-santas-milk-and-cookies/874493/",
-              "summary": "The Mondel\u0113z brand worked with No Notes, Colin Jost\u2019s content studio, along with Dentsu on socials and Publicis Production as a consulting agency.",
+              "summary": "Saint Nick takes revenge on a dad who sneaks a bite of his Oreos in the brand\u2019s first new seasonal work in five years.",
               "image": null,
               "date": "Thu, 12 Nov 2026 10:20:14 -0500"
             },
