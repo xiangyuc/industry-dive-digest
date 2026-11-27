@@ -1,6 +1,6 @@
 {
-  "date": "November 26, 2026",
-  "updated_at": "2026-11-26 03:52:42 UTC",
+  "date": "November 27, 2026",
+  "updated_at": "2026-11-27 03:53:26 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -17,6 +17,13 @@
             "date": "Wed, 25 Nov 2026 11:50:00 -0500"
           },
           "top_stories": [
+            {
+              "title": "California fines Afterpay $2.7M",
+              "link": "https://www.bankingdive.com/news/california-fines-afterpay-27m/875794/",
+              "summary": "The state imposed the penalty on Block\u2019s buy now, pay later business after finding the company failed to assess customers\u2019 ability to repay loans.",
+              "image": "https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp",
+              "date": "Wed, 25 Nov 2026 11:05:00 -0500"
+            },
             {
               "title": "Alabama\u2019s Family Savings Credit Union to buy in-state bank",
               "link": "https://www.bankingdive.com/news/alabama-family-savings-credit-union-buys-liberty-bank/875745/",
@@ -44,13 +51,6 @@
               "summary": "The moves may cement Mark Wiedman as a potential successor to CEO Bill Demchak and lend continuity to a bank that, while growing, has seen changes in two high-profile C-suite slots in 18 months.",
               "image": "https://imgproxy.divecdn.com/iQr0GmGzV3LRui2z2xBr75dzPYYpWmIJY38xP6sdPZo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yQ0M3RVIxLmpwZw==.webp",
               "date": "Tue, 24 Nov 2026 12:11:13 -0500"
-            },
-            {
-              "title": "Adyen co-founder to step down",
-              "link": "https://www.bankingdive.com/news/adyen-co-founder-van-der-does-step-down-uytdehaage/875640/",
-              "summary": "\u201cI feel my cycle is complete,\u201d Pieter van der Does, also co-CEO, wrote after 20 years with Adyen. \u201cThis is the right moment for me to step down.\u201d",
-              "image": "https://imgproxy.divecdn.com/Z6Bim98OeEoFNdTQkJLrV4YBFUrm69UaKLAehIA7-yg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfODQ2MC5qcGc=.webp",
-              "date": "Tue, 24 Nov 2026 11:55:53 -0500"
             }
           ]
         },
@@ -351,7 +351,7 @@
           "name": "Channel Dive",
           "url": "https://www.channeldive.com",
           "lead_story": {
-            "title": "Forward-deployed engineers arrived in 2026 to help deliver on AI\u2019s promises",
+            "title": "Forward deployed engineers arrived in 2026 to help deliver on AI\u2019s promises",
             "link": "https://www.channeldive.com/news/forward-deployed-engineers-arrived-in-2026-to-help-deliver-on-ai-promises/875136/",
             "summary": "Model builders, hyperscalers and systems integrators spent the year hiring, training and certifying engineers to embed with customers. Partners are hoping to profit from the engineering enthusiasm.",
             "image": "https://imgproxy.divecdn.com/NLEuZ0AU2QpCtG3Fn9zomdSX075L17iD2phf-v1YbJM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwODEwMzgzLmpwZw==.webp",
@@ -359,9 +359,16 @@
           },
           "top_stories": [
             {
+              "title": "Can CrowdStrike integrate Zscaler into a truly unified platform?",
+              "link": "https://www.channeldive.com/news/partners-wonder-crowdstrike-can-integrate-platform-wwt-shi-guidepoint/875801/",
+              "summary": "Joint resellers embraced the massive cybersecurity deal announced last week, but clarity is key.",
+              "image": "https://imgproxy.divecdn.com/eya27ZQQxg5hWJex1C8_gLxz4-XWkNumi_35JIUvVns/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY0NDk1ODYxX3U3S0pJWGsuanBn.webp",
+              "date": "Wed, 25 Nov 2026 13:54:35 -0500"
+            },
+            {
               "title": "AI video security startup Lumana appoints new channel VP",
               "link": "https://www.channeldive.com/news/ai-video-security-startup-lumana-appoints-new-channel-vp/875692/",
-              "summary": "Partners are central to Lumana\u2019s strategy, said VP of US Channel Sales Mike McSweeney.",
+              "summary": "Partners are central to Lumana\u2019s strategy, said VP of U.S. Channel Sales Mike McSweeney.",
               "image": null,
               "date": "Tue, 24 Nov 2026 15:59:07 -0500"
             },
@@ -385,13 +392,6 @@
               "summary": "The deal marks the managed IT services company\u2019s second major acquisition following funding from Revelstoke Capital Partners.",
               "image": null,
               "date": "Tue, 24 Nov 2026 07:59:37 -0500"
-            },
-            {
-              "title": "Intelisys adds CrowdStrike, Palo Alto Networks to marketplace",
-              "link": "https://www.channeldive.com/news/intelisys-adds-crowdstrike-palo-alto-networks-to-marketplace-teamkc-kairos/875393/",
-              "summary": "The move highlights ongoing vendor efforts to connect cybersecurity sales with technology advisors.",
-              "image": null,
-              "date": "Mon, 23 Nov 2026 13:04:39 -0500"
             }
           ]
         }
@@ -657,6 +657,13 @@
           },
           "top_stories": [
             {
+              "title": "McCormick proposes Colman\u2019s mustard sale to resolve UK concerns over Unilever deal",
+              "link": "https://www.fooddive.com/news/Mccormick-unilever-merger-antitrust-regulator/875743/",
+              "summary": "A market regulator previously warned the transaction risks harming competitors in dry ingredients and sauces.",
+              "image": "https://imgproxy.divecdn.com/LGc3k0XsOcztdQ1MDM25MCoqk8ON_qISx787Y_08lVA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMzAzMS5qcGc=.webp",
+              "date": "Wed, 25 Nov 2026 11:00:00 -0500"
+            },
+            {
               "title": "PepsiCo called out for animal abuse by PETA, shareholders",
               "link": "https://www.fooddive.com/news/pepsico-shareholders-peta-call-out-animal-abuse-across-beverage-makers-supply-chain/875653/",
               "summary": "The activist group is urging the food and beverage giant to be more transparent about the treatment of animals across its supply chain.",
@@ -671,7 +678,7 @@
               "date": "Wed, 25 Nov 2026 09:31:00 -0500"
             },
             {
-              "title": "JM Smucker struggles to keep up with Uncrustables demand",
+              "title": "JM Smucker\u2019s says robust demand for Uncrustables overwhelming supply",
               "link": "https://www.fooddive.com/news/Smucker-uncrustables-shortage-supply-demand-capacity/875662/",
               "summary": "Sales are exceeding company expectations, but a plant expansion scheduled to be completed next year could help alleviate the shortage.",
               "image": "https://imgproxy.divecdn.com/fdg63r-Av4JUYweNeBEenhcD1K_MC4oA5ftVvd0wsPQ/g:nowe:321:272/c:1084:612/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iZW5jaF9zaWRlX2J5X3NpZGUuanBn.webp",
@@ -683,13 +690,6 @@
               "summary": "As the industry adapts to consumer shifts, several of the biggest players, from Boston Beer to Constellation Brands, are under new or interim leadership.",
               "image": "https://imgproxy.divecdn.com/LLcdqKFXyEP3B5I8VZeQuRqkyKeMhgjDsYey1Qqv4rc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ib3N0b25iZWVyLnBuZw==.webp",
               "date": "Tue, 24 Nov 2026 10:08:23 -0500"
-            },
-            {
-              "title": "Nestl\u00e9 turns to AI and robotics to stoke growth",
-              "link": "https://www.fooddive.com/news/nestle-grows-artificial-intelligence-robotics-innovation/875604/",
-              "summary": "The world\u2019s largest food company said a deep tech center will help it develop and test ideas faster, maintain consistent quality and improve efficiency.",
-              "image": "https://imgproxy.divecdn.com/PNFg2SJtny9zWerkXh9_ymLppk5vFIhxPJQfjhoBEOI/g:nowe:0:0/c:850:480/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjQtMDMtMTNfMTI1MjQwLmpwZw==.webp",
-              "date": "Tue, 24 Nov 2026 10:00:00 -0500"
             }
           ]
         },
@@ -1062,7 +1062,7 @@
             {
               "title": "AI platform will help Mercedes-Benz assembly line workers diagnose electrical issues",
               "link": "https://www.wardsauto.com/news/ai-platform-will-help-mercedes-benz-assembly-line-workers-diagnose-electric/875750/",
-              "summary": "With global deployment starting at the automaker\u2019s Alabama plant, Arena Physica\u2019s AI agents can reason about complex vehicle hardware and help technicians perform complex electrical diagnostics.",
+              "summary": "With global deployment starting at the automaker\u2019s Alabama plant, Arena Physica\u2019s AI agents can reason about complex vehicle hardware and help technicians perform electrical diagnostics.",
               "image": "https://imgproxy.divecdn.com/YmeHfRPFjLP40BU0jMPwLxBXuJBbez3I0O0RhIIuYsU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcm9kdWt0aW9uc3N0YW5kb3J0LXR1c2NhbG9vc2EtMDA2LXcxOTIweGgxMDgwLWN1dG91dC53ZWJw.webp",
               "date": "Wed, 25 Nov 2026 11:09:00 -0500"
             },
@@ -1147,6 +1147,13 @@
           },
           "top_stories": [
             {
+              "title": "Sodexo North America names corporate services CEO as part of revamp",
+              "link": "https://www.facilitiesdive.com/news/sodexo-north-america-names-corporate-services-ceo-as-part-of-revamp/875744/",
+              "summary": "The company says the appointment supports a strategy to simplify and standardize its operations and strengthen client relationships.",
+              "image": "https://imgproxy.divecdn.com/CBNvKqxDRe215jXfo4qjVDGuB2Beha4q-JVBjgpVDDI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY4NjQ3NDk2LmpwZw==.webp",
+              "date": "Wed, 25 Nov 2026 10:14:46 -0500"
+            },
+            {
               "title": "California judicial facilities verify energy savings payback with NASA data",
               "link": "https://www.facilitiesdive.com/news/california-agency-touts-building-energy-savings-after-stripping-out-weather/875595/",
               "summary": "The facilities office in charge of the state\u2019s courts is using weather-normalized data to better predict the savings and payback of future upgrades.",
@@ -1173,13 +1180,6 @@
               "summary": "Lightly loaded diesel sets burn more fuel per kilowatt-hour, foul their engines and struggle to pass the monthly test. There are ways to improve performance.",
               "image": "https://imgproxy.divecdn.com/1A9xxvNaxwLOFI9sCfd1R5k0E-yrmERW7NJjM4x9bR8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDUzMjkxMjYyLmpwZw==.webp",
               "date": "Tue, 24 Nov 2026 09:58:11 -0500"
-            },
-            {
-              "title": "Role-based access emphasized in Vanderbilt Health security upgrade",
-              "link": "https://www.facilitiesdive.com/news/role-based-access-emphasized-in-vanderbilt-health-security-upgrade/875392/",
-              "summary": "By configuring access levels based on staff roles, the upgrade tightens security while positioning the system for integration into the facility\u2019s building management system, a Honeywell executive says.",
-              "image": null,
-              "date": "Mon, 23 Nov 2026 11:58:54 -0500"
             }
           ]
         },
@@ -1189,7 +1189,7 @@
           "lead_story": {
             "title": "Extended stay property in Florida sells for $22.75M",
             "link": "https://www.hoteldive.com/news/staybridge-suites-naples-florida-sells-for-2275m/875742/",
-            "summary": "Staybridge Suites Naples - Marco Island by IHG has changed hands, reflecting the strength of the Naples and Marco Island market, per Ahmed Kabani, CEO of Kabani Hotel Group, which brokered the transaction.",
+            "summary": "Staybridge Suites Naples - Marco Island by IHG has changed hands, reflecting the strength of the Naples and Marco Island market, per the CEO of Kabani Hotel Group, which brokered the transaction.",
             "image": "https://imgproxy.divecdn.com/kkeLRc5w20Q2i7BjhR_iv6HgF4QVntk0JG_bZ20OXWg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zdGF5YnJpZGdlX25hcGxlcy5qcGc=.webp",
             "date": "Wed, 25 Nov 2026 10:05:24 -0500"
           },
@@ -1285,7 +1285,7 @@
           "lead_story": {
             "title": "More than a trail: Atlanta Beltline supports affordable housing",
             "link": "https://www.smartcitiesdive.com/news/atlanta-beltline-affordable-housing-land-rights/875715/",
-            "summary": "With the final section of property rights secured, the Atlanta Beltline can be completed by 2030, its CEO said.",
+            "summary": "With the final section of property rights secured, the Atlanta Beltline pedestrian and bike path can be completed by 2030, its CEO said.",
             "image": "https://imgproxy.divecdn.com/UEhlL5QkMH_lFrLVzLAkLi0bMdukD13miw4iGVWfcTQ/g:nowe:0:252/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FZGdld29vZF9icmlkZ2VfdG9fdGhlX3NvdXRoX2Zyb21fY29ycmlkb3JfLV8yMDIxLjA5LmpwZw==.webp",
             "date": "Wed, 25 Nov 2026 11:13:00 -0500"
           },
@@ -1300,7 +1300,7 @@
             {
               "title": "How 2 cities are using nonprofits to rethink affordable housing development",
               "link": "https://www.smartcitiesdive.com/news/affordable-housing-development-nonprofit-cities-chicago-chattanooga/875760/",
-              "summary": "Chicago and Chattanooga, Tennessee, established nonprofit entities to provide greater control over development, affordability and stability.",
+              "summary": "Chicago and Chattanooga, Tennessee, established entities to provide greater control over development, affordability and stability.",
               "image": "https://imgproxy.divecdn.com/imIRmiHwbWjvaLSZM3DscliWu5wArCBJYnGh-kCxJ_c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQyMTI0MDgxLmpwZw==.webp",
               "date": "Wed, 25 Nov 2026 10:51:57 -0500"
             },
@@ -1626,7 +1626,7 @@
           "lead_story": {
             "title": "Emplifi shares notes on social media marketing trends",
             "link": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
-            "summary": "The company shared a range of insights from a recent survey of industry professionals.",
+            "summary": "A survey of industry professionals reveals trends observed around AI use and product and brand discovery.",
             "image": "https://imgproxy.divecdn.com/HJPp2SY_--u6jzofdlp_1Zs6yD43yphkYSHsBOR5kRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX3NvY2lhbF9tZWRpYV9yZXBvcnQzLnBuZw==.webp",
             "date": "Tue, 24 Nov 2026 17:15:49 -0500"
           },
@@ -1639,9 +1639,9 @@
               "date": "Tue, 24 Nov 2026 17:09:16 -0500"
             },
             {
-              "title": "Meta expands Muse to the U.K.",
+              "title": "Meta expands Muse to the UK",
               "link": "https://www.socialmediatoday.com/news/meta-expands-muse-to-the-uk/875697/",
-              "summary": "The launch comes amid ongoing security concerns about what kind of user data the artificial intelligence agent may be accessing.",
+              "summary": "The launch comes amid ongoing security concerns about what kind of user data the AI agent may be accessing.",
               "image": null,
               "date": "Tue, 24 Nov 2026 16:47:38 -0500"
             },
@@ -1653,9 +1653,9 @@
               "date": "Tue, 24 Nov 2026 14:02:58 -0500"
             },
             {
-              "title": "Meta says festive shoppers use social media for gift discovery",
-              "link": "https://www.socialmediatoday.com/news/meta-says-festive-shoppers-use-social-media-for-gift-discovery/875523/",
-              "summary": "The company said that people who shop via social media are more likely to shop across multiple categories and self-gift.",
+              "title": "Meta says social media is key driver for holiday discovery",
+              "link": "https://www.socialmediatoday.com/news/meta-says-social-media-is-key-driver-for-holiday-discovery/875523/",
+              "summary": "People who shop via social media are more likely to purchase across multiple categories and self-gift, according to the company.",
               "image": null,
               "date": "Tue, 24 Nov 2026 13:59:00 -0500"
             },
