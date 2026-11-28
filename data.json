@@ -1,6 +1,6 @@
 {
-  "date": "November 27, 2026",
-  "updated_at": "2026-11-27 03:53:26 UTC",
+  "date": "November 28, 2026",
+  "updated_at": "2026-11-28 03:40:33 UTC",
   "total_stories": 210,
   "categories": [
     {
@@ -303,13 +303,20 @@
           "name": "Cybersecurity Dive",
           "url": "https://www.cybersecuritydive.com",
           "lead_story": {
-            "title": "Microsoft remediates Azure flaw following attacks against Norwegian energy giants",
-            "link": "https://www.cybersecuritydive.com/news/microsoft-remediates-azure-flaw-following-attacks-against-norwegian-energy/875755/",
-            "summary": "Microsoft released a security update, but still recommends customers rotate credentials and secrets.",
-            "image": "https://imgproxy.divecdn.com/X3kemzUTphFEaN5oM-fc_Q8g6HL5M-JcRjS36u3gxgk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5NjUyODI3LmpwZw==.webp",
-            "date": "Wed, 25 Nov 2026 10:36:37 -0500"
+            "title": "SAP investigates suspected attack impacting source code",
+            "link": "https://www.cybersecuritydive.com/news/sap-investigates-attack-source-code/875820/",
+            "summary": "The software giant is responding to a breach that allowed unknown attackers to gain access to its GitHub environment.",
+            "image": "https://imgproxy.divecdn.com/pq6u43gClZ2Fwiip_mhbs6yxJlG2k27A4V1lGHsfpHM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTgwNzk1NzE1X1pOZ0YzVzIuanBn.webp",
+            "date": "Fri, 27 Nov 2026 17:06:30 -0500"
           },
           "top_stories": [
+            {
+              "title": "Microsoft remediates Azure flaw following attacks against Norwegian energy giants",
+              "link": "https://www.cybersecuritydive.com/news/microsoft-remediates-azure-flaw-following-attacks-against-norwegian-energy/875755/",
+              "summary": "Microsoft released a security update, but still recommends customers rotate credentials and secrets.",
+              "image": "https://imgproxy.divecdn.com/X3kemzUTphFEaN5oM-fc_Q8g6HL5M-JcRjS36u3gxgk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5NjUyODI3LmpwZw==.webp",
+              "date": "Wed, 25 Nov 2026 10:36:37 -0500"
+            },
             {
               "title": "Infrastructure security alliance tells CEOs to prioritize assets, test response and recovery",
               "link": "https://www.cybersecuritydive.com/news/alliance-critical-infrastructure-guidance-cybersecurity-ai/875741/",
@@ -337,13 +344,6 @@
               "summary": "The U.S. Department of Agriculture and the Food and Drug Administration said they lacked the resources and staff to fulfill all of their infrastructure protection responsibilities.",
               "image": "https://imgproxy.divecdn.com/pkHtu0iJtBtH_CKP-E1KTNonlQ3DY1YcT9uwfg9IERU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU5NjA0MzAuanBn.webp",
               "date": "Tue, 24 Nov 2026 09:41:48 -0500"
-            },
-            {
-              "title": "US intelligence chief gets additional role as acting national cyber director",
-              "link": "https://www.cybersecuritydive.com/news/national-cyber-director-acting-jay-clayton/875499/",
-              "summary": "The White House previously tapped Pentagon CIO Kirsten Davies to temporarily lead the office, but now it\u2019s hoping the Senate will confirm her to the permanent position.",
-              "image": "https://imgproxy.divecdn.com/6hUP08Ytl7TIVIezXoIETpKNTAPZKjW8zmam-ZMbWK4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1NzIzMzk0LmpwZw==.webp",
-              "date": "Mon, 23 Nov 2026 14:13:00 -0500"
             }
           ]
         },
